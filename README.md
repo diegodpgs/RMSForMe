@@ -4,21 +4,18 @@
 
 ###INPUT
 
-####watchlist.imdb:  
+####watchlist.imdb 
 	All IMDB codes of movies that I have not watched yet.
 
-####watched.imdb:  
+####watched.imdb  
 	All IMDB codes of movies that have already watched.
 
 ###OUTPUT
 
-####watchlist.movies:        
+####watchlist.movies        
 	Information about the movies that I have not watched yet. 
 	IMDB code, english_title (except made in brazil), release year, imdb score,oscars, nominations,oscar score
 
-####watched.movies:        
+####watched.movies        
 	Information about the movies that I have already watched. 
 	IMDB code, english_title (except made in brazil), release year, imdb score,my score
-
-#NEXT
-##verify new_movies.title,new.movies,watched.movies

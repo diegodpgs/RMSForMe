@@ -1,35 +1,39 @@
 import os
+import nltk
 from config import *
 
 def init_verify():
-	TEST_SRT = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TEST)
-	if '.DS_Store' in TEST_SRT:
-		TEST_SRT = TEST_SRT[1:]
-	TEST_SRT = ['tt'+i.split('_tt')[1].split('.')[0] for i in TEST_SRT]
 
-
-	TRAIN_SRT = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TRAIN)
-	if '.DS_Store' in TRAIN_SRT:
-		TRAIN_SRT = TRAIN_SRT[1:]
-	TRAIN_SRT = ['tt'+i.split('_tt')[1].split('.')[0] for i in TRAIN_SRT]
-
-
-	watched_movies = open(FILE_WATCHED_DATA).read().split('\n')
+	watched_data = open(FILE_WATCHED_DATA).read().split('\n')
+	watched_imdb = open(FILE_WATCHED_IMDB).read().split('\n')
+	watchlist_imdb = open(FILE_WATCHLIST_IMDB).read().split('\n')
+	watchlist_data = open(FILE_WATCHLIST_DATA).read().split('\n')
+	
 	movies_name = []
-	movies_name.extend([(i.split(';')[0],i.split(';')[1]) for i in open(FILE_WATCHLIST_DATA).read().split('\n')])
-	movies_name.extend([(w.split(';')[1],w.split(';')[0]) for w in watched_movies])
+	movies_name.extend([(i.split(';')[0],i.split(';')[1]) for i in watchlist_data])
+	movies_name.extend([(w.split(';')[1],w.split(';')[0]) for w in watched_data])
 	movies_name = dict(movies_name)
 
+	#****---------------    SRT   ---------------****#
+	test_srt = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TEST)
+	if '.DS_Store' in test_srt:
+		test_srt = test_srt[1:]
+	test_srt = ['tt'+i.split('_tt')[1].split('.')[0] for i in test_srt]
 
-	WATCHLIST = open(FILE_WATCHLIST_IMDB).read().split('\n')
-	WATCHED = open(FILE_WATCHED_IMDB).read().split('\n')
-	
 
-	verify_srt(TRAIN_SRT,
-				TEST_SRT,
-				WATCHLIST,
-				WATCHED,
+	train_srt = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TRAIN)
+	if '.DS_Store' in train_srt:
+		train_srt = train_srt[1:]
+	train_srt = ['tt'+i.split('_tt')[1].split('.')[0] for i in train_srt]
+
+	verify_srt(train_srt,
+				test_srt,
+				watchlist_imdb,
+				watched_imdb,
 				movies_name)
+
+
+	verify_movies_data(watched_imdb,watchlist_imdb)
 
 def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies):
 	"""
@@ -95,6 +99,48 @@ def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies
 			fnew_movie_titles.write('\n')
 
 	print 'The new_movie_list was updated'
+
+def verify_movies_data(watched_imdb,watchlist_imdb):
+	"""
+		What will be verified?
+			watchlist.data
+			watchlist.imdb
+			watched.data
+			watched.imdb
+	"""
+
+	if len(watchlist_imdb) != len(set(watchlist_imdb)):
+		print 'There are register duplicated in watchlist.imdb'
+		f = nltk.FreqDist(watchlist_imdb)
+		for i in f.most_common(50):
+			if i[1] > 1:
+				print '----',i[0], 'was duplicated',i[1],'times'
+
+	if len(watched_imdb) != len(set(watched_imdb)):
+		print 'There are register duplicated in watched.imdb'
+		f = nltk.FreqDist(watched_imdb)
+		for i in f.most_common(50):
+			if i[1] > 1:
+				print '----',i[0], 'was duplicated',i[1],'times'
+		
+
+	watchlist = open(FILE_WATCHLIST_DATA).read().split('\n')
+	watched = open(FILE_WATCHED_DATA).read().split('\n')
+
+	if len(watchlist) != len(set(watchlist)):
+		print 'There are register duplicated in watchlist.data'
+		f = nltk.FreqDist(watchlist)
+		for i in f.most_common(50):
+			if i[1] > 1:
+				print '----',i[0], 'was duplicated',i[1],'times'
+
+	if len(watched) != len(set(watched)):
+		print 'There are register duplicated in watched.data'
+		f = nltk.FreqDist(watched)
+		for i in f.most_common(50):
+			if i[1] > 1:
+				print '----',i[0], 'was duplicated',i[1],'times'
+
 
 init_verify()
 
