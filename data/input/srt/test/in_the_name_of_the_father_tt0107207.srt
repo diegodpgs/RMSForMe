@@ -1,0 +1,7566 @@
+﻿1
+00:00:07,907 --> 00:00:11,946
+<i>Come to me</i>
+
+2
+00:00:13,107 --> 00:00:15,177
+<i>Come lie beside me</i>
+
+3
+00:00:15,267 --> 00:00:20,216
+<i>And don't deny me your love</i>
+
+4
+00:00:23,707 --> 00:00:27,416
+<i>Make sense of me</i>
+
+5
+00:00:28,787 --> 00:00:30,903
+<i>Walk through my doorway</i>
+
+6
+00:00:30,987 --> 00:00:34,946
+<i>Don't hide in the hallway
+oh, love</i>
+
+7
+00:00:38,667 --> 00:00:41,784
+<i>Step over</i>
+
+8
+00:00:48,187 --> 00:00:51,577
+<i>I'll follow you down</i>
+
+9
+00:01:16,107 --> 00:01:17,904
+<i>In the name of whisky</i>
+
+10
+00:01:18,547 --> 00:01:20,424
+<i>In the name of song</i>
+
+11
+00:01:21,147 --> 00:01:22,944
+<i>You didn't look back</i>
+
+12
+00:01:23,827 --> 00:01:25,783
+<i>You didn't belong</i>
+
+13
+00:01:26,467 --> 00:01:28,458
+<i>In the name of reason</i>
+
+14
+00:01:29,107 --> 00:01:31,098
+<i>In the name of hope</i>
+
+15
+00:01:31,787 --> 00:01:33,778
+<i>In the name of religion</i>
+
+16
+00:01:34,227 --> 00:01:36,218
+<i>In the name of dope</i>
+
+17
+00:01:36,987 --> 00:01:38,579
+<i>In the name of freedom</i>
+
+18
+00:01:39,667 --> 00:01:41,817
+<i>You drifted away</i>
+
+19
+00:01:41,907 --> 00:01:44,660
+<i>To see the sun shining</i>
+
+20
+00:01:44,747 --> 00:01:46,977
+<i>On someone else's day</i>
+
+21
+00:01:57,827 --> 00:01:59,818
+<i>In the name of United</i>
+
+22
+00:02:00,387 --> 00:02:02,378
+<i>And the BBC</i>
+
+23
+00:02:02,987 --> 00:02:04,978
+<i>In the name of Georgie Best</i>
+
+24
+00:02:05,827 --> 00:02:07,624
+<i>And LSD</i>
+
+25
+00:02:08,307 --> 00:02:10,775
+<i>In the name of the Father</i>
+
+26
+00:02:10,867 --> 00:02:12,903
+<i>And His wife, the Spirit</i>
+
+27
+00:02:13,387 --> 00:02:15,423
+<i>You said you did not</i>
+
+28
+00:02:16,027 --> 00:02:18,063
+<i>They said you did</i>
+
+29
+00:02:18,587 --> 00:02:20,578
+<i>In the name of justice</i>
+
+30
+00:02:21,147 --> 00:02:23,138
+<i>In the name of fun</i>
+
+31
+00:02:23,867 --> 00:02:25,858
+<i>In the name of the Father</i>
+
+32
+00:02:26,427 --> 00:02:28,418
+<i>In the name of the Son</i>
+
+33
+00:02:39,427 --> 00:02:43,136
+<i>Call to me</i>
+
+34
+00:02:44,427 --> 00:02:46,577
+<i>No one is listening</i>
+
+35
+00:02:46,667 --> 00:02:51,536
+<i>I'm waiting to hear from you, love</i>
+
+36
+00:03:03,707 --> 00:03:04,822
+<i>Hello, hello.</i>
+
+37
+00:03:04,907 --> 00:03:09,059
+<i>Good. I never said "thank you"
+for taking up our case.</i>
+
+38
+00:03:09,147 --> 00:03:11,342
+<i>Never thought I'd trust
+an English person again...</i>
+
+39
+00:03:11,427 --> 00:03:13,463
+<i>especially a lawyer.</i>
+
+40
+00:03:13,547 --> 00:03:17,904
+<i>Anyhow, I'll be as accurate as I can
+with names, dates and places...</i>
+
+41
+00:03:17,987 --> 00:03:20,706
+<i>anything that might help
+in our defense.</i>
+
+42
+00:03:20,787 --> 00:03:23,460
+<i>To explain how I happened
+to be in England in 1974...</i>
+
+43
+00:03:23,547 --> 00:03:25,060
+<i>at the time of the bombing...</i>
+
+44
+00:03:25,147 --> 00:03:28,378
+<i>I'd better take you back
+to Northern Ireland, where I come from.</i>
+
+45
+00:03:28,467 --> 00:03:32,221
+<i>Belfast in the early '70s was chaos.</i>
+
+46
+00:03:32,307 --> 00:03:34,148
+<i>It was strange to see
+soldiers on the street...</i>
+
+47
+00:03:34,227 --> 00:03:37,219
+<i>all of them terrified
+of the civilian population...</i>
+
+48
+00:03:37,307 --> 00:03:39,377
+<i>any one of whom could be
+an IRA gunman.</i>
+
+49
+00:03:40,907 --> 00:03:42,738
+<i>I was just a petty thief...</i>
+
+50
+00:03:42,827 --> 00:03:44,863
+<i>stealing scrap metal.</i>
+
+51
+00:03:44,947 --> 00:03:47,415
+<i>In Belfast, that was
+a dangerous occupation.</i>
+
+52
+00:03:49,387 --> 00:03:51,503
+Get down, Gerry,
+for fuck's sake.
+
+53
+00:03:51,587 --> 00:03:52,736
+Tommo!
+
+54
+00:03:54,227 --> 00:03:56,422
+<i>The IRA had already
+given me three warnings...</i>
+
+55
+00:03:56,507 --> 00:03:59,977
+<i>and when a British patrol mistook me for
+a gunman, that got me into real trouble.</i>
+
+56
+00:04:00,067 --> 00:04:01,944
+Is he trying to fucking shoot us?
+
+57
+00:04:10,507 --> 00:04:13,021
+There's a sniper! He's up there!
+
+58
+00:04:15,587 --> 00:04:17,020
+I can't get a bead on him.
+
+59
+00:04:17,107 --> 00:04:19,382
+Shoot him
+before he fucking kills us!
+
+60
+00:04:35,267 --> 00:04:36,985
+Fucking bastards!
+
+61
+00:04:45,147 --> 00:04:47,980
+All right, hurry up
+and tell Mr Kelly, love.
+
+62
+00:04:50,227 --> 00:04:52,741
+Two suspects proceeding
+back west...
+
+63
+00:04:53,507 --> 00:04:54,781
+Mr Kelly!
+
+64
+00:04:55,787 --> 00:04:57,300
+Bastards!
+
+65
+00:04:57,387 --> 00:05:00,265
+We have to move the guns.
+You go and move the gear.
+
+66
+00:05:00,347 --> 00:05:02,417
+Right. Everyone out now!
+Come on!
+
+67
+00:05:03,507 --> 00:05:06,180
+Get out of the fucking way.
+The Brits is after us!
+
+68
+00:05:08,667 --> 00:05:11,704
+The Brits is after us!
+The Brits are after us!
+
+69
+00:05:11,787 --> 00:05:14,745
+- In here, in here!
+- Gerry!
+
+70
+00:05:15,827 --> 00:05:17,897
+Come on, come on.
+This way, lads.
+
+71
+00:05:19,867 --> 00:05:21,585
+Go! Go! Go, go!
+
+72
+00:05:38,267 --> 00:05:39,541
+Go on, Gerry!
+
+73
+00:05:44,707 --> 00:05:46,663
+Looks like they're
+coming out of everywhere.
+
+74
+00:05:48,107 --> 00:05:50,337
+They're right in front of us, boys.
+
+75
+00:05:54,347 --> 00:05:56,065
+- Who is it?
+- It's Conlon.
+
+76
+00:05:56,147 --> 00:05:57,216
+Grab him!
+
+77
+00:06:15,587 --> 00:06:18,306
+It's your brother!
+Your brother Gerry!
+
+78
+00:06:20,267 --> 00:06:21,495
+Oh, my God!
+
+79
+00:06:37,587 --> 00:06:40,659
+Fucking English bastards!
+
+80
+00:06:43,947 --> 00:06:46,415
+They've started a riot
+to cover the sniper.
+
+81
+00:06:46,507 --> 00:06:48,304
+If we can isolate him,
+we can grab him.
+
+82
+00:06:48,387 --> 00:06:49,661
+Let's go, lads.
+
+83
+00:06:51,947 --> 00:06:54,017
+Let's go, let's go! Move it!
+
+84
+00:06:58,107 --> 00:07:00,940
+Get that child out of here now!
+
+85
+00:07:03,267 --> 00:07:05,098
+Move that child!
+
+86
+00:07:12,507 --> 00:07:15,021
+Shoot that fucking gas now!
+
+87
+00:07:23,507 --> 00:07:25,975
+Come and fucking get us now,
+you bastards!
+
+88
+00:07:33,947 --> 00:07:36,256
+Let him go, you bastards!
+
+89
+00:07:36,347 --> 00:07:38,224
+Fucking bitch!
+
+90
+00:07:52,547 --> 00:07:54,299
+You okay?
+
+91
+00:07:54,387 --> 00:07:56,378
+- I got a friend wants to talk to you.
+- Oh, fuck's sake.
+
+92
+00:07:56,467 --> 00:07:59,265
+Hey, come on. We can do this
+the easy way or the hard way, all right?
+
+93
+00:07:59,347 --> 00:08:01,338
+Let's be smart. Come on.
+
+94
+00:08:03,667 --> 00:08:04,986
+They're taking
+your brother away!
+
+95
+00:08:07,427 --> 00:08:08,985
+Where are you going now?
+
+96
+00:08:09,067 --> 00:08:10,864
+- We weren't robbing no houses.
+- Don't fuck with me.
+
+97
+00:08:10,947 --> 00:08:12,585
+Suddenly you're a good boy?
+
+98
+00:08:12,667 --> 00:08:15,101
+- Have you been robbing houses again?
+- We weren't robbing houses.
+
+99
+00:08:15,187 --> 00:08:17,496
+Search him.
+Did you get away all right?
+
+100
+00:08:17,587 --> 00:08:19,418
+- Aye.
+- Who was it?
+
+101
+00:08:19,507 --> 00:08:21,145
+- It was those two.
+- Those two?
+
+102
+00:08:21,227 --> 00:08:24,503
+- That isn't mine. It isn't.
+- Peter?
+
+103
+00:08:24,587 --> 00:08:27,260
+Shoot the bastards!
+They're always robbing our houses!
+
+104
+00:08:27,347 --> 00:08:28,496
+Fuck you!
+
+105
+00:08:31,227 --> 00:08:33,946
+Daddy, Daddy,
+the IRA has our Gerry.
+
+106
+00:08:35,867 --> 00:08:37,778
+Go on, show me.
+
+107
+00:08:37,867 --> 00:08:40,256
+Yo, give him that.
+
+108
+00:08:40,347 --> 00:08:42,497
+Right, Tommo, lad.
+
+109
+00:08:51,187 --> 00:08:55,544
+Tommo, get their trousers down.
+I fucking warned you, Danny.
+
+110
+00:08:55,627 --> 00:08:57,743
+- Peter, we didn't do nothing, honestly.
+- Give you a break?
+
+111
+00:08:57,827 --> 00:09:00,136
+What's she saying?
+What are we supposed to have done?
+
+112
+00:09:00,227 --> 00:09:02,377
+This is what I'm gonna give you.
+Now get your trousers down.
+
+113
+00:09:02,467 --> 00:09:04,856
+You just ran into the house
+where we had all that gear.
+
+114
+00:09:04,947 --> 00:09:07,507
+What was I supposed to know?
+I was trying to get away from the Brits.
+
+115
+00:09:07,587 --> 00:09:09,339
+'Cause you were
+stealing lead again, weren't you?
+
+116
+00:09:09,427 --> 00:09:10,860
+You were stealing lead.
+
+117
+00:09:10,947 --> 00:09:13,142
+- Shut up, Danny!
+- They were shooting at us.
+
+118
+00:09:13,227 --> 00:09:14,979
+- Get the strides down now.
+- Why?
+
+119
+00:09:15,067 --> 00:09:17,865
+'Cause you'll get cloth in the wound
+and lose your leg, that's why.
+
+120
+00:09:18,947 --> 00:09:21,063
+Come on, Peter. Give us a few slaps.
+You don't have to shoot us.
+
+121
+00:09:21,147 --> 00:09:22,978
+- Fuck's sake.
+- Fucking Tarzan.
+
+122
+00:09:23,067 --> 00:09:24,785
+Look at the balls on him!
+
+123
+00:09:26,347 --> 00:09:29,896
+Jesus! Christ! Peter! Peter!
+
+124
+00:09:29,987 --> 00:09:32,501
+They're only young.
+Give 'em a chance.
+
+125
+00:09:32,587 --> 00:09:35,101
+We were just trying
+to scare some sense into them.
+
+126
+00:09:35,187 --> 00:09:36,984
+He was stealing lead again.
+
+127
+00:09:37,067 --> 00:09:39,183
+He ran through one of our houses
+and started all this shit.
+
+128
+00:09:39,267 --> 00:09:40,905
+Did you start all this?
+
+129
+00:09:42,827 --> 00:09:45,785
+He'll never survive
+in this town. Never.
+
+130
+00:09:45,867 --> 00:09:47,744
+This is the last time.
+You two blow!
+
+131
+00:09:47,827 --> 00:09:49,419
+And, Danny, it's the last time.
+
+132
+00:09:49,507 --> 00:09:51,225
+- The same for you, Conlon.
+- Pull up your trousers.
+
+133
+00:09:51,307 --> 00:09:52,945
+Come back here!
+
+134
+00:09:54,427 --> 00:09:57,703
+- We've never had a thief in our family.
+- We've never had nothing in our family.
+
+135
+00:09:57,787 --> 00:10:01,177
+- Will you get a job?
+- You know we can't get jobs.
+
+136
+00:10:02,627 --> 00:10:04,424
+I have a job.
+
+137
+00:10:04,507 --> 00:10:06,623
+Do you want me to work
+as a bookie's clerk?
+
+138
+00:10:08,027 --> 00:10:10,985
+- I want you to have some respect.
+- Aye, respect for who?
+
+139
+00:10:12,187 --> 00:10:13,620
+For yourself.
+
+140
+00:10:22,747 --> 00:10:25,136
+We're getting you out of here.
+
+141
+00:10:28,147 --> 00:10:30,138
+He'll do no growing up
+in England, Giuseppe.
+
+142
+00:10:30,227 --> 00:10:32,582
+No family life there.
+
+143
+00:10:32,667 --> 00:10:34,942
+Oh, give over, Ma.
+
+144
+00:10:35,027 --> 00:10:37,746
+I'm gonna miss the boat.
+What's that?
+
+145
+00:10:37,827 --> 00:10:40,387
+- Sausages for your Aunt Annie.
+- Jesus Christ, Ma!
+
+146
+00:10:40,467 --> 00:10:42,264
+- Here you are, son.
+- Here, let me do that.
+
+147
+00:10:46,827 --> 00:10:49,057
+All right, I'm ready.
+Where are you going?
+
+148
+00:10:49,147 --> 00:10:50,296
+I'll walk with you.
+
+149
+00:10:50,387 --> 00:10:52,025
+Do you not trust me
+to get on the boat?
+
+150
+00:10:53,387 --> 00:10:55,901
+I'm sure I'll be back
+when I'm a millionaire, Gran.
+
+151
+00:10:55,987 --> 00:10:57,898
+Good luck. God bless.
+
+152
+00:10:57,987 --> 00:10:59,739
+I love you, son.
+
+153
+00:10:59,827 --> 00:11:02,102
+- Cheerio, Gerry.
+- Behave yourself, Ann.
+
+154
+00:11:02,187 --> 00:11:03,586
+Cheerio, Gerry.
+
+155
+00:11:03,667 --> 00:11:04,941
+Bye, Bridie.
+
+156
+00:11:18,987 --> 00:11:20,978
+He's gone now forever.
+
+157
+00:11:21,067 --> 00:11:23,627
+I'll be surprised if he lasts a month.
+
+158
+00:11:23,707 --> 00:11:27,017
+Did I ever tell you
+the time I jumped ship?
+
+159
+00:11:28,227 --> 00:11:30,502
+Jumped overboard
+about 200 yards out to sea...
+
+160
+00:11:30,587 --> 00:11:32,737
+swam back to this
+godforsaken place.
+
+161
+00:11:37,587 --> 00:11:39,862
+Why did you swim back?
+
+162
+00:11:39,947 --> 00:11:41,858
+There was a woman involved.
+
+163
+00:11:43,467 --> 00:11:44,900
+Oh, aye?
+
+164
+00:11:46,347 --> 00:11:49,384
+It was when I was healthy,
+before you were born.
+
+165
+00:11:59,907 --> 00:12:01,818
+What was her name?
+
+166
+00:12:01,907 --> 00:12:04,375
+Aye, you know her name.
+You know your own mother's name.
+
+167
+00:12:04,467 --> 00:12:08,221
+Sarah. Sarah Maguire she was.
+
+168
+00:12:08,307 --> 00:12:11,105
+Then she had the misfortune
+to change it to Conlon.
+
+169
+00:12:21,507 --> 00:12:23,816
+<i>Boarding all passengers.</i>
+
+170
+00:12:23,907 --> 00:12:26,705
+<i>All second-class passengers
+boarding now.</i>
+
+171
+00:12:38,227 --> 00:12:41,742
+Go and live. Go and live, son.
+
+172
+00:12:41,827 --> 00:12:43,704
+That's the best advice
+I can give you.
+
+173
+00:12:50,187 --> 00:12:53,623
+Remember,
+honest money goes further.
+
+174
+00:12:54,667 --> 00:12:56,385
+<i>Honest money goes further.</i>
+
+175
+00:12:56,467 --> 00:12:58,187
+<i>A bird in the hand is worth
+two in the bush.</i>
+
+176
+00:12:58,227 --> 00:13:00,536
+<i>Never look a gift horse
+in the mouth.</i>
+
+177
+00:13:00,627 --> 00:13:03,141
+<i>He'd a cliche
+for every occasion.</i>
+
+178
+00:13:05,827 --> 00:13:07,385
+I'll give you a call.
+
+179
+00:13:07,467 --> 00:13:09,059
+Right, son.
+
+180
+00:13:11,067 --> 00:13:14,104
+<i>I ran up the gangplank
+to get away from him...</i>
+
+181
+00:13:14,187 --> 00:13:16,417
+<i>and then I suddenly
+felt bad about it.</i>
+
+182
+00:13:16,507 --> 00:13:18,338
+<i>I decided to turn back...</i>
+
+183
+00:13:18,427 --> 00:13:21,976
+<i>to call him Giuseppe
+for the first time in my life.</i>
+
+184
+00:13:23,027 --> 00:13:25,416
+<i>When I turned around,
+he had already walked away.</i>
+
+185
+00:13:27,067 --> 00:13:29,456
+<i>- I just called after him.
+- Good-bye, Da!</i>
+
+186
+00:13:34,187 --> 00:13:38,385
+<i>Then I met my old schoolmate,
+Paul Hill.</i>
+
+187
+00:13:38,467 --> 00:13:42,221
+<i>Little did I know that after meeting him
+my life would change forever.</i>
+
+188
+00:13:48,147 --> 00:13:49,819
+You're under arrest.
+
+189
+00:13:52,667 --> 00:13:54,703
+Fuck's sake, Gerry!
+
+190
+00:13:54,787 --> 00:13:58,097
+- Still a head case.
+- James Bond, license to kill.
+
+191
+00:13:59,787 --> 00:14:01,778
+Look at you... you're a fucking nervous
+wreck. What's the matter with you?
+
+192
+00:14:01,867 --> 00:14:03,505
+I'm glad to get outta Belfast.
+
+193
+00:14:09,107 --> 00:14:10,984
+Where're you going?
+
+194
+00:14:11,067 --> 00:14:13,865
+- I'm going to London. What about you?
+- The same.
+
+195
+00:14:13,947 --> 00:14:15,983
+I need a drink.
+
+196
+00:14:16,067 --> 00:14:19,503
+Aye, I'm skint.
+I'll let you buy me one.
+
+197
+00:14:31,307 --> 00:14:34,140
+<i>Once upon a time
+you dressed so fine</i>
+
+198
+00:14:34,227 --> 00:14:36,866
+<i>You threw the bums a dime
+in your prime</i>
+
+199
+00:14:37,947 --> 00:14:39,539
+<i>Didn't you</i>
+
+200
+00:14:41,427 --> 00:14:44,385
+<i>I arrived in London
+on the 26th of June.</i>
+
+201
+00:14:44,467 --> 00:14:47,061
+<i>My mother had given me
+the address of my Aunt Annie...</i>
+
+202
+00:14:47,147 --> 00:14:50,219
+<i>but I had an invitation to a hippie
+commune from my old friend...</i>
+
+203
+00:14:50,307 --> 00:14:52,457
+<i>Paddy Armstrong.</i>
+
+204
+00:14:52,547 --> 00:14:54,856
+Jesus, Gerry, we've been
+walking around for hours.
+
+205
+00:14:54,947 --> 00:14:57,302
+- It's only that big on the map.
+- But it's a map, Gerry.
+
+206
+00:14:57,387 --> 00:14:59,343
+London's a big place, you know.
+
+207
+00:15:02,627 --> 00:15:07,223
+<i>What I was really looking for
+was free love and dope.</i>
+
+208
+00:15:09,147 --> 00:15:11,217
+I think it's this way.
+
+209
+00:15:26,387 --> 00:15:28,457
+Paddy?
+
+210
+00:15:29,267 --> 00:15:31,701
+- Yeah, what is it?
+- We're looking for Paddy.
+
+211
+00:15:31,787 --> 00:15:34,176
+- Paddy who?
+- Paddy from Belfast. Paddy Armstrong.
+
+212
+00:15:36,867 --> 00:15:41,065
+- There's some people here to see you!
+- Who is it?
+
+213
+00:15:41,147 --> 00:15:42,466
+Some Irish boys.
+
+214
+00:15:42,547 --> 00:15:44,617
+Jesus! Gerry Conlon.
+
+215
+00:15:44,707 --> 00:15:46,265
+What about you, Paddy?
+
+216
+00:15:46,347 --> 00:15:48,224
+Thought you was the drug squad.
+Come on in.
+
+217
+00:15:54,067 --> 00:15:55,341
+There you go.
+
+218
+00:15:59,347 --> 00:16:01,144
+Welcome to Xanadu.
+
+219
+00:16:02,827 --> 00:16:04,101
+Hi.
+
+220
+00:16:06,387 --> 00:16:08,378
+Jesus fucking wept.
+
+221
+00:16:08,467 --> 00:16:10,617
+Neat, ain't it?
+
+222
+00:16:10,707 --> 00:16:12,379
+Deptford Jim.
+
+223
+00:16:12,467 --> 00:16:14,822
+- Paul Hill. Gerry Conlon from home.
+- Right.
+
+224
+00:16:17,987 --> 00:16:19,818
+Before you can enter the circle...
+
+225
+00:16:19,907 --> 00:16:23,616
+you have to have
+the rite of passage.
+
+226
+00:16:23,707 --> 00:16:25,504
+Open your mouth.
+
+227
+00:16:38,107 --> 00:16:40,143
+I enjoyed that.
+
+228
+00:16:40,867 --> 00:16:42,425
+They can't stay.
+
+229
+00:16:42,507 --> 00:16:44,418
+- There's not enough room.
+- Jim!
+
+230
+00:16:44,507 --> 00:16:49,342
+Our rule: No property. No law.
+
+231
+00:16:49,427 --> 00:16:51,383
+- Just love.
+- All right, let's vote on it.
+
+232
+00:16:51,467 --> 00:16:52,741
+If you want Gerry and...
+
+233
+00:16:52,827 --> 00:16:54,704
+- What's your name?
+- Paul.
+
+234
+00:16:56,307 --> 00:16:59,902
+We're gonna call you
+"Saddest Moon".
+
+235
+00:17:02,067 --> 00:17:04,217
+- Fuck off.
+- Right?
+
+236
+00:17:04,307 --> 00:17:06,946
+If you want Gerry and Saddest Moon
+to stay, raise your hands.
+
+237
+00:17:08,027 --> 00:17:10,063
+Four, five, six...
+
+238
+00:17:10,147 --> 00:17:12,502
+- Put your hand up, Paddy.
+- Right.
+
+239
+00:17:12,587 --> 00:17:15,021
+- Eight.
+- Looks like we're staying then.
+
+240
+00:17:22,147 --> 00:17:23,580
+What shall we call you then?
+
+241
+00:17:25,107 --> 00:17:27,701
+You can call me "Wild One."
+
+242
+00:17:27,787 --> 00:17:30,301
+Here, hold on. Come here.
+
+243
+00:17:30,387 --> 00:17:32,059
+Get off, all right?
+
+244
+00:17:32,147 --> 00:17:34,138
+What's the fucking problem?
+
+245
+00:17:35,747 --> 00:17:37,703
+They have dead pig in here.
+
+246
+00:17:38,587 --> 00:17:40,066
+Just some sausages.
+
+247
+00:17:40,147 --> 00:17:42,297
+We're all vegetarians here.
+
+248
+00:17:42,387 --> 00:17:44,537
+I am a vegetarian.
+We're both vegetarians.
+
+249
+00:17:44,627 --> 00:17:47,061
+I was just taking them sausages
+to me Auntie Annie's.
+
+250
+00:17:47,147 --> 00:17:50,696
+I have to be around there now. I'll be
+back in a few minutes, all right?
+
+251
+00:17:51,787 --> 00:17:53,345
+Be back in a few minutes.
+
+252
+00:17:55,187 --> 00:17:56,415
+Piggy.
+
+253
+00:17:56,507 --> 00:17:58,099
+And Porky.
+
+254
+00:18:03,707 --> 00:18:06,221
+Is she related to the
+Royal Family or something?
+
+255
+00:18:06,307 --> 00:18:08,218
+Aye, she's fifth in line
+to the throne.
+
+256
+00:18:10,947 --> 00:18:14,383
+Ferguson's sausages... only good thing
+that came out of that godforsaken place.
+
+257
+00:18:14,467 --> 00:18:16,059
+- Would you like some more?
+- No, I'm fine, thanks.
+
+258
+00:18:16,147 --> 00:18:19,264
+- We better make tracks.
+- Won't you stay? I've the bed made up.
+
+259
+00:18:19,347 --> 00:18:21,781
+You're very kind, but we need
+a bit of space, Auntie Annie.
+
+260
+00:18:21,867 --> 00:18:23,778
+We're forming a band
+and that there.
+
+261
+00:18:23,867 --> 00:18:26,062
+Aye. A rock band.
+
+262
+00:18:28,667 --> 00:18:29,895
+Where are you staying?
+
+263
+00:18:30,907 --> 00:18:33,546
+The address, you mean?
+
+264
+00:18:35,467 --> 00:18:37,776
+- Fillmore.
+- Fillimore.
+
+265
+00:18:37,867 --> 00:18:41,257
+Fillimore Road.
+It's number 60...
+
+266
+00:18:41,347 --> 00:18:44,657
+something...
+the number dropped off the door.
+
+267
+00:18:47,347 --> 00:18:49,307
+What do you mean,
+the number dropped off the door?
+
+268
+00:18:50,907 --> 00:18:53,501
+Well, would you let me have it
+when you find out what it is?
+
+269
+00:18:53,587 --> 00:18:56,420
+- Aye.
+- And would you phone your mother?
+
+270
+00:18:56,507 --> 00:18:59,146
+Aye. There's only one problem.
+
+271
+00:19:01,667 --> 00:19:03,419
+It doesn't have a phone.
+
+272
+00:19:08,667 --> 00:19:11,784
+Hello, Marian. Any problems?
+
+273
+00:19:11,867 --> 00:19:13,664
+- Is it all there?
+- Yeah.
+
+274
+00:19:14,587 --> 00:19:16,737
+Okay. We're in business.
+
+275
+00:19:16,827 --> 00:19:19,500
+Watch the cracks.
+Watch the cracks.
+
+276
+00:19:19,587 --> 00:19:22,340
+It's not fair.
+Their skirts are covering the cracks.
+
+277
+00:19:22,427 --> 00:19:24,099
+He's cheating!
+
+278
+00:19:24,187 --> 00:19:25,467
+- I'm a referee!
+- He's cheating.
+
+279
+00:20:13,387 --> 00:20:15,423
+- That wasn't too far away, was it?
+- Is that a bomb, Paddy?
+
+280
+00:20:15,507 --> 00:20:17,498
+It's getting more like home.
+
+281
+00:20:18,707 --> 00:20:21,380
+Hello? Hold on, hold on.
+
+282
+00:20:21,467 --> 00:20:23,822
+Giuseppe. Giuseppe.
+Long-distance call.
+
+283
+00:20:23,907 --> 00:20:25,818
+- What?
+- Long-distance call.
+
+284
+00:20:28,827 --> 00:20:30,146
+- Go ahead.
+- Hello?
+
+285
+00:20:30,227 --> 00:20:32,104
+- Ask him for the money.
+- Hey, Da.
+
+286
+00:20:32,187 --> 00:20:33,825
+<i>- It's Gerry speaking.
+- Son.</i>
+
+287
+00:20:33,907 --> 00:20:35,898
+<i>- Hi. How are you doing?
+- I'm fine. How are you?</i>
+
+288
+00:20:35,987 --> 00:20:38,103
+It's been six weeks
+since you've been in touch.
+
+289
+00:20:38,187 --> 00:20:40,223
+<i>I know. Sorry about that.
+I've been a bit busy.</i>
+
+290
+00:20:40,307 --> 00:20:43,663
+It's just your ma's a bit worried,
+you know. You still going to Mass?
+
+291
+00:20:43,747 --> 00:20:46,739
+<i>- Aye, every Sunday. Like clockwork.
+- Good.</i>
+
+292
+00:20:46,827 --> 00:20:50,502
+<i>- Are you working?
+- I have a couple of things going here.</i>
+
+293
+00:20:50,587 --> 00:20:52,179
+Good. And are you safe?
+
+294
+00:20:52,267 --> 00:20:55,100
+<i>- How do you mean?
+- From all the bombs.</i>
+
+295
+00:20:55,187 --> 00:20:57,940
+Aye, you could just hear them
+in the distance like, but...
+
+296
+00:20:59,347 --> 00:21:00,780
+Sorry about that.
+
+297
+00:21:00,867 --> 00:21:03,142
+<i>- Are you stuck?
+- How do you mean, Da?</i>
+
+298
+00:21:03,227 --> 00:21:04,706
+Are you short of cash?
+
+299
+00:21:04,787 --> 00:21:07,347
+No. No, I'm flush
+at the moment.
+
+300
+00:21:07,427 --> 00:21:09,941
+No problem.
+No, I have plenty of money.
+
+301
+00:21:10,027 --> 00:21:12,302
+All right.
+And, Gerry, keep in touch.
+
+302
+00:21:12,387 --> 00:21:15,697
+<i>- Aye. All right. Bye-bye, Da.
+- All right, son. I'll tell your ma...</i>
+
+303
+00:21:17,467 --> 00:21:19,059
+Bye.
+
+304
+00:21:20,987 --> 00:21:22,739
+Sorry about that.
+
+305
+00:21:22,827 --> 00:21:25,295
+We've enough for chips.
+
+306
+00:21:28,347 --> 00:21:30,463
+Sorry, we'd only
+enough money for two chips.
+
+307
+00:21:30,547 --> 00:21:32,060
+Are you all right?
+
+308
+00:21:32,147 --> 00:21:33,865
+What?
+
+309
+00:21:33,947 --> 00:21:35,827
+There's bombs everywhere.
+People have been hurt.
+
+310
+00:21:35,867 --> 00:21:38,904
+There they are. It's the Irish.
+
+311
+00:21:38,987 --> 00:21:40,818
+Bringing all their troubles
+over here again.
+
+312
+00:21:40,907 --> 00:21:45,537
+Aye, it's all right when it happens
+over in Belfast. You fucking prick!
+
+313
+00:21:45,627 --> 00:21:49,302
+I've seen people killed
+in front of my fucking eyes!
+
+314
+00:21:49,387 --> 00:21:52,982
+- You stupid fucking prick!
+- Go home! Fuck you!
+
+315
+00:21:53,067 --> 00:21:55,217
+I don't fucking believe this.
+I'm getting out of here.
+
+316
+00:21:55,307 --> 00:21:57,616
+- Are you coming, Paddy?
+- Where are you gonna sleep?
+
+317
+00:21:57,707 --> 00:22:00,460
+No problem. We'll sleep
+in the park or something.
+
+318
+00:22:03,427 --> 00:22:05,187
+- I'll see you soon, sweetheart.
+- Take care.
+
+319
+00:22:05,227 --> 00:22:07,946
+- Mind your fucking manners!
+- Prick.
+
+320
+00:22:08,027 --> 00:22:11,383
+<i>Troops have entered
+the Ardoyne area of West Belfast...</i>
+
+321
+00:22:11,467 --> 00:22:14,982
+<i>since the collapse of the provisional
+IRA cease-fire over the weekend.</i>
+
+322
+00:22:15,067 --> 00:22:17,217
+Yeah, I'm watching it.
+
+323
+00:22:17,307 --> 00:22:21,983
+<i>Civilians have been evacuated, and there
+are reports of casualties in many areas.</i>
+
+324
+00:22:22,067 --> 00:22:24,865
+<i>- Both sides are blaming each other...
+- Okay, I'll take care of it.</i>
+
+325
+00:22:26,747 --> 00:22:29,898
+That's it. 8:00 tonight.
+
+326
+00:22:30,587 --> 00:22:32,020
+No warning.
+
+327
+00:22:40,067 --> 00:22:43,901
+That's my place.
+Youse are sitting there too long.
+
+328
+00:22:43,987 --> 00:22:48,663
+CB... Charlie Burke. That's me.
+
+329
+00:22:48,747 --> 00:22:51,500
+I carved my initials
+with this penknife.
+
+330
+00:22:51,587 --> 00:22:55,102
+No problem, Charlie.
+No problem. Whatever you say.
+
+331
+00:22:55,187 --> 00:22:58,384
+Closing the park.
+Park closing now.
+
+332
+00:22:58,467 --> 00:23:00,981
+- Easy with the feet there, Charlie.
+- It's a big bench, you know?
+
+333
+00:23:01,067 --> 00:23:03,183
+There's room for three of us here.
+
+334
+00:23:04,427 --> 00:23:06,338
+You're Irish too, aren't you?
+
+335
+00:23:08,547 --> 00:23:11,539
+I come over here
+when I was about your age.
+
+336
+00:23:11,627 --> 00:23:14,061
+Did you ever think
+of going home, Charlie?
+
+337
+00:23:14,147 --> 00:23:16,217
+Shit.
+
+338
+00:23:16,307 --> 00:23:19,060
+There's nothing for me
+over there now.
+
+339
+00:23:22,027 --> 00:23:26,384
+- Closing the park!
+- Could you lend us a few shillings?
+
+340
+00:23:26,467 --> 00:23:28,264
+I was gonna ask you the same.
+
+341
+00:23:36,467 --> 00:23:38,742
+- Gerry, we've no money left.
+- It's all I have.
+
+342
+00:23:38,827 --> 00:23:41,660
+Well, now, like I wouldn't like
+to take all your money.
+
+343
+00:23:41,747 --> 00:23:43,738
+No problem.
+Catch you again, Charlie.
+
+344
+00:23:43,827 --> 00:23:47,103
+- Come on. It's not even 8:00 yet.
+- All right, all right.
+
+345
+00:23:58,067 --> 00:24:02,219
+<i>We must'vejust said good night
+to Charlie Burke when the bomb went off.</i>
+
+346
+00:24:02,307 --> 00:24:05,936
+<i>All we were concerned about was
+where we were gonna sleep that night.</i>
+
+347
+00:24:06,027 --> 00:24:08,018
+<i>We'd no money in our pockets.</i>
+
+348
+00:24:08,107 --> 00:24:11,179
+<i>We hadn't even the bus fare to Guildford
+even if we'd known where it was.</i>
+
+349
+00:24:13,307 --> 00:24:16,265
+No fucking way I'm going
+back to Belfast.
+
+350
+00:24:16,347 --> 00:24:17,939
+I tell you that.
+
+351
+00:24:21,347 --> 00:24:24,100
+- Hey, blondie.
+- Hey, sexy.
+
+352
+00:24:24,187 --> 00:24:26,257
+- You dropped something.
+- Back off, paddy.
+
+353
+00:24:26,347 --> 00:24:28,224
+She's outta your league.
+
+354
+00:24:28,307 --> 00:24:29,581
+Here.
+
+355
+00:24:37,467 --> 00:24:39,935
+It's her fucking keys.
+I'm going in.
+
+356
+00:24:40,027 --> 00:24:42,700
+We should give 'em back, Gerry.
+Put 'em through the letter box.
+
+357
+00:24:42,787 --> 00:24:44,982
+Put the keys back
+in the letter box, Gerry.
+
+358
+00:25:39,707 --> 00:25:41,698
+Jesus Christ,
+how much money is there?
+
+359
+00:25:45,387 --> 00:25:48,538
+<i>I got £700 from
+the hooker's apartment.</i>
+
+360
+00:25:48,627 --> 00:25:51,266
+<i>I did feel a little bit
+guilty about that.</i>
+
+361
+00:25:52,627 --> 00:25:55,346
+<i>We spent that night in a hotel.</i>
+
+362
+00:25:55,427 --> 00:25:59,579
+<i>The next day we went and bought
+the same clothes... the same trousers...</i>
+
+363
+00:25:59,667 --> 00:26:02,306
+<i>samejackets,
+even the same shoes.</i>
+
+364
+00:26:14,267 --> 00:26:16,827
+Hey, mister,
+has your coat got fleas?
+
+365
+00:26:40,587 --> 00:26:44,216
+Who are those two gorgeous
+women in the kitchen?
+
+366
+00:26:45,707 --> 00:26:50,542
+- Did you miss me, Bridie?
+- Look at Gerry. He's a hippie!
+
+367
+00:26:50,627 --> 00:26:51,696
+Daddy, look at the money!
+
+368
+00:26:51,787 --> 00:26:53,743
+- Do you want it?
+- Oh, my God!
+
+369
+00:26:53,827 --> 00:26:55,863
+Do you wanna be in my gang?
+
+370
+00:26:55,947 --> 00:26:59,223
+Yes, Gerry, I wanna be in your gang.
+I wanna be in your gang.
+
+371
+00:26:59,307 --> 00:27:01,377
+- Over here.
+- Take it easy.
+
+372
+00:27:01,467 --> 00:27:04,982
+Steady. Calm it down.
+Just calm it down.
+
+373
+00:27:05,067 --> 00:27:07,786
+It's my money! It's mine!
+
+374
+00:27:07,867 --> 00:27:09,619
+Calm it down. Stop it.
+
+375
+00:27:09,707 --> 00:27:11,379
+- It's my money! He gave it to me!
+- Stop that!
+
+376
+00:27:11,467 --> 00:27:12,786
+Stop that!
+
+377
+00:27:18,307 --> 00:27:20,901
+And they were always talking about
+the troubles, were they?
+
+378
+00:27:22,187 --> 00:27:25,020
+Yeah. Especially Paul Hill.
+
+379
+00:27:25,107 --> 00:27:29,066
+He was always talking about Belfast,
+the IRA, all that stuff.
+
+380
+00:27:31,307 --> 00:27:33,867
+Look, all I'm saying is this:
+
+381
+00:27:33,947 --> 00:27:37,656
+They had a lot of money,
+and Conlon went back to Belfast.
+
+382
+00:27:37,747 --> 00:27:40,341
+- Come along, into the car.
+- What the fuck is going on?
+
+383
+00:27:42,467 --> 00:27:44,458
+That was a bloody disgrace,
+them shooting you.
+
+384
+00:27:44,547 --> 00:27:46,822
+- Aye.
+- Did it hurt you, Danny?
+
+385
+00:27:46,907 --> 00:27:50,217
+It wasn't too bad. The bullet bounced
+off the kneecap and out the other side.
+
+386
+00:27:50,307 --> 00:27:51,740
+<i>Five people are dead...</i>
+
+387
+00:27:51,827 --> 00:27:55,137
+<i>and 75 seriously injured
+as a result of the IRA 's...</i>
+
+388
+00:27:55,227 --> 00:27:58,742
+<i>no-warning bomb attack
+on a Guildford pub.</i>
+
+389
+00:27:58,827 --> 00:28:02,217
+<i>Parliament has passed
+the Prevention of Terrorism Act...</i>
+
+390
+00:28:02,307 --> 00:28:05,902
+<i>which allows terrorist suspects to be
+held by police for up to seven days.</i>
+
+391
+00:28:05,987 --> 00:28:08,660
+Seven days. Geez.
+
+392
+00:28:08,747 --> 00:28:11,625
+It's the same here.
+Seven days. No difference.
+
+393
+00:28:11,707 --> 00:28:15,825
+<i>Around London
+and arrested 19 suspects.</i>
+
+394
+00:28:15,907 --> 00:28:18,023
+Gerry, there's your shoes.
+
+395
+00:28:18,107 --> 00:28:20,667
+<i>Our reporter spoke to Commander Robert
+Dixon of the antiterrorist squad...</i>
+
+396
+00:28:20,747 --> 00:28:22,465
+<i>about those arrests.</i>
+
+397
+00:28:22,547 --> 00:28:24,822
+<i>We can't pretend
+people won't be inconvenienced.</i>
+
+398
+00:28:24,907 --> 00:28:26,784
+<i>Some of them may not deserve it.</i>
+
+399
+00:28:26,867 --> 00:28:30,416
+<i>That's why we shall use these powers
+as selectively as possible.</i>
+
+400
+00:28:38,067 --> 00:28:40,627
+Get up out of bed,
+you dirty, murdering bastard!
+
+401
+00:28:40,707 --> 00:28:41,981
+Hands above your head!
+
+402
+00:28:43,947 --> 00:28:45,903
+I don't know what the fuck youse are
+looking for, mister, but I'm not it.
+
+403
+00:28:45,987 --> 00:28:49,502
+Gerry, your coat.
+He's done nothing.
+
+404
+00:28:49,587 --> 00:28:50,987
+- Inside, sir.
+- He's not political.
+
+405
+00:28:51,067 --> 00:28:52,864
+I have a right to speak to my son.
+
+406
+00:28:55,067 --> 00:28:56,341
+Keep calm, Gerry.
+
+407
+00:28:58,547 --> 00:29:01,015
+Get back in. Get back inside.
+
+408
+00:29:03,467 --> 00:29:06,425
+It's all right. It's all right.
+
+409
+00:29:21,067 --> 00:29:23,535
+- Where are we going?
+- You'll find out soon enough.
+
+410
+00:29:25,827 --> 00:29:29,422
+- Where'd he get this money?
+- I don't know.
+
+411
+00:29:31,467 --> 00:29:34,140
+They have no right
+to take him to England.
+
+412
+00:29:36,787 --> 00:29:38,379
+Slow down a bit.
+
+413
+00:30:30,227 --> 00:30:32,980
+Look, I don't have a fucking clue
+what this is about.
+
+414
+00:30:38,867 --> 00:30:40,823
+I've done nothing wrong.
+
+415
+00:30:57,547 --> 00:30:59,663
+When can I go back to Belfast?
+
+416
+00:30:59,747 --> 00:31:02,545
+Next time you see Belfast, they'll be
+flying day trips to the moon.
+
+417
+00:31:03,267 --> 00:31:05,462
+I always wanted
+to be an astronaut.
+
+418
+00:31:16,587 --> 00:31:18,578
+What are you charging me with?
+
+419
+00:31:18,667 --> 00:31:21,340
+You're being held
+under the Prevention of Terrorism Act.
+
+420
+00:31:21,427 --> 00:31:22,496
+What?
+
+421
+00:31:22,587 --> 00:31:26,182
+We can hold you for seven days
+and seven nights without charging you.
+
+422
+00:31:26,267 --> 00:31:29,657
+- When was I a fucking terrorist?
+- Were you part of that, Gerry?
+
+423
+00:31:31,947 --> 00:31:34,859
+And that. You proud of that?
+
+424
+00:31:36,267 --> 00:31:39,179
+- And that.
+- Why are you showing me these people?
+
+425
+00:31:40,987 --> 00:31:43,706
+No marks!
+Don't mark him! Don't mark him!
+
+426
+00:31:43,787 --> 00:31:45,379
+Are you fucking proud of that?
+
+427
+00:31:46,587 --> 00:31:49,579
+Look at that young,
+pretty girl there!
+
+428
+00:31:49,667 --> 00:31:52,977
+- Now look at her!
+- You're out of your fucking minds!
+
+429
+00:31:53,067 --> 00:31:54,864
+- Do you?
+- You're out of your fucking minds!
+
+430
+00:31:57,547 --> 00:31:59,667
+The children know there's
+something terrible going on.
+
+431
+00:31:59,707 --> 00:32:03,586
+- And you're not making it easier.
+- I haven't the strength for this.
+
+432
+00:32:04,667 --> 00:32:06,658
+If he killed innocent people,
+I haven't the strength for it.
+
+433
+00:32:06,747 --> 00:32:09,022
+Listen, I know that child.
+I carried that child.
+
+434
+00:32:09,107 --> 00:32:11,098
+If you're not gonna
+believe in him, I will.
+
+435
+00:32:11,187 --> 00:32:12,939
+You think he's innocent?
+
+436
+00:32:13,027 --> 00:32:15,382
+When your son walked through that door
+looking like a bloody circus clown...
+
+437
+00:32:15,467 --> 00:32:17,423
+do you think he had murder
+in his eyes?
+
+438
+00:32:18,467 --> 00:32:20,423
+<i>Happy birthday to you</i>
+
+439
+00:32:20,507 --> 00:32:23,624
+- It's a surprise.
+- Shut up. Shut up!
+
+440
+00:32:38,187 --> 00:32:40,337
+When will Daddy be back?
+
+441
+00:32:40,427 --> 00:32:42,383
+He'll be back
+in a couple of days.
+
+442
+00:32:44,187 --> 00:32:46,098
+Why did they put Gerry in jail?
+
+443
+00:32:46,187 --> 00:32:47,779
+It's a mistake.
+
+444
+00:32:49,227 --> 00:32:51,946
+I'm on my way over
+to bring him back home.
+
+445
+00:32:52,027 --> 00:32:54,222
+Why are you getting
+narky again?
+
+446
+00:32:55,907 --> 00:32:57,738
+Are we touching a sore spot?
+
+447
+00:32:57,827 --> 00:33:00,068
+Name all the places you stayed
+while you were in England.
+
+448
+00:33:01,107 --> 00:33:02,825
+I told you about 100 times.
+
+449
+00:33:02,907 --> 00:33:04,181
+Then tell us again!
+
+450
+00:33:08,147 --> 00:33:10,786
+I stayed at the squat
+most of the time.
+
+451
+00:33:10,867 --> 00:33:12,664
+I was a couple of nights
+at my Auntie Annie's...
+
+452
+00:33:12,747 --> 00:33:15,261
+and one night at the hotel
+after I robbed the money.
+
+453
+00:33:30,907 --> 00:33:33,467
+Male. Late forties.
+
+454
+00:33:33,547 --> 00:33:35,936
+Who taught you
+how to make the bomb, Gerry?
+
+455
+00:33:37,107 --> 00:33:39,302
+I never made any bombs.
+
+456
+00:33:39,387 --> 00:33:40,945
+Did Annie make the bomb, Gerry?
+
+457
+00:33:43,547 --> 00:33:45,026
+Is Annie Marian, Gerry?
+
+458
+00:33:47,187 --> 00:33:48,381
+Is Annie Marian?
+
+459
+00:33:49,867 --> 00:33:52,461
+- Annie who?
+- Annie Maguire!
+
+460
+00:33:52,547 --> 00:33:55,505
+My Aunt Annie?
+
+461
+00:33:55,587 --> 00:33:58,545
+Oh, aye, Annie made the bomb,
+and Mother Teresa planted it.
+
+462
+00:33:58,627 --> 00:34:00,822
+What was Carole Richardson's
+part in this operation?
+
+463
+00:34:00,907 --> 00:34:02,977
+Are you Marian?
+
+464
+00:34:06,507 --> 00:34:08,702
+What?
+
+465
+00:34:08,787 --> 00:34:10,015
+Are you Marian?
+
+466
+00:34:10,107 --> 00:34:13,702
+She had nothing to do with it.
+
+467
+00:34:17,747 --> 00:34:20,420
+This man comes into my house.
+He puts a gun to my head.
+
+468
+00:34:20,507 --> 00:34:22,418
+He says I done Guildford.
+
+469
+00:34:23,507 --> 00:34:27,261
+I left Belfast to get away
+from people like him.
+
+470
+00:34:27,347 --> 00:34:30,896
+Show me what you want me to sign.
+I have an alibi for that night.
+
+471
+00:34:36,187 --> 00:34:38,747
+What are you showing me
+these for?
+
+472
+00:34:40,267 --> 00:34:43,339
+Gerry told us you did it.
+
+473
+00:34:43,427 --> 00:34:45,338
+Then he's a fucking liar.
+
+474
+00:34:45,427 --> 00:34:49,705
+Armstrong drove the car.
+Who was the woman in the back?
+
+475
+00:34:52,707 --> 00:34:54,504
+I don't know.
+
+476
+00:34:54,587 --> 00:34:57,738
+But you were
+in the Ford Cortina.
+
+477
+00:34:57,827 --> 00:35:00,705
+But you were
+in the red Ford Cortina.
+
+478
+00:35:00,787 --> 00:35:02,948
+He'll get used to your methods,
+and then he'll clam up.
+
+479
+00:35:03,787 --> 00:35:08,497
+I told you I was in the Cortina.
+I told you it was a taxi.
+
+480
+00:35:08,587 --> 00:35:10,862
+No. The taxi was
+a Toyota Corolla.
+
+481
+00:35:10,947 --> 00:35:13,222
+When can I ring home?
+
+482
+00:35:13,307 --> 00:35:17,744
+- Let's start again. Who's Marian?
+- Was it someone Irish?
+
+483
+00:35:17,827 --> 00:35:21,422
+Why are you getting narky again?
+Touching a sore spot? What was her name?
+
+484
+00:35:21,507 --> 00:35:25,056
+- Nothing to do with what, Gerry?
+- Talk to me.
+
+485
+00:35:25,147 --> 00:35:26,705
+You're evading the truth, Gerry.
+What was her name?
+
+486
+00:35:26,787 --> 00:35:31,303
+Two little girls asked me,
+"Why was Daddy blown up?"
+
+487
+00:35:31,387 --> 00:35:33,378
+Who taught you how
+to make the bomb, Gerry?
+
+488
+00:35:37,667 --> 00:35:38,941
+Talk to me.
+
+489
+00:35:45,547 --> 00:35:47,458
+He'll do what he's told.
+
+490
+00:35:48,747 --> 00:35:50,578
+Look at him.
+He's a lying bastard.
+
+491
+00:35:50,667 --> 00:35:53,386
+He's a right fucking comedian.
+Aren't you, Gerry?
+
+492
+00:35:53,467 --> 00:35:55,856
+- Who's Marian?
+- I don't know what...
+
+493
+00:35:55,947 --> 00:35:59,064
+I'm getting fucking bored with this.
+Who is Marian?
+
+494
+00:35:59,147 --> 00:36:03,220
+I'm gonna keep on asking until
+you give me a fucking answer!
+
+495
+00:36:03,307 --> 00:36:04,786
+- Who is Marian?
+- I don't know!
+
+496
+00:36:04,867 --> 00:36:07,506
+Yes, you fucking do!
+Bollocks! Who is Marian?
+
+497
+00:36:12,627 --> 00:36:14,299
+We know who Marian is.
+
+498
+00:36:24,907 --> 00:36:27,501
+- Are you the man in charge?
+- Yes, I am.
+
+499
+00:36:27,587 --> 00:36:30,340
+For fuck's sake,
+tell 'em to stop hurting me.
+
+500
+00:36:34,827 --> 00:36:36,738
+I swear to God...
+
+501
+00:36:36,827 --> 00:36:39,705
+I know where I was
+at the time of the bombings.
+
+502
+00:36:43,627 --> 00:36:47,859
+I was with a madman
+called Charlie Burke.
+
+503
+00:36:48,947 --> 00:36:50,619
+Have you any other alibis?
+
+504
+00:36:50,707 --> 00:36:53,938
+I have told youse before...
+
+505
+00:36:54,027 --> 00:36:56,541
+I was with Paul Hill
+most of the day.
+
+506
+00:37:04,667 --> 00:37:06,817
+Tell Gerry Conlon
+like you said you would.
+
+507
+00:37:14,747 --> 00:37:17,341
+- Who's this?
+- Gerry Conlon.
+
+508
+00:37:22,267 --> 00:37:23,939
+Have you anything
+to say to him?
+
+509
+00:37:25,667 --> 00:37:28,465
+I've cleared my conscience.
+
+510
+00:37:28,547 --> 00:37:30,697
+I advise you to do the same.
+
+511
+00:37:45,187 --> 00:37:46,779
+There's your statement.
+
+512
+00:37:49,307 --> 00:37:51,218
+I didn't do this.
+
+513
+00:37:52,307 --> 00:37:54,901
+I didn't fucking do this!
+
+514
+00:37:59,787 --> 00:38:02,426
+Please believe me.
+
+515
+00:38:02,507 --> 00:38:05,624
+What are you doing to me?
+
+516
+00:38:09,827 --> 00:38:13,137
+They wouldn't hold him
+if he hadn't done something.
+
+517
+00:38:14,227 --> 00:38:17,458
+- Gerry is no angel.
+- I know that.
+
+518
+00:38:17,547 --> 00:38:19,458
+He needs a strong hand.
+
+519
+00:38:23,827 --> 00:38:26,899
+You're all under arrest.
+
+520
+00:38:26,987 --> 00:38:29,421
+- No, no, don't. Don't hurt the child!
+- Put your hands up!
+
+521
+00:38:29,507 --> 00:38:32,624
+You're all being held under
+the Prevention of Terrorism Act.
+
+522
+00:38:39,707 --> 00:38:43,939
+- Is Hill leading us up the garden path?
+- I don't know.
+
+523
+00:38:49,987 --> 00:38:52,217
+I can make him confess.
+
+524
+00:38:52,307 --> 00:38:54,059
+Why don't you have
+a word in his ear?
+
+525
+00:38:54,147 --> 00:38:56,980
+You're from the same town.
+He'll understand you.
+
+526
+00:38:57,067 --> 00:38:58,978
+Will you have the bomber?
+
+527
+00:38:59,067 --> 00:39:01,217
+Our job is to stop the bombing.
+
+528
+00:40:03,627 --> 00:40:05,743
+I'm gonna shoot your da.
+
+529
+00:40:08,027 --> 00:40:10,302
+What did you say to me?
+
+530
+00:40:11,707 --> 00:40:15,666
+Little Bridie'll have no daddy.
+
+531
+00:40:15,747 --> 00:40:17,897
+I'm gonna shoot Giuseppe.
+
+532
+00:40:27,987 --> 00:40:29,898
+He's threatening to shoot my da!
+
+533
+00:40:29,987 --> 00:40:32,899
+He's threatening to kill my da!
+
+534
+00:40:32,987 --> 00:40:34,705
+Look at him! Look at him!
+
+535
+00:40:36,107 --> 00:40:37,745
+He's a madman!
+
+536
+00:40:37,827 --> 00:40:41,615
+I think you're hallucinating.
+Nobody's gonna harm your father.
+
+537
+00:40:43,387 --> 00:40:45,901
+Get him back. Get him back.
+
+538
+00:40:46,987 --> 00:40:49,865
+He threatened to kill my da.
+
+539
+00:40:49,947 --> 00:40:51,903
+Nobody's gonna kill your father.
+
+540
+00:40:51,987 --> 00:40:54,945
+- You mad bastard!
+- Take it easy, son. Take it easy.
+
+541
+00:40:56,707 --> 00:40:58,538
+He's not gonna harm your father.
+
+542
+00:41:00,147 --> 00:41:02,581
+Come on, let it all out.
+
+543
+00:41:02,667 --> 00:41:04,578
+Let it all out...
+all that hatred.
+
+544
+00:41:09,027 --> 00:41:11,257
+You hate us, don't you?
+
+545
+00:41:11,347 --> 00:41:13,941
+You hate us enough
+to bomb and maim.
+
+546
+00:41:14,027 --> 00:41:17,144
+That is the trouble.
+You let it all out. Come on.
+
+547
+00:41:17,227 --> 00:41:20,139
+- I don't hate you.
+- Yes, you do.
+
+548
+00:41:20,227 --> 00:41:23,617
+I can see it in your face.
+I can see all that hatred.
+
+549
+00:41:23,707 --> 00:41:26,175
+So why don't you just
+let it off your chest...
+
+550
+00:41:26,267 --> 00:41:28,701
+before it starts to mess up
+with your mind?
+
+551
+00:41:34,947 --> 00:41:36,744
+Give me the fucking statement.
+
+552
+00:41:36,827 --> 00:41:40,945
+For fuck's sake,
+give me the statement.
+
+553
+00:41:42,227 --> 00:41:44,900
+Give me a fucking pen.
+
+554
+00:41:52,067 --> 00:41:56,538
+Right, that's my fucking name there.
+You can write what you like.
+
+555
+00:41:58,267 --> 00:42:01,020
+All right, nice and easy.
+Come on.
+
+556
+00:42:01,107 --> 00:42:04,656
+- Paul! What's going on?
+- Gerry!
+
+557
+00:42:04,747 --> 00:42:07,261
+They stuck a fucking gun
+in my mouth!
+
+558
+00:42:07,347 --> 00:42:09,065
+So I told 'em
+a lot of bullshit!
+
+559
+00:42:09,147 --> 00:42:12,219
+- Why did you give 'em my fucking name?
+- I'm sorry!
+
+560
+00:42:12,307 --> 00:42:16,744
+It's fucking mad!
+It'll be laughed out of fucking court!
+
+561
+00:42:16,827 --> 00:42:19,182
+It'll be laughed
+out of fucking court!
+
+562
+00:42:19,267 --> 00:42:21,986
+<i>The four of us were split up.</i>
+
+563
+00:42:22,067 --> 00:42:24,820
+<i>I was taken to
+South London Remand Centre.</i>
+
+564
+00:42:24,907 --> 00:42:27,421
+<i>You can check the dates, Gareth.</i>
+
+565
+00:42:34,867 --> 00:42:36,664
+Kill that fucker!
+
+566
+00:42:39,147 --> 00:42:43,106
+You fucking son
+of an Irish cow!
+
+567
+00:42:47,147 --> 00:42:50,105
+Kick that Irish fucking ass!
+
+568
+00:42:50,147 --> 00:42:52,138
+- What is that?
+- Delousing.
+
+569
+00:42:52,187 --> 00:42:53,984
+I don't have fucking lice.
+I don't want that.
+
+570
+00:42:54,067 --> 00:42:55,978
+You have no choice, mate.
+
+571
+00:42:56,067 --> 00:42:58,456
+You'll never clean the scum
+off that...
+
+572
+00:42:58,547 --> 00:43:01,698
+Okay, Conlon.
+Go see the room, shall we?
+
+573
+00:43:06,907 --> 00:43:08,943
+Come on, Mr Conlon.
+
+574
+00:43:14,227 --> 00:43:16,138
+We got your son.
+
+575
+00:43:18,067 --> 00:43:19,466
+Let's go.
+
+576
+00:43:21,147 --> 00:43:24,146
+Da!
+
+577
+00:43:24,147 --> 00:43:25,899
+Is that you, son?
+
+578
+00:43:25,987 --> 00:43:30,663
+- Da, here!
+- Where are you?
+
+579
+00:43:34,107 --> 00:43:36,701
+Don't harm my father.
+Don't harm my father!
+
+580
+00:43:36,787 --> 00:43:38,467
+- Are you all right, son?
+- Don't kill him!
+
+581
+00:43:43,787 --> 00:43:47,146
+Come on, move along.
+Move along. Come on, you.
+
+582
+00:43:47,147 --> 00:43:49,820
+- Fuck you!
+- Shut up, you!
+
+583
+00:43:51,147 --> 00:43:53,183
+- Shut up!
+- On the floor!
+
+584
+00:43:53,467 --> 00:43:57,142
+You look fucking brave now.
+
+585
+00:44:04,147 --> 00:44:07,146
+What the fuck
+are you doing here, Da?
+
+586
+00:44:07,147 --> 00:44:10,457
+I come over to your Aunt Annie's
+to get you a lawyer.
+
+587
+00:44:10,547 --> 00:44:12,146
+They arrested everybody
+in the house.
+
+588
+00:44:12,147 --> 00:44:14,146
+What?
+
+589
+00:44:14,147 --> 00:44:17,146
+- What for, fuck's sake?
+- Conspiracy to murder.
+
+590
+00:44:17,147 --> 00:44:19,536
+Oh, no.
+Oh, fuck's sake, no. Geez.
+
+591
+00:44:25,187 --> 00:44:28,896
+Did you do it?
+Did you do it, son?
+
+592
+00:44:28,987 --> 00:44:30,500
+No, I did not!
+
+593
+00:44:35,147 --> 00:44:37,945
+Of course I fucking
+didn't do it, fuck's sake!
+
+594
+00:44:48,827 --> 00:44:51,136
+- Why are you looking at me like that?
+- What?
+
+595
+00:44:55,507 --> 00:44:57,782
+- Why are you looking at me like that?
+- Like what?
+
+596
+00:44:57,867 --> 00:44:59,823
+Why do you always follow me?
+
+597
+00:45:02,907 --> 00:45:05,819
+Why do you always follow me
+when I do something wrong?
+
+598
+00:45:05,907 --> 00:45:08,660
+Why can't you follow me
+when I do something right?
+
+599
+00:45:08,747 --> 00:45:11,136
+- What are you talking about?
+- What am I talking about?
+
+600
+00:45:11,227 --> 00:45:13,695
+- I'm talking about the medal.
+- What medal?
+
+601
+00:45:13,787 --> 00:45:16,506
+What fucking medal?
+What fucking medal?
+
+602
+00:45:16,587 --> 00:45:20,865
+The only fucking medal that was ever
+in our house. That fucking medal.
+
+603
+00:45:20,947 --> 00:45:23,666
+The medal I won at football.
+
+604
+00:45:23,747 --> 00:45:26,102
+And you sat on the sidelines
+shouting instructions...
+
+605
+00:45:26,147 --> 00:45:27,580
+like you could only see
+what I was doing...
+
+606
+00:45:27,667 --> 00:45:30,146
+you couldn't even
+fucking play football...
+
+607
+00:45:30,147 --> 00:45:32,866
+and you could only see
+what I was doing wrong.
+
+608
+00:45:32,947 --> 00:45:35,017
+I could never do anything
+good enough for you.
+
+609
+00:45:35,107 --> 00:45:37,905
+And after the game,
+you came up to me and said...
+
+610
+00:45:37,987 --> 00:45:41,024
+"Gerry, did you foul the ball?"
+
+611
+00:45:41,107 --> 00:45:44,543
+And I walked away from you, remember?
+I walked away into the dressing room.
+
+612
+00:45:44,627 --> 00:45:47,903
+You followed me in there and said again,
+"Gerry, did you foul the ball?"
+
+613
+00:45:47,987 --> 00:45:50,217
+All the other fathers were in there
+laughing at you...
+
+614
+00:45:50,507 --> 00:45:52,146
+calling you "Poor Giuseppe."
+
+615
+00:45:52,147 --> 00:45:55,856
+And I ran out, and I hid,
+and I wrote your name on the ground...
+
+616
+00:45:55,947 --> 00:45:57,539
+your stupid Giuseppe fucking name...
+
+617
+00:45:57,627 --> 00:46:00,061
+I wrote it in the dirt,
+and I fucking pissed on it!
+
+618
+00:46:02,067 --> 00:46:04,146
+I pissed on it...
+
+619
+00:46:04,147 --> 00:46:06,866
+because I did foul the ball.
+
+620
+00:46:06,947 --> 00:46:10,860
+What did it matter? We won.
+For once in our lives, we won.
+
+621
+00:46:10,947 --> 00:46:13,825
+You ruined that medal for me! I took it
+to the pawn, and they laughed at me.
+
+622
+00:46:13,907 --> 00:46:16,467
+- They wouldn't give me 50 pence for it.
+- This is shock.
+
+623
+00:46:16,547 --> 00:46:20,825
+And that's when I started to rob,
+to prove that I was no good.
+
+624
+00:46:20,907 --> 00:46:23,146
+- Delayed shock.
+- Never mind delayed shock.
+
+625
+00:46:23,147 --> 00:46:26,139
+I've been like this
+since I was seven.
+
+626
+00:46:26,187 --> 00:46:28,940
+I remember Mammy said to me,
+"Don't upset Giuseppe. He's not well."
+
+627
+00:46:29,027 --> 00:46:32,146
+Oh, dear Lord, he's not well.
+So we'd tiptoe around the house.
+
+628
+00:46:32,147 --> 00:46:36,538
+Like this, tiptoeing around the house.
+"Not well, you know. He's not well."
+
+629
+00:46:36,627 --> 00:46:39,146
+Then I got Holy Communion.
+I thought I was eating you alive.
+
+630
+00:46:39,147 --> 00:46:42,025
+Is it my fault you weren't well?
+
+631
+00:46:42,107 --> 00:46:44,746
+Why did you have to be sick
+all your life, Giuseppe?
+
+632
+00:46:44,827 --> 00:46:46,943
+What'd you have to be sick
+all your life for?
+
+633
+00:46:47,027 --> 00:46:50,576
+When that mad bastard out there
+threatened to shoot you, I was happy.
+
+634
+00:46:50,667 --> 00:46:52,737
+I swear to God.
+Honest to God, I was happy.
+
+635
+00:46:52,827 --> 00:46:55,500
+I was delighted! You know why?
+Because finally it was all over.
+
+636
+00:46:55,587 --> 00:46:58,704
+It was over! You see?
+
+637
+00:46:58,787 --> 00:47:01,062
+And then I knew I was bad.
+
+638
+00:47:01,147 --> 00:47:04,025
+I knew I was bad then, you see,
+so I started to cry.
+
+639
+00:47:04,107 --> 00:47:06,146
+I started to tell lies...
+the same fucking lies...
+
+640
+00:47:06,147 --> 00:47:09,139
+I've been telling
+all my gobshite fucking life.
+
+641
+00:47:15,147 --> 00:47:18,146
+- That means words don't mean nothing.
+- Stop this.
+
+642
+00:47:18,147 --> 00:47:20,820
+Only this time,
+I got everyone into trouble.
+
+643
+00:47:20,907 --> 00:47:23,865
+But it doesn't matter, 'cause I'm
+no good anyhow. It doesn't matter.
+
+644
+00:47:23,947 --> 00:47:26,620
+Keep away from me. You've been
+following me all your life.
+
+645
+00:47:26,707 --> 00:47:30,905
+- Are you here deliberately?
+- No. Stop it.
+
+646
+00:47:32,227 --> 00:47:33,899
+You call that a fucking dig?
+
+647
+00:47:33,987 --> 00:47:38,105
+Do you call that a fucking dig?
+Hit me harder. Hit me fucking harder!
+
+648
+00:47:38,147 --> 00:47:40,138
+- Stop it. Calm down.
+- For once in your fucking life!
+
+649
+00:47:40,227 --> 00:47:42,457
+- Hit me like a real father!
+- Just calm down. Stop it.
+
+650
+00:47:51,027 --> 00:47:52,983
+Just relax.
+
+651
+00:47:54,587 --> 00:47:56,145
+Try to relax.
+
+652
+00:48:04,587 --> 00:48:05,815
+It's okay.
+
+653
+00:48:09,987 --> 00:48:12,865
+It's not your fault,
+son, all right?
+
+654
+00:48:12,947 --> 00:48:15,984
+Everything's gonna be
+all right.
+
+655
+00:48:16,067 --> 00:48:18,865
+Okay. All right, son.
+
+656
+00:48:20,587 --> 00:48:22,703
+Visitor for Conlon!
+
+657
+00:48:25,147 --> 00:48:27,103
+Two on for visit!
+
+658
+00:48:35,907 --> 00:48:37,898
+No touching.
+
+659
+00:48:37,987 --> 00:48:42,503
+- Everybody else was allowed to touch.
+- IRA, closed visits. No contact.
+
+660
+00:48:53,547 --> 00:48:55,663
+Why are you doing this to us?
+
+661
+00:48:57,907 --> 00:49:00,705
+You have your father
+locked up in prison for murder.
+
+662
+00:49:00,787 --> 00:49:02,186
+Speak up, please.
+
+663
+00:49:02,467 --> 00:49:06,506
+- It's not my fault, Ma.
+- Take it easy, Sarah.
+
+664
+00:49:10,787 --> 00:49:13,779
+I swear to God,
+I've done nothing wrong.
+
+665
+00:49:13,867 --> 00:49:16,142
+Why did you sign
+a confession, son?
+
+666
+00:49:16,227 --> 00:49:19,025
+He did it to protect me, love.
+
+667
+00:49:19,107 --> 00:49:21,985
+You have a good son there.
+That's all you need to know.
+
+668
+00:49:22,067 --> 00:49:24,979
+You didn't sign anything
+yourself, did you, Giuseppe?
+
+669
+00:49:25,067 --> 00:49:28,025
+The only thing I said
+was I wanted to see you.
+
+670
+00:49:28,107 --> 00:49:31,816
+Look, they've no statement
+nor evidence against me.
+
+671
+00:49:31,907 --> 00:49:36,139
+I'll be out and home soon.
+Sure I'm only visiting here myself.
+
+672
+00:49:37,587 --> 00:49:39,737
+I'll be able to help out
+Gerry while I'm in here.
+
+673
+00:49:42,587 --> 00:49:44,464
+Danny's dead, Gerry.
+
+674
+00:49:45,787 --> 00:49:46,856
+What?
+
+675
+00:49:49,227 --> 00:49:52,139
+They found his body
+on waste ground.
+
+676
+00:49:52,227 --> 00:49:55,219
+The IRA said he was
+an incurable thief.
+
+677
+00:49:58,227 --> 00:50:01,583
+I sent a Mass card
+from the family.
+
+678
+00:50:04,907 --> 00:50:08,024
+This one'll not go to school
+since you've been away.
+
+679
+00:50:08,107 --> 00:50:09,904
+Hey, you go to school
+for your mammy.
+
+680
+00:50:09,987 --> 00:50:11,659
+Yes, Daddy.
+
+681
+00:50:12,747 --> 00:50:15,136
+Daddy, when will you be home?
+
+682
+00:50:17,147 --> 00:50:20,457
+I've pressed your Sunday suits
+for the trial.
+
+683
+00:50:20,547 --> 00:50:22,742
+You make sure
+and look your best now, son.
+
+684
+00:50:25,227 --> 00:50:28,776
+But is there nitro
+or was there not nitro?
+
+685
+00:50:28,867 --> 00:50:31,939
+Yes, there are traces of nitro.
+
+686
+00:50:32,027 --> 00:50:34,143
+But are they all positive?
+
+687
+00:50:34,187 --> 00:50:37,623
+Well, yes, on six of them.
+
+688
+00:50:37,707 --> 00:50:41,746
+- Who'd we miss?
+- The aunt, Aggie... Annie.
+
+689
+00:50:41,827 --> 00:50:44,466
+But her rubber glove
+showed a faint trace.
+
+690
+00:50:45,587 --> 00:50:47,145
+And the children?
+
+691
+00:50:48,227 --> 00:50:49,580
+Positive.
+
+692
+00:50:51,787 --> 00:50:54,460
+The results may not
+be good enough for court.
+
+693
+00:50:54,547 --> 00:50:57,823
+Your word will be
+good enough for the court.
+
+694
+00:51:00,027 --> 00:51:01,506
+Yes, sir.
+
+695
+00:51:05,667 --> 00:51:08,056
+Kill the bastards! Kill 'em!
+
+696
+00:51:14,067 --> 00:51:15,739
+Shoot the bastards!
+
+697
+00:51:29,787 --> 00:51:32,142
+Call number one.
+
+698
+00:51:35,707 --> 00:51:37,777
+- Let's go.
+- Jesus, it's a nightmare, Giuseppe.
+
+699
+00:51:37,867 --> 00:51:41,701
+Just stay calm, be on your best
+behavior, and this'll be behind us soon.
+
+700
+00:51:42,467 --> 00:51:44,025
+That's it, come on.
+
+701
+00:51:48,987 --> 00:51:50,739
+It'll be all right.
+
+702
+00:52:00,587 --> 00:52:03,101
+<i>All rise.</i>
+
+703
+00:52:21,707 --> 00:52:26,144
+Sir Michael Hagerty will present
+the case on behalf of the Crown.
+
+704
+00:52:30,787 --> 00:52:34,541
+There are two series of charges here,
+ladies and gentlemen.
+
+705
+00:52:34,627 --> 00:52:37,937
+The four defendants in front...
+
+706
+00:52:38,027 --> 00:52:43,021
+are charged with 11 counts in relation
+to the explosion of the Guildford pub...
+
+707
+00:52:43,107 --> 00:52:45,177
+and the murders of five people.
+
+708
+00:52:45,467 --> 00:52:48,459
+The Crown will show
+that these were the bombers.
+
+709
+00:52:48,547 --> 00:52:50,697
+The seven defendants behind...
+
+710
+00:52:50,787 --> 00:52:55,178
+are charged with the possession
+of explosives, not charged with murder.
+
+711
+00:52:55,467 --> 00:52:57,776
+The Crown's case
+against them is...
+
+712
+00:52:57,867 --> 00:53:01,064
+that they are a support network
+for the bombers, and as such...
+
+713
+00:53:01,147 --> 00:53:05,140
+- should be considered independent.
+- Control yourself. Pay attention.
+
+714
+00:53:05,187 --> 00:53:09,624
+My first witness is
+Inspector Robert Dixon.
+
+715
+00:53:09,707 --> 00:53:13,146
+I swear by Almighty God that the
+evidence I give shall be the truth...
+
+716
+00:53:13,147 --> 00:53:15,138
+the whole truth
+and nothing but the truth.
+
+717
+00:53:18,587 --> 00:53:22,626
+Inspector, why do you believe
+these four are the bombers?
+
+718
+00:53:24,147 --> 00:53:29,016
+First Hill, then Conlon,
+Armstrong, Richardson...
+
+719
+00:53:29,107 --> 00:53:30,984
+confessed to the bombing.
+
+720
+00:53:31,067 --> 00:53:32,739
+They are the IRA's ASU.
+
+721
+00:53:32,827 --> 00:53:35,500
+Can you explain ASUs for us?
+
+722
+00:53:35,587 --> 00:53:38,499
+Active Service Unit.
+They are the elite of the IRA...
+
+723
+00:53:38,587 --> 00:53:40,498
+who carry out
+the bombings and the shootings.
+
+724
+00:53:40,587 --> 00:53:44,500
+Often they are combat veterans with
+experience of shooting at soldiers...
+
+725
+00:53:44,587 --> 00:53:46,737
+and planting explosives.
+
+726
+00:53:46,827 --> 00:53:49,819
+And the others...
+Annie Maguire and her family?
+
+727
+00:53:49,907 --> 00:53:52,057
+They are the IRA's support network.
+
+728
+00:53:52,147 --> 00:53:57,016
+Their families and friends store
+the weapons and explosives...
+
+729
+00:53:57,107 --> 00:54:00,782
+and they provide
+what we call "safe houses."
+
+730
+00:54:00,867 --> 00:54:03,142
+Thank you, Inspector.
+
+731
+00:54:04,987 --> 00:54:07,137
+These people were arrested
+two days...
+
+732
+00:54:07,187 --> 00:54:10,145
+after the Prevention
+of Terrorism Act was introduced.
+
+733
+00:54:10,227 --> 00:54:12,138
+That's correct.
+
+734
+00:54:12,187 --> 00:54:15,179
+Can you explain, please, the powers
+that this gives to the police?
+
+735
+00:54:15,467 --> 00:54:18,146
+It permits us to hold
+suspected terrorists...
+
+736
+00:54:18,147 --> 00:54:20,900
+for a period of up to seven days.
+
+737
+00:54:20,987 --> 00:54:23,057
+Quite extraordinary powers
+in a democracy.
+
+738
+00:54:23,147 --> 00:54:26,105
+Quite difficult, I would think for
+the police to resist the temptation...
+
+739
+00:54:26,147 --> 00:54:28,502
+- to deal forcibly with people.
+- Objection.
+
+740
+00:54:28,587 --> 00:54:32,146
+People they suspect of the biggest
+bombing campaign on British mainland...
+
+741
+00:54:32,147 --> 00:54:35,139
+- since the Second World War.
+- Objection. My lord, I really must...
+
+742
+00:54:35,187 --> 00:54:38,862
+- Get to the point!
+- Now, this bombing campaign...
+
+743
+00:54:38,947 --> 00:54:42,781
+struck deep into the British people's
+sense of security.
+
+744
+00:54:42,867 --> 00:54:46,064
+The people looked to you,
+Inspector, to find those responsible.
+
+745
+00:54:46,147 --> 00:54:47,136
+Yes.
+
+746
+00:54:48,147 --> 00:54:50,103
+You must have been under
+the most intense pressure.
+
+747
+00:54:50,147 --> 00:54:52,138
+That's my job.
+
+748
+00:54:52,187 --> 00:54:55,145
+Now, all of the defendants claim...
+
+749
+00:54:55,227 --> 00:54:58,981
+including young Patrick Maguire,
+aged just 14...
+
+750
+00:54:59,067 --> 00:55:01,058
+Patrick,
+would you stand up, please?
+
+751
+00:55:03,147 --> 00:55:05,615
+Thank you.
+All of the defendants claim...
+
+752
+00:55:05,707 --> 00:55:09,746
+that they were subjected to physical and
+mental abuse while in police custody.
+
+753
+00:55:11,747 --> 00:55:14,056
+They were never harmed
+in any way.
+
+754
+00:55:14,147 --> 00:55:16,786
+He's fucking lying!
+They beat the shite out of us!
+
+755
+00:55:19,147 --> 00:55:20,136
+Silence!
+
+756
+00:55:22,787 --> 00:55:24,982
+Please believe us!
+They beat us!
+
+757
+00:55:25,707 --> 00:55:27,106
+Just be quiet.
+
+758
+00:55:27,147 --> 00:55:29,146
+Sit them down!
+
+759
+00:55:29,147 --> 00:55:31,103
+Silence in the court!
+
+760
+00:55:34,147 --> 00:55:36,217
+Mr Conlon says...
+
+761
+00:55:36,507 --> 00:55:39,943
+that you pulled him by the hair
+and squeezed his testicles.
+
+762
+00:55:40,027 --> 00:55:42,666
+I never even spoke to Mr Conlon.
+
+763
+00:55:42,747 --> 00:55:44,738
+I hope you burn in hell, Dixon.
+
+764
+00:55:44,827 --> 00:55:46,545
+Silence!
+
+765
+00:55:46,627 --> 00:55:50,779
+Mr Hill says the police sat astride him
+and put a gun in his mouth.
+
+766
+00:55:52,147 --> 00:55:54,456
+There was no pressure of any kind.
+
+767
+00:55:54,547 --> 00:55:57,220
+You can go and fuck yourself,
+you lying fucking bastard!
+
+768
+00:55:57,507 --> 00:55:58,735
+Order! Order in court!
+
+769
+00:55:58,827 --> 00:56:02,183
+Inspector, in the case
+of the four main defendants...
+
+770
+00:56:02,467 --> 00:56:04,583
+you have no corroborating evidence
+of any kind.
+
+771
+00:56:04,667 --> 00:56:08,023
+I have the confessions of four obvious
+terrorists. What more do you want?
+
+772
+00:56:08,107 --> 00:56:11,702
+Well, nitroglycerine
+is a highly toxic substance.
+
+773
+00:56:11,787 --> 00:56:13,823
+It's when the substance
+to be tested...
+
+774
+00:56:13,907 --> 00:56:16,467
+<i>After a few weeks,
+we were bored out of our minds...</i>
+
+775
+00:56:16,547 --> 00:56:18,458
+<i>just messed around
+and that there.</i>
+
+776
+00:56:19,987 --> 00:56:22,626
+<i>They must've been
+desperate for evidence.</i>
+
+777
+00:56:22,707 --> 00:56:27,019
+<i>They produced Annie's washing-up gloves
+like a rabbit out of a hat at one point.</i>
+
+778
+00:56:27,107 --> 00:56:29,985
+<i>Then it was my turn
+to take the stand.</i>
+
+779
+00:56:30,067 --> 00:56:33,104
+Mr Conlon,
+did you bomb Guildford?
+
+780
+00:56:34,147 --> 00:56:36,103
+No, I didn't.
+
+781
+00:56:36,147 --> 00:56:38,987
+The police claim that you were in
+Guildford on the night of the bombing.
+
+782
+00:56:39,067 --> 00:56:40,864
+Can you tell us where you were?
+
+783
+00:56:40,947 --> 00:56:43,939
+I was in a park in London
+at that time.
+
+784
+00:56:44,027 --> 00:56:46,825
+- Who with?
+- With Paul Hill sitting there.
+
+785
+00:56:48,067 --> 00:56:50,456
+You met somebody else that night,
+about 8:00 p.m.
+
+786
+00:56:50,547 --> 00:56:55,146
+- Aye, I met a man called Charlie Burke.
+- And who is he?
+
+787
+00:56:55,147 --> 00:56:59,504
+He was just a fellow,
+a homeless guy that we met in the park.
+
+788
+00:56:59,587 --> 00:57:01,817
+Why do you remember
+this man so clearly?
+
+789
+00:57:03,067 --> 00:57:06,855
+I was thinking that if I didn't get out
+of London fast, I would end up like him.
+
+790
+00:57:06,947 --> 00:57:10,146
+- You told this to the police?
+- Aye.
+
+791
+00:57:10,147 --> 00:57:13,184
+- What did they say?
+- They said he didn't exist.
+
+792
+00:57:13,467 --> 00:57:17,904
+Mr Conlon, why did you confess
+to the Guildford bombing?
+
+793
+00:57:19,187 --> 00:57:22,146
+They beat me...
+
+794
+00:57:22,147 --> 00:57:24,058
+and then they threatened
+to kill my father.
+
+795
+00:57:24,147 --> 00:57:28,823
+- Will you repeat that please?
+- They terrorized me for seven days.
+
+796
+00:57:28,907 --> 00:57:31,182
+After that,
+they threatened to kill my father.
+
+797
+00:57:31,467 --> 00:57:34,027
+I'd have fucking signed anything
+after that.
+
+798
+00:57:35,147 --> 00:57:37,581
+- Excuse my language.
+- Thank you.
+
+799
+00:57:39,827 --> 00:57:43,536
+You expect this jury to believe
+that decorated police officers...
+
+800
+00:57:43,627 --> 00:57:46,858
+would risk their career
+and their reputation...
+
+801
+00:57:46,947 --> 00:57:49,146
+by threatening your father?
+
+802
+00:57:49,147 --> 00:57:51,707
+I don't expect them to believe it
+by the time you finish with them...
+
+803
+00:57:51,787 --> 00:57:53,823
+but it happens to be truth.
+
+804
+00:57:53,907 --> 00:57:56,137
+You're an honest man,
+aren't you, Mr Conlon?
+
+805
+00:57:57,147 --> 00:57:58,739
+I like to think so.
+
+806
+00:57:58,827 --> 00:58:03,059
+You've told us you remember
+this Charlie Burke very well.
+
+807
+00:58:04,107 --> 00:58:05,779
+Aye.
+
+808
+00:58:05,867 --> 00:58:09,621
+Do you remember telling the police
+anything else about that night?
+
+809
+00:58:10,867 --> 00:58:13,586
+Let me refresh your memory.
+You told Inspector Dixon...
+
+810
+00:58:13,667 --> 00:58:16,181
+that you had committed
+a robbery on that night.
+
+811
+00:58:16,467 --> 00:58:18,537
+Now do you remember?
+
+812
+00:58:21,547 --> 00:58:23,026
+Aye.
+
+813
+00:58:23,107 --> 00:58:27,817
+- Who did you rob?
+- Robbed a hooker.
+
+814
+00:58:27,907 --> 00:58:31,138
+- You robbed a prostitute?
+- Aye.
+
+815
+00:58:31,187 --> 00:58:35,180
+And we are expected to believe a man
+who claims he stole from a prostitute...
+
+816
+00:58:35,467 --> 00:58:39,146
+before we would believe ten police
+officers who stood here on oath...
+
+817
+00:58:39,147 --> 00:58:40,944
+and called you a liar?
+
+818
+00:58:41,027 --> 00:58:44,736
+That was the truth.
+
+819
+00:58:44,827 --> 00:58:48,146
+I'm bound to say I don't find
+you very convincing.
+
+820
+00:58:48,147 --> 00:58:50,138
+Thank you, Mr Conlon.
+
+821
+00:58:54,467 --> 00:58:57,903
+Why didn't you tell me
+that you'd stole from that woman?
+
+822
+00:59:00,027 --> 00:59:02,143
+You should've called me.
+I would've sent the money.
+
+823
+00:59:09,507 --> 00:59:12,624
+Are you gonna be a thief
+and a liar all your life?
+
+824
+00:59:15,147 --> 00:59:19,140
+Standing up in that witness box,
+making faces to your mates.
+
+825
+00:59:31,507 --> 00:59:34,863
+At least you told the truth
+in there. That'll stand you.
+
+826
+00:59:41,187 --> 00:59:43,143
+Are you not going
+to eat that sausage?
+
+827
+00:59:47,907 --> 00:59:50,501
+They put a gun in my mouth...
+
+828
+00:59:50,587 --> 00:59:54,978
+and made me confess
+to a murder I didn't commit.
+
+829
+00:59:55,067 --> 00:59:57,706
+So I said I did the big bombing...
+
+830
+00:59:57,787 --> 01:00:01,146
+and named anybody I knew
+who was not in the IRA.
+
+831
+01:00:01,147 --> 01:00:03,146
+Not in the IRA?
+
+832
+01:00:03,147 --> 01:00:06,139
+- Definitely not in the IRA.
+- Why?
+
+833
+01:00:07,707 --> 01:00:09,140
+You know why.
+
+834
+01:00:14,067 --> 01:00:16,900
+I just wanted to show
+how ridiculous it all was.
+
+835
+01:00:16,987 --> 01:00:20,866
+Inspector, the defendant Conlon
+presented an alibi...
+
+836
+01:00:20,947 --> 01:00:23,146
+One Charlie Burke.
+
+837
+01:00:23,147 --> 01:00:26,617
+That name did appear in Mr Conlon's
+statement. We investigated it.
+
+838
+01:00:26,707 --> 01:00:29,505
+We couldn't find any trace
+of such a person.
+
+839
+01:00:29,587 --> 01:00:32,021
+And there was this question
+of the robbery of a prostitute.
+
+840
+01:00:32,107 --> 01:00:35,144
+No robberies were reported
+in that area that night.
+
+841
+01:00:35,227 --> 01:00:38,617
+At the start of this trial,
+I shook Gerry Conlon's hand.
+
+842
+01:00:40,147 --> 01:00:43,146
+Subsequently, I was deeply shocked
+when a fellow attorney came to me...
+
+843
+01:00:43,147 --> 01:00:45,707
+and asked me if I was now
+going to wash my hand.
+
+844
+01:00:47,227 --> 01:00:50,025
+In my long legal career,
+I cannot remember a case...
+
+845
+01:00:50,107 --> 01:00:52,143
+where emotions have
+been so charged.
+
+846
+01:00:53,147 --> 01:00:55,146
+It falls to me now
+to appeal to you...
+
+847
+01:00:55,147 --> 01:00:58,146
+the members of the jury,
+not to get caught up in this...
+
+848
+01:00:58,147 --> 01:01:00,866
+tide of mass hysteria.
+
+849
+01:01:00,947 --> 01:01:06,146
+Inspector Dixon admits there are scores
+of inconsistencies in the confessions.
+
+850
+01:01:06,147 --> 01:01:09,503
+My clients contend that
+they were forced to confess...
+
+851
+01:01:09,587 --> 01:01:12,818
+through brutality
+and intimidation.
+
+852
+01:01:14,507 --> 01:01:16,146
+Now, they may be foolish...
+
+853
+01:01:16,147 --> 01:01:20,220
+petty thieves,
+even drug abusers...
+
+854
+01:01:20,507 --> 01:01:25,820
+but they are not the ruthless bombers
+who have terrorized Britain for months.
+
+855
+01:01:27,107 --> 01:01:30,986
+You should find these young people
+not guilty.
+
+856
+01:01:31,067 --> 01:01:34,184
+- Bollocks!
+- Okay, let's go.
+
+857
+01:01:34,467 --> 01:01:36,981
+- Get your fucking hands off me!
+- Move it!
+
+858
+01:01:37,067 --> 01:01:38,944
+- Move it!
+- Hands off!
+
+859
+01:01:45,147 --> 01:01:46,705
+Ladies and gentlemen...
+
+860
+01:01:48,907 --> 01:01:51,944
+like my learned colleague
+in the defense...
+
+861
+01:01:52,027 --> 01:01:55,815
+I would caution you not
+to be swayed by your emotions.
+
+862
+01:01:55,907 --> 01:01:59,946
+The four people
+you see in the front...
+
+863
+01:02:00,027 --> 01:02:03,940
+are one of the most cunning and
+cruel criminal conspiracies...
+
+864
+01:02:04,027 --> 01:02:07,146
+ever to set foot on English soil.
+
+865
+01:02:07,147 --> 01:02:10,776
+Now, here are the facts
+of this case:
+
+866
+01:02:10,867 --> 01:02:12,823
+Inspector Dixon...
+
+867
+01:02:12,907 --> 01:02:15,102
+a decorated officer
+of great expertise...
+
+868
+01:02:15,147 --> 01:02:18,146
+acting on reliable information
+and good detective work...
+
+869
+01:02:18,147 --> 01:02:21,146
+arrested Paul Hill...
+
+870
+01:02:21,147 --> 01:02:25,777
+who, guilt-ridden by the shame
+of his crime, confessed.
+
+871
+01:02:25,867 --> 01:02:29,701
+That confession led the police
+to the ringleader, Conlon...
+
+872
+01:02:29,787 --> 01:02:32,146
+and his terrorist family...
+
+873
+01:02:32,147 --> 01:02:37,016
+his aunt, Annie Maguire,
+the experienced bomb maker...
+
+874
+01:02:37,107 --> 01:02:39,780
+who wore rubber gloves
+when handling explosives...
+
+875
+01:02:39,867 --> 01:02:42,779
+in the kitchen
+of her home in Harlesden.
+
+876
+01:02:42,867 --> 01:02:45,665
+She even allowed her children
+to handle explosives...
+
+877
+01:02:45,747 --> 01:02:48,819
+Vincent, aged 16, Patrick, 14...
+
+878
+01:02:48,907 --> 01:02:53,742
+who did not... could not...
+know any better.
+
+879
+01:02:53,827 --> 01:02:55,863
+Giuseppe Conlon,
+her brother-in-law...
+
+880
+01:02:55,947 --> 01:02:58,825
+the courier who arrived
+with more explosives.
+
+881
+01:02:58,907 --> 01:03:03,105
+Armstrong and his dupe
+Richardson, who carried the bomb.
+
+882
+01:03:03,147 --> 01:03:05,581
+Now, these are the people who,
+in a panic...
+
+883
+01:03:05,667 --> 01:03:09,899
+had to dispose
+of the nitroglycerine...
+
+884
+01:03:09,987 --> 01:03:12,820
+and that is what sealed
+their fate.
+
+885
+01:03:12,907 --> 01:03:17,139
+How do we know this?
+Because the truth was on their hands.
+
+886
+01:03:20,707 --> 01:03:25,462
+It is a story written
+in the blood of their victims.
+
+887
+01:03:25,547 --> 01:03:28,505
+You have seen some of those
+who survived...
+
+888
+01:03:28,587 --> 01:03:31,659
+their callous disregard
+for human life.
+
+889
+01:03:31,747 --> 01:03:36,059
+It is now your duty
+to protect society from them.
+
+890
+01:03:36,147 --> 01:03:40,140
+I am confident that
+that is what you will do.
+
+891
+01:04:16,147 --> 01:04:18,058
+Have you reached a verdict?
+
+892
+01:04:19,587 --> 01:04:21,020
+Yes, we have, my lord.
+
+893
+01:04:22,987 --> 01:04:26,616
+- How do you find the defendants?
+- Guilty as charged.
+
+894
+01:04:30,107 --> 01:04:31,938
+Hang the Irie bastards!
+
+895
+01:04:34,507 --> 01:04:36,941
+Order! Silence!
+
+896
+01:04:38,827 --> 01:04:40,579
+String 'em up!
+
+897
+01:04:47,587 --> 01:04:50,147
+Gerard Patrick Conlon.
+
+898
+01:04:51,507 --> 01:04:53,179
+Stand up.
+
+899
+01:04:55,787 --> 01:04:59,780
+I feel it is my duty
+to wonder aloud...
+
+900
+01:04:59,867 --> 01:05:04,657
+why you were not charged
+with treason to the Crown...
+
+901
+01:05:04,747 --> 01:05:08,865
+a charge that carries a penalty
+of death by hanging...
+
+902
+01:05:08,947 --> 01:05:12,496
+a sentence I would have had
+no difficulty in passing...
+
+903
+01:05:12,587 --> 01:05:15,181
+in this case.
+
+904
+01:05:16,587 --> 01:05:18,543
+I sentence you
+to life imprisonment...
+
+905
+01:05:20,067 --> 01:05:22,058
+and I instruct
+that you shall serve...
+
+906
+01:05:22,147 --> 01:05:25,139
+a minimum of 30 years.
+
+907
+01:05:26,627 --> 01:05:28,140
+Take him down.
+
+908
+01:05:40,107 --> 01:05:41,540
+Help me.
+
+909
+01:05:50,907 --> 01:05:53,137
+Paul Michael Hill.
+
+910
+01:05:55,907 --> 01:06:00,105
+In my view, your crime
+is such that...
+
+911
+01:06:00,147 --> 01:06:02,502
+life shall mean life.
+
+912
+01:06:02,587 --> 01:06:06,978
+<i>Annie Maguire,
+I recommend you serve 14 years!</i>
+
+913
+01:06:07,067 --> 01:06:09,228
+- What have I done, for Christ's sake?
+- Take her down!
+
+914
+01:06:10,147 --> 01:06:13,856
+<i>- Giuseppe Conlon, 12 years.
+- No, my husband's innocent!</i>
+
+915
+01:06:13,947 --> 01:06:15,146
+Lord have mercy on you!
+
+916
+01:06:15,147 --> 01:06:18,139
+<i>Patrick Joseph Armstrong,
+30 years.</i>
+
+917
+01:06:24,147 --> 01:06:27,662
+Carole Richardson, 30 years.
+
+918
+01:07:23,787 --> 01:07:27,621
+<i>Our case was so insane that if you
+made it up, nobody would believe it.</i>
+
+919
+01:07:27,707 --> 01:07:30,824
+<i>Look, Gareth, I know people say
+that I'm a compulsive storyteller...</i>
+
+920
+01:07:30,907 --> 01:07:33,146
+<i>and nobody believed
+a word I said in court...</i>
+
+921
+01:07:33,147 --> 01:07:36,822
+<i>but Charlie Burke did exist... he's not
+just a figment of my imagination.</i>
+
+922
+01:07:42,467 --> 01:07:43,695
+Sorry.
+
+923
+01:07:55,787 --> 01:07:58,146
+<i>We were shipped off
+to Park Royal Prison...</i>
+
+924
+01:07:58,147 --> 01:08:02,663
+<i>an old Victorian fortress where the
+most dangerous criminals were held...</i>
+
+925
+01:08:02,747 --> 01:08:05,146
+<i>in the maximum-security wing.</i>
+
+926
+01:08:05,147 --> 01:08:07,138
+- Place of birth.
+- Belfast.
+
+927
+01:08:07,187 --> 01:08:08,905
+Then you're British.
+
+928
+01:08:08,987 --> 01:08:10,146
+This is your home
+for the rest of your life.
+
+929
+01:08:10,147 --> 01:08:12,786
+So accept it and get on with it.
+Right, come this way.
+
+930
+01:08:12,867 --> 01:08:14,141
+<i>The chief warder, Barker...</i>
+
+931
+01:08:14,227 --> 01:08:17,583
+<i>gave us blue denim uniforms
+with yellow stripes.</i>
+
+932
+01:08:17,667 --> 01:08:19,225
+<i>We were Category A...</i>
+
+933
+01:08:19,507 --> 01:08:22,704
+<i>the highest-security class along
+with the rapists and murderers.</i>
+
+934
+01:08:22,787 --> 01:08:25,142
+<i>My father said
+we'd fight for an appeal...</i>
+
+935
+01:08:25,187 --> 01:08:27,223
+<i>but I didn't want to know
+about the legal system.</i>
+
+936
+01:08:28,827 --> 01:08:30,943
+- I'm going back to the cell.
+- Come on. Follow me.
+
+937
+01:08:42,147 --> 01:08:43,216
+Come on, Gerry.
+
+938
+01:08:45,147 --> 01:08:48,617
+Hey, Ronnie.
+There's those Irish bastards, Ronnie.
+
+939
+01:08:50,547 --> 01:08:51,821
+Irish scum.
+
+940
+01:08:51,907 --> 01:08:54,705
+My name's Giuseppe Conlon.
+I'm an innocent man.
+
+941
+01:08:54,787 --> 01:08:57,062
+So is my son.
+
+942
+01:08:57,147 --> 01:08:58,785
+We shouldn't even be in here.
+
+943
+01:08:58,867 --> 01:09:00,937
+Get that fucking scum
+off my floor.
+
+944
+01:09:04,627 --> 01:09:06,458
+I said, knock it off!
+
+945
+01:09:25,147 --> 01:09:28,457
+- They must know they've made a mistake.
+- No, they don't.
+
+946
+01:09:28,547 --> 01:09:32,222
+The proof of our innocence
+must be there in the evidence.
+
+947
+01:09:32,507 --> 01:09:34,225
+We have to fight 'em
+to get an appeal.
+
+948
+01:09:36,147 --> 01:09:39,935
+- I'll speak to Father Wilson.
+- Speak to everybody.
+
+949
+01:09:40,027 --> 01:09:42,700
+We'll write letters from in here.
+Start a campaign.
+
+950
+01:09:42,787 --> 01:09:45,142
+Have they been
+treating you all right?
+
+951
+01:09:45,187 --> 01:09:47,018
+Aye, fine. Fine.
+
+952
+01:09:47,787 --> 01:09:49,140
+Have they, son?
+
+953
+01:09:50,867 --> 01:09:52,983
+Aye. No problem.
+
+954
+01:10:05,147 --> 01:10:07,581
+<i>Landing officers, exercise.</i>
+
+955
+01:10:10,227 --> 01:10:12,183
+Forgot the dessert spoons.
+
+956
+01:10:14,067 --> 01:10:15,819
+There we go.
+
+957
+01:10:26,227 --> 01:10:28,218
+These chips are not bad.
+
+958
+01:10:34,947 --> 01:10:38,178
+- Now don't you despair, son.
+- Never mind about "don't despair."
+
+959
+01:10:38,467 --> 01:10:39,866
+What?
+
+960
+01:10:39,947 --> 01:10:42,700
+I mean, we're innocent,
+we can't even go out of the cell.
+
+961
+01:10:44,147 --> 01:10:49,096
+You're better off being guilty.
+At least you get some respect.
+
+962
+01:10:50,147 --> 01:10:52,741
+<i>Landing officers
+on the threes for exercise.</i>
+
+963
+01:10:52,827 --> 01:10:55,022
+You can have my chips.
+
+964
+01:11:37,667 --> 01:11:40,146
+Gerry, man.
+
+965
+01:11:40,147 --> 01:11:42,183
+Problem? You all right?
+
+966
+01:11:45,147 --> 01:11:47,146
+How you like your new home?
+
+967
+01:11:47,147 --> 01:11:50,139
+Bombing of pillar-box,
+Kensington High Street.
+
+968
+01:11:50,227 --> 01:11:52,146
+Bombing of pillar-box,
+Talbot Lodge.
+
+969
+01:11:52,147 --> 01:11:54,058
+Bombing of naval club.
+
+970
+01:11:54,147 --> 01:11:57,146
+Bombing of Aldershot Railway Station.
+Attempted murder of Edward Heath.
+
+971
+01:11:57,147 --> 01:11:59,661
+Murder of Ross McWhirter.
+
+972
+01:11:59,747 --> 01:12:03,786
+Possession of firearms,
+Balcombe Street, December 6, 1975.
+
+973
+01:12:03,867 --> 01:12:05,937
+And the Guildford pub bombings.
+
+974
+01:12:07,787 --> 01:12:10,984
+You have innocent people
+in jail for that.
+
+975
+01:12:13,627 --> 01:12:15,140
+Take him out.
+
+976
+01:12:39,027 --> 01:12:40,619
+He did it.
+
+977
+01:12:40,707 --> 01:12:43,699
+Where's all the missing pieces?
+
+978
+01:12:47,707 --> 01:12:50,585
+We eat it up, man.
+
+979
+01:12:52,027 --> 01:12:54,097
+Before my woman
+send it in here, right...
+
+980
+01:12:54,147 --> 01:12:56,900
+she have it dipped
+in liquid acid...
+
+981
+01:12:56,987 --> 01:12:59,706
+LSD, man.
+
+982
+01:12:59,787 --> 01:13:03,143
+We've been dropping the British Empire
+for the last six months.
+
+983
+01:13:03,227 --> 01:13:05,787
+You want to fly?
+Pick a country.
+
+984
+01:13:05,867 --> 01:13:09,064
+Fuck's sake, don't give me Northern
+Ireland. I don't want a bad trip.
+
+985
+01:13:09,147 --> 01:13:12,184
+Try Nepal, man.
+Take you to the Himalayas.
+
+986
+01:13:28,947 --> 01:13:31,780
+See the dragon.
+
+987
+01:13:57,547 --> 01:14:00,664
+<i>Lights out in 15 minutes.
+15 minutes.</i>
+
+988
+01:14:11,547 --> 01:14:14,015
+Are you praying
+for the Seventh Cavalry?
+
+989
+01:14:15,987 --> 01:14:18,146
+Hail Mary, full of grace,
+the Lord is with thee.
+
+990
+01:14:18,147 --> 01:14:21,856
+Blessed art thou amongst women, and
+blessed is the fruit of thy womb, Jesus.
+
+991
+01:14:21,947 --> 01:14:23,744
+Holy Mary, mother of God,
+pray for us sinners...
+
+992
+01:14:23,827 --> 01:14:26,102
+now and at the moment of our death.
+Amen.
+
+993
+01:14:26,147 --> 01:14:28,058
+That's not funny, Gerry.
+
+994
+01:14:29,867 --> 01:14:34,577
+Hail Mary, full of grace,
+the Lord is with thee.
+
+995
+01:14:36,147 --> 01:14:38,138
+Blessed art thou among women...
+
+996
+01:14:38,227 --> 01:14:40,946
+and blessed is the fruit
+of thy womb, Jesus.
+
+997
+01:14:44,147 --> 01:14:45,978
+Holy Mary, mother of God...
+
+998
+01:14:46,067 --> 01:14:49,457
+pray for us sinners, now and
+at the hour of our death. Amen.
+
+999
+01:14:58,147 --> 01:15:00,138
+Are you on drugs?
+
+1000
+01:15:12,147 --> 01:15:16,698
+Look, Da, I'll be older than you are
+now when I get out of this place.
+
+1001
+01:15:18,187 --> 01:15:20,018
+If I get out.
+
+1002
+01:15:23,507 --> 01:15:27,500
+- Are you listening to me?
+- I'm not talking to you.
+
+1003
+01:15:27,587 --> 01:15:29,703
+Now who's being childish?
+
+1004
+01:15:31,787 --> 01:15:34,620
+I haven't had a sensible word
+out of you for two weeks.
+
+1005
+01:15:36,707 --> 01:15:38,140
+That stuff'll kill you.
+
+1006
+01:15:39,707 --> 01:15:41,504
+Sure I'm dead anyway.
+
+1007
+01:15:46,067 --> 01:15:50,504
+Look, I'm sorry. I'll not
+take it again so long as you live.
+
+1008
+01:15:51,667 --> 01:15:53,783
+Are you happy now?
+
+1009
+01:15:55,587 --> 01:15:57,498
+No.
+
+1010
+01:15:57,587 --> 01:15:59,543
+Why not?
+
+1011
+01:16:02,507 --> 01:16:04,975
+I don't want you to take it
+whether I live or die.
+
+1012
+01:16:09,147 --> 01:16:10,785
+Jesus Christ.
+
+1013
+01:16:15,867 --> 01:16:19,018
+All right. I'll do nothing
+to annoy you in your grave.
+
+1014
+01:16:21,187 --> 01:16:23,018
+Now are you happy?
+
+1015
+01:16:24,067 --> 01:16:26,137
+Is that a promise?
+
+1016
+01:16:29,147 --> 01:16:30,136
+Aye.
+
+1017
+01:16:31,907 --> 01:16:33,135
+Maybe.
+
+1018
+01:16:40,707 --> 01:16:43,904
+Gerry, man,
+check out your friend.
+
+1019
+01:16:46,107 --> 01:16:48,063
+He look like the real thing.
+
+1020
+01:16:51,147 --> 01:16:52,626
+Come on.
+
+1021
+01:17:05,747 --> 01:17:07,146
+- Excuse me.
+- All right.
+
+1022
+01:17:11,547 --> 01:17:13,503
+Let's have a talk.
+
+1023
+01:17:16,827 --> 01:17:18,943
+We have to eat in the cells.
+
+1024
+01:17:20,027 --> 01:17:21,779
+See ya later.
+
+1025
+01:17:24,187 --> 01:17:26,143
+Gerry, come on.
+
+1026
+01:17:51,507 --> 01:17:53,737
+Morning, paddy.
+
+1027
+01:17:58,707 --> 01:17:59,981
+Yes!
+
+1028
+01:18:07,747 --> 01:18:08,941
+Come on!
+
+1029
+01:18:09,867 --> 01:18:11,141
+Yes, man, Gerry!
+
+1030
+01:18:22,147 --> 01:18:25,901
+This one, this one, this one,
+14 days solitary! Lock up!
+
+1031
+01:18:27,027 --> 01:18:28,540
+Lock up!
+
+1032
+01:18:28,627 --> 01:18:32,063
+He'll be all right.
+He'll be back in a couple of days.
+
+1033
+01:18:41,787 --> 01:18:43,698
+I'm worried about Bridie.
+
+1034
+01:18:46,467 --> 01:18:47,695
+Why?
+
+1035
+01:18:49,187 --> 01:18:51,906
+She's dyed her hair blonde.
+
+1036
+01:18:53,227 --> 01:18:56,139
+Well, she's only young.
+
+1037
+01:18:58,947 --> 01:19:01,541
+She's wearing a dog collar.
+
+1038
+01:19:08,587 --> 01:19:11,943
+There's a fella chained to it.
+He's got one on too.
+
+1039
+01:19:15,587 --> 01:19:17,498
+Well...
+
+1040
+01:19:17,587 --> 01:19:20,055
+as long as she's happy.
+
+1041
+01:19:30,987 --> 01:19:32,625
+Lunch break.
+
+1042
+01:19:35,467 --> 01:19:37,458
+Yes, Gerry, man! That's right!
+
+1043
+01:19:37,547 --> 01:19:39,742
+Gerry's a bad boy!
+
+1044
+01:19:39,827 --> 01:19:42,216
+Put the Englishman
+under heavy, heavy manners.
+
+1045
+01:19:42,507 --> 01:19:46,898
+Yes, sir. Go on, boy.
+Kick out them clods, yes?
+
+1046
+01:19:46,987 --> 01:19:50,218
+This is Joe McAndrew.
+He has something important to tell you.
+
+1047
+01:19:50,507 --> 01:19:51,940
+Hello, Mr Conlon.
+
+1048
+01:19:54,507 --> 01:19:56,498
+I'm watching you.
+
+1049
+01:20:07,827 --> 01:20:10,057
+What is it?
+
+1050
+01:20:10,147 --> 01:20:12,900
+I'm the one who planted
+the Guildford bomb, Mr Conlon.
+
+1051
+01:20:16,627 --> 01:20:18,857
+Did you tell the police that?
+
+1052
+01:20:18,947 --> 01:20:21,984
+Yes, I did.
+
+1053
+01:20:22,067 --> 01:20:26,140
+- But we haven't heard a thing.
+- See what he has to say, Da.
+
+1054
+01:20:26,187 --> 01:20:28,621
+Go on.
+
+1055
+01:20:28,707 --> 01:20:32,859
+I told them.
+They know the truth.
+
+1056
+01:20:32,947 --> 01:20:35,700
+They can't afford to face it.
+
+1057
+01:20:35,787 --> 01:20:38,984
+It's a war.
+You're one if its innocent victims.
+
+1058
+01:20:39,067 --> 01:20:41,146
+I'm sorry for your trouble.
+
+1059
+01:20:41,147 --> 01:20:43,217
+Don't be sorry for us.
+
+1060
+01:20:43,507 --> 01:20:45,782
+You should be sorry
+for the people you killed.
+
+1061
+01:20:47,547 --> 01:20:50,584
+It was a military target,
+a soldier's pub.
+
+1062
+01:20:50,667 --> 01:20:55,146
+They were innocent people,
+God's children.
+
+1063
+01:20:55,147 --> 01:20:59,777
+Look, I'll do all I can
+to help you while you're in here.
+
+1064
+01:20:59,867 --> 01:21:01,141
+We don't need your help.
+
+1065
+01:21:03,027 --> 01:21:05,495
+I'd appreciate it
+if you'd leave us alone.
+
+1066
+01:21:06,867 --> 01:21:08,220
+Whatever you say.
+
+1067
+01:21:11,147 --> 01:21:13,138
+I'm sorry about that.
+
+1068
+01:21:17,107 --> 01:21:19,143
+What was that all about?
+You mind your fucking manners.
+
+1069
+01:21:19,187 --> 01:21:23,863
+What? Manners to him? I don't want
+any part of him, or his ways.
+
+1070
+01:21:23,947 --> 01:21:27,146
+At least he fights back, which is
+more than you ever did in your life.
+
+1071
+01:21:27,147 --> 01:21:29,741
+- What are you talking about?
+- Do you remember Lydon Hill?
+
+1072
+01:21:29,827 --> 01:21:32,625
+You used to ride me up
+on your bike up Lydon Hill.
+
+1073
+01:21:32,707 --> 01:21:34,707
+And then one day
+you couldn't make it to the top...
+
+1074
+01:21:34,787 --> 01:21:39,146
+and I hopped off and looked back,
+and your face was all red.
+
+1075
+01:21:39,147 --> 01:21:41,183
+- Remember that?
+- Aye.
+
+1076
+01:21:44,147 --> 01:21:46,456
+It was working in the paint shed
+done that to you.
+
+1077
+01:21:46,547 --> 01:21:47,821
+What?
+
+1078
+01:21:47,907 --> 01:21:51,502
+It was the fumes from working
+in the paint shed done that to you.
+
+1079
+01:21:51,587 --> 01:21:54,055
+Never mind jumping off the ferry,
+swimming back to Mammy.
+
+1080
+01:21:54,147 --> 01:21:57,662
+It was the one job a Catholic can get,
+and you wouldn't even fight back then.
+
+1081
+01:21:57,747 --> 01:22:02,867
+Go on outside.
+Play with your newfound friend.
+
+1082
+01:22:02,947 --> 01:22:07,099
+All I'm saying is that you've been
+a victim. It's time you fought back.
+
+1083
+01:22:07,147 --> 01:22:08,899
+- Get out of my sight.
+- I'm going.
+
+1084
+01:22:11,827 --> 01:22:15,137
+This is the only way it'll work.
+We have no alternative.
+
+1085
+01:22:32,147 --> 01:22:35,184
+- Well, what are you doing?
+- Nothing.
+
+1086
+01:22:36,747 --> 01:22:39,545
+- They didn't do it.
+- They all did it.
+
+1087
+01:22:43,147 --> 01:22:45,138
+I'm going back to Belfast.
+
+1088
+01:22:51,707 --> 01:22:55,541
+<i>After the fight, nobody stopped us
+going out in the yard to exercise.</i>
+
+1089
+01:22:55,627 --> 01:22:58,983
+<i>I felt brilliant.
+Joe explained things to me.</i>
+
+1090
+01:22:59,067 --> 01:23:02,059
+<i>He explained how the Brits
+never left anywhere without a fight...</i>
+
+1091
+01:23:02,147 --> 01:23:05,537
+<i>how they had to be beaten out of
+every country they ever occupied...</i>
+
+1092
+01:23:05,627 --> 01:23:08,983
+<i>how this prison was just
+an extension of their system.</i>
+
+1093
+01:23:09,067 --> 01:23:11,501
+<i>Calling for work on the threes.</i>
+
+1094
+01:23:11,587 --> 01:23:14,624
+<i>We had to confront the chief
+prison officer, Barker.</i>
+
+1095
+01:23:14,707 --> 01:23:16,146
+Mr Smalls.
+
+1096
+01:23:16,147 --> 01:23:19,146
+<i>But to do that,
+we had to take care of Ronnie Smalls.</i>
+
+1097
+01:23:19,147 --> 01:23:22,139
+Can I have a word
+about 54 Halsley Road?
+
+1098
+01:23:25,907 --> 01:23:27,784
+Take a walk.
+
+1099
+01:23:35,147 --> 01:23:38,856
+If anything happens to me
+or Gerry...
+
+1100
+01:23:39,627 --> 01:23:42,146
+or any other Irish prisoner...
+
+1101
+01:23:42,147 --> 01:23:46,504
+we'll have 54 Halsley Road
+blown to smithereens...
+
+1102
+01:23:46,587 --> 01:23:49,465
+with your family in it.
+
+1103
+01:23:50,787 --> 01:23:53,699
+Threaten my family
+and I'll cut your fucking head off.
+
+1104
+01:23:57,147 --> 01:23:59,058
+I don't make threats.
+
+1105
+01:23:59,147 --> 01:24:03,140
+I just carry out orders.
+I don't want to hurt your family.
+
+1106
+01:24:08,147 --> 01:24:11,139
+Your trouble is, Joe,
+you want to rule the fucking world.
+
+1107
+01:24:13,627 --> 01:24:15,060
+Paddy's all right.
+
+1108
+01:24:26,587 --> 01:24:28,145
+<i>Soon, we were all
+one happy family.</i>
+
+1109
+01:24:28,227 --> 01:24:29,979
+Again!
+
+1110
+01:24:30,067 --> 01:24:33,025
+<i>Even Kojak was ready to forgive.</i>
+
+1111
+01:24:33,107 --> 01:24:36,146
+<i>- Live and let live.
+- Barker began to panic.</i>
+
+1112
+01:24:36,147 --> 01:24:39,059
+<i>He told us to take our socks
+out of the window.</i>
+
+1113
+01:24:39,147 --> 01:24:41,741
+<i>He thought we were signalling
+to other prisoners.</i>
+
+1114
+01:24:41,827 --> 01:24:45,058
+We're not signalling.
+We're drying our socks out.
+
+1115
+01:24:45,147 --> 01:24:46,546
+- Take the socks out of the window.
+- Who says?
+
+1116
+01:24:46,627 --> 01:24:47,742
+Mr Barker.
+
+1117
+01:24:47,827 --> 01:24:51,786
+<i>- That was all the excuseJoe needed.
+- Give us two minutes.</i>
+
+1118
+01:24:51,867 --> 01:24:54,176
+<i>- Up and away we went.
+- Are you with me?</i>
+
+1119
+01:24:54,467 --> 01:24:55,900
+What's he up to now?
+
+1120
+01:24:59,107 --> 01:25:02,497
+All prison officers
+to vacate the wing.
+
+1121
+01:25:02,587 --> 01:25:04,782
+<i>All officers vacate the wing!</i>
+
+1122
+01:25:10,667 --> 01:25:12,498
+This'll damage the whole campaign.
+
+1123
+01:25:12,587 --> 01:25:15,021
+Look, you do it your way,
+and we'll do it ours, all right?
+
+1124
+01:25:15,107 --> 01:25:18,861
+<i>- You can read our demands.
+- Go back to your cells.</i>
+
+1125
+01:25:18,947 --> 01:25:20,585
+Blankets!
+
+1126
+01:25:21,467 --> 01:25:24,937
+- For God's sake, put a stop to this.
+- You're weakening my position.
+
+1127
+01:25:25,027 --> 01:25:26,824
+- It will end in violence.
+- Good.
+
+1128
+01:25:26,907 --> 01:25:29,216
+- What's good about it?
+- It's all they understand.
+
+1129
+01:25:32,467 --> 01:25:34,219
+<i>Barker refused to negotiate.</i>
+
+1130
+01:25:34,507 --> 01:25:36,543
+<i>But with the screws gone,
+we'd a brief taste of freedom.</i>
+
+1131
+01:25:36,627 --> 01:25:37,946
+Check out Ronnie!
+
+1132
+01:25:39,987 --> 01:25:42,137
+Him swallow half Africa.
+
+1133
+01:25:42,987 --> 01:25:44,784
+I give him about an hour.
+
+1134
+01:25:51,147 --> 01:25:53,980
+<i>We found out later
+our protest got on TV.</i>
+
+1135
+01:25:54,067 --> 01:25:56,581
+<i>And that's when
+the riot squad was ordered in.</i>
+
+1136
+01:26:11,587 --> 01:26:14,147
+<i>We were singled out
+as the ringleaders.</i>
+
+1137
+01:26:14,227 --> 01:26:15,455
+Now!
+
+1138
+01:26:41,147 --> 01:26:43,536
+You just signed
+your own death warrant, Barker.
+
+1139
+01:26:48,027 --> 01:26:49,176
+Are you happy now?
+
+1140
+01:26:53,587 --> 01:26:56,055
+<i>And then you arrived, Gareth.</i>
+
+1141
+01:26:56,147 --> 01:27:00,146
+<i>That's the first time I saw you,
+under a raining shower of sparks.</i>
+
+1142
+01:27:00,147 --> 01:27:04,146
+<i>It was the first time I'd seen a woman
+in five years, other than my mother.</i>
+
+1143
+01:27:04,147 --> 01:27:07,503
+<i>But to me, you were a lawyer first.
+And I hated lawyers.</i>
+
+1144
+01:27:07,587 --> 01:27:13,059
+- Do you have a new isolation...
+- Prisoners: Barth, Andrew.
+
+1145
+01:27:13,147 --> 01:27:16,146
+Bailey, Benjamin.
+McAndrew, Joseph.
+
+1146
+01:27:16,147 --> 01:27:19,059
+- Sorry. Can you... I can't hear.
+- Conlon, Gerard.
+
+1147
+01:27:19,147 --> 01:27:22,105
+O'Brien, John.
+
+1148
+01:27:22,147 --> 01:27:25,662
+Lynch, Bernard. Crisp, Quincy.
+
+1149
+01:27:25,747 --> 01:27:28,136
+Lyon, Richard. Burns, Delrow.
+
+1150
+01:27:28,227 --> 01:27:32,140
+What about Conlon?
+Sorry. Giuseppe Conlon.
+
+1151
+01:27:32,227 --> 01:27:34,582
+He's on the third floor.
+
+1152
+01:27:34,667 --> 01:27:39,024
+He has difficulty
+getting down the stairs.
+
+1153
+01:27:39,107 --> 01:27:42,146
+Well, I'll just have to
+go up and see him then.
+
+1154
+01:27:42,147 --> 01:27:45,025
+- The delegation has seen enough.
+- Right-o. Sorry.
+
+1155
+01:27:45,107 --> 01:27:48,144
+Well, I won't be a minute. I'll just...
+Is that all right? Sorry.
+
+1156
+01:27:48,227 --> 01:27:51,742
+I'll meet you outside, okay?
+Sorry.
+
+1157
+01:27:57,867 --> 01:27:59,346
+Sorry, I can't...
+
+1158
+01:27:59,427 --> 01:28:01,463
+Pulmonary thrombosis.
+
+1159
+01:28:01,547 --> 01:28:04,505
+- And he's getting proper medication?
+- Aye.
+
+1160
+01:28:09,187 --> 01:28:10,461
+Son?
+
+1161
+01:28:13,227 --> 01:28:15,218
+That's... Is it Gerry?
+
+1162
+01:28:15,307 --> 01:28:16,706
+That's Gerry.
+
+1163
+01:28:16,787 --> 01:28:19,506
+He's had a spot of bother
+with lawyers in the past.
+
+1164
+01:28:23,347 --> 01:28:26,259
+He's all yours.
+Fifteen minutes.
+
+1165
+01:28:26,347 --> 01:28:28,144
+- Thank you.
+- Sit down.
+
+1166
+01:28:35,147 --> 01:28:37,138
+You wanted to see me, Gerry?
+
+1167
+01:28:57,867 --> 01:29:00,540
+Why are you giving
+my father false hope?
+
+1168
+01:29:00,627 --> 01:29:02,299
+Sorry?
+
+1169
+01:29:02,387 --> 01:29:05,345
+He's been up and down
+these stairs to see you.
+
+1170
+01:29:05,427 --> 01:29:07,543
+He hasn't even seen
+my mother in six months.
+
+1171
+01:29:07,627 --> 01:29:10,460
+I hear you're getting on
+very well with her, by the way.
+
+1172
+01:29:10,547 --> 01:29:12,777
+Yes. She's a very brave woman.
+
+1173
+01:29:12,867 --> 01:29:14,778
+You don't know the half of it.
+
+1174
+01:29:17,307 --> 01:29:19,218
+The fucking stairs are killing him.
+
+1175
+01:29:19,307 --> 01:29:22,146
+It's not the stairs that
+are killing your father.
+
+1176
+01:29:22,147 --> 01:29:25,583
+- What is it, then?
+- It's your lack of faith.
+
+1177
+01:29:25,667 --> 01:29:28,386
+Lack of faith? Faith in what?
+
+1178
+01:29:28,467 --> 01:29:30,185
+In yourself.
+
+1179
+01:29:30,267 --> 01:29:32,861
+No, I have faith in myself.
+
+1180
+01:29:34,307 --> 01:29:37,936
+Gerry Conlon, lifer,
+30-year sentence.
+
+1181
+01:29:38,147 --> 01:29:40,217
+And I know how to survive it.
+
+1182
+01:29:41,707 --> 01:29:43,140
+At what price?
+
+1183
+01:29:43,227 --> 01:29:45,582
+I'll pay the fucking price.
+Don't you worry about it.
+
+1184
+01:29:45,667 --> 01:29:48,386
+The price for what?
+
+1185
+01:29:50,147 --> 01:29:53,662
+You're very good at the English,
+aren't you?
+
+1186
+01:29:53,747 --> 01:29:56,466
+You see, I don't understand
+your language.
+
+1187
+01:29:58,467 --> 01:30:02,146
+"Justice." "Mercy." "Clemency."
+
+1188
+01:30:02,147 --> 01:30:05,776
+I literally don't understand
+what those words mean.
+
+1189
+01:30:05,867 --> 01:30:08,904
+I'd like to put in an application
+to get all my teeth extracted.
+
+1190
+01:30:09,147 --> 01:30:13,186
+That way I could put my fist in my mouth
+and never speak another word of English.
+
+1191
+01:30:13,267 --> 01:30:15,827
+Do you see what I'm saying?
+Mrs Peirce, is it?
+
+1192
+01:30:15,907 --> 01:30:18,546
+Are you trying to impress me?
+
+1193
+01:30:20,387 --> 01:30:21,786
+Visit's up.
+
+1194
+01:30:21,867 --> 01:30:24,825
+Don't give my father
+false hope, all right?
+
+1195
+01:30:28,267 --> 01:30:30,337
+You've got to help him!
+
+1196
+01:30:32,627 --> 01:30:35,744
+<i>In prison, you pray for anything
+to break the monotony.</i>
+
+1197
+01:30:35,827 --> 01:30:38,705
+<i>A snowstorm is like
+a present from God.</i>
+
+1198
+01:30:49,147 --> 01:30:50,944
+Prison officers are not to be hit!
+
+1199
+01:30:51,867 --> 01:30:53,539
+You've asked for it.
+
+1200
+01:30:53,627 --> 01:30:55,424
+Come along!
+
+1201
+01:30:55,507 --> 01:30:59,136
+<i>After the riot, my father's
+health deteriorated badly.</i>
+
+1202
+01:30:59,187 --> 01:31:02,623
+<i>He couldn't make it down
+the stairs to enjoy the snow.</i>
+
+1203
+01:31:02,707 --> 01:31:06,336
+<i>I waved up to him, but he
+was looking at something else.</i>
+
+1204
+01:31:15,867 --> 01:31:18,825
+<i>My da always saw the good
+in people.</i>
+
+1205
+01:31:18,907 --> 01:31:22,456
+<i>He recognized it in you
+the minute he saw you, Gareth.</i>
+
+1206
+01:31:22,547 --> 01:31:26,859
+Guv, guv, where you going?
+Where's me letters? Guv'nor!
+
+1207
+01:31:30,307 --> 01:31:31,899
+Thank you.
+
+1208
+01:31:36,427 --> 01:31:39,146
+I see you've been mentioned
+in Congress, Giuseppe.
+
+1209
+01:31:39,227 --> 01:31:40,660
+What's that?
+
+1210
+01:31:46,907 --> 01:31:48,818
+How'd you come by that name?
+
+1211
+01:31:50,747 --> 01:31:52,544
+An Italian ice cream maker.
+
+1212
+01:31:52,627 --> 01:31:55,744
+Had a shop on the corner
+of the street where I was born.
+
+1213
+01:31:55,827 --> 01:31:57,943
+Giuseppe Fusco.
+
+1214
+01:31:58,147 --> 01:32:00,581
+My mother fell in love
+with the name.
+
+1215
+01:32:00,667 --> 01:32:02,146
+Were they...
+
+1216
+01:32:03,707 --> 01:32:05,220
+- You know.
+- What?
+
+1217
+01:32:06,467 --> 01:32:08,344
+- Lovers.
+- Who?
+
+1218
+01:32:08,427 --> 01:32:10,224
+My mother and the ice cream maker?
+
+1219
+01:32:11,267 --> 01:32:12,859
+Oh, no, God.
+
+1220
+01:32:12,947 --> 01:32:15,142
+Jesus, no. No, they were not.
+
+1221
+01:32:17,187 --> 01:32:19,223
+No, she just liked the name.
+
+1222
+01:32:19,307 --> 01:32:22,504
+But it made my life hell.
+
+1223
+01:32:22,587 --> 01:32:26,626
+All the other children laughing at you.
+You have any kids yourself?
+
+1224
+01:32:31,187 --> 01:32:32,461
+He's talking to Barker.
+
+1225
+01:32:32,547 --> 01:32:35,937
+Forget it. He can talk
+to whoever he fucking likes.
+
+1226
+01:32:38,707 --> 01:32:40,186
+Two.
+
+1227
+01:32:41,587 --> 01:32:43,782
+Flown the nest now.
+
+1228
+01:33:00,507 --> 01:33:02,463
+<i>Whether Barker was
+responsible or not...</i>
+
+1229
+01:33:02,547 --> 01:33:05,664
+<i>for bringing in the riot squad,
+Joe never forgave him.</i>
+
+1230
+01:33:07,267 --> 01:33:09,303
+<i>Joe was still at war...</i>
+
+1231
+01:33:09,387 --> 01:33:11,821
+<i>and to him,
+Barker was the enemy.</i>
+
+1232
+01:33:13,787 --> 01:33:15,266
+Number?
+
+1233
+01:33:15,347 --> 01:33:17,144
+The name is McAndrew.
+
+1234
+01:33:19,147 --> 01:33:21,263
+Get out. Get out of the light!
+
+1235
+01:33:23,147 --> 01:33:24,705
+- Get out of the light.
+- Number?
+
+1236
+01:33:24,787 --> 01:33:26,505
+Name's Gerry Conlon.
+
+1237
+01:33:28,227 --> 01:33:30,787
+Piss off out of the light.
+Get out of the light!
+
+1238
+01:33:30,867 --> 01:33:32,698
+You're 136.
+
+1239
+01:33:38,307 --> 01:33:39,899
+There's someone sitting there.
+
+1240
+01:33:42,827 --> 01:33:44,579
+Move when you're told.
+
+1241
+01:33:51,227 --> 01:33:52,740
+Put it out.
+
+1242
+01:34:22,667 --> 01:34:25,261
+<i>- How's your boy?
+- He's good.</i>
+
+1243
+01:34:25,347 --> 01:34:28,225
+<i>You know, he looks
+more like you every day.</i>
+
+1244
+01:34:28,307 --> 01:34:30,946
+<i>He's smarter than I am.</i>
+
+1245
+01:34:31,147 --> 01:34:33,146
+<i>Three years old,
+he can read the funny papers.</i>
+
+1246
+01:34:33,147 --> 01:34:35,146
+There's a hair
+in the fucking projector!
+
+1247
+01:34:35,147 --> 01:34:38,457
+Yeah, get the fucking hair
+out the projector, will you?
+
+1248
+01:34:39,627 --> 01:34:42,539
+- Come on. Get it out!
+- Get it out!
+
+1249
+01:34:44,787 --> 01:34:46,584
+We're going fucking blind up here.
+
+1250
+01:34:46,667 --> 01:34:48,146
+Lively.
+
+1251
+01:34:54,587 --> 01:34:56,259
+<i>- We'll get there, Pop.
+- Quiet.</i>
+
+1252
+01:34:56,347 --> 01:34:58,224
+- I didn't say a fucking thing.
+- You're blocking.
+
+1253
+01:34:58,307 --> 01:35:00,537
+Shut it.
+
+1254
+01:35:02,307 --> 01:35:04,696
+<i>Now, listen.
+Whoever comes to you...</i>
+
+1255
+01:35:04,787 --> 01:35:06,379
+<i>with this Barzini meeting...</i>
+
+1256
+01:35:11,907 --> 01:35:16,503
+<i>I knew that Santino was gonna
+have to go through all this.</i>
+
+1257
+01:35:16,587 --> 01:35:18,384
+<i>And Fredo, well...</i>
+
+1258
+01:35:20,147 --> 01:35:21,865
+<i>Fredo was wrong.</i>
+
+1259
+01:35:24,307 --> 01:35:27,219
+<i>And I never wanted this for you.</i>
+
+1260
+01:35:30,627 --> 01:35:31,298
+For you!
+
+1261
+01:35:45,227 --> 01:35:47,263
+To the floor, mate! Get down!
+
+1262
+01:35:54,427 --> 01:35:58,261
+Come on, mate, get a blanket!
+For God's sake, he's burning!
+
+1263
+01:35:59,147 --> 01:36:01,661
+Barker! Move back, Barker!
+
+1264
+01:36:01,747 --> 01:36:03,305
+Get in there!
+
+1265
+01:36:04,747 --> 01:36:06,738
+Get it out!
+
+1266
+01:36:28,267 --> 01:36:30,940
+- Stretcher!
+- Let's check it out.
+
+1267
+01:36:31,147 --> 01:36:32,944
+All right, mate.
+You're with us.
+
+1268
+01:36:33,147 --> 01:36:34,626
+All right. Stretcher!
+
+1269
+01:36:36,227 --> 01:36:37,546
+Gently.
+
+1270
+01:36:37,627 --> 01:36:39,140
+All right, up!
+
+1271
+01:36:40,307 --> 01:36:43,219
+That was a good day's work,
+McAndrew.
+
+1272
+01:36:43,307 --> 01:36:44,786
+That was a good day's work.
+
+1273
+01:36:44,867 --> 01:36:47,301
+Get away from me.
+
+1274
+01:36:47,387 --> 01:36:49,742
+Will you not look me in the eye
+when I'm speaking to you?
+
+1275
+01:36:52,387 --> 01:36:56,141
+I know how to look at people
+without blinking as well.
+
+1276
+01:36:59,667 --> 01:37:02,181
+In all my godforsaken life,
+I've never known...
+
+1277
+01:37:02,267 --> 01:37:05,498
+what it was like to want
+to kill somebody until now.
+
+1278
+01:37:07,907 --> 01:37:10,899
+You're a brave man, Joe,
+a brave man.
+
+1279
+01:37:13,747 --> 01:37:16,146
+Gerard Conlon, back on the threes.
+
+1280
+01:37:16,147 --> 01:37:19,696
+- Stand your ground.
+- Hawkins, returning to his cell.
+
+1281
+01:37:19,787 --> 01:37:22,585
+Benjamin Bailey, back to him cell!
+
+1282
+01:37:22,667 --> 01:37:24,737
+Burns, returning to his cell.
+
+1283
+01:37:24,827 --> 01:37:27,739
+7445, Casey, back to his cell.
+
+1284
+01:37:27,827 --> 01:37:30,387
+6309, Johnston, level three.
+
+1285
+01:37:30,467 --> 01:37:33,265
+Regis, 113,
+going up to number two.
+
+1286
+01:37:50,787 --> 01:37:53,381
+- Back to your cell now!
+- Keep moving.
+
+1287
+01:37:54,387 --> 01:37:56,298
+<i>Barker was maimed for life...</i>
+
+1288
+01:37:56,387 --> 01:37:58,855
+<i>and Joe was sent
+to another prison.</i>
+
+1289
+01:37:58,947 --> 01:38:00,858
+<i>He's in solitary confinement
+somewhere.</i>
+
+1290
+01:38:00,947 --> 01:38:03,461
+<i>We've had no news of him
+since then.</i>
+
+1291
+01:38:03,547 --> 01:38:05,777
+<i>The new chief screw
+had the yard painted...</i>
+
+1292
+01:38:05,867 --> 01:38:07,778
+<i>and I was back
+walking in circles again.</i>
+
+1293
+01:38:07,867 --> 01:38:09,539
+Back to the cells.
+
+1294
+01:38:12,227 --> 01:38:14,536
+Come on. Move.
+
+1295
+01:38:42,147 --> 01:38:45,139
+I'd like to help you out
+with the campaign, Da...
+
+1296
+01:38:46,347 --> 01:38:49,259
+if that's all right with you.
+
+1297
+01:38:49,347 --> 01:38:50,939
+Do you mean it?
+
+1298
+01:38:51,147 --> 01:38:52,580
+Aye.
+
+1299
+01:38:53,507 --> 01:38:55,338
+That's great.
+
+1300
+01:38:55,427 --> 01:38:58,897
+What I need from you is
+the whole story, your whole story...
+
+1301
+01:38:59,147 --> 01:39:01,615
+in as much detail
+as you can remember.
+
+1302
+01:39:01,707 --> 01:39:05,302
+<i>And I need you to write it down.
+It's really important.</i>
+
+1303
+01:39:11,667 --> 01:39:13,464
+I can't do this.
+
+1304
+01:39:15,347 --> 01:39:17,383
+I can't write this, Da.
+
+1305
+01:39:17,467 --> 01:39:19,856
+Could your son
+not give you a hand?
+
+1306
+01:39:19,947 --> 01:39:22,666
+He's up in his cell writing away.
+
+1307
+01:39:34,627 --> 01:39:36,538
+Tape recorder.
+
+1308
+01:39:36,627 --> 01:39:38,504
+You're a good talker.
+
+1309
+01:39:38,587 --> 01:39:40,145
+Talk.
+
+1310
+01:39:41,747 --> 01:39:43,703
+<i>The strange thing is...</i>
+
+1311
+01:39:44,787 --> 01:39:47,146
+<i>the strange thing is sometimes
+I think he's a littlejealous...</i>
+
+1312
+01:39:47,147 --> 01:39:49,741
+<i>of me taking over the campaign
+and that there.</i>
+
+1313
+01:39:49,827 --> 01:39:52,944
+<i>Going up and down the stairs
+to meet you.</i>
+
+1314
+01:39:53,147 --> 01:39:55,217
+That's something
+I never thought about Giuseppe:
+
+1315
+01:39:55,307 --> 01:39:57,138
+<i>That he could bejealous.</i>
+
+1316
+01:40:00,147 --> 01:40:04,146
+<i>Anyhow, the main thing is
+to get the case reopened...</i>
+
+1317
+01:40:04,147 --> 01:40:07,822
+<i>because I don't know how long
+he can survive in here.</i>
+
+1318
+01:40:24,627 --> 01:40:28,586
+- I'm tired of this.
+- Come on. We have to do this.
+
+1319
+01:40:28,667 --> 01:40:30,180
+You behave yourself.
+
+1320
+01:40:33,827 --> 01:40:35,624
+Get your head down.
+
+1321
+01:40:42,907 --> 01:40:46,138
+When I was a wee lad, I used to wonder
+what you were doing under the towel.
+
+1322
+01:40:46,227 --> 01:40:49,663
+One day when you and Ma were out,
+I got a big bowl of boiling water...
+
+1323
+01:40:49,747 --> 01:40:53,146
+whacked a big drop of Vick
+and put the towel over my head.
+
+1324
+01:40:53,147 --> 01:40:56,822
+I sat there trying to figure out what it
+was about 'cause nothing was happening.
+
+1325
+01:40:56,907 --> 01:40:58,818
+I figured you
+must've been drinking it.
+
+1326
+01:40:58,907 --> 01:41:00,827
+So I stuck my tongue in it.
+Do you remember that?
+
+1327
+01:41:04,547 --> 01:41:06,503
+How could I forget?
+
+1328
+01:41:07,347 --> 01:41:10,225
+And your tongue
+swelled up like a football.
+
+1329
+01:41:11,307 --> 01:41:13,423
+Had to rush you to the hospital.
+
+1330
+01:41:13,507 --> 01:41:15,657
+First time you'd stopped
+talking in your life.
+
+1331
+01:41:19,267 --> 01:41:20,700
+Give us that.
+
+1332
+01:41:21,827 --> 01:41:24,295
+I'll do your chest for you, Da.
+
+1333
+01:41:31,507 --> 01:41:33,463
+Was I always bad, was I?
+
+1334
+01:41:34,747 --> 01:41:36,180
+Not always.
+
+1335
+01:41:36,267 --> 01:41:39,145
+I don't deserve to spend
+the rest of my life in here, do I?
+
+1336
+01:41:40,147 --> 01:41:42,615
+All they've done
+is block out the light.
+
+1337
+01:41:42,707 --> 01:41:44,618
+They can't block out
+the light in here.
+
+1338
+01:41:44,707 --> 01:41:46,504
+Listen.
+
+1339
+01:41:46,587 --> 01:41:48,225
+Every night...
+
+1340
+01:41:48,307 --> 01:41:50,741
+I take your mother's
+hand in mine.
+
+1341
+01:41:50,827 --> 01:41:54,900
+We go out the front door,
+into Cyprus Street...
+
+1342
+01:41:55,147 --> 01:41:58,298
+down to Falls Road,
+up the Antrim Road...
+
+1343
+01:41:59,787 --> 01:42:01,778
+to Cave Hill.
+
+1344
+01:42:01,867 --> 01:42:03,505
+We look back down...
+
+1345
+01:42:05,907 --> 01:42:07,943
+on poor, troubled Belfast.
+
+1346
+01:42:11,347 --> 01:42:14,146
+I've been doing that every night...
+
+1347
+01:42:14,147 --> 01:42:15,944
+for five years now.
+
+1348
+01:42:18,147 --> 01:42:20,217
+As if I never left your mother.
+
+1349
+01:42:30,147 --> 01:42:32,707
+What I remember most
+about my childhood is...
+
+1350
+01:42:32,787 --> 01:42:34,778
+holding your hand.
+
+1351
+01:42:34,867 --> 01:42:37,427
+My wee hand in your big hand.
+
+1352
+01:42:37,507 --> 01:42:40,146
+And the smell of tobacco.
+I remember that...
+
+1353
+01:42:40,147 --> 01:42:43,344
+I could smell the tobacco
+off the palm of your hand.
+
+1354
+01:42:46,747 --> 01:42:50,581
+When I want to feel happy, I try
+to remember the smell of tobacco.
+
+1355
+01:42:54,307 --> 01:42:55,899
+Hold my hand.
+
+1356
+01:42:56,147 --> 01:42:57,944
+Get the fuck...
+
+1357
+01:42:59,147 --> 01:43:01,217
+Don't go sentimental on me now.
+
+1358
+01:43:02,627 --> 01:43:06,381
+Don't be upset, Da. Look,
+I'll hold your hand if you like.
+
+1359
+01:43:08,947 --> 01:43:10,699
+I'm going to die.
+
+1360
+01:43:11,947 --> 01:43:13,858
+Don't be saying that.
+
+1361
+01:43:14,787 --> 01:43:16,220
+I'm scared.
+
+1362
+01:43:18,387 --> 01:43:20,378
+You've no reason to be scared.
+
+1363
+01:43:20,467 --> 01:43:25,143
+Don't you be comforting me when I can
+see the truth staring me in the face.
+
+1364
+01:43:25,227 --> 01:43:28,902
+I'm scared I'm gonna die here
+among strangers.
+
+1365
+01:43:29,147 --> 01:43:30,466
+You're not fucking dying.
+
+1366
+01:43:30,547 --> 01:43:34,222
+Can I not say a thing
+without you fucking contradicting me?
+
+1367
+01:43:35,627 --> 01:43:40,781
+I'm scared to leave
+your mother behind.
+
+1368
+01:43:42,787 --> 01:43:46,143
+Look, you are not going to die,
+all right, Da?
+
+1369
+01:43:48,347 --> 01:43:51,942
+Even if you do, sure I can
+look after Ma all right.
+
+1370
+01:43:52,147 --> 01:43:55,219
+You think I'd leave
+Sarah in your care?
+
+1371
+01:43:56,747 --> 01:43:58,419
+What do you mean?
+
+1372
+01:43:58,507 --> 01:44:02,466
+You haven't the maturity to take care
+of yourself, let alone your mother.
+
+1373
+01:44:09,507 --> 01:44:12,146
+I haven't much time between
+appointments, Mrs Peirce.
+
+1374
+01:44:12,147 --> 01:44:14,342
+- How can I help you?
+- Thank you.
+
+1375
+01:44:14,427 --> 01:44:18,146
+I'm the solicitor for the Conlons,
+Chief Inspector.
+
+1376
+01:44:18,147 --> 01:44:21,901
+Giuseppe Conlon is critically ill,
+as you may know.
+
+1377
+01:44:22,147 --> 01:44:24,377
+I've petitioned before the court
+for his compassionate parole.
+
+1378
+01:44:24,467 --> 01:44:26,139
+They want your clearance.
+
+1379
+01:44:27,227 --> 01:44:29,146
+That'll be difficult, Mrs Peirce.
+
+1380
+01:44:29,147 --> 01:44:32,537
+These people have committed
+horrific crimes.
+
+1381
+01:44:32,627 --> 01:44:34,936
+Society demands
+that they serve their time.
+
+1382
+01:44:36,147 --> 01:44:38,456
+But they didn't do it,
+Chief Inspector.
+
+1383
+01:44:38,547 --> 01:44:40,146
+Says who?
+
+1384
+01:44:40,147 --> 01:44:42,456
+Say the real bombers.
+
+1385
+01:44:42,547 --> 01:44:45,186
+They told you they did it,
+Mr Dixon.
+
+1386
+01:44:45,267 --> 01:44:47,827
+Gerry Conlon told me he did it,
+Mrs Peirce.
+
+1387
+01:44:47,907 --> 01:44:50,501
+These people are liars.
+
+1388
+01:44:50,587 --> 01:44:53,147
+They're liars for a cause.
+That's the worst kind.
+
+1389
+01:44:53,187 --> 01:44:55,417
+But he's dying.
+Giuseppe's dying.
+
+1390
+01:44:55,507 --> 01:44:58,544
+A lot of people are dying.
+It's a dirty war.
+
+1391
+01:45:03,147 --> 01:45:05,146
+Well, I'll see what I can do.
+
+1392
+01:45:05,147 --> 01:45:07,183
+Is this your family, Mr Dixon?
+
+1393
+01:45:08,387 --> 01:45:10,343
+That's my wife and my son.
+
+1394
+01:45:10,427 --> 01:45:12,861
+You have another appointment.
+
+1395
+01:45:12,947 --> 01:45:14,266
+Yes.
+
+1396
+01:45:15,627 --> 01:45:18,699
+I'll see you again, Mr Dixon.
+
+1397
+01:45:54,707 --> 01:45:56,584
+Are you all right, Da?
+
+1398
+01:46:10,187 --> 01:46:12,382
+Are you all right?
+
+1399
+01:46:15,187 --> 01:46:16,620
+Wake up, Da.
+
+1400
+01:46:17,667 --> 01:46:20,943
+Can you hear me?
+Can you hear me, Giuseppe?
+
+1401
+01:46:22,147 --> 01:46:24,067
+Come on, dear God in heaven,
+don't do this to me.
+
+1402
+01:46:24,147 --> 01:46:25,421
+Come on. Wake up.
+
+1403
+01:46:25,507 --> 01:46:27,737
+Wake up! Fuck's sake, come on!
+
+1404
+01:46:27,827 --> 01:46:31,376
+There you go. Thank you.
+You're all right, Da.
+
+1405
+01:46:31,467 --> 01:46:33,423
+I'm going to get some help.
+
+1406
+01:46:33,507 --> 01:46:36,146
+Number 73! Number 73!
+
+1407
+01:46:36,147 --> 01:46:38,707
+Please come quickly!
+My father's sick!
+
+1408
+01:46:38,787 --> 01:46:40,379
+Benbay, Giuseppe's taken bad!
+
+1409
+01:46:40,467 --> 01:46:42,146
+Put your arms around me.
+
+1410
+01:46:42,147 --> 01:46:45,264
+I'm getting you out of bed.
+Put your arms around me.
+
+1411
+01:46:48,147 --> 01:46:50,786
+- Open the fucking door!
+- He's number 73!
+
+1412
+01:46:50,867 --> 01:46:52,619
+- Open the fucking door!
+- Giuseppe!
+
+1413
+01:46:53,827 --> 01:46:56,500
+Fuck, he can't breathe.
+He can't fucking breathe!
+
+1414
+01:46:57,347 --> 01:47:00,817
+He can't breathe!
+Look, my father's fucking dying!
+
+1415
+01:47:00,907 --> 01:47:03,899
+- He needs oxygen!
+- Give him a fucking break!
+
+1416
+01:47:04,147 --> 01:47:06,866
+Open the fucking gate!
+I'm right here, Da.
+
+1417
+01:47:06,947 --> 01:47:08,858
+Get him in here!
+
+1418
+01:47:08,947 --> 01:47:11,336
+What the fuck is going on?
+
+1419
+01:47:15,747 --> 01:47:17,339
+Hammersmith Hospital now.
+
+1420
+01:47:17,427 --> 01:47:19,179
+I want to go with him.
+
+1421
+01:47:20,427 --> 01:47:23,544
+I've got to get clearance first.
+It's out of my hands.
+
+1422
+01:47:23,627 --> 01:47:25,822
+You're gonna be all right, Da!
+
+1423
+01:47:25,907 --> 01:47:29,138
+- I'll be with you as soon as I can.
+- Take him back to his cell.
+
+1424
+01:47:34,707 --> 01:47:39,146
+Leave him alone, you bastards!
+Just let him be!
+
+1425
+01:47:39,147 --> 01:47:42,146
+Stay strong, Gerry!
+Stay strong, mate!
+
+1426
+01:47:42,147 --> 01:47:44,146
+Keep your chin up, mate!
+
+1427
+01:47:44,147 --> 01:47:45,865
+We're with you, Gerry!
+
+1428
+01:47:45,947 --> 01:47:48,142
+We're with you all the way, mate!
+
+1429
+01:48:01,227 --> 01:48:02,819
+He's still awake.
+
+1430
+01:48:17,747 --> 01:48:20,136
+Your father passed away
+an hour ago.
+
+1431
+01:48:21,227 --> 01:48:22,819
+Thank you very much.
+
+1432
+01:48:25,347 --> 01:48:27,144
+I'm sorry.
+
+1433
+01:48:58,587 --> 01:49:00,578
+Giuseppe is dead, man!
+
+1434
+01:49:01,547 --> 01:49:03,617
+They kill Giuseppe!
+
+1435
+01:49:09,387 --> 01:49:10,820
+Gerry, man!
+
+1436
+01:49:15,867 --> 01:49:17,664
+They killed Giuseppe!
+
+1437
+01:50:06,267 --> 01:50:09,145
+Well, I think they ought to take
+the word "compassion"...
+
+1438
+01:50:09,187 --> 01:50:11,143
+out of the English dictionary.
+
+1439
+01:50:14,227 --> 01:50:16,297
+They fouled the ball, Gareth.
+
+1440
+01:50:19,267 --> 01:50:22,942
+They fouled the fucking ball,
+and they're as guilty as sin.
+
+1441
+01:50:24,147 --> 01:50:27,139
+Believe me, if there's one thing
+I know about, it's guilt.
+
+1442
+01:50:28,507 --> 01:50:32,182
+Keep looking 'em in the eye,
+and it's gonna reveal itself.
+
+1443
+01:50:32,267 --> 01:50:34,337
+You have to keep up the pressure.
+
+1444
+01:50:37,387 --> 01:50:39,343
+Do what you have to do.
+
+1445
+01:50:41,427 --> 01:50:44,146
+Free the Four! Free the Four!
+
+1446
+01:51:03,267 --> 01:51:05,940
+Those were meant to be here
+three weeks ago.
+
+1447
+01:51:09,147 --> 01:51:12,583
+"The Parade of Innocence."
+What do you think?
+
+1448
+01:51:12,667 --> 01:51:15,146
+<i>Thousands of people
+lined the streets of Dublin...</i>
+
+1449
+01:51:15,147 --> 01:51:16,739
+<i>London and Liverpool today
+in demonstrations...</i>
+
+1450
+01:51:16,827 --> 01:51:18,863
+<i>demanding the release
+of the Guildford Four.</i>
+
+1451
+01:51:18,947 --> 01:51:22,146
+<i>- Questions have been raised...
+- Say good night to Daddy.</i>
+
+1452
+01:51:22,147 --> 01:51:24,581
+- Good night, Dad.
+- Good night, son.
+
+1453
+01:51:24,667 --> 01:51:26,498
+Free the Four! Free the Four!
+
+1454
+01:51:39,467 --> 01:51:41,503
+This was a mistake.
+
+1455
+01:51:42,467 --> 01:51:44,742
+Why don't we let her
+see the files?
+
+1456
+01:51:44,827 --> 01:51:47,136
+What harm could it do?
+
+1457
+01:51:47,187 --> 01:51:49,781
+- Mr Dixon!
+- Yes?
+
+1458
+01:51:49,867 --> 01:51:51,778
+Don't you get tired of this?
+
+1459
+01:51:51,867 --> 01:51:54,947
+This is a court order that I be allowed
+to see the Giuseppe Conlon case files.
+
+1460
+01:51:58,467 --> 01:52:01,220
+- Good morning.
+- There are a few rules to be observed.
+
+1461
+01:52:02,947 --> 01:52:05,307
+Here's a complete list of
+the Conlon, Giuseppe case files...
+
+1462
+01:52:05,347 --> 01:52:07,258
+the only files you'll need to see.
+
+1463
+01:52:07,347 --> 01:52:09,577
+I'll go to the file drawer
+and bring it out.
+
+1464
+01:52:09,667 --> 01:52:12,386
+You take a page at a time,
+read it and then return it.
+
+1465
+01:52:12,467 --> 01:52:15,265
+Sorry. Is there a problem,
+Mr Dixon?
+
+1466
+01:52:15,347 --> 01:52:17,224
+Problem?
+Not at all, Mrs Peirce.
+
+1467
+01:52:17,307 --> 01:52:20,777
+Our chief archivist, Mr Jenkins,
+is here to assist you.
+
+1468
+01:52:21,787 --> 01:52:24,221
+If you want to make a photocopy,
+I alone will do it.
+
+1469
+01:52:24,307 --> 01:52:27,140
+Use this pen at all times
+for any notes.
+
+1470
+01:52:27,227 --> 01:52:30,776
+If you deface any document, we can
+trace it through the ink in this pen.
+
+1471
+01:52:30,867 --> 01:52:35,463
+There are national security issues
+involved here, Mrs Peirce.
+
+1472
+01:52:35,547 --> 01:52:37,503
+We wouldn't want
+police intelligence files...
+
+1473
+01:52:37,587 --> 01:52:40,818
+leaked to the IRA now, would we?
+
+1474
+01:52:43,467 --> 01:52:45,264
+Conlon, Giuseppe file.
+
+1475
+01:52:45,347 --> 01:52:47,258
+Yes, sir.
+
+1476
+01:53:00,147 --> 01:53:02,615
+Leave my kit on the bus,
+'cause I'm not staying in your jail.
+
+1477
+01:53:02,707 --> 01:53:06,382
+So, our new VIP prisoner.
+
+1478
+01:53:06,467 --> 01:53:07,866
+Welcome to Scotland.
+
+1479
+01:53:07,947 --> 01:53:10,142
+I'm an innocent man.
+My father was an innocent man.
+
+1480
+01:53:10,187 --> 01:53:14,339
+He died in one of your jails.
+There's nothing you can do to hurt me.
+
+1481
+01:53:14,427 --> 01:53:16,338
+They've moved me to a Scottish
+jail to break my confidence.
+
+1482
+01:53:16,427 --> 01:53:19,817
+- Put him in solitary.
+- This is a peaceful protest.
+
+1483
+01:53:19,907 --> 01:53:21,465
+We'll teach you manners.
+
+1484
+01:53:21,547 --> 01:53:23,299
+Better men than you
+have tried that already.
+
+1485
+01:53:23,387 --> 01:53:25,901
+I have not seen my client
+for two months.
+
+1486
+01:53:26,147 --> 01:53:29,617
+He's been moved to Scotland, which has
+impeded my investigation into his case.
+
+1487
+01:53:29,707 --> 01:53:33,382
+So I'm filing this motion
+to gain proper access...
+
+1488
+01:53:33,467 --> 01:53:35,139
+Free the Four!
+
+1489
+01:53:50,947 --> 01:53:52,665
+Here, thanks a lot. Good day.
+
+1490
+01:53:52,747 --> 01:53:54,385
+Thanks, thanks, thanks.
+
+1491
+01:54:12,147 --> 01:54:15,378
+Sorry. Could you copy that
+for me, please?
+
+1492
+01:54:16,347 --> 01:54:18,497
+Thank you.
+
+1493
+01:54:27,947 --> 01:54:30,905
+<i>I just want my mother to be happy.</i>
+
+1494
+01:54:32,307 --> 01:54:35,458
+<i>I'd like her to know...</i>
+
+1495
+01:54:35,547 --> 01:54:39,222
+<i>that Giuseppe talked about her
+every day of his life.</i>
+
+1496
+01:54:41,707 --> 01:54:43,663
+<i>He missed her terribly.</i>
+
+1497
+01:54:48,587 --> 01:54:51,499
+<i>It's strange to be in a cell
+without him.</i>
+
+1498
+01:54:54,147 --> 01:54:56,741
+<i>I can't seem to get his face
+out of my mind.</i>
+
+1499
+01:54:56,827 --> 01:54:58,738
+<i>Everywhere I look, I see him.</i>
+
+1500
+01:55:06,147 --> 01:55:10,265
+<i>Strange what time does
+when you're in prison.</i>
+
+1501
+01:55:12,507 --> 01:55:16,341
+<i>Like, you can be staring
+at the wall.</i>
+
+1502
+01:55:16,427 --> 01:55:18,861
+<i>Drip, drip, drip.</i>
+
+1503
+01:55:21,187 --> 01:55:22,586
+<i>It takes an eternity.</i>
+
+1504
+01:55:22,667 --> 01:55:25,943
+<i>And then you blink,
+and three years have gone by.</i>
+
+1505
+01:55:30,947 --> 01:55:33,146
+<i>I mean, what I'm trying to...</i>
+
+1506
+01:55:33,147 --> 01:55:36,184
+<i>I don't know what the fuck
+I'm trying to say.</i>
+
+1507
+01:55:38,587 --> 01:55:41,545
+<i>But I can't forget
+what they did to my family.</i>
+
+1508
+01:55:43,307 --> 01:55:44,820
+<i>I just can't forget.</i>
+
+1509
+01:56:33,867 --> 01:56:35,220
+Morning.
+
+1510
+01:56:36,507 --> 01:56:39,146
+- Where's Jenkins?
+- He telephoned in sick.
+
+1511
+01:56:39,187 --> 01:56:41,496
+I'm afraid you're going
+to have to come back tomorrow.
+
+1512
+01:56:41,587 --> 01:56:44,340
+I can't. I'm in court tomorrow.
+There's too much to get through.
+
+1513
+01:56:44,427 --> 01:56:45,906
+I can't help you.
+
+1514
+01:56:46,147 --> 01:56:47,899
+Please. I've got the court order.
+
+1515
+01:56:48,147 --> 01:56:50,388
+You saw what Mr Jenkins did.
+He just brings me the files.
+
+1516
+01:56:50,467 --> 01:56:52,935
+I take the notes and give them
+back to you. Please.
+
+1517
+01:56:53,147 --> 01:56:55,741
+- What name is it?
+- Conlon.
+
+1518
+01:56:55,827 --> 01:56:58,864
+- All right.
+- Thanks. Thank you very much. Cheers.
+
+1519
+01:57:04,787 --> 01:57:06,505
+What name was that again?
+
+1520
+01:57:08,187 --> 01:57:10,337
+We've got two Conlon boxes.
+
+1521
+01:57:10,427 --> 01:57:14,181
+Is it Giuseppe Conlon
+or Gerard Conlon?
+
+1522
+01:57:16,227 --> 01:57:17,660
+Gerard.
+
+1523
+01:57:25,147 --> 01:57:27,138
+Well, that's for starters.
+
+1524
+01:57:49,147 --> 01:57:50,421
+<i>Fuck 'em!</i>
+
+1525
+01:57:53,187 --> 01:57:54,620
+It's good news.
+
+1526
+01:57:55,787 --> 01:57:59,143
+We're talking about
+a piece of evidence...
+
+1527
+01:57:59,227 --> 01:58:02,617
+that says they knew all along,
+that they let my father die in prison?
+
+1528
+01:58:02,707 --> 01:58:05,665
+Would you mind telling me
+what's good about that?
+
+1529
+01:58:05,747 --> 01:58:07,658
+We'll get them in court.
+
+1530
+01:58:07,747 --> 01:58:10,580
+"We'll get them in court"?
+Will you catch yourself on?
+
+1531
+01:58:10,667 --> 01:58:13,739
+They've kept us in prison for 15 years.
+They can keep us in for another 15.
+
+1532
+01:58:13,827 --> 01:58:15,738
+This is the fucking
+government, Gareth!
+
+1533
+01:58:15,827 --> 01:58:18,864
+It's the fucking government!
+What are they gonna say?
+
+1534
+01:58:18,947 --> 01:58:21,142
+"We're sorry about that"?
+
+1535
+01:58:22,307 --> 01:58:25,265
+"Made a wee bit of a mistake,
+but you can be on your way now"?
+
+1536
+01:58:25,347 --> 01:58:27,497
+What are they gonna say?
+"Sorry we killed your da"?
+
+1537
+01:58:27,587 --> 01:58:30,499
+"Sorry we fucked
+your fucking life to hell"?
+
+1538
+01:58:47,947 --> 01:58:50,905
+I am not putting my mother
+through hell again.
+
+1539
+01:58:51,947 --> 01:58:53,699
+Are you afraid of court?
+
+1540
+01:58:53,787 --> 01:58:56,142
+I just don't wanna be
+humiliated again.
+
+1541
+01:59:17,267 --> 01:59:18,825
+I swear by Almighty God...
+
+1542
+01:59:18,907 --> 01:59:22,297
+that the evidence I shall give
+shall be the truth, the whole truth...
+
+1543
+01:59:22,387 --> 01:59:24,343
+and nothing but the truth.
+
+1544
+01:59:31,387 --> 01:59:35,744
+Mr Dixon, do you know
+these young people...
+
+1545
+01:59:35,827 --> 01:59:38,182
+known as the Guildford Four?
+
+1546
+01:59:40,827 --> 01:59:42,226
+Yes, I do.
+
+1547
+01:59:42,307 --> 01:59:45,424
+Do you know how long
+they have spent in jail?
+
+1548
+01:59:46,467 --> 01:59:47,866
+Fifteen years.
+
+1549
+01:59:50,627 --> 01:59:52,379
+Do you know Annie Maguire...
+
+1550
+01:59:53,347 --> 01:59:56,544
+who served her 14 years
+without remission?
+
+1551
+01:59:57,587 --> 02:00:00,420
+Do you know her son Vincent
+who served five years?
+
+1552
+02:00:00,507 --> 02:00:03,260
+Her son Patrick who served four?
+Do you know her husband...
+
+1553
+02:00:03,347 --> 02:00:06,305
+Paddy Maguire, who served 12 years?
+
+1554
+02:00:07,387 --> 02:00:11,300
+Carole Richardson was 17
+when she went to jail, Mr Dixon.
+
+1555
+02:00:11,387 --> 02:00:13,218
+Now she is 32.
+
+1556
+02:00:15,147 --> 02:00:17,146
+Do you know Carole Richardson?
+
+1557
+02:00:17,147 --> 02:00:21,425
+- What is the point of this?
+- Yes, come to the point.
+
+1558
+02:00:27,707 --> 02:00:31,143
+Do you know who this is, Mr Dixon?
+
+1559
+02:00:34,947 --> 02:00:36,744
+No, I don't.
+
+1560
+02:00:36,827 --> 02:00:38,624
+Well, then would you be so kind...
+
+1561
+02:00:38,707 --> 02:00:42,146
+as to read this statement
+that you took from him...
+
+1562
+02:00:42,147 --> 02:00:45,139
+on the third of November, 1974?
+
+1563
+02:00:45,227 --> 02:00:48,936
+A statement, My Lord, which
+vindicates all of these people...
+
+1564
+02:00:49,147 --> 02:00:51,945
+- all these innocent people.
+- I need to see a copy of this statement.
+
+1565
+02:00:52,147 --> 02:00:55,583
+Either that man or his superior
+or his superior's superior...
+
+1566
+02:00:55,667 --> 02:00:58,739
+ordered that these people
+be used as scapegoats...
+
+1567
+02:00:58,827 --> 02:01:01,944
+by a nation
+that was baying for blood...
+
+1568
+02:01:02,147 --> 02:01:04,900
+in return for the innocent blood
+spilled on the streets of Guildford!
+
+1569
+02:01:05,147 --> 02:01:08,146
+- You got your blood, Mr Dixon!
+- She is making a political speech.
+
+1570
+02:01:08,147 --> 02:01:11,696
+You got the blood of Giuseppe Conlon
+and the lifeblood of Carole Richardson!
+
+1571
+02:01:11,787 --> 02:01:14,904
+You got 15 years of blood and sweat
+and pain from my client...
+
+1572
+02:01:15,147 --> 02:01:17,820
+whose only crime
+was that he was Irish...
+
+1573
+02:01:17,907 --> 02:01:20,546
+and foolish, and he was in
+the wrong place at the wrong time!
+
+1574
+02:01:20,627 --> 02:01:23,664
+Mrs Peirce, I will have you
+removed from the court.
+
+1575
+02:01:29,747 --> 02:01:32,341
+And one of your colleagues,
+My Lord...
+
+1576
+02:01:32,427 --> 02:01:35,499
+who sat where you sit now said,
+"It is a pity..."
+
+1577
+02:01:35,587 --> 02:01:38,146
+you were not charged
+with treason to the Crown...
+
+1578
+02:01:38,147 --> 02:01:41,856
+a charge that carries a penalty
+of death by hanging...
+
+1579
+02:01:41,947 --> 02:01:45,178
+"a sentence I would have no difficulty
+in passing in this case."
+
+1580
+02:01:45,267 --> 02:01:48,179
+Mrs Peirce, I am trying
+to read this document.
+
+1581
+02:01:48,267 --> 02:01:51,498
+I will not tell you again
+to be silent...
+
+1582
+02:01:51,587 --> 02:01:55,136
+or you will be removed
+from the court.
+
+1583
+02:02:37,147 --> 02:02:39,377
+My Lord, this document...
+
+1584
+02:02:39,467 --> 02:02:42,618
+brings the entire British
+legal system into disrepute.
+
+1585
+02:02:42,707 --> 02:02:45,267
+My Lord, this is new evidence.
+
+1586
+02:02:45,347 --> 02:02:47,383
+It is shocking new evidence.
+
+1587
+02:02:47,467 --> 02:02:49,146
+My Lord, this evidence...
+
+1588
+02:02:49,147 --> 02:02:52,344
+was not submitted at the trial
+that is under appeal.
+
+1589
+02:02:52,427 --> 02:02:56,136
+That, I believe, is the point
+Mrs Peirce is trying to make.
+
+1590
+02:02:56,187 --> 02:02:58,860
+- Proceed, Mrs Peirce.
+- My Lord, I demand a recess.
+
+1591
+02:02:58,947 --> 02:03:02,940
+There will be no demands made
+in my court.
+
+1592
+02:03:03,147 --> 02:03:04,466
+Stand back.
+
+1593
+02:03:09,147 --> 02:03:11,707
+This alibi for Gerry Conlon...
+
+1594
+02:03:11,787 --> 02:03:13,539
+was taken by Mr Dixon...
+
+1595
+02:03:13,627 --> 02:03:16,858
+one month after
+Gerry Conlon was arrested.
+
+1596
+02:03:16,947 --> 02:03:21,146
+This note was attached to it
+when I found it in police files.
+
+1597
+02:03:21,147 --> 02:03:24,503
+It reads, "Not to be shown
+to the defense."
+
+1598
+02:03:30,467 --> 02:03:33,539
+I have one question
+to ask you, Mr Dixon:
+
+1599
+02:03:33,627 --> 02:03:35,777
+Why was the alibi for Gerry Conlon...
+
+1600
+02:03:35,867 --> 02:03:40,145
+who was charged with the murder
+of five innocent people...
+
+1601
+02:03:40,227 --> 02:03:42,263
+kept from the defense?
+
+1602
+02:03:50,147 --> 02:03:52,138
+- Give us an answer!
+- Answer the question!
+
+1603
+02:03:52,907 --> 02:03:54,818
+Silence!
+
+1604
+02:03:54,907 --> 02:03:57,944
+- It's about time!
+- Order in the court!
+
+1605
+02:03:59,347 --> 02:04:02,145
+My Lord, I would like
+to approach the bench.
+
+1606
+02:04:02,187 --> 02:04:03,779
+This is most irregular.
+
+1607
+02:04:03,867 --> 02:04:06,540
+Yes. I am aware of that, My Lord.
+
+1608
+02:04:07,427 --> 02:04:09,304
+Very well.
+
+1609
+02:04:24,747 --> 02:04:27,307
+Mr Dixon, you may stand down.
+
+1610
+02:04:28,867 --> 02:04:32,177
+This is the man
+who should be under arrest!
+
+1611
+02:04:32,267 --> 02:04:34,462
+Be silent, Mrs Peirce!
+
+1612
+02:04:34,547 --> 02:04:36,856
+- This court is now in recess.
+- Guards, get ready.
+
+1613
+02:04:36,947 --> 02:04:39,336
+Don't try and make me
+the fall guy...
+
+1614
+02:04:39,427 --> 02:04:42,385
+for the whole
+British legal establishment.
+
+1615
+02:04:46,467 --> 02:04:48,537
+If I accept this mercy deal...
+
+1616
+02:04:48,627 --> 02:04:50,538
+They have a flipping cheek,
+offering me mercy.
+
+1617
+02:04:50,627 --> 02:04:52,538
+They should be begging
+for mercy themselves.
+
+1618
+02:04:52,627 --> 02:04:54,299
+- You ready, Mr Conlon?
+- Aye.
+
+1619
+02:04:54,387 --> 02:04:56,457
+I know the difference
+between right and wrong.
+
+1620
+02:04:56,547 --> 02:04:59,146
+The truth has to come out.
+They may not want to hear it...
+
+1621
+02:04:59,147 --> 02:05:01,146
+but there's people outside
+who'll listen.
+
+1622
+02:05:01,147 --> 02:05:03,707
+- Just think about it, will you?
+- All right.
+
+1623
+02:05:03,787 --> 02:05:05,937
+Aye. Give us three of them.
+
+1624
+02:05:21,667 --> 02:05:23,259
+Silence!
+
+1625
+02:05:25,907 --> 02:05:28,546
+<i>In the matter of Her Majesty...</i>
+
+1626
+02:05:28,627 --> 02:05:31,425
+<i>versus Gerard Patrick Conlon...</i>
+
+1627
+02:05:31,507 --> 02:05:34,419
+the case is hereby dismissed.
+
+1628
+02:05:39,147 --> 02:05:41,342
+My husband died in your prison
+an innocent man!
+
+1629
+02:05:41,427 --> 02:05:44,737
+I'm going out the front door.
+I'll see you outside.
+
+1630
+02:05:44,827 --> 02:05:46,863
+- This way.
+- I'm going out the front door.
+
+1631
+02:05:46,947 --> 02:05:48,221
+What about Giuseppe Conlon?
+
+1632
+02:05:48,307 --> 02:05:51,140
+Your Honor,
+he was an innocent man!
+
+1633
+02:05:53,827 --> 02:05:55,579
+Mr Conlon, that's not a good idea.
+
+1634
+02:05:55,667 --> 02:05:57,419
+Use the back,
+for security reasons.
+
+1635
+02:05:57,507 --> 02:05:59,577
+I'm a free man,
+and I'm going out the front door.
+
+1636
+02:06:00,707 --> 02:06:04,222
+<i>In the matter of
+Her Majesty versus Paul Hill...</i>
+
+1637
+02:06:04,307 --> 02:06:07,936
+the case is hereby dismissed.
+
+1638
+02:06:14,747 --> 02:06:18,945
+Leave me alone!
+I'm going out the front door with Gerry!
+
+1639
+02:06:21,267 --> 02:06:26,261
+<i>In the matter of
+Her Majesty versus Patrick Armstrong...</i>
+
+1640
+02:06:26,347 --> 02:06:28,338
+the case is hereby dismissed.
+
+1641
+02:06:30,507 --> 02:06:35,137
+<i>In the matter of
+Her Majesty versus Carole Richardson...</i>
+
+1642
+02:06:35,187 --> 02:06:38,657
+the case is hereby dismissed.
+
+1643
+02:06:38,747 --> 02:06:40,260
+I'm an innocent man!
+
+1644
+02:06:40,347 --> 02:06:44,181
+I spent 15 years in prison
+for something I didn't do!
+
+1645
+02:06:44,267 --> 02:06:46,178
+I watched my father die...
+
+1646
+02:06:46,267 --> 02:06:49,145
+in a British prison
+for something he didn't do!
+
+1647
+02:06:49,187 --> 02:06:52,145
+And this government
+still says he's guilty!
+
+1648
+02:06:52,227 --> 02:06:53,899
+I want to tell them...
+
+1649
+02:06:54,147 --> 02:06:57,139
+that until my father
+is proved innocent...
+
+1650
+02:06:57,187 --> 02:07:01,260
+until all the people involved
+in this case are proved innocent...
+
+1651
+02:07:01,347 --> 02:07:03,861
+until the guilty ones
+are brought to justice...
+
+1652
+02:07:03,947 --> 02:07:06,146
+I will fight on...
+
+1653
+02:07:06,147 --> 02:07:09,776
+in the name of my father
+and of the truth!

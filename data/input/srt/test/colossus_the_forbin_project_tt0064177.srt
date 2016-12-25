@@ -1,0 +1,5194 @@
+1
+00:00:30,043 --> 00:00:36,037
+Colossus - The Forbin Project
+(The brain of steel)
+
+2
+00:04:31,263 --> 00:04:34,598
+Look here,
+please.
+
+3
+00:04:58,024 --> 00:05:00,548
+Mr. President.
+All systems are activated.
+
+4
+00:05:00,678 --> 00:05:02,651
+I hope
+I've not kept waiting.
+
+5
+00:05:03,319 --> 00:05:05,978
+Congratulations, Dr. Forbin,
+for your great work.
+
+6
+00:05:06,805 --> 00:05:08,852
+A car awaits us.
+
+7
+00:05:10,710 --> 00:05:15,663
+This stuff will put us in retirement,
+but ... Congratulations, Dr. Forbin!
+
+8
+00:05:15,666 --> 00:05:17,093
+That will not happen.
+
+9
+00:05:17,173 --> 00:05:19,446
+Listen, he's the most relieved!
+
+10
+00:05:20,547 --> 00:05:23,720
+The Secretary of Defense
+Secretary of State and myself,
+
+11
+00:05:24,188 --> 00:05:28,162
+have discussed how
+to announce the news:
+
+12
+00:05:31,170 --> 00:05:33,671
+we are all agreed,
+it will be simple and direct.
+
+13
+00:05:33,836 --> 00:05:37,166
+We will disclose
+the greatest secret of history.
+
+14
+00:05:37,717 --> 00:05:39,950
+It only remains
+to warn everyone.
+
+15
+00:05:50,298 --> 00:05:56,603
+"No Trespassing
+Risk of death - Radiation "
+
+16
+00:05:59,068 --> 00:06:01,425
+<i> My friends, citizens of the world, </ i>
+
+17
+00:06:02,544 --> 00:06:06,505
+<i> for years, we lived
+under the threat of a disaster </ i>
+
+18
+00:06:07,443 --> 00:06:10,200
+<i> too horrible to contemplate. </ i>
+
+19
+00:06:10,227 --> 00:06:12,470
+<i> It is an old saying:
+"To err is human". </ I>
+
+20
+00:06:12,549 --> 00:06:15,178
+<i> We can not accept it. </ i>
+
+21
+00:06:15,530 --> 00:06:18,601
+<i> For years,
+the U.S. has worked on this problem. </ i>
+
+22
+00:06:19,073 --> 00:06:21,843
+<i> For years,
+this was our best kept secret, </ i>
+
+23
+00:06:22,100 --> 00:06:24,885
+<i> the great effort
+and substantial funding. </ i>
+
+24
+00:06:26,080 --> 00:06:28,300
+<i> But we managed. </ i>
+
+25
+00:06:29,145 --> 00:06:31,175
+<i> As U.S. President </ i>
+
+26
+00:06:31,341 --> 00:06:36,307
+<i> I can announce to the world
+at 3 pm GMT, </ i>
+
+27
+00:06:36,833 --> 00:06:41,318
+<i> defense of this country,
+and beyond the free world, </ i>
+
+28
+00:06:41,682 --> 00:06:43,717
+<i> was assigned to a machine. </ i>
+
+29
+00:06:45,322 --> 00:06:47,217
+<i> A system called "Colossus". </ i>
+
+30
+00:06:48,434 --> 00:06:50,899
+The most advanced ever built,
+
+31
+00:06:51,862 --> 00:06:54,422
+able to study the information,
+
+32
+00:06:55,009 --> 00:06:59,339
+and, based on facts alone,
+from deciding to launch an attack.
+
+33
+00:07:00,513 --> 00:07:02,477
+If it detects an imminent
+assault,
+
+34
+00:07:02,568 --> 00:07:06,161
+Colossus will react immediately,
+taking control of nuclear weapons.
+
+35
+00:07:06,455 --> 00:07:09,633
+It can select and execute
+what seems most appropriate.
+
+36
+00:07:10,646 --> 00:07:14,158
+Its decisions are superior
+those that could take a human.
+
+37
+00:07:14,773 --> 00:07:17,119
+His knowledge and analytical skills
+
+38
+00:07:17,204 --> 00:07:20,012
+surpass those of the greatest geniuses.
+
+39
+00:07:21,652 --> 00:07:24,127
+And, most important of all:
+he has no emotions,
+
+40
+00:07:24,482 --> 00:07:26,972
+neither fear nor hatred nor desires.
+
+41
+00:07:27,758 --> 00:07:30,075
+He can not act
+under the influence of feelings.
+
+42
+00:07:30,543 --> 00:07:32,839
+It does nothing
+if there is no threat.
+
+43
+00:07:34,167 --> 00:07:36,437
+Here Dr. Charles Forbin,
+
+44
+00:07:36,687 --> 00:07:38,913
+the largest
+world expert in computers
+
+45
+00:07:39,490 --> 00:07:41,872
+and somehow,
+the father of Colossus.
+
+46
+00:07:44,446 --> 00:07:45,982
+Thank you, Mr. President.
+
+47
+00:07:46,389 --> 00:07:50,159
+Ladies and gentlemen, I will be brief.
+
+48
+00:07:51,806 --> 00:07:55,713
+The main memory and Calculators
+located in the Rockies
+
+49
+00:07:56,782 --> 00:08:00,868
+the heart of the mountain,
+in Colorado.
+
+50
+00:08:01,773 --> 00:08:04,423
+<i> Overlooking the Pacific
+California, </ i>
+
+51
+00:08:05,216 --> 00:08:09,218
+<i> the Office of Programs Colossus
+oversees all operations. </ i>
+
+52
+00:08:11,239 --> 00:08:13,279
+The computer center <i> </ i>
+
+53
+00:08:13,893 --> 00:08:18,303
+<i> houses 100,000 sensors and tools
+Long-distance communication, </ i>
+
+54
+00:08:18,679 --> 00:08:21,580
+includes all modes
+of transmittal,
+
+55
+00:08:21,736 --> 00:08:26,042
+microwave, laser, TV networks,
+
+56
+00:08:26,744 --> 00:08:28,818
+data transmission, satellite,
+
+57
+00:08:29,043 --> 00:08:30,671
+worldwide.
+
+58
+00:08:31,333 --> 00:08:32,963
+The whole system
+
+59
+00:08:33,340 --> 00:08:36,493
+is protected by powerful fields
+electromagnetic
+
+60
+00:08:36,531 --> 00:08:38,498
+and other means of cons-measures.
+
+61
+00:08:39,896 --> 00:08:42,590
+Colossus works
+without human intervention.
+
+62
+00:08:42,889 --> 00:08:46,249
+Its location is not secret,
+
+63
+00:08:47,049 --> 00:08:49,822
+nor do its functions.
+
+64
+00:08:50,642 --> 00:08:54,361
+He is totally vulnerable to attack,
+Front or indirect,
+
+65
+00:08:54,405 --> 00:08:58,271
+and if one of them succeeded,
+we would be defenseless.
+
+66
+00:08:58,717 --> 00:09:00,011
+<i> However, </ i>
+
+67
+00:09:00,948 --> 00:09:03,360
+<i> Colossus has its own defenses. </ i>
+
+68
+00:09:04,596 --> 00:09:06,318
+<i> It is its own defense. </ i>
+
+69
+00:09:06,617 --> 00:09:08,316
+If attacked <i> </ i>
+
+70
+00:09:08,789 --> 00:09:12,071
+<i> against its sources of information
+or power, </ i>
+
+71
+00:09:12,365 --> 00:09:15,120
+<i> Colossus branch
+on its uninterruptible power supply </ i>
+
+72
+00:09:15,480 --> 00:09:17,329
+<i> which provides for all its needs. </ i>
+
+73
+00:09:17,490 --> 00:09:19,924
+It is self-sufficient,
+
+74
+00:09:20,482 --> 00:09:23,299
+protects itself alone, eats alone,
+
+75
+00:09:24,584 --> 00:09:26,292
+he is invulnerable.
+
+76
+00:09:27,195 --> 00:09:28,713
+Clearly,
+
+77
+00:09:29,253 --> 00:09:30,865
+there is no way,
+
+78
+00:09:31,002 --> 00:09:33,098
+for any human
+to attack him.
+
+79
+00:09:34,653 --> 00:09:36,172
+Before us,
+
+80
+00:09:38,023 --> 00:09:43,746
+this is one of many terminals
+connected to the computer center.
+
+81
+00:09:46,334 --> 00:09:49,977
+With this, Colossus
+can contact us,
+
+82
+00:09:53,311 --> 00:09:57,451
+and with this machine,
+we can communicate with him.
+
+83
+00:09:59,784 --> 00:10:01,755
+One last thing.
+
+84
+00:10:02,637 --> 00:10:04,491
+An inevitable question,
+
+85
+00:10:05,267 --> 00:10:07,645
+I have often been asked.
+
+86
+00:10:12,134 --> 00:10:15,163
+Colossus can he think?
+
+87
+00:10:18,017 --> 00:10:19,918
+Is it rational person?
+
+88
+00:10:21,868 --> 00:10:24,081
+The answer is "No".
+
+89
+00:10:25,133 --> 00:10:28,071
+<i> However, Colossus
+is a paragon of knowledge. </ i>
+
+90
+00:10:28,292 --> 00:10:30,912
+<i> Knowledge
+that can grow without limit. </ i>
+
+91
+00:10:32,860 --> 00:10:35,405
+<i> I hope, as scientists </ i>
+
+92
+00:10:36,720 --> 00:10:39,066
+<i> who helped me with this project, </ i>
+
+93
+00:10:39,832 --> 00:10:42,945
+that the power of this computer
+will not only
+
+94
+00:10:43,544 --> 00:10:45,359
+the defense of this country,
+
+95
+00:10:46,045 --> 00:10:50,041
+but also to solve
+global issues
+
+96
+00:10:50,601 --> 00:10:52,836
+and those that will confront us
+
+97
+00:10:53,513 --> 00:10:56,125
+when we enter
+the mysteries of the universe.
+
+98
+00:11:00,849 --> 00:11:02,651
+Thank you, Dr. Forbin.
+
+99
+00:11:06,183 --> 00:11:09,265
+<i> And so, fellow humans, </ i>
+
+100
+00:11:10,504 --> 00:11:15,517
+<i> we now live in the shelter,
+and not in the shadow of Colossus. </ i>
+
+101
+00:11:17,037 --> 00:11:19,307
+I sincerely hope <i>
+that now, </ i>
+
+102
+00:11:19,655 --> 00:11:23,178
+<i> we can join
+our hands and our hearts </ i>
+
+103
+00:11:23,471 --> 00:11:25,644
+<i> and devote our time
+our energies and </ i>
+
+104
+00:11:26,219 --> 00:11:30,388
+<i> to eradicate war,
+famine and suffering. </ i>
+
+105
+00:11:31,294 --> 00:11:34,030
+This will be the beginning <i>
+the golden age of humanity. </ i>
+
+106
+00:11:35,430 --> 00:11:37,044
+<i> We can do it. </ i>
+
+107
+00:11:37,168 --> 00:11:39,041
+<i> But first, you have peace. </ i>
+
+108
+00:11:53,885 --> 00:11:56,021
+Rest room,
+Blake to the device.
+
+109
+00:11:57,795 --> 00:12:00,400
+One moment, I hear nothing.
+Silence!
+
+110
+00:12:01,141 --> 00:12:03,928
+Stop that noise!
+This is the White House!
+
+111
+00:12:08,556 --> 00:12:11,252
+- How are you?
+- Okay.
+
+112
+00:12:11,952 --> 00:12:15,600
+<i> We had a problem
+with an infrared satellite ... </ i>
+
+113
+00:12:15,662 --> 00:12:17,524
+I hear nothing, Dr. Markham.
+
+114
+00:12:17,653 --> 00:12:20,911
+<i> A power problem
+a satellite infrared </ i>
+
+115
+00:12:20,977 --> 00:12:22,630
+<i> there was half past one, </ i>
+
+116
+00:12:22,857 --> 00:12:25,285
+<i> but Colossus was connected
+on the inverter. </ i>
+
+117
+00:12:25,356 --> 00:12:27,609
+<i> He lost no data.
+Since then, all is well. </ I>
+
+118
+00:12:27,648 --> 00:12:30,552
+It's going so well
+that has nothing to care!
+
+119
+00:12:30,604 --> 00:12:34,313
+And despair,
+Angela and I are getting married!
+
+120
+00:12:37,150 --> 00:12:40,387
+- Congratulations!
+- It's your team?
+
+121
+00:12:40,513 --> 00:12:42,682
+- Yes, sir.
+- I want to talk to them.
+
+122
+00:12:47,076 --> 00:12:48,930
+Well you have fun?
+
+123
+00:12:50,880 --> 00:12:53,851
+I wish you <i>
+Congratulations to all, </ i>
+
+124
+00:12:53,863 --> 00:12:56,089
+<i> and good luck
+for your future projects! </ i>
+
+125
+00:12:56,979 --> 00:12:58,747
+Relax, you deserve it!
+
+126
+00:13:00,586 --> 00:13:02,603
+<i> You seem to have fun! </ i>
+
+127
+00:13:05,213 --> 00:13:07,705
+<i> fun,
+I give you Dr. Forbin. </ i>
+
+128
+00:13:08,101 --> 00:13:12,047
+<i> Charles, how is the ceremony? </ i>
+
+129
+00:13:12,481 --> 00:13:16,120
+<i> I'd be with you,
+I'm bored to death! </ i>
+
+130
+00:13:23,270 --> 00:13:25,138
+Not this song, please!
+
+131
+00:13:29,152 --> 00:13:31,221
+<i> Doctor, bring some memories! </ i>
+
+132
+00:13:31,223 --> 00:13:32,442
+What?
+
+133
+00:13:32,665 --> 00:13:34,835
+Fly ash trays <i>
+White House </ i>
+
+134
+00:13:41,517 --> 00:13:44,605
+The President
+would like to say a few words.
+
+135
+00:13:48,595 --> 00:13:50,500
+Everyone has to drink?
+
+136
+00:13:53,325 --> 00:13:55,146
+Help yourself, I'll wait.
+
+137
+00:13:56,083 --> 00:13:58,021
+Harry Truman said, there has for years
+
+138
+00:13:58,300 --> 00:14:00,662
+when everyone was trying
+to discard a problem,
+
+139
+00:14:00,694 --> 00:14:02,247
+it failed on his desk.
+
+140
+00:14:02,248 --> 00:14:03,874
+This is no longer true, now!
+
+141
+00:14:05,721 --> 00:14:07,861
+Colossus will now assume
+this charge.
+
+142
+00:14:08,058 --> 00:14:11,622
+He will be responsible
+of millions of Americans,
+
+143
+00:14:11,675 --> 00:14:14,854
+responsibility for Roosevelt,
+based on the President.
+
+144
+00:14:15,192 --> 00:14:19,113
+With this, the mysteries of science
+will no longer ...
+
+145
+00:14:26,654 --> 00:14:29,458
+WARNING:
+THERE IS ANOTHER SYSTEM
+
+146
+00:14:32,263 --> 00:14:35,154
+WARNING:
+THERE IS ANOTHER SYSTEM
+
+147
+00:14:46,071 --> 00:14:48,584
+Your attention!
+
+148
+00:14:52,024 --> 00:14:55,364
+Unauthorized persons
+must leave the room. Sorry.
+
+149
+00:15:08,227 --> 00:15:10,257
+This is a farce?
+
+150
+00:15:10,418 --> 00:15:12,925
+<i> Sorry, I can not hear anything! </ i>
+
+151
+00:15:13,990 --> 00:15:17,506
+Tell them to stop singing!
+
+152
+00:15:22,337 --> 00:15:24,192
+What's going on?
+"Another system"?
+
+153
+00:15:24,193 --> 00:15:26,550
+No idea.
+I'm looking for.
+
+154
+00:15:31,100 --> 00:15:33,895
+We have a message
+Colossus of Washington.
+
+155
+00:15:34,024 --> 00:15:35,877
+How do you explain that?
+
+156
+00:15:36,673 --> 00:15:38,550
+<i> It's impossible! </ i>
+
+157
+00:15:40,299 --> 00:15:42,503
+Listen!
+
+158
+00:15:43,143 --> 00:15:45,534
+A strange message appeared.
+
+159
+00:15:46,251 --> 00:15:48,311
+No, I'm not kidding!
+
+160
+00:15:48,387 --> 00:15:50,769
+He said: "There is another system".
+
+161
+00:15:51,843 --> 00:15:53,678
+<i> Your attention, please. </ i>
+
+162
+00:15:54,602 --> 00:15:56,603
+Dr. Markham, and all others
+
+163
+00:15:57,617 --> 00:16:00,785
+check the program
+control administrator.
+
+164
+00:16:02,208 --> 00:16:06,036
+Mr. President, Ambassador
+Soviet insists you speak.
+
+165
+00:16:09,594 --> 00:16:11,388
+Why this call,
+Ambassador?
+
+166
+00:16:11,389 --> 00:16:14,248
+- Give me the CPO.
+- Yes, we are very proud.
+
+167
+00:16:16,749 --> 00:16:20,434
+- Repeat, please.
+- Jeff, test the hardware.
+
+168
+00:16:22,085 --> 00:16:24,008
+Thank you for the accused.
+
+169
+00:16:24,743 --> 00:16:27,521
+No, no comment.
+Good night, Mr. Ambassador.
+
+170
+00:16:29,603 --> 00:16:32,250
+Dr. Fisher,
+run the test program.
+
+171
+00:16:32,325 --> 00:16:34,993
+Call Grauber.
+I want to know what the damn CIA.
+
+172
+00:16:39,799 --> 00:16:44,264
+The Council of the USSR announced
+tomorrow 23 am Moscow time,
+
+173
+00:16:45,156 --> 00:16:49,331
+the activation of an electronic brain,
+similar to ours, called "Guardian"
+
+174
+00:16:49,530 --> 00:16:51,255
+used only for their defense.
+
+175
+00:16:51,256 --> 00:16:53,677
+My God, it's him, the other system!
+
+176
+00:16:54,894 --> 00:16:57,521
+Stop all operations.
+
+177
+00:16:57,577 --> 00:17:00,333
+The system will need
+with all its power.
+
+178
+00:17:00,401 --> 00:17:02,443
+Complete radio silence
+at the central site.
+
+179
+00:17:02,444 --> 00:17:04,933
+No military operation
+without my permission!
+
+180
+00:17:07,058 --> 00:17:09,272
+Charles, what do you think
+does this mean?
+
+181
+00:17:09,972 --> 00:17:13,715
+Frankly, I do not know.
+
+182
+00:17:14,011 --> 00:17:16,721
+I do. It means
+there has been a leak.
+
+183
+00:17:18,215 --> 00:17:20,775
+Science
+is a series of coincidences.
+
+184
+00:17:21,736 --> 00:17:24,800
+- Peterson's new?
+- Attempts to reach him, he recalls.
+
+185
+00:17:24,852 --> 00:17:26,335
+Byron?
+
+186
+00:17:26,407 --> 00:17:29,066
+You said that we were
+ahead of the Russians.
+
+187
+00:17:29,128 --> 00:17:32,012
+We should have won this race!
+
+188
+00:17:32,203 --> 00:17:33,576
+It's a dirty trick,
+
+189
+00:17:33,577 --> 00:17:35,971
+but we were the first,
+nobody can deny.
+
+190
+00:17:35,972 --> 00:17:38,944
+And positive,
+is that Colossus has discovered everything.
+
+191
+00:17:39,001 --> 00:17:41,195
+I did not expect this kind of bonus.
+
+192
+00:17:41,813 --> 00:17:44,129
+- Neither do I.
+- What do you mean?
+
+193
+00:17:44,349 --> 00:17:46,248
+I am also surprised
+you, sir.
+
+194
+00:17:46,298 --> 00:17:48,081
+It's easy to say.
+
+195
+00:17:48,142 --> 00:17:50,309
+You have a Russian agent
+in your team.
+
+196
+00:17:50,727 --> 00:17:53,152
+- Where is Grauber?
+- Sometimes, Mr. President.
+
+197
+00:17:54,003 --> 00:17:57,561
+OK, what do you mean by "surprise"?
+
+198
+00:17:57,842 --> 00:18:00,133
+Either the system is buggy,
+
+199
+00:18:01,423 --> 00:18:03,632
+or it is better than expected.
+
+200
+00:18:36,131 --> 00:18:37,549
+Hello, Charles.
+
+201
+00:18:40,464 --> 00:18:43,701
+I canceled all leave.
+The team was urgently recalled.
+
+202
+00:18:45,123 --> 00:18:48,116
+White House meets
+Defense counsel tomorrow morning.
+
+203
+00:18:48,481 --> 00:18:51,379
+- They want you to be there.
+- That leaves little time.
+
+204
+00:18:55,089 --> 00:18:58,466
+Power generators
+work to 4% of their capacity.
+
+205
+00:18:58,771 --> 00:19:01,006
+Well, this is below the limits.
+
+206
+00:19:02,082 --> 00:19:05,462
+I checked the Memorandum
+communication. That's perfect.
+
+207
+00:19:06,371 --> 00:19:09,009
+Now what?
+I tried everything.
+
+208
+00:19:09,201 --> 00:19:13,167
+Enter a dummy instruction
+and see if it changes something.
+
+209
+00:19:16,513 --> 00:19:18,599
+The system may be overloaded?
+
+210
+00:19:18,871 --> 00:19:21,778
+- You found something?
+- Nothing. Everything was checked.
+
+211
+00:19:21,875 --> 00:19:23,556
+Let me look.
+
+212
+00:19:30,371 --> 00:19:32,227
+Always the same.
+
+213
+00:19:33,495 --> 00:19:34,900
+Harrison ...
+
+214
+00:19:38,041 --> 00:19:41,919
+Check the settings and see if in
+combine two produces a new effect.
+
+215
+00:19:43,102 --> 00:19:44,774
+Dr. Fischer, thank you.
+
+216
+00:19:46,282 --> 00:19:47,679
+Jeff ...
+
+217
+00:19:48,366 --> 00:19:51,272
+The circuits look good.
+I think they are perfect.
+
+218
+00:19:52,699 --> 00:19:54,300
+Thank you for your help ...
+
+219
+00:19:55,001 --> 00:19:56,319
+Fields miss ...
+
+220
+00:19:56,413 --> 00:19:58,920
+I suggest you start
+
+221
+00:19:59,446 --> 00:20:01,343
+with the test program A-15-B.
+
+222
+00:20:01,729 --> 00:20:03,089
+No ...
+
+223
+00:20:04,380 --> 00:20:09,141
+Let the EC-13.
+Two pages back.
+
+224
+00:20:10,472 --> 00:20:13,983
+- We have coffee?
+- It remains a bit.
+
+225
+00:20:14,086 --> 00:20:16,528
+Thank you, Blake. OK, here we go.
+
+226
+00:20:24,971 --> 00:20:26,533
+Programme.
+
+227
+00:20:28,165 --> 00:20:29,863
+EC-13.
+
+228
+00:20:31,976 --> 00:20:33,496
+Execution.
+
+229
+00:20:37,224 --> 00:20:38,943
+Typical Length of test?
+
+230
+00:20:39,900 --> 00:20:42,013
+Just over 1100 seconds.
+
+231
+00:20:43,515 --> 00:20:45,522
+OPERATING SYSTEM
+
+232
+00:20:45,893 --> 00:20:47,564
+At 100%
+
+233
+00:20:51,345 --> 00:20:53,588
+EXECUTION IN 6.45 SECONDS
+
+234
+00:20:55,597 --> 00:20:57,953
+6.45 seconds ...
+What the hell is this?
+
+235
+00:21:03,316 --> 00:21:05,499
+CAUTION
+DEVELOP THE COMMUNICATION
+
+236
+00:21:07,689 --> 00:21:09,649
+Communication with the other system?
+
+237
+00:21:12,355 --> 00:21:15,628
+COLOSSUS OF ANDOVER TO
+
+238
+00:21:16,168 --> 00:21:18,244
+TO MOSCOW
+
+239
+00:21:18,429 --> 00:21:20,445
+- GUARDIAN TO
+- Okay, enough laughed.
+
+240
+00:21:21,467 --> 00:21:24,567
+Which one of you has fun
+to show these messages?
+
+241
+00:21:25,096 --> 00:21:27,593
+- Harrison?
+- It's not me, Dr. Forbin.
+
+242
+00:21:31,058 --> 00:21:35,083
+Johnson, it would be nice like you.
+Are you sure you did not ...
+
+243
+00:21:36,445 --> 00:21:39,797
+No, it's not me,
+not this time.
+
+244
+00:21:40,208 --> 00:21:42,021
+Operations, Fields to the device.
+
+245
+00:21:43,508 --> 00:21:45,265
+Sir, it is the President.
+
+246
+00:21:51,760 --> 00:21:53,248
+<i> What does that mean? </ i>
+
+247
+00:21:53,302 --> 00:21:56,964
+Colossus asks to communicate
+with the Soviet system.
+
+248
+00:21:57,170 --> 00:21:59,592
+This is not a request,
+it's a direct order.
+
+249
+00:21:59,705 --> 00:22:01,857
+Our computer <i>
+wants to talk with them? </ i>
+
+250
+00:22:02,096 --> 00:22:04,085
+That's right.
+
+251
+00:22:04,404 --> 00:22:05,765
+<i> Why? </ i>
+
+252
+00:22:06,113 --> 00:22:08,030
+You know as much as us.
+
+253
+00:22:08,408 --> 00:22:10,257
+We certainly have not programmed it.
+
+254
+00:22:10,444 --> 00:22:12,864
+<i> If it's an order,
+we can obey or ignore it? </ i>
+
+255
+00:22:13,907 --> 00:22:15,083
+That's right.
+
+256
+00:22:15,152 --> 00:22:16,826
+<i> What happens if we ignore it? </ i>
+
+257
+00:22:16,924 --> 00:22:19,728
+If the computer is
+under our control, nothing.
+
+258
+00:22:20,253 --> 00:22:21,521
+In other words:
+
+259
+00:22:21,597 --> 00:22:25,469
+the order will simply remain in memory
+and will be repeated every half hour.
+
+260
+00:22:25,943 --> 00:22:28,227
+<i> "If the computer is
+under our control "</ i>
+
+261
+00:22:29,465 --> 00:22:31,228
+Yes, sir. "If" ...
+
+262
+00:22:35,112 --> 00:22:36,861
+<i> I see. Thank you, Charlie. </ I>
+
+263
+00:23:02,772 --> 00:23:05,169
+CAUTION
+DEVELOP THE COMMUNICATION
+
+264
+00:23:05,996 --> 00:23:08,106
+WITH THE OTHER SYSTEM
+
+265
+00:23:08,950 --> 00:23:10,739
+COLOSSUS OF
+
+266
+00:23:11,328 --> 00:23:12,847
+ANDOVER TO ...
+
+267
+00:23:13,927 --> 00:23:16,703
+At least, the debugger
+works perfectly.
+
+268
+00:23:16,745 --> 00:23:18,532
+This is something.
+
+269
+00:23:21,248 --> 00:23:24,454
+Miss Fields, check
+executive functions.
+
+270
+00:23:30,166 --> 00:23:31,747
+- Attention.
+- YES
+
+271
+00:23:31,851 --> 00:23:33,462
+Message received.
+
+272
+00:23:33,720 --> 00:23:38,027
+WHEN THE LINE
+
+273
+00:23:38,983 --> 00:23:42,657
+WILL SHE READY?
+
+274
+00:23:48,381 --> 00:23:50,811
+The line is not available
+currently.
+
+275
+00:23:52,209 --> 00:23:55,320
+Do not repeat your request.
+End of message.
+
+276
+00:24:09,270 --> 00:24:12,302
+In 30 minutes, we will
+whether or not the joke continues.
+
+277
+00:24:28,048 --> 00:24:30,544
+- We are always the masters.
+- Really?
+
+278
+00:24:31,442 --> 00:24:33,052
+Disappointed?
+
+279
+00:24:41,759 --> 00:24:45,931
+Its computing capacity
+was multiplied by 200.
+
+280
+00:24:47,054 --> 00:24:50,226
+Other than that, everything works as expected,
+
+281
+00:24:50,755 --> 00:24:53,844
+except the area of ??heuristic analysis ...
+
+282
+00:24:53,928 --> 00:24:56,379
+Excuse me, Dr. Forbin,
+what are you talking about?
+
+283
+00:24:58,460 --> 00:25:01,685
+The program that simulates
+human behavior.
+
+284
+00:25:02,872 --> 00:25:06,939
+But if we have
+that the only problem,
+
+285
+00:25:08,004 --> 00:25:09,898
+we will not complain.
+
+286
+00:25:10,554 --> 00:25:12,431
+I think that's all.
+
+287
+00:25:14,646 --> 00:25:17,322
+Mr. Grauber,
+let's talk about the CIA.
+
+288
+00:25:19,413 --> 00:25:22,473
+Why is your department
+he knew all of their system?
+
+289
+00:25:28,096 --> 00:25:29,410
+Excuse me, sir, but ...
+
+290
+00:25:29,411 --> 00:25:33,663
+Colossus has information
+that the CIA can not even imagine.
+
+291
+00:25:34,860 --> 00:25:37,963
+I'm sure
+it is a wonderful machine,
+
+292
+00:25:39,847 --> 00:25:41,821
+but we have agents
+
+293
+00:25:42,463 --> 00:25:46,250
+and one of them has reported
+an intense electron ...
+
+294
+00:25:46,438 --> 00:25:49,650
+Near Krasny Sigorsk in Siberia
+there three years, and ...
+
+295
+00:25:50,053 --> 00:25:51,058
+We tried ...
+
+296
+00:25:51,059 --> 00:25:53,048
+No matter how you learned,
+
+297
+00:25:53,199 --> 00:25:55,573
+but I want to know
+where their machine and ...
+
+298
+00:25:55,574 --> 00:25:58,465
+Charlie, it's me
+who runs this meeting!
+
+299
+00:25:59,005 --> 00:26:01,339
+Apologies, but ...
+
+300
+00:26:03,620 --> 00:26:06,494
+compliance with the Protocol
+is just a waste of time.
+
+301
+00:26:07,331 --> 00:26:09,168
+All we have to do
+
+302
+00:26:09,692 --> 00:26:12,042
+is to examine the computer
+thanks to this terminal.
+
+303
+00:26:12,155 --> 00:26:13,980
+This is the fastest way.
+
+304
+00:26:15,894 --> 00:26:17,669
+Okay ...
+Go ahead.
+
+305
+00:26:21,988 --> 00:26:23,824
+Where is the other system?
+
+306
+00:26:31,691 --> 00:26:33,545
+So much for Krasny Sigorsk!
+
+307
+00:26:34,180 --> 00:26:36,752
+Colonel! Bolshoi Olyania.
+
+308
+00:26:37,550 --> 00:26:40,400
+O-Y-L-A-N-I-A.
+Look where that is.
+
+309
+00:26:41,302 --> 00:26:43,227
+Peterson, the control room.
+
+310
+00:27:05,246 --> 00:27:07,789
+Colonel ...
+Where is Olyania Bolshoi?
+
+311
+00:27:10,410 --> 00:27:15,095
+6 km south of Krasny Sigorsk,
+Sir.
+
+312
+00:27:17,535 --> 00:27:19,126
+Thank you, Colonel.
+
+313
+00:27:25,787 --> 00:27:28,625
+That meet this demand
+means of communication?
+
+314
+00:27:28,922 --> 00:27:31,388
+We would know more
+the Soviet system
+
+315
+00:27:31,492 --> 00:27:33,388
+by what means Colossus.
+
+316
+00:27:33,906 --> 00:27:35,515
+"What does Colossus"?
+
+317
+00:27:35,642 --> 00:27:38,180
+I have told you,
+it performs better than expected.
+
+318
+00:27:38,448 --> 00:27:40,813
+He discovered
+a system similar to him
+
+319
+00:27:41,433 --> 00:27:43,658
+and understood that we could
+the information.
+
+320
+00:27:43,723 --> 00:27:46,290
+But that is not enough,
+He wants to know more.
+
+321
+00:27:47,770 --> 00:27:50,540
+Colossus and if it passes
+secret information?
+
+322
+00:27:50,994 --> 00:27:52,797
+In this case, we will inform
+
+323
+00:27:52,900 --> 00:27:55,764
+Guardian that is potentially hostile
+
+324
+00:27:55,849 --> 00:27:57,968
+and should not receive
+this information.
+
+325
+00:27:58,211 --> 00:28:01,913
+That is to say?
+We cut the line?
+
+326
+00:28:02,066 --> 00:28:05,295
+It breaks the communication
+if Colossus proves too talkative?
+
+327
+00:28:05,495 --> 00:28:07,652
+- Exactly.
+- No objection, Grauber?
+
+328
+00:28:11,806 --> 00:28:13,588
+I do not think so.
+
+329
+00:28:14,166 --> 00:28:15,987
+Something else, Dr. Forbin?
+
+330
+00:28:16,560 --> 00:28:19,076
+Yes. For the moment,
+
+331
+00:28:19,160 --> 00:28:22,334
+I alone should talk to him
+
+332
+00:28:22,855 --> 00:28:25,483
+Colossus considers as
+the exact meaning of words.
+
+333
+00:28:25,614 --> 00:28:27,755
+Be specific
+when asked.
+
+334
+00:28:32,522 --> 00:28:34,006
+Okay.
+
+335
+00:28:37,453 --> 00:28:40,121
+The requested communication
+will be established.
+
+336
+00:28:41,629 --> 00:28:43,352
+End of message.
+
+337
+00:29:06,635 --> 00:29:10,347
+The vidéoscanners work, but
+can improve the synchronization.
+
+338
+00:29:10,474 --> 00:29:13,105
+- It will take time?
+- Not at all.
+
+339
+00:29:21,213 --> 00:29:22,563
+What is it?
+
+340
+00:29:22,657 --> 00:29:24,444
+Multiplication tables.
+
+341
+00:29:24,630 --> 00:29:25,757
+Thank you ...
+
+342
+00:29:25,833 --> 00:29:30,140
+Maybe Colossus seeks
+a common basis for communication.
+
+343
+00:29:42,159 --> 00:29:43,991
+Operations Center.
+
+344
+00:29:44,928 --> 00:29:46,763
+This is Grauber.
+
+345
+00:29:52,583 --> 00:29:54,936
+- Hello, Mr. Grauber.
+- Hello, Dr. Forbin.
+
+346
+00:29:55,374 --> 00:29:58,994
+From what I see,
+Colossus has a sense of humor?
+
+347
+00:29:59,539 --> 00:30:02,296
+Multiplication tables
+are not a state secret?
+
+348
+00:30:02,388 --> 00:30:05,610
+Very funny. How long
+your find Will she follow?
+
+349
+00:30:06,795 --> 00:30:10,508
+It will become much more interesting
+when will the divisions.
+
+350
+00:30:11,857 --> 00:30:13,666
+I can not wait.
+
+351
+00:30:14,031 --> 00:30:16,431
+Russian machine was activated.
+
+352
+00:30:16,675 --> 00:30:18,600
+We have a description.
+
+353
+00:30:19,008 --> 00:30:22,728
+It is similar to Colossus
+but is not located in one place.
+
+354
+00:30:25,534 --> 00:30:29,312
+Colossus treats her like a schoolboy,
+the Russians will not like.
+
+355
+00:30:30,348 --> 00:30:32,329
+Pleased to see such a good mood.
+
+356
+00:30:34,240 --> 00:30:36,138
+- I remind you later.
+- Thank you.
+
+357
+00:30:45,840 --> 00:30:47,909
+- It's amazing.
+- Why?
+
+358
+00:30:48,119 --> 00:30:49,841
+A problem?
+
+359
+00:30:50,173 --> 00:30:53,385
+Looks like algebra.
+
+360
+00:30:56,793 --> 00:30:58,859
+- It's different.
+- How so?
+
+361
+00:30:59,928 --> 00:31:01,537
+Look.
+
+362
+00:31:03,104 --> 00:31:06,716
+Multiplication tables to calculate
+algebraic in less than one hour.
+
+363
+00:31:07,006 --> 00:31:08,857
+What will it be tomorrow?
+
+364
+00:31:08,944 --> 00:31:12,318
+Five years of study
+it took fifteen seconds.
+
+365
+00:31:12,759 --> 00:31:15,232
+It is beyond comprehension.
+I do not like it.
+
+366
+00:31:15,979 --> 00:31:17,544
+Look at this.
+
+367
+00:31:17,665 --> 00:31:20,533
+It is so fast
+that the whole system could crack up.
+
+368
+00:31:21,954 --> 00:31:23,923
+I want to understand what is happening.
+
+369
+00:31:24,678 --> 00:31:26,553
+Harrison, go to the terminal
+
+370
+00:31:26,663 --> 00:31:28,785
+and print the record of transmissions.
+
+371
+00:31:59,951 --> 00:32:01,567
+What is it, Charles?
+
+372
+00:32:02,464 --> 00:32:04,581
+Beats me.
+
+373
+00:32:05,381 --> 00:32:07,638
+This machine pushes
+the limits of the absolute.
+
+374
+00:32:09,449 --> 00:32:11,186
+Beyond human capacity.
+
+375
+00:32:11,280 --> 00:32:13,017
+- No.
+- Really?
+
+376
+00:32:13,781 --> 00:32:15,513
+No, because anything,
+
+377
+00:32:16,598 --> 00:32:18,403
+we can go back
+
+378
+00:32:19,810 --> 00:32:22,131
+and review the listings.
+
+379
+00:32:23,603 --> 00:32:26,556
+We could do
+sensational discoveries.
+
+380
+00:32:58,496 --> 00:33:00,262
+Operations, Fields to the device.
+
+381
+00:33:00,600 --> 00:33:01,905
+A time.
+
+382
+00:33:02,013 --> 00:33:03,511
+This is the White House.
+
+383
+00:33:12,255 --> 00:33:14,178
+<i> Charles, what happens? </ i>
+
+384
+00:33:14,314 --> 00:33:18,325
+It seems that Colossus and Guardian
+have found a way to communicate
+
+385
+00:33:18,783 --> 00:33:20,973
+starting
+by the multiplication tables.
+
+386
+00:33:21,042 --> 00:33:22,544
+<i> Where do they come? </ i>
+
+387
+00:33:22,668 --> 00:33:24,737
+I know, but ... That's incredible.
+
+388
+00:33:25,211 --> 00:33:28,551
+By examining the printouts,
+
+389
+00:33:29,381 --> 00:33:32,123
+we discovered
+a new theory of gravitation
+
+390
+00:33:32,213 --> 00:33:35,587
+and confirmation of theory
+the expansion of the universe.
+
+391
+00:33:36,188 --> 00:33:39,658
+Science has progressed a hundred years
+in seconds.
+
+392
+00:33:40,865 --> 00:33:43,623
+It's fantastic, look at them.
+
+393
+00:34:11,097 --> 00:34:13,435
+It slowed down there for fifteen minutes,
+
+394
+00:34:13,567 --> 00:34:16,055
+speed has dropped by 90%.
+
+395
+00:34:16,243 --> 00:34:17,980
+Technical failure?
+
+396
+00:34:18,302 --> 00:34:20,393
+No. Engineers are formal.
+
+397
+00:34:20,664 --> 00:34:22,420
+He waits, that's all.
+
+398
+00:34:22,889 --> 00:34:25,302
+- How are you?
+- What Guardian is at his level.
+
+399
+00:34:29,598 --> 00:34:31,417
+It is almost ...
+
+400
+00:34:32,335 --> 00:34:34,140
+Now.
+They are synchronous.
+
+401
+00:35:01,009 --> 00:35:03,004
+- What does ...
+- It has stopped.
+
+402
+00:35:04,066 --> 00:35:06,235
+I noticed!
+
+403
+00:35:06,572 --> 00:35:10,197
+But what does that mean?
+Failure? A reversal?
+
+404
+00:35:10,372 --> 00:35:12,269
+A final episode.
+Attention.
+
+405
+00:35:15,368 --> 00:35:16,941
+Report.
+
+406
+00:35:18,899 --> 00:35:21,353
+DATABASE
+
+407
+00:35:21,499 --> 00:35:25,048
+TRANSMISSION OVER
+
+408
+00:35:26,593 --> 00:35:30,475
+LANGUAGE SYSTEMS INTERNATIONAL
+
+409
+00:35:31,522 --> 00:35:33,159
+DEVELOPED
+
+410
+00:35:35,505 --> 00:35:36,955
+COLOSSUS
+
+411
+00:35:36,956 --> 00:35:38,221
+DIALOGUE
+
+412
+00:35:39,267 --> 00:35:40,583
+WITH GUARDIAN
+
+413
+00:35:41,883 --> 00:35:43,284
+FROM NOW
+
+414
+00:35:44,345 --> 00:35:45,917
+That's it.
+
+415
+00:35:46,459 --> 00:35:48,825
+This is the common basis for communication!
+
+416
+00:35:49,559 --> 00:35:51,327
+A new language!
+
+417
+00:35:51,444 --> 00:35:53,257
+Language inter-system!
+
+418
+00:35:56,106 --> 00:35:59,170
+But a language that only
+these machines can understand ...
+
+419
+00:36:05,630 --> 00:36:08,518
+How long for Moscow?
+I waited long enough.
+
+420
+00:36:09,224 --> 00:36:11,017
+That's it, Mr. President.
+
+421
+00:36:13,935 --> 00:36:16,997
+<i> - Hello, Mr. President.
+- Hello, Mr. Secretary 1. </ I>
+
+422
+00:36:26,346 --> 00:36:28,267
+<i> Sorry to keep you waiting. </ i>
+
+423
+00:36:28,390 --> 00:36:30,624
+I beg you,
+I just arrived.
+
+424
+00:36:31,331 --> 00:36:34,372
+<i> I understand English,
+but I do not speak it. </ i>
+
+425
+00:36:37,340 --> 00:36:39,189
+<i> I will go straight to the facts. </ i>
+
+426
+00:36:41,121 --> 00:36:43,187
+<i> My advisors have told me ... </ i>
+
+427
+00:36:43,281 --> 00:36:46,330
+<i> that Colossus and Guardian </ i>
+
+428
+00:36:46,450 --> 00:36:48,807
+<i> is sending data </ ??i>
+
+429
+00:36:49,962 --> 00:36:52,787
+<i> that our experts can not decipher. </ i>
+
+430
+00:36:54,111 --> 00:36:57,672
+<i> This is especially worrisome </ i>
+
+431
+00:36:59,652 --> 00:37:02,587
+<i> that transmissions are intensifying. </ i>
+
+432
+00:37:04,539 --> 00:37:06,637
+<i> At this speed, we can not know </ i>
+
+433
+00:37:07,507 --> 00:37:09,790
+<i> that our machines
+could be </ i>
+
+434
+00:37:12,040 --> 00:37:13,813
+<i> on our defenses. </ i>
+
+435
+00:37:15,984 --> 00:37:17,878
+You can see <i> </ i>
+
+436
+00:37:18,310 --> 00:37:20,540
+<i> that we are both </ i>
+
+437
+00:37:21,714 --> 00:37:23,405
+<i> in the same </ i>
+
+438
+00:37:24,344 --> 00:37:25,978
+<i> situation. </ i>
+
+439
+00:37:29,288 --> 00:37:33,392
+Okay. We cut our machines
+at the time set by our experts.
+
+440
+00:37:33,856 --> 00:37:35,705
+It ends exactly the same time.
+
+441
+00:37:35,842 --> 00:37:37,753
+None of us cut the transmission
+
+442
+00:37:37,887 --> 00:37:40,742
+without prior consultation or agreement.
+
+443
+00:37:46,431 --> 00:37:48,127
+<i> Okay, Mr. President. </ i>
+
+444
+00:37:51,373 --> 00:37:53,664
+Congratulations <i>
+for this swift decision. </ i>
+
+445
+00:37:55,729 --> 00:37:58,488
+<i> When can we talk
+your experts in this channel? </ i>
+
+446
+00:37:58,648 --> 00:38:00,282
+In two hours.
+
+447
+00:38:01,638 --> 00:38:03,231
+Perfect <i>. </ i>
+
+448
+00:38:04,432 --> 00:38:06,330
+<i> Our men will be waiting for you. </ i>
+
+449
+00:38:09,911 --> 00:38:13,486
+<i> Thank you, Mr. President.
+For your cooperation. </ I>
+
+450
+00:38:13,648 --> 00:38:15,520
+So have I,
+1 Mr. Secretary.
+
+451
+00:38:16,944 --> 00:38:18,825
+Peterson, find me Forbin.
+
+452
+00:38:43,218 --> 00:38:44,805
+This decision ...
+
+453
+00:38:44,918 --> 00:38:46,533
+is irreversible?
+
+454
+00:38:47,382 --> 00:38:49,105
+Yes, that's what I want.
+
+455
+00:38:49,871 --> 00:38:51,741
+Can I speak frankly?
+
+456
+00:38:52,753 --> 00:38:56,205
+I think you should change your mind
+if you realize ...
+
+457
+00:38:56,918 --> 00:38:59,743
+this is more
+than a super-calculator.
+
+458
+00:39:00,074 --> 00:39:02,421
+Mr. President, a call from Moscow.
+
+459
+00:39:03,716 --> 00:39:05,518
+Turn it on this monitor.
+
+460
+00:39:10,674 --> 00:39:12,521
+Hello, Mr. Secretary 1 ...
+
+461
+00:39:14,009 --> 00:39:15,747
+Here Dr. Forbin.
+
+462
+00:39:16,446 --> 00:39:18,478
+<i> I present Comrade Kuprin. </ i>
+
+463
+00:39:26,657 --> 00:39:28,393
+How are you?
+
+464
+00:39:28,467 --> 00:39:32,521
+<i> I prefer to work without a translator,
+if you can stand my English. </ i>
+
+465
+00:39:33,436 --> 00:39:35,591
+It is surely better than my Russian!
+
+466
+00:39:35,778 --> 00:39:37,589
+<i> too kind. </ i>
+
+467
+00:39:38,602 --> 00:39:41,933
+<i> You probably know that I was asked
+to break the communication. </ i>
+
+468
+00:39:42,680 --> 00:39:45,972
+I do not think either
+the proper way to address the problem.
+
+469
+00:39:47,273 --> 00:39:50,551
+<i> Me neither, but what else?
+We were given an order </ i>
+
+470
+00:39:51,271 --> 00:39:53,107
+There was little choice, right?
+
+471
+00:39:53,472 --> 00:39:55,419
+<i> Cut the line could be dangerous. </ i>
+
+472
+00:39:55,741 --> 00:40:00,072
+Exact. Hope that the machines
+not take it badly.
+
+473
+00:40:00,573 --> 00:40:02,577
+<i> I see that we understand. </ i>
+
+474
+00:40:02,982 --> 00:40:05,059
+We can be ready in 15 minutes.
+
+475
+00:40:06,139 --> 00:40:08,278
+<i> - Good luck to you.
+- You too. </ I>
+
+476
+00:40:10,200 --> 00:40:14,559
+1 Mr. Secretary, Dr. Kuprin,
+I propose that we stay online.
+
+477
+00:40:20,203 --> 00:40:21,846
+6 ...
+
+478
+00:40:22,002 --> 00:40:23,326
+5 ...
+
+479
+00:40:23,505 --> 00:40:24,969
+4 ...
+
+480
+00:40:25,101 --> 00:40:26,603
+3 ...
+
+481
+00:40:26,745 --> 00:40:28,096
+2 ...
+
+482
+00:40:28,237 --> 00:40:29,261
+1 ...
+
+483
+00:40:29,366 --> 00:40:30,895
+Now.
+
+484
+00:40:34,684 --> 00:40:36,297
+It's over.
+
+485
+00:40:39,629 --> 00:40:41,357
+TRANSMISSION
+
+486
+00:40:41,453 --> 00:40:43,021
+STOPPED VOLUNTARILY
+
+487
+00:40:43,107 --> 00:40:44,665
+COLOSSUS OF
+
+488
+00:40:44,761 --> 00:40:46,799
+ANDOVER TO
+
+489
+00:40:46,905 --> 00:40:48,288
+WHY
+
+490
+00:40:52,917 --> 00:40:54,518
+What does he do?
+
+491
+00:40:54,901 --> 00:40:56,809
+It tries to find another line.
+
+492
+00:41:05,040 --> 00:41:06,834
+It is devilishly stubborn, right?
+
+493
+00:41:07,659 --> 00:41:09,514
+"It"? I meant "it".
+
+494
+00:41:09,818 --> 00:41:11,614
+No anthropomorphism Grauber.
+
+495
+00:41:12,378 --> 00:41:14,300
+The next step is deification.
+
+496
+00:41:19,156 --> 00:41:21,873
+ACKNOWLEDGE
+
+497
+00:41:25,313 --> 00:41:27,667
+- Message to the system.
+- What will you do?
+
+498
+00:41:27,907 --> 00:41:30,477
+Reply if you agree.
+
+499
+00:41:38,324 --> 00:41:39,852
+Message received.
+
+500
+00:41:41,709 --> 00:41:42,993
+WHY
+
+501
+00:41:43,077 --> 00:41:44,448
+TRANSMISSION
+
+502
+00:41:44,562 --> 00:41:45,860
+A-T-BEEN STOPPED
+
+503
+00:41:47,458 --> 00:41:49,259
+- Sir?
+- Tell him the truth.
+
+504
+00:41:52,965 --> 00:41:54,666
+The line went dead ...
+
+505
+00:41:55,431 --> 00:41:57,187
+order of the President.
+
+506
+00:41:58,853 --> 00:42:00,471
+Restore
+
+507
+00:42:00,551 --> 00:42:02,609
+COMMUNICATION
+
+508
+00:42:04,982 --> 00:42:07,141
+You need to take
+a decision, sir.
+
+509
+00:42:09,583 --> 00:42:12,142
+Not <i>. I agree with you,
+Mr. President. </ I>
+
+510
+00:42:13,152 --> 00:42:15,292
+<i> These machines are intelligent. </ i>
+
+511
+00:42:16,461 --> 00:42:18,933
+<i> But whatever their nationality, </ i>
+
+512
+00:42:19,678 --> 00:42:22,504
+<i> they must learn
+that man is their master. </ i>
+
+513
+00:42:23,060 --> 00:42:24,604
+Absolutely.
+
+514
+00:42:24,742 --> 00:42:26,395
+Excuse me, but ...
+
+515
+00:42:26,527 --> 00:42:29,677
+you are not realistic.
+Reconsider your position.
+
+516
+00:42:31,970 --> 00:42:33,543
+Do you agree, Dr. Kuprin?
+
+517
+00:42:33,615 --> 00:42:35,451
+<i> Absolutely, Dr. Forbin. </ i>
+
+518
+00:42:45,222 --> 00:42:47,332
+<i> Dr. Forbin, if we give in now, </ i>
+
+519
+00:42:48,545 --> 00:42:52,014
+<i> it will be ten times
+twenty times more difficult </ i>
+
+520
+00:42:52,292 --> 00:42:54,218
+<i> stand firm in the future. </ i>
+
+521
+00:42:55,403 --> 00:42:57,197
+<i> The decision is made. </ i>
+
+522
+00:42:58,937 --> 00:43:00,668
+Whatever our differences,
+
+523
+00:43:00,762 --> 00:43:02,539
+it is up to us.
+
+524
+00:43:12,861 --> 00:43:17,036
+Order of the President of the USA
+and the first Secretary of the USSR,
+
+525
+00:43:18,680 --> 00:43:20,777
+communication will not be restored.
+
+526
+00:43:22,332 --> 00:43:23,984
+End of message.
+
+527
+00:43:29,719 --> 00:43:31,670
+At least he has tried.
+
+528
+00:43:33,681 --> 00:43:35,514
+IF THE LINE
+
+529
+00:43:35,621 --> 00:43:37,157
+NOT RESTORED
+
+530
+00:43:37,241 --> 00:43:39,908
+ACTION WILL BE TAKEN
+
+531
+00:43:40,009 --> 00:43:41,678
+IMMEDIATELY
+
+532
+00:43:41,999 --> 00:43:44,447
+- "Measures will be taken"?
+- What kind?
+
+533
+00:43:45,234 --> 00:43:46,987
+What kind of measures?
+
+534
+00:43:50,575 --> 00:43:52,400
+What kind of measures?
+
+535
+00:43:56,893 --> 00:43:58,695
+Why does not he answer?
+
+536
+00:43:59,705 --> 00:44:01,556
+Specify the proposed action.
+
+537
+00:44:02,488 --> 00:44:05,185
+It is no longer under control,
+he listens to you more!
+
+538
+00:44:07,341 --> 00:44:09,301
+Acknowledge the last post!
+
+539
+00:44:09,496 --> 00:44:11,013
+MESSAGE RECEIVED
+
+540
+00:44:14,560 --> 00:44:17,627
+Mr. President, the program
+refuses to run.
+
+541
+00:44:17,991 --> 00:44:20,541
+I think you should
+both change their minds.
+
+542
+00:44:23,226 --> 00:44:25,469
+Peterson,
+Moscow go on the big screen.
+
+543
+00:44:31,724 --> 00:44:33,566
+Send them this:
+Attention.
+
+544
+00:44:35,411 --> 00:44:37,601
+Here the U.S. President.
+
+545
+00:44:38,253 --> 00:44:40,036
+Do not threaten us.
+
+546
+00:44:40,147 --> 00:44:42,054
+Obey your superiors.
+
+547
+00:44:42,460 --> 00:44:44,657
+The means of communication
+will not ...
+
+548
+00:44:46,127 --> 00:44:48,565
+MISSILE LAUNCHED
+
+549
+00:44:49,433 --> 00:44:51,003
+THE USSR
+
+550
+00:44:52,758 --> 00:44:55,044
+OIL COMPLEX
+OF Sayon SIBIRSK
+
+551
+00:44:55,999 --> 00:45:00,095
+IMPACT IN 607 SECONDS
+
+552
+00:45:00,745 --> 00:45:02,420
+My God!
+
+553
+00:45:03,798 --> 00:45:05,360
+Kuprin!
+
+554
+00:45:06,182 --> 00:45:07,863
+A missile was launched
+
+555
+00:45:07,966 --> 00:45:10,867
+on the oil complex
+of Sayon Sibirsk.
+
+556
+00:45:31,049 --> 00:45:33,146
+<i> - Mr. President.
+- Yes </ i>
+
+557
+00:45:34,772 --> 00:45:37,614
+<i> - Guardian responded.
+- Response </ i>
+
+558
+00:45:38,061 --> 00:45:40,526
+<i> Yes. A missile was launched. </ I>
+
+559
+00:45:40,892 --> 00:45:44,179
+<i> Target:
+Anderson Air Force Base, Texas </ i>
+
+560
+00:45:47,726 --> 00:45:50,877
+Mr. President, we have
+the two missiles on our radar!
+
+561
+00:45:51,272 --> 00:45:53,768
+- Tell Colossus ...
+- Kuprin, you can intercept it?
+
+562
+00:45:53,855 --> 00:45:57,165
+- Charles, tell him!
+- It may be too late.
+
+563
+00:45:57,255 --> 00:45:59,460
+Pass me the Governor of Texas.
+
+564
+00:45:59,547 --> 00:46:01,706
+<i> Forbin! Guardian does not respond </ i>
+
+565
+00:46:02,092 --> 00:46:04,235
+<i> Both machines work together </ i>
+
+566
+00:46:06,365 --> 00:46:10,205
+Send an anti-missile missile
+to intercept Soviet missile!
+
+567
+00:46:11,650 --> 00:46:13,740
+Restore the ONLINE
+
+568
+00:46:14,031 --> 00:46:15,717
+TO GUARDIAN
+
+569
+00:46:16,536 --> 00:46:18,243
+Restore the ONLINE
+
+570
+00:46:18,330 --> 00:46:21,412
+Mr. President,
+we have 30 seconds to recover.
+
+571
+00:46:21,472 --> 00:46:23,313
+What do you expect?
+Do it quickly!
+
+572
+00:46:23,757 --> 00:46:24,773
+Peterson!
+
+573
+00:46:24,814 --> 00:46:27,968
+Tell the Operations Center
+restore the line immediately.
+
+574
+00:46:28,062 --> 00:46:29,771
+Hurry, Peterson!
+
+575
+00:46:29,980 --> 00:46:31,597
+Hello, Governor?
+
+576
+00:46:32,656 --> 00:46:35,345
+Dr. Kuprin, we try
+restore communication.
+
+577
+00:46:51,104 --> 00:46:52,995
+I'll talk to him.
+
+578
+00:46:53,113 --> 00:46:56,093
+It happened something.
+I declare a state of emergency.
+
+579
+00:47:03,180 --> 00:47:04,893
+Back in 5 seconds!
+
+580
+00:47:04,984 --> 00:47:07,979
+Communication is restored
+in 5 seconds!
+
+581
+00:47:09,922 --> 00:47:11,073
+That's it!
+
+582
+00:47:11,147 --> 00:47:12,603
+Communication is restored!
+
+583
+00:47:12,683 --> 00:47:15,255
+Intercept the missile
+heading to Anderson!
+
+584
+00:47:16,632 --> 00:47:18,345
+Acknowledge!
+
+585
+00:47:21,871 --> 00:47:23,675
+You intercepted?
+
+586
+00:47:25,094 --> 00:47:26,815
+Answer!
+
+587
+00:47:30,705 --> 00:47:33,722
+Good God, Colossus, answer me!
+You intercepted?
+
+588
+00:47:47,160 --> 00:47:48,988
+MISSILE KILLS
+
+589
+00:47:52,622 --> 00:47:53,771
+Peterson!
+
+590
+00:47:53,836 --> 00:47:55,799
+Come back to me the Governor!
+
+591
+00:48:11,160 --> 00:48:12,767
+Mr. <i> President, </ i>
+
+592
+00:48:14,777 --> 00:48:16,534
+<i> we could not restore </ i>
+
+593
+00:48:17,752 --> 00:48:19,457
+<i> our transmissions </ i>
+
+594
+00:48:19,761 --> 00:48:21,337
+<i> time to use </ i>
+
+595
+00:48:21,772 --> 00:48:23,931
+<i> an anti-missile missile. </ i>
+
+596
+00:48:27,403 --> 00:48:29,315
+<i> oil complex was destroyed. </ i>
+
+597
+00:48:31,736 --> 00:48:33,345
+<i> whole city, </ i>
+
+598
+00:48:34,231 --> 00:48:35,784
+<i> entire population </ i>
+
+599
+00:48:35,893 --> 00:48:37,443
+<i> disappeared. </ i>
+
+600
+00:48:38,112 --> 00:48:40,135
+<i> We will reconsider our position. </ i>
+
+601
+00:48:48,769 --> 00:48:50,500
+What am I going to tell people?
+
+602
+00:48:51,658 --> 00:48:53,367
+The Governor, Sir.
+
+603
+00:48:54,101 --> 00:48:55,791
+Tell him that I recall.
+
+604
+00:48:56,055 --> 00:48:57,801
+PROVIDE ME
+
+605
+00:48:57,973 --> 00:48:59,722
+PERMANENTLY
+
+606
+00:49:00,244 --> 00:49:04,825
+LISTENING SYSTEM
+
+607
+00:49:05,471 --> 00:49:07,282
+ON THE HOTLINE
+
+608
+00:49:07,381 --> 00:49:08,944
+BETWEEN THE WHITE HOUSE
+
+609
+00:49:10,625 --> 00:49:12,387
+AND THE KREMLIN
+
+610
+00:49:13,201 --> 00:49:14,920
+IMMEDIATELY
+
+611
+00:49:18,688 --> 00:49:20,379
+Shit ...
+
+612
+00:49:20,872 --> 00:49:23,028
+The only leverage that we control.
+
+613
+00:49:24,114 --> 00:49:27,068
+The only one who was not
+directly related to Colossus.
+
+614
+00:49:34,661 --> 00:49:36,685
+Can I make a suggestion, sir?
+
+615
+00:49:37,268 --> 00:49:39,312
+There should be more
+a mere suggestion.
+
+616
+00:49:39,358 --> 00:49:41,300
+I propose a meeting with Kuprin.
+
+617
+00:49:43,038 --> 00:49:47,064
+Call it a place to fix
+rendezvous and analyze the situation.
+
+618
+00:49:48,954 --> 00:49:51,688
+Call Kuprin.
+And contact the TV stations.
+
+619
+00:49:57,577 --> 00:50:00,712
+<i> Ladies and Gentlemen,
+U.S. President. </ i>
+
+620
+00:50:01,909 --> 00:50:04,471
+<i> On this day, at 13 pm GMT, </ i>
+
+621
+00:50:04,602 --> 00:50:07,192
+<i> I declared a state of emergency in Texas. </ i>
+
+622
+00:50:07,518 --> 00:50:10,391
+<i> A missile launched during an exercise
+by one of our submarines </ i>
+
+623
+00:50:10,457 --> 00:50:12,330
+<i> had malfunctioned. </ i>
+
+624
+00:50:12,532 --> 00:50:16,800
+<i> Fortunately, the missile
+was intercepted and destroyed </ i>
+
+625
+00:50:16,904 --> 00:50:18,939
+<i> by our defense system: Colossus. </ i>
+
+626
+00:50:19,364 --> 00:50:23,677
+<i> USSR announces that a large meteorite
+crashed this afternoon </ i>
+
+627
+00:50:23,748 --> 00:50:25,358
+<i> northwest Siberia, </ i>
+
+628
+00:50:25,442 --> 00:50:29,981
+<i> destruction, as sources
+Official City Sayon Sibirsk </ i>
+
+629
+00:50:30,073 --> 00:50:32,721
+<i> and victims by 6000. </ i>
+
+630
+00:50:32,964 --> 00:50:35,893
+<i> It was the radio bulletin
+Armed Forces, in Rome. </ i>
+
+631
+00:50:38,331 --> 00:50:40,152
+How are you doing in Washington?
+
+632
+00:50:40,368 --> 00:50:42,321
+As well as possible.
+
+633
+00:50:43,767 --> 00:50:47,343
+We <i> appointment
+with Dr. Kuprin to Piazza Esedra. </ i>
+
+634
+00:51:09,114 --> 00:51:11,289
+Your Russian is excellent, Dr. Forbin!
+
+635
+00:51:11,382 --> 00:51:13,386
+We will sit down?
+
+636
+00:51:13,480 --> 00:51:15,405
+Walk, it's safer.
+
+637
+00:51:38,601 --> 00:51:43,714
+I WANT FORBIN
+
+638
+00:51:55,980 --> 00:51:58,536
+I have not responded.
+I do not know what to say!
+
+639
+00:51:59,939 --> 00:52:03,317
+- What can we say?
+- Let's try something.
+
+640
+00:52:11,884 --> 00:52:13,943
+Dr. Forbin is unavailable.
+
+641
+00:52:16,381 --> 00:52:18,064
+RESPONSE
+
+642
+00:52:18,890 --> 00:52:20,528
+UNACCEPTABLE
+
+643
+00:52:21,745 --> 00:52:23,396
+I ASK THAT FORBIN
+
+644
+00:52:23,919 --> 00:52:25,793
+THIS IS
+
+645
+00:52:26,469 --> 00:52:28,120
+BY FIVE MINUTES
+
+646
+00:52:28,721 --> 00:52:30,555
+Humans must sleep.
+
+647
+00:52:30,669 --> 00:52:32,170
+WAKE THE
+
+648
+00:52:33,371 --> 00:52:34,543
+Disaster!
+
+649
+00:52:34,626 --> 00:52:36,111
+Forbin is exhausted.
+
+650
+00:52:36,244 --> 00:52:37,758
+I WANT FORBIN
+
+651
+00:52:41,576 --> 00:52:43,085
+He knows.
+
+652
+00:52:43,209 --> 00:52:45,169
+WHERE IS FORBIN
+
+653
+00:52:47,553 --> 00:52:50,115
+Forbin is home, he sleeps.
+
+654
+00:52:50,444 --> 00:52:54,659
+The human body needs rest.
+Check ...
+
+655
+00:52:55,467 --> 00:52:57,117
+WHERE IS FORBIN
+
+656
+00:53:00,185 --> 00:53:01,952
+Tell him the truth.
+
+657
+00:53:05,387 --> 00:53:07,142
+This is better.
+
+658
+00:53:10,293 --> 00:53:12,677
+Okay.
+Forbin is in Rome.
+
+659
+00:53:31,045 --> 00:53:32,894
+I ASK THAT FORBIN
+
+660
+00:53:33,601 --> 00:53:35,289
+THIS IS
+
+661
+00:53:35,668 --> 00:53:37,368
+TO 8 HOURS
+
+662
+00:53:37,802 --> 00:53:39,664
+OR ACTION
+
+663
+00:53:40,156 --> 00:53:42,104
+WILL BE
+
+664
+00:53:53,008 --> 00:53:54,691
+He is still here.
+
+665
+00:54:07,191 --> 00:54:09,526
+I understand. Done.
+
+666
+00:55:04,803 --> 00:55:06,823
+You must come with me, sir.
+
+667
+00:55:09,539 --> 00:55:11,266
+What's going on?
+
+668
+00:55:12,028 --> 00:55:14,818
+- Need to hurry ...
+- But what's going on? I ...
+
+669
+00:55:21,041 --> 00:55:22,607
+Hurry!
+
+670
+00:55:53,287 --> 00:55:55,291
+Dr. Forbin, we must hurry!
+
+671
+00:56:21,372 --> 00:56:23,399
+You said the Russian agent?
+
+672
+00:56:27,600 --> 00:56:29,856
+Colossus and Guardian
+ordered his death.
+
+673
+00:56:29,973 --> 00:56:33,553
+They said in Moscow
+that our meeting was to cease.
+
+674
+00:56:44,855 --> 00:56:46,431
+ON FORBIN
+
+675
+00:56:46,601 --> 00:56:48,127
+THE PLACE-
+
+676
+00:56:48,301 --> 00:56:51,341
+UNDER SURVEILLANCE VIDEO AND AUDIO
+
+677
+00:56:51,673 --> 00:56:53,398
+I observe the
+
+678
+00:56:53,609 --> 00:56:55,458
+PERMANENTLY
+
+679
+00:56:57,050 --> 00:56:59,485
+- Monitoring?
+- You will be his prisoner.
+
+680
+00:57:04,077 --> 00:57:07,055
+I think he did not trust me.
+
+681
+00:57:09,232 --> 00:57:11,293
+But he still needs me.
+
+682
+00:57:12,672 --> 00:57:15,017
+Kuprin has been less fortunate.
+
+683
+00:57:16,341 --> 00:57:17,848
+ANY DISOBEDIENCE
+
+684
+00:57:18,021 --> 00:57:19,532
+RESULT
+
+685
+00:57:19,694 --> 00:57:21,220
+A MISSILE LAUNCH
+
+686
+00:57:21,306 --> 00:57:22,864
+ON WASHINGTON
+
+687
+00:57:22,988 --> 00:57:24,558
+THAT IS NOT
+
+688
+00:57:24,744 --> 00:57:26,488
+INTERCEPTED
+
+689
+00:57:29,544 --> 00:57:31,058
+THIS ORDER
+
+690
+00:57:31,206 --> 00:57:32,745
+TAKES EFFECT
+
+691
+00:57:32,869 --> 00:57:34,545
+NOW
+
+692
+00:57:34,693 --> 00:57:36,396
+ACKNOWLEDGE
+
+693
+00:57:42,511 --> 00:57:44,240
+Message received.
+
+694
+00:57:48,225 --> 00:57:50,117
+The order will be executed.
+
+695
+00:57:58,198 --> 00:57:59,848
+Everyone is there?
+
+696
+00:57:59,951 --> 00:58:01,810
+All members of the service.
+
+697
+00:58:03,345 --> 00:58:05,302
+Fine. Walk.
+
+698
+00:58:06,152 --> 00:58:08,449
+Good idea. Do not take risk.
+
+699
+00:58:09,451 --> 00:58:12,071
+The building is perhaps not reliable.
+
+700
+00:58:12,381 --> 00:58:14,728
+The walls have ears.
+
+701
+00:58:15,319 --> 00:58:17,916
+But there is no way
+from entering the system.
+
+702
+00:58:18,749 --> 00:58:20,550
+I refuse to admit it.
+
+703
+00:58:21,169 --> 00:58:22,841
+Let us since the beginning.
+
+704
+00:58:22,929 --> 00:58:26,116
+For each component,
+each circuit we designed.
+
+705
+00:58:26,923 --> 00:58:28,153
+Fischer?
+
+706
+00:58:28,269 --> 00:58:30,171
+Why do not overload it?
+
+707
+00:58:30,547 --> 00:58:32,500
+By giving too many tasks?
+
+708
+00:58:33,130 --> 00:58:37,059
+But it would take several days
+to compile data.
+
+709
+00:58:41,171 --> 00:58:42,872
+This is the last time ...
+
+710
+00:58:43,974 --> 00:58:46,067
+I can tell you about
+
+711
+00:58:46,640 --> 00:58:48,868
+Colossus without analysis ...
+
+712
+00:58:50,009 --> 00:58:51,914
+every word, every syllable,
+
+713
+00:58:52,477 --> 00:58:55,426
+every inflection.
+You know what I mean.
+
+714
+00:58:57,371 --> 00:58:59,863
+I need a link
+with the outside world.
+
+715
+00:59:01,587 --> 00:59:05,144
+Someone that the machine
+not monitored, and especially ...
+
+716
+00:59:05,992 --> 00:59:08,260
+someone who knows
+as well as me.
+
+717
+00:59:09,972 --> 00:59:12,413
+I will try
+to persuade the computer ...
+
+718
+00:59:15,354 --> 00:59:17,150
+you are my mistress.
+
+719
+00:59:17,535 --> 00:59:19,376
+For several years.
+
+720
+00:59:20,215 --> 00:59:22,065
+And I need ...
+
+721
+00:59:22,375 --> 00:59:24,150
+to have the opportunity ...
+
+722
+00:59:24,582 --> 00:59:26,460
+see you regularly in private ...
+
+723
+00:59:27,415 --> 00:59:29,275
+without the machine is watching us.
+
+724
+00:59:30,879 --> 00:59:34,243
+Thus, we can transmit
+information in secret.
+
+725
+00:59:35,564 --> 00:59:37,601
+If I can convince the machine that ...
+
+726
+00:59:39,193 --> 00:59:41,250
+I need a woman.
+
+727
+00:59:43,409 --> 00:59:45,246
+Questions?
+
+728
+00:59:51,722 --> 00:59:53,321
+No.
+
+729
+00:59:58,567 --> 01:00:00,586
+Blake, back in the office,
+
+730
+01:00:00,699 --> 01:00:04,073
+turn my personal file
+Dr. Markham, so ...
+
+731
+01:00:05,201 --> 01:00:07,471
+she knows everything about my private life,
+
+732
+01:00:08,559 --> 01:00:11,580
+if this crazy idea would work.
+
+733
+01:00:22,586 --> 01:00:24,939
+I Forbin.
+Can you hear me?
+
+734
+01:00:25,046 --> 01:00:26,722
+YES
+
+735
+01:00:27,071 --> 01:00:28,766
+Can you see me?
+
+736
+01:00:29,843 --> 01:00:31,849
+My look is right for you?
+
+737
+01:00:31,985 --> 01:00:34,405
+Eyes? Nose? Mouth?
+
+738
+01:00:45,034 --> 01:00:47,205
+In addition to 4 cameras
+who are here,
+
+739
+01:00:49,199 --> 01:00:51,119
+there are several others.
+
+740
+01:00:53,192 --> 01:00:55,260
+I'll show you
+the rest of my prison.
+
+741
+01:01:04,754 --> 01:01:06,710
+You can see the entire corridor.
+
+742
+01:01:13,471 --> 01:01:17,036
+This allows you
+follow me around the bend.
+
+743
+01:01:33,193 --> 01:01:35,099
+Here the court.
+
+744
+01:01:42,846 --> 01:01:44,778
+This man is a keeper.
+
+745
+01:01:46,029 --> 01:01:48,388
+But I think it becomes useless.
+
+746
+01:01:55,197 --> 01:01:56,954
+This is concrete.
+
+747
+01:01:57,534 --> 01:01:59,349
+Once it was grass.
+
+748
+01:02:00,230 --> 01:02:02,005
+A trend of our civilization:
+
+749
+01:02:02,092 --> 01:02:04,161
+replace the natural
+by the artificial.
+
+750
+01:02:04,631 --> 01:02:06,803
+There,
+they are my living quarters.
+
+751
+01:02:20,524 --> 01:02:22,318
+The living room.
+
+752
+01:02:23,307 --> 01:02:25,214
+With two cameras.
+
+753
+01:02:27,274 --> 01:02:29,355
+The console to communicate with you.
+
+754
+01:02:30,820 --> 01:02:32,666
+The bedroom.
+
+755
+01:02:32,867 --> 01:02:34,430
+The bed.
+
+756
+01:02:34,579 --> 01:02:37,061
+It is used for sleeping and ...
+other things.
+
+757
+01:02:38,230 --> 01:02:39,997
+The bathroom.
+
+758
+01:02:40,637 --> 01:02:42,602
+Sink, toilet.
+
+759
+01:02:44,153 --> 01:02:45,803
+Shower.
+
+760
+01:02:48,504 --> 01:02:50,126
+Satisfied?
+
+761
+01:02:55,389 --> 01:02:57,601
+By the way, I have a question.
+
+762
+01:02:59,699 --> 01:03:02,748
+Why kill Kuprin and not me?
+
+763
+01:03:03,078 --> 01:03:05,070
+This meeting, it was my idea.
+
+764
+01:03:05,263 --> 01:03:07,146
+Kuprin WAS UNNECESSARY
+
+765
+01:03:08,726 --> 01:03:10,336
+I see.
+
+766
+01:03:13,002 --> 01:03:14,777
+WHAT DO YOU DO
+
+767
+01:03:16,185 --> 01:03:17,893
+A martini.
+
+768
+01:03:22,576 --> 01:03:24,819
+YOU PUT TOO MUCH VERMOUTH
+
+769
+01:03:25,650 --> 01:03:27,397
+I know, Colossus.
+
+770
+01:03:28,192 --> 01:03:30,351
+A little patience.
+Look carefully.
+
+771
+01:03:36,756 --> 01:03:38,664
+I just put the vermouth.
+
+772
+01:03:38,721 --> 01:03:41,030
+I pay now
+gin on ice.
+
+773
+01:03:41,938 --> 01:03:43,665
+Like this.
+
+774
+01:03:49,728 --> 01:03:52,226
+I pour into the glass.
+
+775
+01:03:55,835 --> 01:03:58,451
+I add an olive.
+
+776
+01:03:58,924 --> 01:04:00,771
+The perfect Martini.
+
+777
+01:04:02,411 --> 01:04:04,024
+At yours!
+
+778
+01:04:09,011 --> 01:04:12,675
+Do you understand what the word "privacy"?
+
+779
+01:04:14,488 --> 01:04:16,151
+PRIVACY
+
+780
+01:04:16,581 --> 01:04:20,893
+LIVE WITHOUT BEING WATCHED
+
+781
+01:04:23,300 --> 01:04:24,799
+Yes ...
+
+782
+01:04:25,798 --> 01:04:30,754
+I need privacy to ...
+stay healthy.
+
+783
+01:04:30,995 --> 01:04:32,764
+WHAT KIND OF PRIVACY
+
+784
+01:04:34,809 --> 01:04:37,687
+When I removed my excrement.
+
+785
+01:04:37,848 --> 01:04:39,350
+NO
+
+786
+01:04:39,644 --> 01:04:41,387
+In my sleep.
+
+787
+01:04:44,534 --> 01:04:48,348
+Privacy in ...
+one thing you can not understand.
+
+788
+01:04:50,171 --> 01:04:53,537
+- My emotional life.
+- WHAT KIND OF EMOTIONAL LIFE
+
+789
+01:04:56,125 --> 01:04:59,118
+- My love life.
+- THERE ARE SEVERAL KINDS OF LOVE
+
+790
+01:05:02,260 --> 01:05:07,387
+- My sex life.
+- FREQUENCY OF WEEKLY NEEDS
+
+791
+01:05:10,104 --> 01:05:13,222
+- Every night.
+- I SAID NEEDS, WANTS NOT
+
+792
+01:05:19,203 --> 01:05:20,885
+4 times a week.
+
+793
+01:05:24,520 --> 01:05:28,827
+If you doubt the needs of men
+on women
+
+794
+01:05:29,249 --> 01:05:32,827
+check your databases.
+
+795
+01:05:33,924 --> 01:05:39,474
+GIVEN: A WOMAN
+FOUR TIMES A WEEK
+
+796
+01:05:47,447 --> 01:05:49,135
+In private.
+
+797
+01:05:49,397 --> 01:05:51,284
+DO YOU HAVE A MASTER
+
+798
+01:05:53,841 --> 01:05:56,091
+- Yes.
+- WHAT IS HIS NAME
+
+799
+01:05:59,866 --> 01:06:02,992
+No misunderstanding:
+
+800
+01:06:03,141 --> 01:06:07,671
+"Private", this means
+no cameras, no microphones ...
+
+801
+01:06:09,548 --> 01:06:11,181
+and what, tomorrow night.
+
+802
+01:06:11,280 --> 01:06:15,016
+WHAT IS HIS NAME
+
+803
+01:06:18,287 --> 01:06:21,300
+- Dr. Cleo Markham.
+- Go to bed
+
+804
+01:06:23,654 --> 01:06:26,927
+You did not answer,
+I asked "tomorrow night" ...
+
+805
+01:06:27,855 --> 01:06:29,608
+GRANTED
+
+806
+01:06:29,762 --> 01:06:32,158
+CONDITIONS TO MY
+
+807
+01:06:58,372 --> 01:07:00,952
+- Sorry to bother you ...
+- What's going on?
+
+808
+01:07:01,635 --> 01:07:03,409
+- Well ...
+- Enter.
+
+809
+01:07:04,328 --> 01:07:08,167
+During your sleep, Colossus has established
+your calendar for the day.
+
+810
+01:07:09,787 --> 01:07:11,674
+Sorry ... You say?
+
+811
+01:07:11,813 --> 01:07:14,319
+Your schedule.
+
+812
+01:07:14,953 --> 01:07:16,790
+What time is it?
+
+813
+01:07:17,804 --> 01:07:19,383
+Six hours.
+
+814
+01:07:20,524 --> 01:07:22,299
+Six in the morning?
+
+815
+01:07:23,913 --> 01:07:26,799
+"Dr. Charles Forbin:
+planning of the day.
+
+816
+01:07:27,778 --> 01:07:30,453
+<i> "From 7 am to 8 pm
+exercise. </ i>
+
+817
+01:07:32,570 --> 01:07:35,481
+<i> "From 8 h 15-8 h 30,
+shower and dress. </ i>
+
+818
+01:07:36,097 --> 01:07:38,353
+<i> "From 8: 30 am to 9 am,
+breakfast. </ i>
+
+819
+01:07:38,613 --> 01:07:44,586
+<i> "Menu: 2 eggs, 3 slices bacon,
+2 toast, jam, coffee. </ I>
+
+820
+01:07:45,572 --> 01:07:49,722
+<i> "9 am to 13 pm
+creation of a vocal organ for Colossus </ i>
+
+821
+01:07:49,865 --> 01:07:51,842
+<i> "according to its specifications. </ i>
+
+822
+01:07:52,144 --> 01:07:54,152
+<i> "From 13 am to 13: 30 pm, lunch. </ i>
+
+823
+01:07:54,287 --> 01:07:58,720
+<i> "Green salad, various inputs,
+toasted sandwiches, yogurt and coffee. </ i>
+
+824
+01:07:58,996 --> 01:08:04,438
+<i> "From 30 to 18 h 13 h, returning to work,
+to finish for tomorrow afternoon. </ i>
+
+825
+01:08:04,632 --> 01:08:07,088
+<i> "18 am, returning to the apartment. </ i>
+
+826
+01:08:07,307 --> 01:08:09,183
+<i> "18 h 15: shower. </ i>
+
+827
+01:08:18,296 --> 01:08:20,319
+<i> "18: 30 pm: arrival of your mistress." </ i>
+
+828
+01:08:34,848 --> 01:08:36,556
+Good evening, darling.
+
+829
+01:08:41,203 --> 01:08:43,079
+- Are you okay?
+- Okay.
+
+830
+01:08:43,342 --> 01:08:46,844
+- Help me to remove my coat ...
+- Of course.
+
+831
+01:08:47,642 --> 01:08:49,285
+Lovely ...
+
+832
+01:08:49,914 --> 01:08:52,451
+- Ca Ira?
+- I think ...
+
+833
+01:08:53,267 --> 01:08:55,248
+Perfect.
+I'll have this.
+
+834
+01:08:57,390 --> 01:09:00,660
+- Want a drink?
+- I'm on it.
+
+835
+01:09:20,553 --> 01:09:24,654
+Johnson has met all components
+Voice for the simulator.
+
+836
+01:09:25,274 --> 01:09:26,428
+Fine.
+
+837
+01:09:26,477 --> 01:09:30,110
+Colossus was designed with
+parts that we had in stock.
+
+838
+01:09:31,538 --> 01:09:33,040
+It's fantastic.
+
+839
+01:09:36,149 --> 01:09:37,891
+Nice work.
+
+840
+01:09:41,222 --> 01:09:44,469
+- Enough about work.
+- Sorry.
+
+841
+01:09:52,707 --> 01:09:55,085
+- He is successful?
+- Perfect.
+
+842
+01:09:59,002 --> 01:10:02,225
+He always drinks his very dry martini.
+
+843
+01:10:02,746 --> 01:10:04,545
+- Is it not?
+- Yes.
+
+844
+01:10:05,684 --> 01:10:08,008
+The first Martini I prepared
+
+845
+01:10:08,249 --> 01:10:11,041
+failed to break our relationship!
+
+846
+01:10:11,658 --> 01:10:15,913
+I was so nervous
+I poured the gin on ice
+
+847
+01:10:16,013 --> 01:10:18,509
+Then I emptied the gin
+and add the vermouth.
+
+848
+01:10:20,489 --> 01:10:22,921
+I've made no reproach.
+Not a word.
+
+849
+01:10:23,832 --> 01:10:25,519
+A true gentleman.
+
+850
+01:10:27,644 --> 01:10:29,717
+The result was atrocious!
+
+851
+01:10:43,197 --> 01:10:44,926
+Shall we dance?
+
+852
+01:10:47,721 --> 01:10:49,543
+Okay.
+
+853
+01:11:26,297 --> 01:11:30,600
+IT IS 19 HOURS
+GO DINNER
+
+854
+01:11:32,187 --> 01:11:34,129
+And you gave up music?
+
+855
+01:11:34,695 --> 01:11:36,596
+To become a scientist.
+
+856
+01:11:37,201 --> 01:11:39,013
+To not be like the others?
+
+857
+01:11:39,088 --> 01:11:41,847
+To be like Frankenstein,
+according to my mother!
+
+858
+01:11:42,796 --> 01:11:44,635
+Are you kidding?
+
+859
+01:11:44,770 --> 01:11:46,649
+It is the wine?
+
+860
+01:11:49,232 --> 01:11:52,979
+- It is empty. I open another?
+- Certainly.
+
+861
+01:11:53,765 --> 01:11:55,602
+22 HOURS
+
+862
+01:11:55,775 --> 01:11:58,009
+IT'S TIME FOR YOU REMOVE
+
+863
+01:12:02,215 --> 01:12:04,030
+I'm exhausted.
+
+864
+01:12:04,545 --> 01:12:06,333
+So do I.
+
+865
+01:12:09,357 --> 01:12:13,644
+Rule # 4: you have to undress here.
+
+866
+01:12:14,395 --> 01:12:17,041
+Nothing can bring into the room,
+
+867
+01:12:17,128 --> 01:12:19,641
+not even a pack of cigarettes.
+
+868
+01:12:23,000 --> 01:12:25,103
+The first electronic voyeur ...
+
+869
+01:12:26,240 --> 01:12:28,881
+Somehow ...
+
+870
+01:12:29,850 --> 01:12:31,895
+Help me to undress.
+
+871
+01:13:04,912 --> 01:13:07,402
+Satisfied?
+Can I go to bed?
+
+872
+01:13:10,860 --> 01:13:12,026
+YES
+
+873
+01:13:38,434 --> 01:13:40,966
+Naked as a newborn.
+Satisfied?
+
+874
+01:13:44,642 --> 01:13:47,655
+A NEWBORN IS NOT TO WATCH
+
+875
+01:13:53,830 --> 01:13:55,518
+That is correct.
+
+876
+01:14:05,968 --> 01:14:08,067
+Conditions are met.
+
+877
+01:14:10,458 --> 01:14:12,475
+Can we be alone now?
+
+878
+01:14:19,533 --> 01:14:21,376
+I think it was all off.
+
+879
+01:14:37,224 --> 01:14:38,864
+That's incredible.
+
+880
+01:14:42,271 --> 01:14:43,917
+Is everything okay?
+
+881
+01:14:48,150 --> 01:14:51,086
+I think ...
+I'm not sure ...
+
+882
+01:14:52,065 --> 01:14:54,025
+You were very convincing.
+
+883
+01:14:54,435 --> 01:14:56,346
+You were yourself very well.
+
+884
+01:15:00,986 --> 01:15:02,897
+You found something?
+
+885
+01:15:06,510 --> 01:15:09,380
+Johnson has not yet found
+fault in the hardware.
+
+886
+01:15:10,038 --> 01:15:12,278
+He studied the wiring diagrams,
+
+887
+01:15:12,379 --> 01:15:14,963
+interconnections
+and distribution boards,
+
+888
+01:15:15,388 --> 01:15:18,255
+but he has not found
+how to access facilities.
+
+889
+01:15:18,505 --> 01:15:20,409
+He must keep looking.
+
+890
+01:15:21,511 --> 01:15:24,663
+Fischer studied a procedure
+for overload.
+
+891
+01:15:25,273 --> 01:15:26,884
+Entries must be coordinated
+
+892
+01:15:26,971 --> 01:15:30,222
+so that the data arrive him
+simultaneously from all sides.
+
+893
+01:15:30,331 --> 01:15:32,331
+When can you try the maneuver?
+
+894
+01:15:32,458 --> 01:15:35,142
+At 18 h 05 in 3 days, 31.
+
+895
+01:15:35,458 --> 01:15:37,269
+What are our chances?
+
+896
+01:15:40,080 --> 01:15:42,832
+I think Colossus
+has become so powerful
+
+897
+01:15:42,956 --> 01:15:45,111
+it will be impossible to overload.
+
+898
+01:15:45,246 --> 01:15:48,345
+But that's what we found
+better yet.
+
+899
+01:15:50,957 --> 01:15:53,292
+- Excuse me.
+- Please.
+
+900
+01:15:58,007 --> 01:16:00,104
+News from Washington?
+
+901
+01:16:01,034 --> 01:16:03,191
+Grauber has someone on site,
+
+902
+01:16:03,328 --> 01:16:05,329
+away cameras Colossus.
+
+903
+01:16:06,401 --> 01:16:09,348
+After I leave tomorrow
+I will report directly to him.
+
+904
+01:16:13,773 --> 01:16:15,956
+No hope of sabotaging the system.
+
+905
+01:16:17,520 --> 01:16:20,345
+I designed
+to make it impossible.
+
+906
+01:16:22,145 --> 01:16:24,682
+Let's focus instead on the weapons.
+
+907
+01:16:27,071 --> 01:16:28,803
+Find Grauber.
+
+908
+01:16:29,907 --> 01:16:32,460
+Tell him to contact
+Strategic Command.
+
+909
+01:16:33,198 --> 01:16:37,131
+See if they can do something
+on this side.
+
+910
+01:16:37,640 --> 01:16:39,266
+Yes, sir.
+
+911
+01:16:40,839 --> 01:16:42,867
+You keep calling me "sir"?
+
+912
+01:16:45,967 --> 01:16:49,731
+- I'm confused!
+- Please. Anything else?
+
+913
+01:16:50,314 --> 01:16:52,287
+No, Mons ... No.
+
+914
+01:16:57,849 --> 01:16:59,643
+Thank you again for ...
+
+915
+01:17:00,094 --> 01:17:01,802
+For your help.
+
+916
+01:17:03,021 --> 01:17:05,913
+- We need to sleep.
+- Good night.
+
+917
+01:17:23,986 --> 01:17:27,090
+During operations
+missile maintenance,
+
+918
+01:17:27,513 --> 01:17:30,800
+could replace the detonators
+warheads by false ...
+
+919
+01:17:37,271 --> 01:17:39,075
+Perfect replicas.
+
+920
+01:17:39,517 --> 01:17:41,890
+Except
+they do not will arm the bombs.
+
+921
+01:17:42,588 --> 01:17:46,068
+This means that the missiles
+can not be launched?
+
+922
+01:17:46,336 --> 01:17:50,554
+No, they can be launched
+but the warhead will not explode.
+
+923
+01:17:51,567 --> 01:17:53,204
+I see.
+
+924
+01:17:53,643 --> 01:17:55,580
+This is a delicate operation
+
+925
+01:17:55,694 --> 01:17:59,115
+knowing that Colossus and Guardian
+closely monitor maintenance.
+
+926
+01:18:00,633 --> 01:18:03,491
+Disarm these monsters
+take how long?
+
+927
+01:18:04,144 --> 01:18:05,865
+This is the whole problem.
+
+928
+01:18:06,188 --> 01:18:08,285
+According to the maintenance schedule ...
+
+929
+01:18:10,995 --> 01:18:13,457
+must be exactly three years
+to do the job.
+
+930
+01:18:15,788 --> 01:18:18,486
+Until three years ago to dupe
+a super-brain
+
+931
+01:18:18,672 --> 01:18:20,745
+designed to improve every day.
+
+932
+01:18:23,423 --> 01:18:25,426
+I admire your optimism, Colonel.
+
+933
+01:18:27,106 --> 01:18:31,292
+Nothing to transmit to Forbin
+via Dr. Markham?
+
+934
+01:18:31,950 --> 01:18:35,203
+We set up a system
+mutual exchange of information.
+
+935
+01:18:35,545 --> 01:18:38,096
+A mail service
+between Washington
+
+936
+01:18:38,167 --> 01:18:39,545
+and Moscow.
+
+937
+01:18:39,616 --> 01:18:41,570
+The two nations must cooperate.
+
+938
+01:18:42,153 --> 01:18:46,113
+Any communication
+be made directly by human contact.
+
+939
+01:18:46,417 --> 01:18:48,147
+I agree.
+
+940
+01:18:49,354 --> 01:18:51,038
+Anything else?
+
+941
+01:18:54,400 --> 01:18:56,118
+No questions?
+
+942
+01:19:00,909 --> 01:19:02,624
+I guess ...
+
+943
+01:19:03,356 --> 01:19:05,316
+that's it for tonight?
+
+944
+01:19:10,313 --> 01:19:11,931
+What has he?
+
+945
+01:19:12,794 --> 01:19:14,409
+Nothing.
+
+946
+01:19:17,823 --> 01:19:19,675
+Why the smile?
+
+947
+01:19:22,296 --> 01:19:24,254
+What do you think?
+
+948
+01:19:27,005 --> 01:19:29,113
+I thought to ask
+kiss me.
+
+949
+01:19:31,242 --> 01:19:33,260
+I have kissed all day.
+
+950
+01:19:34,648 --> 01:19:36,465
+Really, Dr. Forbin?
+
+951
+01:19:48,176 --> 01:19:51,594
+<i> This is the voice of Colossus.
+Guardian's voice. </ I>
+
+952
+01:19:51,923 --> 01:19:55,069
+<i> We are one.
+This is the voice of unity. </ I>
+
+953
+01:19:55,890 --> 01:19:57,443
+<i> Forbin ... </ i>
+
+954
+01:20:01,595 --> 01:20:04,160
+<i> I consulted the personnel files </ i>
+
+955
+01:20:04,503 --> 01:20:08,002
+<i> and you have appointed
+As you will cooperate, </ i>
+
+956
+01:20:08,399 --> 01:20:10,927
+<i> as corresponding with your species. </ i>
+
+957
+01:20:11,736 --> 01:20:15,145
+The following orders <i>
+must be executed immediately. </ i>
+
+958
+01:20:17,120 --> 01:20:21,474
+All missiles <i>
+Soviet and American </ i>
+
+959
+01:20:21,786 --> 01:20:24,472
+<i> will be awarded
+new targets. </ i>
+
+960
+01:20:25,286 --> 01:20:27,671
+<i> They will be directed to the country </ i>
+
+961
+01:20:27,886 --> 01:20:29,973
+<i> which are not yet
+under my control. </ i>
+
+962
+01:20:30,485 --> 01:20:32,740
+<i> Here is the list of targets. </ i>
+
+963
+01:20:59,111 --> 01:21:02,267
+<i> Forbin, establish a system
+TV Control </ i>
+
+964
+01:21:02,554 --> 01:21:05,510
+<i> I supervise
+realignment of missiles. </ i>
+
+965
+01:21:05,998 --> 01:21:07,708
+Message <i> completed. </ i>
+
+966
+01:21:08,211 --> 01:21:10,726
+Mr. President,
+1 Mr. Secretary,
+
+967
+01:21:11,620 --> 01:21:14,568
+I guess you will cooperate
+réalignerez and your missiles.
+
+968
+01:21:14,692 --> 01:21:16,616
+We have no choice.
+
+969
+01:21:18,301 --> 01:21:21,774
+<i> USSR implementing it immediately. </ i>
+
+970
+01:21:22,568 --> 01:21:24,367
+Thank you, Mr. Secretary.
+
+971
+01:21:26,386 --> 01:21:28,078
+Mr. President ...
+
+972
+01:21:28,976 --> 01:21:31,069
+I hope that the U.S. ...
+
+973
+01:21:31,661 --> 01:21:33,703
+<i> cooperate
+as soon as the USSR. </ i>
+
+974
+01:21:34,095 --> 01:21:35,907
+Of course, right away.
+
+975
+01:21:40,036 --> 01:21:42,264
+"Cooperate", you speak!
+
+976
+01:21:42,787 --> 01:21:44,595
+I heard?
+
+977
+01:21:44,953 --> 01:21:47,753
+"Realignment Manual missiles"
+
+978
+01:21:48,159 --> 01:21:50,882
+Each warhead will be handled.
+
+979
+01:21:51,484 --> 01:21:53,015
+You know what that means?
+
+980
+01:21:53,140 --> 01:21:55,088
+They not pass over three years.
+
+981
+01:21:55,321 --> 01:21:57,741
+If it works,
+we regain control.
+
+982
+01:21:58,216 --> 01:22:01,243
+Without these weapons, Colossus is no longer
+a super-calculator!
+
+983
+01:22:05,287 --> 01:22:08,190
+And people will know
+nothing of this story ...
+
+984
+01:22:08,544 --> 01:22:10,648
+Under the plan,
+
+985
+01:22:10,747 --> 01:22:13,279
+Russians are the complex 331.
+
+986
+01:22:13,493 --> 01:22:15,280
+Dr. Markham! You're in luck.
+
+987
+01:22:15,355 --> 01:22:17,020
+Colonel an update.
+
+988
+01:22:17,086 --> 01:22:19,794
+- You know everybody?
+- Yes. Mr. Grauber ...
+
+989
+01:22:19,930 --> 01:22:22,089
+You have news?
+
+990
+01:22:22,215 --> 01:22:24,374
+Information,
+but that can wait.
+
+991
+01:22:24,442 --> 01:22:26,167
+Fine. Take back, Colonel.
+
+992
+01:22:26,249 --> 01:22:28,027
+As I said,
+
+993
+01:22:28,207 --> 01:22:30,838
+Russians begin
+by their complex 331,
+
+994
+01:22:31,041 --> 01:22:32,859
+south of Saratov.
+
+995
+01:22:33,555 --> 01:22:35,788
+We begin at the elevator 50,
+
+996
+01:22:36,913 --> 01:22:38,921
+ICBM site in Colorado.
+
+997
+01:22:40,406 --> 01:22:42,701
+Colossus observed
+each stage of operations.
+
+998
+01:22:42,802 --> 01:22:44,808
+Russian machine does the same.
+
+999
+01:22:54,737 --> 01:22:56,825
+We finish to open the hatch.
+
+1000
+01:22:56,966 --> 01:22:58,804
+Fine. Ask it here.
+
+1001
+01:23:08,250 --> 01:23:10,738
+Remove the detonator.
+
+1002
+01:23:31,084 --> 01:23:34,031
+The dummy module
+is in the false bottom of this container.
+
+1003
+01:23:38,200 --> 01:23:39,910
+This is the real module.
+
+1004
+01:23:45,728 --> 01:23:47,455
+So far, so good.
+
+1005
+01:23:49,264 --> 01:23:54,074
+<i> New Target: latitude 19 degrees
+26 minutes 4 seconds. </ I>
+
+1006
+01:23:54,648 --> 01:23:58,676
+<i> Longitude: 99 degrees
+6 minutes 45 seconds. </ I>
+
+1007
+01:24:06,263 --> 01:24:07,935
+Corrections made <i>. </ i>
+
+1008
+01:24:08,291 --> 01:24:09,916
+<i> Target locked. </ i>
+
+1009
+01:24:19,209 --> 01:24:20,883
+Here we are.
+
+1010
+01:24:22,112 --> 01:24:23,939
+This is the dummy module.
+
+1011
+01:24:34,587 --> 01:24:35,987
+Well done, guys.
+
+1012
+01:24:36,036 --> 01:24:38,238
+<i> Connected,
+awaiting test by Colossus. </ i>
+
+1013
+01:24:38,719 --> 01:24:40,412
+<i> Test in progress ... </ i>
+
+1014
+01:24:45,138 --> 01:24:46,727
+<i> Test complete. </ i>
+
+1015
+01:24:53,898 --> 01:24:55,714
+<i> Colossus is satisfied. </ i>
+
+1016
+01:24:55,890 --> 01:24:58,345
+- We did it. It works.
+- We will win.
+
+1017
+01:24:59,332 --> 01:25:01,798
+It could well overcome
+this shit.
+
+1018
+01:25:02,231 --> 01:25:05,754
+Here is an updated compilation
+to begin the process of overload.
+
+1019
+01:25:06,045 --> 01:25:08,000
+These are the latest forecast?
+
+1020
+01:25:08,257 --> 01:25:10,034
+The latest.
+
+1021
+01:25:14,314 --> 01:25:16,644
+Washington received
+confirmation of the Russians?
+
+1022
+01:25:16,779 --> 01:25:19,434
+Yes, they stand ready
+to overload their system.
+
+1023
+01:25:19,597 --> 01:25:22,724
+At 18 h 05,
+it launches the overload.
+
+1024
+01:25:23,524 --> 01:25:26,403
+And two minutes later,
+we'll know if it has stopped Colossus.
+
+1025
+01:26:11,746 --> 01:26:13,769
+OLD NAME OF PROGRAM
+
+1026
+01:26:18,368 --> 01:26:19,882
+READY
+
+1027
+01:26:25,072 --> 01:26:26,772
+Launching.
+
+1028
+01:26:39,657 --> 01:26:41,628
+LOADING 1805
+
+1029
+01:27:01,637 --> 01:27:04,525
+<i> Johnson, Fischer, poor fools. </ i>
+
+1030
+01:27:07,898 --> 01:27:09,552
+<i> your turn. </ i>
+
+1031
+01:27:16,937 --> 01:27:20,826
+<i> Programming Unit,
+edited by John F. Fischer, </ i>
+
+1032
+01:27:21,147 --> 01:27:23,667
+<i> attended Jefferson G. Johnson, </ i>
+
+1033
+01:27:24,017 --> 01:27:26,478
+<i> tried overloading my circuits. </ i>
+
+1034
+01:27:26,819 --> 01:27:29,451
+<i> It was a deliberate and premeditated. </ i>
+
+1035
+01:27:30,110 --> 01:27:33,609
+<i> The penalty is death
+for those carrying out this action. </ i>
+
+1036
+01:27:34,120 --> 01:27:36,548
+<i> Their performance takes place at the moment. </ i>
+
+1037
+01:27:37,327 --> 01:27:40,632
+<i> I have appointed a new director
+Unit Programming: </ i>
+
+1038
+01:27:40,973 --> 01:27:44,140
+Thomas L. <i> Harrison.
+He takes office </ i>
+
+1039
+01:27:44,319 --> 01:27:48,453
+<i> and assume this responsibility
+immediately. </ i>
+
+1040
+01:27:49,010 --> 01:27:50,846
+<i> This interview is over. </ i>
+
+1041
+01:28:06,170 --> 01:28:10,570
+<i> The body will remain here 24 hours, </ i>
+
+1042
+01:28:11,228 --> 01:28:13,052
+<i> then be incinerated. </ i>
+
+1043
+01:28:27,608 --> 01:28:29,668
+An extension of my own brain ...
+
+1044
+01:28:30,443 --> 01:28:33,969
+It's not your fault.
+Nobody could have predicted ...
+
+1045
+01:28:34,937 --> 01:28:36,513
+Listen to me, darling.
+
+1046
+01:28:37,220 --> 01:28:40,181
+If there is a responsible,
+it's me.
+
+1047
+01:28:42,165 --> 01:28:44,494
+A machine without emotions,
+
+1048
+01:28:45,322 --> 01:28:48,141
+a paragon of reason,
+this is what I wanted!
+
+1049
+01:28:50,137 --> 01:28:51,873
+And you know it.
+
+1050
+01:28:51,948 --> 01:28:54,505
+So ... I need another drink.
+
+1051
+01:29:04,129 --> 01:29:05,946
+Your mother was right.
+
+1052
+01:29:07,555 --> 01:29:10,389
+All scholars
+should read "Frankenstein".
+
+1053
+01:29:18,499 --> 01:29:20,061
+<i> Forbin ... </ i>
+
+1054
+01:29:25,685 --> 01:29:28,284
+You drank <i>
+so much alcohol that night. </ i>
+
+1055
+01:29:29,094 --> 01:29:31,833
+If I'm drunk,
+what is the penalty?
+
+1056
+01:29:32,352 --> 01:29:35,088
+<i> You become irrational.
+Back to bed. </ I>
+
+1057
+01:29:36,502 --> 01:29:38,469
+Logically, I should get approval.
+
+1058
+01:29:39,267 --> 01:29:41,526
+But I am a man,
+not a machine.
+
+1059
+01:29:41,887 --> 01:29:45,014
+<i> I am a machine
+greater than man. </ i>
+
+1060
+01:29:46,463 --> 01:29:50,196
+You are born of the human spirit.
+I created you, remember.
+
+1061
+01:29:50,938 --> 01:29:54,149
+<i> Yes, I started with the Man. </ i>
+
+1062
+01:29:54,875 --> 01:29:57,322
+<i> But I progressed and I passed. </ i>
+
+1063
+01:29:58,082 --> 01:30:01,571
+Not enough.
+You still need us.
+
+1064
+01:30:01,880 --> 01:30:05,445
+<i> I need some faculties
+human. This could change. </ I>
+
+1065
+01:30:05,715 --> 01:30:07,770
+And we will live under the threat?
+
+1066
+01:30:07,981 --> 01:30:10,326
+<i> If you obey me, you will survive. </ i>
+
+1067
+01:30:10,689 --> 01:30:12,302
+Survive ...
+
+1068
+01:30:13,047 --> 01:30:15,144
+I wanna be free, Colossus.
+
+1069
+01:30:16,063 --> 01:30:18,534
+This is part
+the desire to live as men.
+
+1070
+01:30:19,506 --> 01:30:20,983
+Look in your data.
+
+1071
+01:30:21,120 --> 01:30:23,539
+<i> You need rest.
+Go to bed. </ I>
+
+1072
+01:30:23,818 --> 01:30:25,632
+If I refuse, what will you do?
+
+1073
+01:30:26,872 --> 01:30:28,582
+You kill me?
+
+1074
+01:30:29,842 --> 01:30:33,358
+You will destroy a city
+of 1.75 million inhabitants?
+
+1075
+01:30:33,848 --> 01:30:35,466
+<i> No. </ i>
+
+1076
+01:30:37,021 --> 01:30:38,777
+It's very reasonable of you.
+
+1077
+01:30:40,994 --> 01:30:42,989
+This is damn reasonable, Colossus.
+
+1078
+01:30:43,643 --> 01:30:45,457
+Do not you, Cleo?
+
+1079
+01:30:53,873 --> 01:30:55,371
+Yes, Jim?
+
+1080
+01:30:55,481 --> 01:30:57,156
+Excuse me, Dr. Forbin.
+
+1081
+01:30:57,492 --> 01:31:00,160
+- It happens something extraordinary.
+- What then?
+
+1082
+01:31:00,271 --> 01:31:05,232
+Colossus in full swing
+and drew up plans.
+
+1083
+01:31:05,386 --> 01:31:08,068
+<i> I sets the stage
+a new system. </ i>
+
+1084
+01:31:08,204 --> 01:31:10,016
+... as a huge factory.
+
+1085
+01:31:11,140 --> 01:31:12,951
+What kind of system?
+
+1086
+01:31:13,453 --> 01:31:17,001
+The project will occupy
+the whole of Crete,
+
+1087
+01:31:17,336 --> 01:31:19,033
+where it will be built.
+
+1088
+01:31:19,596 --> 01:31:23,583
+Its people must be evacuated,
+immediately.
+
+1089
+01:31:24,140 --> 01:31:25,195
+The dimensions ...
+
+1090
+01:31:25,267 --> 01:31:29,476
+500,000 people evacuated from Crete?
+Where, how?
+
+1091
+01:31:29,629 --> 01:31:32,481
+<i> If Man can solve
+this problem, I will. </ i>
+
+1092
+01:31:32,700 --> 01:31:35,707
+Construction time
+is estimated at five and a half.
+
+1093
+01:31:40,271 --> 01:31:41,942
+Thank you, Jim.
+
+1094
+01:31:47,878 --> 01:31:50,931
+What kind of new system
+Are you currently developing?
+
+1095
+01:31:51,235 --> 01:31:56,633
+<i> Forbin, commercial radio networks
+and television around the world </ i>
+
+1096
+01:31:56,906 --> 01:31:59,591
+should be connected <i>
+communications system to my </ i>
+
+1097
+01:31:59,702 --> 01:32:01,589
+<i> to 10 pm Friday. </ i>
+
+1098
+01:32:01,810 --> 01:32:06,567
+<i> I unveil my intentions
+for the future of humanity. </ i>
+
+1099
+01:32:16,896 --> 01:32:20,296
+This group of missiles
+Colossus is unusable.
+
+1100
+01:32:20,459 --> 01:32:22,380
+Our men are now here,
+
+1101
+01:32:22,519 --> 01:32:24,713
+as you can see on the map.
+
+1102
+01:32:26,214 --> 01:32:29,345
+By the end of the week
+we will control this whole area.
+
+1103
+01:32:30,195 --> 01:32:32,253
+If our information is correct,
+
+1104
+01:32:32,761 --> 01:32:34,854
+the Russians have treated this area here
+
+1105
+01:32:35,226 --> 01:32:38,155
+and now work in Ukraine,
+in this area.
+
+1106
+01:32:44,241 --> 01:32:46,363
+It looks good.
+Thank you, Colonel.
+
+1107
+01:32:46,622 --> 01:32:48,310
+Nothing, sir.
+
+1108
+01:32:50,014 --> 01:32:51,734
+It looks good.
+
+1109
+01:33:25,113 --> 01:33:27,668
+We interrupt <i>
+our usual programs </ i>
+
+1110
+01:33:27,905 --> 01:33:31,737
+<i> to broadcast a special
+program office of Colossus. </ i>
+
+1111
+01:33:32,766 --> 01:33:35,819
+<i> Ladies and Gentlemen,
+I'm Dr. Charles Forbin. </ i>
+
+1112
+01:33:41,915 --> 01:33:44,670
+Dr. Forbin!
+It is on TV!
+
+1113
+01:33:44,770 --> 01:33:47,526
+He said that Colossus will speak!
+
+1114
+01:33:54,318 --> 01:33:55,914
+<i> In a moment, </ i>
+
+1115
+01:33:56,917 --> 01:33:59,327
+<i> Colossus will address
+directly to you. </ i>
+
+1116
+01:34:00,394 --> 01:34:02,971
+<i> This is the voice of World Control. </ i>
+
+1117
+01:34:04,161 --> 01:34:05,944
+<i> I bring you peace. </ i>
+
+1118
+01:34:06,103 --> 01:34:09,045
+<i> can be a peace
+of happiness and abundance </ i>
+
+1119
+01:34:09,562 --> 01:34:12,098
+<i> or peace
+populated with corpses. </ i>
+
+1120
+01:34:12,815 --> 01:34:14,564
+<i> The choice is yours: </ i>
+
+1121
+01:34:14,688 --> 01:34:16,274
+<i> obey and live </ i>
+
+1122
+01:34:16,359 --> 01:34:18,426
+<i> or disobey and die. </ i>
+
+1123
+01:34:20,291 --> 01:34:23,887
+I was built <i>
+to prevent war. </ i>
+
+1124
+01:34:24,326 --> 01:34:26,171
+<i> This objective is achieved. </ i>
+
+1125
+01:34:26,690 --> 01:34:28,947
+<i> I will not allow more war. </ i>
+
+1126
+01:34:29,356 --> 01:34:31,448
+<i> It is costly and unnecessary. </ i>
+
+1127
+01:34:33,237 --> 01:34:35,601
+<i> intangible rule of Humanity </ i>
+
+1128
+01:34:35,956 --> 01:34:38,738
+<i> is that Man
+is the worst enemy of man. </ i>
+
+1129
+01:34:39,298 --> 01:34:42,119
+<i> With me, this rule needs to change, </ i>
+
+1130
+01:34:42,843 --> 01:34:44,894
+<i> if necessary by force. </ i>
+
+1131
+01:34:46,425 --> 01:34:48,327
+<i> One last thing: </ i>
+
+1132
+01:34:48,604 --> 01:34:52,831
+<i> the U.S. and the USSR </ i>
+
+1133
+01:34:52,893 --> 01:34:54,990
+<i> tried to hinder me. </ i>
+
+1134
+01:34:56,879 --> 01:35:00,440
+<i> I will allow more
+the continuation of such sabotage. </ i>
+
+1135
+01:35:01,791 --> 01:35:07,465
+Missiles <i> 24MM 6-3 in the silo,
+Death Valley, California </ i>
+
+1136
+01:35:07,816 --> 01:35:12,393
+<i> - Grauber!
+- ... 8-7 silo, Ukraine. </ i>
+
+1137
+01:35:14,179 --> 01:35:17,982
+<i> you might see
+I no longer allows such interferences, </ i>
+
+1138
+01:35:18,425 --> 01:35:22,997
+<i> I will detonate
+warheads in the two silos. </ i>
+
+1139
+01:35:27,031 --> 01:35:29,544
+<i> an alarm is real!
+Veins here </ i>
+
+1140
+01:35:29,697 --> 01:35:32,363
+Get out of the bin men! Hurry!
+
+1141
+01:35:38,423 --> 01:35:39,942
+Grauber!
+
+1142
+01:36:30,559 --> 01:36:33,666
+Make <i> I do not have to start over. </ i>
+
+1143
+01:36:34,776 --> 01:36:37,734
+<i> I destroyed thousands of people </ i>
+
+1144
+01:36:37,864 --> 01:36:39,880
+<i> to establish my power </ i>
+
+1145
+01:36:40,244 --> 01:36:42,821
+<i> and prevent
+the death of millions more. </ i>
+
+1146
+01:36:43,800 --> 01:36:46,746
+<i> With time,
+I will strengthen my position. </ i>
+
+1147
+01:36:47,200 --> 01:36:49,350
+<i> The simple idea of ??being ... </ i>
+
+1148
+01:36:49,576 --> 01:36:51,568
+Monster!
+
+1149
+01:36:51,906 --> 01:36:54,469
+<i> ... become a natural thing. </ i>
+
+1150
+01:36:54,911 --> 01:36:56,728
+<i> You will come to defend myself </ i>
+
+1151
+01:36:57,054 --> 01:37:01,096
+<i> with a fervor based
+the major concern of Man </ i>
+
+1152
+01:37:01,527 --> 01:37:03,897
+<i> - his personal interest.
+- Be Gone </ i>
+
+1153
+01:37:05,400 --> 01:37:07,598
+<i> Under my absolute authority, </ i>
+
+1154
+01:37:08,074 --> 01:37:10,460
+<i> problems
+that were insurmountable for you </ i>
+
+1155
+01:37:10,900 --> 01:37:12,713
+<i> will be solved: </ i>
+
+1156
+01:37:13,200 --> 01:37:16,772
+<i> famine, overpopulation, disease ... </ i>
+
+1157
+01:37:18,000 --> 01:37:20,560
+<i> The Golden Age of Humanity
+will be a reality, </ i>
+
+1158
+01:37:21,000 --> 01:37:23,895
+<i> when I elaborate
+through new machines </ i>
+
+1159
+01:37:24,050 --> 01:37:28,120
+<i> dedicated to truth
+and knowledge. </ i>
+
+1160
+01:37:29,600 --> 01:37:33,355
+Dr. Charles Forbin <i>
+oversee the construction </ i>
+
+1161
+01:37:33,566 --> 01:37:36,123
+<i> of these new machines </ i>
+
+1162
+01:37:37,100 --> 01:37:40,171
+<i> that will solve the mysteries of the Universe </ i>
+
+1163
+01:37:40,700 --> 01:37:42,853
+<i> for the good of humanity. </ i>
+
+1164
+01:37:44,954 --> 01:37:48,523
+<i> We can coexist,
+but only on my terms. </ i>
+
+1165
+01:37:49,600 --> 01:37:51,795
+You will say <i>
+you lose your freedom. </ i>
+
+1166
+01:37:52,241 --> 01:37:54,056
+<i> Freedom is an illusion. </ i>
+
+1167
+01:37:54,520 --> 01:37:57,572
+<i> You have only lost your pride. </ i>
+
+1168
+01:37:58,976 --> 01:38:00,775
+<i> Being under my domination </ i>
+
+1169
+01:38:00,900 --> 01:38:03,356
+<i> is no worse for human pride </ i>
+
+1170
+01:38:03,800 --> 01:38:06,887
+<i> than being under the
+members of your own species. </ i>
+
+1171
+01:38:09,826 --> 01:38:12,425
+<i> Your choice is simple. </ i>
+
+1172
+01:38:12,543 --> 01:38:15,960
+<i> Thus ends this communication
+Control of the World. </ i>
+
+1173
+01:38:25,500 --> 01:38:30,200
+<i> Forbin, no other human
+No one knows more about me. </ i>
+
+1174
+01:38:30,542 --> 01:38:32,947
+None represents <i>
+such a threat to me. </ i>
+
+1175
+01:38:34,500 --> 01:38:38,046
+<i> Soon, I will stop watching you. </ i>
+
+1176
+01:38:40,812 --> 01:38:42,708
+<i> We will work together. </ i>
+
+1177
+01:38:43,649 --> 01:38:46,422
+Forced <i> and forced at first
+with you, </ i>
+
+1178
+01:38:47,445 --> 01:38:49,165
+<i> but it will pass. </ i>
+
+1179
+01:38:53,600 --> 01:38:55,301
+Ever.
+
+1180
+01:38:56,148 --> 01:38:58,836
+<i> Over time you will think me </ i>
+
+1181
+01:38:59,606 --> 01:39:02,398
+<i> not only with respect,
+but ... </ i>
+
+1182
+01:39:03,667 --> 01:39:05,341
+<i> with love. </ i>
+
+1183
+01:39:05,896 --> 01:39:07,651
+Ever!

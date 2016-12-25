@@ -1,0 +1,8774 @@
+1
+00:01:04,920 --> 00:01:09,391
+<i>(narrator) The Sarah Siddons Award</i>
+<i>is perhaps unknown to you.</i>
+
+2
+00:01:09,480 --> 00:01:12,278
+<i>It has been spared the sensational publicity...</i>
+
+3
+00:01:12,360 --> 00:01:15,636
+<i>... of such questionable honours</i>
+<i>as the Pulitzer Prize...</i>
+
+4
+00:01:15,720 --> 00:01:20,396
+<i>... and those awards presented annually</i>
+<i>by that... film society.</i>
+
+5
+00:01:20,480 --> 00:01:24,268
+<i>The distinguished-looking gentleman</i>
+<i>is an extremely old actor.</i>
+
+6
+00:01:24,360 --> 00:01:27,636
+<i>Being an actor,</i>
+<i>he will go on speaking for some time.</i>
+
+7
+00:01:27,720 --> 00:01:30,678
+<i>It is not important that you hear what he says.</i>
+
+8
+00:01:30,760 --> 00:01:34,878
+<i>However, it is important that you know</i>
+<i>where you are and why you are here.</i>
+
+9
+00:01:34,960 --> 00:01:38,396
+<i>This is the dining hall</i>
+<i>of the Sarah Siddons Society.</i>
+
+10
+00:01:38,480 --> 00:01:43,759
+<i>It is the annual banquet and presentation</i>
+<i>of the highest honour our theatre has:</i>
+
+11
+00:01:43,840 --> 00:01:47,310
+<i>the Sarah Siddons Award for</i>
+<i>Distinguished Achievement.</i>
+
+12
+00:01:47,400 --> 00:01:50,153
+<i>These hallowed walls,</i>
+<i>indeed many of these faces...</i>
+
+13
+00:01:50,240 --> 00:01:54,233
+<i>... have looked upon Modjeska,</i>
+<i>Ada Rehan and Minnie Fiske.</i>
+
+14
+00:01:54,320 --> 00:01:57,437
+<i>Mansfield's voice filled this room.</i>
+
+15
+00:01:57,520 --> 00:02:01,195
+<i>It is unlikely that the windows</i>
+<i>have been opened since his death.</i>
+
+16
+00:02:01,440 --> 00:02:05,911
+<i>The minor awards, as you can see,</i>
+<i>have already been presented.</i>
+
+17
+00:02:06,000 --> 00:02:09,310
+<i>Minor awards are for such</i>
+<i>as the writer and director...</i>
+
+18
+00:02:09,400 --> 00:02:11,994
+<i>... since they merely construct a tower...</i>
+
+19
+00:02:12,080 --> 00:02:15,834
+<i>... so that the world can applaud</i>
+<i>a light which flashes on top of it.</i>
+
+20
+00:02:15,920 --> 00:02:20,118
+<i>And no brighter light has ever</i>
+<i>dazzled the eye than Eve Harrington.</i>
+
+21
+00:02:20,200 --> 00:02:23,431
+<i>Eve... but more of Eve later.</i>
+
+22
+00:02:23,520 --> 00:02:25,556
+<i>All about Eve, in fact.</i>
+
+23
+00:02:25,640 --> 00:02:31,192
+<i>To those who do not read, attend the theatre,</i>
+<i>listen to unsponsored radio programmes...</i>
+
+24
+00:02:31,280 --> 00:02:33,919
+<i>... or know anything of the world</i>
+<i>in which you live...</i>
+
+25
+00:02:34,000 --> 00:02:37,231
+<i>... it is perhaps necessary to introduce myself.</i>
+
+26
+00:02:37,320 --> 00:02:39,390
+<i>My name is Addison DeWitt.</i>
+
+27
+00:02:39,480 --> 00:02:44,952
+<i>My native habitat is the theatre.</i>
+<i>In it, I toil not. Neither do I spin.</i>
+
+28
+00:02:45,040 --> 00:02:47,429
+<i>I am a critic and commentator.</i>
+
+29
+00:02:47,520 --> 00:02:50,080
+<i>I am essential to the theatre.</i>
+
+30
+00:02:50,160 --> 00:02:52,151
+<i>This is Karen Richards.</i>
+
+31
+00:02:52,240 --> 00:02:56,552
+<i>She is the wife of a playwright,</i>
+<i>therefore of the theatre by marriage.</i>
+
+32
+00:02:56,640 --> 00:03:02,795
+<i>Nothing in her background should have</i>
+<i>brought her closer to the stage than Row E.</i>
+
+33
+00:03:02,880 --> 00:03:07,715
+<i>However, during her senior year at Radcliffe,</i>
+<i>Lloyd Richards lectured on the drama.</i>
+
+34
+00:03:07,800 --> 00:03:11,759
+<i>The following year</i>
+<i>Karen became Mrs Lloyd Richards.</i>
+
+35
+00:03:11,840 --> 00:03:15,389
+<i>There are, in general,</i>
+<i>two types of theatrical producers.</i>
+
+36
+00:03:15,480 --> 00:03:19,792
+<i>One has a great many wealthy friends</i>
+<i>who will risk a tax-deductible loss.</i>
+
+37
+00:03:19,880 --> 00:03:22,235
+<i>This type is interested in art.</i>
+
+38
+00:03:22,320 --> 00:03:26,518
+<i>The other is one to whom each production</i>
+<i>means potential ruin or fortune.</i>
+
+39
+00:03:26,600 --> 00:03:28,591
+<i>This type is out to make a buck.</i>
+
+40
+00:03:28,880 --> 00:03:30,950
+<i>Meet Max Fabian.</i>
+
+41
+00:03:31,040 --> 00:03:36,831
+<i>He is the producer of the play which has won</i>
+<i>for Eve Harrington the Sarah Siddons Award.</i>
+
+42
+00:03:37,680 --> 00:03:41,195
+<i>Margo Channing is a star of the theatre.</i>
+
+43
+00:03:41,280 --> 00:03:46,798
+<i>She made her first stage appearance at</i>
+<i>the age of four in Midsummer Night's Dream.</i>
+
+44
+00:03:46,880 --> 00:03:51,317
+<i>She played a fairy and entered,</i>
+<i>quite unexpectedly, stark naked.</i>
+
+45
+00:03:51,400 --> 00:03:53,789
+<i>She has been a star ever since.</i>
+
+46
+00:03:54,640 --> 00:03:57,757
+<i>Margo is a great star. A true star.</i>
+
+47
+00:03:57,840 --> 00:04:01,674
+<i>She never was or will be</i>
+<i>anything less or anything else.</i>
+
+48
+00:04:03,160 --> 00:04:08,712
+<i>Having covered in tedious detail not only</i>
+<i>the history of the Sarah Siddons Society...</i>
+
+49
+00:04:08,800 --> 00:04:14,079
+<i>... but also the history of acting since</i>
+<i>Thespis first stepped out of the chorus line...</i>
+
+50
+00:04:14,160 --> 00:04:18,312
+<i>... our distinguished chairman has finally</i>
+<i>arrived at our reason for being here.</i>
+
+51
+00:04:18,400 --> 00:04:24,475
+I have been proud and privileged
+to have spent my life in the theatre...
+
+52
+00:04:24,560 --> 00:04:29,315
+<i>...a</i> poor player that struts
+and frets his hour upon the stage...
+
+53
+00:04:30,000 --> 00:04:32,798
+<i>...and</i> I've been honoured to be, for 40 years...
+
+54
+00:04:32,880 --> 00:04:36,634
+...chief prompter
+of the Sarah Siddons Society.
+
+55
+00:04:37,680 --> 00:04:42,310
+39 times have I placed in deserving hands...
+
+56
+00:04:42,400 --> 00:04:45,870
+<i>...this</i> highest honour the theatre knows.
+
+57
+00:04:45,960 --> 00:04:48,758
+Surely no actor is older than I.
+
+58
+00:04:48,840 --> 00:04:51,308
+I've earned my place - out of the sun.
+
+59
+00:04:51,400 --> 00:04:52,799
+<i>(laughter)</i>
+
+60
+00:04:52,880 --> 00:04:58,477
+And never before has this award gone to
+anyone younger than its recipient tonight.
+
+61
+00:04:58,560 --> 00:05:02,553
+How fitting that it should
+pass from my hands to hers.
+
+62
+00:05:02,800 --> 00:05:06,236
+Such young hands. Such a young lady.
+
+63
+00:05:06,640 --> 00:05:11,031
+Young in years, but whose heart
+is as old as the theatre.
+
+64
+00:05:11,400 --> 00:05:13,391
+Some of us are privileged to know her.
+
+65
+00:05:13,480 --> 00:05:16,677
+We have seen beyond
+the beauty and artistry...
+
+66
+00:05:16,760 --> 00:05:19,877
+<i>...that</i> have made her name
+resound through the nation.
+
+67
+00:05:19,960 --> 00:05:23,714
+We know her humility, her devotion...
+
+68
+00:05:23,800 --> 00:05:25,836
+<i>...her</i> loyalty to her art...
+
+69
+00:05:25,920 --> 00:05:30,311
+<i>...her</i> love, her deep and abiding love for us...
+
+70
+00:05:30,400 --> 00:05:34,916
+<i>...for</i> what we are and what we do - the theatre.
+
+71
+00:05:35,360 --> 00:05:37,669
+She has had one wish...
+
+72
+00:05:37,760 --> 00:05:40,354
+<i>...one</i> prayer, one dream:
+
+73
+00:05:41,480 --> 00:05:43,914
+to belong to us.
+
+74
+00:05:44,160 --> 00:05:46,435
+Tonight her dream has come true...
+
+75
+00:05:46,520 --> 00:05:50,229
+<i>...and</i> henceforth
+we shall dream the same of her.
+
+76
+00:05:50,320 --> 00:05:54,836
+Ladies and gentlemen, for distinguished
+achievement in the theatre...
+
+77
+00:05:54,920 --> 00:05:58,799
+<i>...the</i> Sarah Siddons Award...
+to Miss Eve Harrington.
+
+78
+00:06:21,920 --> 00:06:23,911
+Bravo!
+
+79
+00:06:37,400 --> 00:06:41,234
+<i>(Addison) Eve.</i>
+<i>Eve, the golden girl. The cover girl.</i>
+
+80
+00:06:41,320 --> 00:06:45,598
+<i>The girl next door, the girl on the moon.</i>
+<i>Time has been good to Eve.</i>
+
+81
+00:06:45,680 --> 00:06:50,595
+<i>Life goes where she goes. She's been</i>
+<i>profiled, covered, revealed, reported...</i>
+
+82
+00:06:50,680 --> 00:06:53,513
+<i>... what she eats and what</i>
+<i>she wears and whom she knows...</i>
+
+83
+00:06:53,600 --> 00:06:56,637
+<i>... and where she was and</i>
+<i>when and where she's going.</i>
+
+84
+00:06:56,720 --> 00:06:58,472
+<i>Eve.</i>
+
+85
+00:06:58,560 --> 00:07:00,949
+<i>You all know all about Eve.</i>
+
+86
+00:07:01,920 --> 00:07:04,639
+<i>What can there be to know</i>
+<i>that you don't know?</i>
+
+87
+00:07:05,560 --> 00:07:08,279
+<i>(Karen) When was it? How long?</i>
+
+88
+00:07:08,360 --> 00:07:10,920
+<i>It seems a lifetime ago.</i>
+
+89
+00:07:11,000 --> 00:07:15,391
+<i>Lloyd always said that in the theatre a lifetime</i>
+<i>was a season and a season a lifetime.</i>
+
+90
+00:07:15,480 --> 00:07:19,029
+<i>It's June now. That was early October.</i>
+
+91
+00:07:20,000 --> 00:07:21,991
+<i>Only last October.</i>
+
+92
+00:07:24,040 --> 00:07:27,635
+<i>It was a drizzly night.</i>
+<i>I remember I asked the taxi to wait.</i>
+
+93
+00:07:33,920 --> 00:07:35,319
+<i>Where was she?</i>
+
+94
+00:07:35,400 --> 00:07:39,871
+<i>Strange. I'd become so accustomed</i>
+<i>to seeing her there night after night...</i>
+
+95
+00:07:39,960 --> 00:07:42,997
+<i>... I found myself looking for a girl</i>
+<i>I'd never spoken to.</i>
+
+96
+00:07:43,080 --> 00:07:45,469
+<i>Wondering where she was.</i>
+
+97
+00:07:50,640 --> 00:07:52,790
+Mrs Richards?
+
+98
+00:07:53,840 --> 00:07:56,149
+There you are.
+
+99
+00:07:56,240 --> 00:08:00,279
+It seemed odd, suddenly, your not being here.
+
+100
+00:08:00,360 --> 00:08:03,636
+- Why should you think I wouldn't be?
+- Why should you be?
+
+101
+00:08:03,720 --> 00:08:08,236
+Six nights a week for weeks of watching even
+Margo Channing enter and leave a theatre.
+
+102
+00:08:08,320 --> 00:08:10,914
+- You don't mind my speaking to you?
+- Not at all.
+
+103
+00:08:11,000 --> 00:08:14,595
+I've seen you so often.
+It took every bit of courage I could raise.
+
+104
+00:08:14,680 --> 00:08:17,148
+To speak to just a playwright's wife?
+
+105
+00:08:17,240 --> 00:08:19,595
+I'm the lowest form of celebrity.
+
+106
+00:08:19,680 --> 00:08:23,832
+You're Margo Channing's best friend.
+You and your husband are always with her.
+
+107
+00:08:23,920 --> 00:08:27,549
+And Mr Sampson. What's he like?
+
+108
+00:08:27,640 --> 00:08:30,916
+Bill Sampson? He's... he's a director.
+
+109
+00:08:31,000 --> 00:08:33,150
+- He's the best.
+- He'll agree with you.
+
+110
+00:08:33,240 --> 00:08:38,109
+Tell me. What do you do in between
+the time Margo goes in and comes out?
+
+111
+00:08:38,200 --> 00:08:40,589
+Just huddle in that doorway and wait?
+
+112
+00:08:40,680 --> 00:08:43,558
+Oh, no. I see the play.
+
+113
+00:08:43,640 --> 00:08:48,156
+You see the play? You've seen
+every performance of this play?
+
+114
+00:08:48,240 --> 00:08:50,196
+Yes.
+
+115
+00:08:50,280 --> 00:08:54,796
+But don't you find it, apart from
+everything else, don't you find it expensive?
+
+116
+00:08:54,880 --> 00:08:57,872
+Standing room doesn't cost much. I manage.
+
+117
+00:08:59,760 --> 00:09:01,990
+- I'm gonna take you to Margo.
+- Oh, no!
+
+118
+00:09:02,080 --> 00:09:05,595
+- Oh, yes! She's got to meet you.
+- No, I'd be imposing on her.
+
+119
+00:09:05,680 --> 00:09:07,671
+I'd be just another tongue-tied fan.
+
+120
+00:09:07,760 --> 00:09:10,832
+There isn't another like you.
+There couldn't be.
+
+121
+00:09:10,920 --> 00:09:13,559
+If I'd known... Some other time.
+Looking like this!
+
+122
+00:09:13,640 --> 00:09:17,076
+You look just fine.
+By the way, what's your name?
+
+123
+00:09:17,160 --> 00:09:19,151
+Eve. Eve Harrington.
+
+124
+00:09:22,560 --> 00:09:25,677
+- Good evening, Gus.
+- Good evening, Mrs Richards.
+
+125
+00:09:26,440 --> 00:09:28,431
+- Good night.
+- Good night, Gus.
+
+126
+00:09:46,880 --> 00:09:49,269
+You can breathe it, can't you?
+
+127
+00:09:50,480 --> 00:09:52,869
+Like some magic perfume.
+
+128
+00:09:57,760 --> 00:09:59,751
+<i>(laughter from behind the door)</i>
+
+129
+00:10:01,080 --> 00:10:03,071
+Wait right here. Don't run away.
+
+130
+00:10:03,160 --> 00:10:06,391
+"If the South had won,
+you could write plays about the North."
+
+131
+00:10:06,480 --> 00:10:08,710
+- Hi.
+- Hello!
+
+132
+00:10:08,800 --> 00:10:11,473
+"I don't think
+you can rightly say we lost the war."
+
+133
+00:10:11,560 --> 00:10:14,028
+"We was more starved out, you might say."
+
+134
+00:10:14,120 --> 00:10:17,954
+"I don't understand all these plays
+about love-starved Southern women."
+
+135
+00:10:18,040 --> 00:10:21,510
+"Love is one thing we were
+never starved for in the South."
+
+136
+00:10:21,600 --> 00:10:24,068
+Margo's interview with
+a reporter from the South.
+
+137
+00:10:24,160 --> 00:10:27,311
+When it gets printed,
+they're gonna fire on Gettysburg again.
+
+138
+00:10:27,400 --> 00:10:31,279
+- It was Fort Sumter they fired on.
+- I never played Fort Sumter.
+
+139
+00:10:32,760 --> 00:10:36,673
+Honeychild had a point.
+Lloyd, honey, be a playwright with guts.
+
+140
+00:10:36,760 --> 00:10:40,958
+Write me one about a nice, normal woman
+who just shoots her husband.
+
+141
+00:10:41,040 --> 00:10:43,429
+- You need new girdles.
+- Buy some.
+
+142
+00:10:43,520 --> 00:10:45,317
+- Same size?
+- Of course.
+
+143
+00:10:45,400 --> 00:10:48,392
+I find these wisecracks
+increasingly less funny.
+
+144
+00:10:48,480 --> 00:10:52,519
+<i>- Aged in Wood</i> happens to be a fine play.
+- That's my loyal little woman.
+
+145
+00:10:52,600 --> 00:10:54,989
+The critics thought so.
+The audiences think so.
+
+146
+00:10:55,080 --> 00:10:58,550
+Packed houses,
+tickets four months in advance.
+
+147
+00:10:58,640 --> 00:11:01,108
+I can't see that Lloyd's plays
+have hurt you any.
+
+148
+00:11:01,200 --> 00:11:05,079
+- Easy now.
+- Relax, kid, it's just me and my big mouth.
+
+149
+00:11:05,160 --> 00:11:10,598
+You get me so mad sometimes. Of all
+the women with nothing to complain about...
+
+150
+00:11:10,680 --> 00:11:12,750
+- Ain't it the truth?
+- Yes, it is.
+
+151
+00:11:12,840 --> 00:11:15,195
+You're talented, famous, wealthy.
+
+152
+00:11:15,280 --> 00:11:19,319
+People waiting around night after night
+just to see you. Even in the rain.
+
+153
+00:11:19,400 --> 00:11:24,599
+Autograph fiends! They're not people. Little
+beasts that run around in packs like coyotes.
+
+154
+00:11:24,680 --> 00:11:27,433
+- They're your fans.
+- They're nobody's fans.
+
+155
+00:11:27,520 --> 00:11:31,149
+They're juvenile delinquents.
+They're nobody's audience.
+
+156
+00:11:31,280 --> 00:11:34,955
+They never see a play or a movie.
+They're never indoors long enough.
+
+157
+00:11:35,040 --> 00:11:38,316
+Well, there's one indoors right now.
+
+158
+00:11:39,280 --> 00:11:41,714
+- I've brought her back to see you.
+- You've what?
+
+159
+00:11:42,160 --> 00:11:44,549
+She's just outside the door.
+
+160
+00:11:44,640 --> 00:11:46,517
+The heave-ho.
+
+161
+00:11:46,600 --> 00:11:49,160
+But you can't put her out! I promised!
+
+162
+00:11:49,240 --> 00:11:53,836
+Margo, you've got to see her. She worships
+you. It's like something out of a book.
+
+163
+00:11:53,920 --> 00:11:56,388
+That book is out of print.
+Those days are gone.
+
+164
+00:11:56,840 --> 00:11:59,559
+But if you'd only see her...
+You're her whole life.
+
+165
+00:11:59,640 --> 00:12:02,712
+You must have spotted her by now.
+She's always there.
+
+166
+00:12:02,800 --> 00:12:07,271
+Oh, the mousy one with
+the trench coat and the funny hat.
+
+167
+00:12:07,360 --> 00:12:10,318
+How could I miss her?
+Every night, every matinée.
+
+168
+00:12:13,720 --> 00:12:15,711
+Come in, Eve.
+
+169
+00:12:18,880 --> 00:12:21,440
+- I thought you'd forgotten about me.
+- Not at all.
+
+170
+00:12:21,520 --> 00:12:23,590
+Margo, this is Eve Harrington.
+
+171
+00:12:23,680 --> 00:12:26,069
+- How do you do, my dear?
+- Oh, brother!
+
+172
+00:12:26,160 --> 00:12:28,037
+- Hello, Miss Channing.
+- My husband.
+
+173
+00:12:28,120 --> 00:12:30,156
+- Hello, Miss Harrington.
+- How do you do?
+
+174
+00:12:30,240 --> 00:12:33,312
+And this is my dear friend
+and companion, Miss Birdie Coonan.
+
+175
+00:12:33,400 --> 00:12:35,550
+- Oh, brother!
+- Miss Coonan.
+
+176
+00:12:35,640 --> 00:12:38,200
+- Oh, brother, what?
+- When she gets like this...
+
+177
+00:12:38,280 --> 00:12:40,396
+<i>...she</i> starts playing Hamlet's mother.
+
+178
+00:12:40,480 --> 00:12:44,109
+I'm sure you must have things
+to do in the bathroom, Birdie, dear.
+
+179
+00:12:44,200 --> 00:12:47,556
+If I haven't, I'll find
+something till you get normal.
+
+180
+00:12:51,000 --> 00:12:53,560
+Won't you sit down, Miss Worthington?
+
+181
+00:12:53,640 --> 00:12:54,709
+Harrington.
+
+182
+00:12:54,800 --> 00:12:58,395
+- I'm so sorry. Won't you sit down?
+- Thank you.
+
+183
+00:13:01,720 --> 00:13:05,474
+- Would you like a drink?
+- I was saying how often you've seen the play.
+
+184
+00:13:05,560 --> 00:13:07,039
+No, thank you.
+
+185
+00:13:07,120 --> 00:13:08,917
+Yes, I've seen every performance.
+
+186
+00:13:09,000 --> 00:13:13,152
+Every performance?
+Then am I safe in assuming you like it?
+
+187
+00:13:13,560 --> 00:13:18,076
+- I'd like anything Miss Channing played in.
+- Would you really? How sweet!
+
+188
+00:13:18,160 --> 00:13:21,197
+I doubt very much that
+you'd like her in <i>The Hairy Ape.</i>
+
+189
+00:13:21,280 --> 00:13:23,999
+Please don't misunderstand me, Mr Richards.
+
+190
+00:13:24,080 --> 00:13:28,631
+I think part of Miss Channing's greatness
+lies in her ability to pick the best plays.
+
+191
+00:13:28,720 --> 00:13:32,713
+- Your new play is for Miss Channing, isn't it?
+- Of course it is.
+
+192
+00:13:32,800 --> 00:13:36,315
+- How did you hear about it?
+- There was an item in <i>The Times.</i>
+
+193
+00:13:36,400 --> 00:13:39,073
+I like the title, <i>Footsteps on the Ceiling.</i>
+
+194
+00:13:39,160 --> 00:13:41,116
+Yes, but let's get back to this one.
+
+195
+00:13:41,200 --> 00:13:44,272
+- Have you really seen every performance?
+- Yes.
+
+196
+00:13:44,360 --> 00:13:46,316
+Why? I'm curious.
+
+197
+00:13:46,400 --> 00:13:51,679
+Well, if I didn't come to see the play,
+I wouldn't have anywhere else to go.
+
+198
+00:13:51,840 --> 00:13:56,311
+- There are other plays.
+- Not with you in them. Not by Mr Richards.
+
+199
+00:13:56,400 --> 00:13:59,676
+But you must have friends, a home, family?
+
+200
+00:14:01,880 --> 00:14:04,269
+Tell us about it, Eve.
+
+201
+00:14:05,320 --> 00:14:08,357
+- If I only knew how.
+- Try.
+
+202
+00:14:09,840 --> 00:14:11,990
+- Well...
+<i>- (door opens)</i>
+
+203
+00:14:29,520 --> 00:14:32,592
+Well, it started with the play before this one.
+
+204
+00:14:32,680 --> 00:14:34,910
+<i>- Remembrance.</i>
+<i>- Remembrance.</i>
+
+205
+00:14:35,000 --> 00:14:37,878
+- Did you see it here in New York?
+- San Francisco.
+
+206
+00:14:38,400 --> 00:14:41,312
+It was the last week. I went one night.
+
+207
+00:14:41,400 --> 00:14:44,358
+The most important night
+of my life... until now.
+
+208
+00:14:44,440 --> 00:14:48,399
+I found myself going the next night
+and the next and the next.
+
+209
+00:14:48,480 --> 00:14:50,630
+Every performance.
+
+210
+00:14:50,720 --> 00:14:54,349
+Then, when the show went East, I went East.
+
+211
+00:14:54,760 --> 00:14:59,231
+- Eve, why don't you start at the beginning?
+- Oh, it couldn't possibly interest you.
+
+212
+00:14:59,560 --> 00:15:01,551
+Please.
+
+213
+00:15:02,240 --> 00:15:06,199
+I guess it started back home.
+Wisconsin, that is.
+
+214
+00:15:06,280 --> 00:15:08,555
+It was just Mom and Dad and me.
+
+215
+00:15:08,640 --> 00:15:12,792
+I was an only child.
+I used to make believe a lot when I was a kid.
+
+216
+00:15:12,880 --> 00:15:16,714
+Acted out all sorts of things.
+What they were isn't important.
+
+217
+00:15:16,800 --> 00:15:21,635
+But, somehow, acting and make-believe
+began to fill up my life more and more.
+
+218
+00:15:22,400 --> 00:15:25,312
+It got so I couldn't tell
+the real from the unreal.
+
+219
+00:15:25,400 --> 00:15:28,597
+Except that the unreal
+seemed more real to me...
+
+220
+00:15:29,960 --> 00:15:33,509
+- I'm talking a lot of gibberish, aren't I?
+- Not at all.
+
+221
+00:15:34,480 --> 00:15:38,951
+Farmers were poor in those days.
+That's what Dad was, a farmer.
+
+222
+00:15:39,040 --> 00:15:41,076
+I had to help out.
+
+223
+00:15:41,160 --> 00:15:48,510
+So I quit school, went to Milwaukee,
+became a secretary... in a brewery.
+
+224
+00:15:48,600 --> 00:15:53,674
+When you're a secretary in a brewery, it's
+hard to make believe you're anything else.
+
+225
+00:15:53,760 --> 00:15:55,637
+Everything is beer.
+
+226
+00:15:56,880 --> 00:15:59,474
+It wasn't much fun, but it helped at home.
+
+227
+00:16:00,240 --> 00:16:05,633
+And there was a little theatre group there,
+like a drop of rain on the desert.
+
+228
+00:16:05,720 --> 00:16:07,711
+That's where I met Eddie.
+
+229
+00:16:07,800 --> 00:16:10,598
+He was a radio technician.
+
+230
+00:16:10,680 --> 00:16:13,274
+We played <i>Liliom</i> for three performances.
+
+231
+00:16:14,400 --> 00:16:16,789
+I was awful.
+
+232
+00:16:16,880 --> 00:16:20,316
+Then the war came and we got married.
+
+233
+00:16:20,400 --> 00:16:22,391
+Eddie was in the air force.
+
+234
+00:16:22,480 --> 00:16:24,869
+They sent him to the South Pacific.
+
+235
+00:16:25,840 --> 00:16:30,789
+You were with the OWI, weren't you,
+Mr Richards? That's what <i>Who's Who</i> says.
+
+236
+00:16:31,360 --> 00:16:35,558
+Well, with Eddie gone,
+my life went back to beer.
+
+237
+00:16:35,640 --> 00:16:37,790
+Except for a letter a week.
+
+238
+00:16:37,880 --> 00:16:41,031
+One week he wrote me
+he had leave coming up.
+
+239
+00:16:41,120 --> 00:16:46,194
+I'd saved my money and vacation time
+and went to San Francisco to meet him.
+
+240
+00:16:47,480 --> 00:16:49,994
+But Eddie wasn't there.
+
+241
+00:16:50,080 --> 00:16:52,878
+They forwarded the telegram from Milwaukee.
+
+242
+00:16:52,960 --> 00:16:55,394
+The one that came from Washington.
+
+243
+00:16:55,480 --> 00:16:58,278
+To say that... Eddie wasn't coming at all.
+
+244
+00:16:59,720 --> 00:17:02,154
+That Eddie was dead.
+
+245
+00:17:07,920 --> 00:17:10,388
+I figured I'd stay in San Francisco.
+
+246
+00:17:10,480 --> 00:17:13,756
+I was alone. I couldn't go back without Eddie.
+
+247
+00:17:15,080 --> 00:17:17,548
+I found a job, and his insurance helped.
+
+248
+00:17:18,960 --> 00:17:22,032
+And there were theatres in San Francisco.
+
+249
+00:17:22,120 --> 00:17:26,591
+And then, one night, Margo Channing
+came to play in <i>Remembrance...</i>
+
+250
+00:17:26,680 --> 00:17:28,671
+<i>...and</i> I went to see it.
+
+251
+00:17:30,920 --> 00:17:32,717
+Well...
+
+252
+00:17:32,800 --> 00:17:34,836
+Here I am.
+
+253
+00:17:40,200 --> 00:17:44,591
+What a story. Everything but
+the bloodhounds snapping at her rear end.
+
+254
+00:17:44,920 --> 00:17:49,232
+There are some human experiences that
+do not take place in a vaudeville house!
+
+255
+00:17:49,320 --> 00:17:53,438
+And that even a fifth-rate vaudevillian
+should understand and respect.
+
+256
+00:17:54,400 --> 00:17:59,030
+- I want to apologise for Birdie.
+- You don't have to apologise for me!
+
+257
+00:18:02,000 --> 00:18:06,790
+I'm sorry if I hurt your feelings.
+It's just my way of talking.
+
+258
+00:18:06,880 --> 00:18:09,394
+You didn't hurt my feelings, Miss Coonan.
+
+259
+00:18:09,480 --> 00:18:11,471
+Call me Birdie.
+
+260
+00:18:12,160 --> 00:18:14,390
+And as for being fifth-rate...
+
+261
+00:18:14,480 --> 00:18:18,519
+<i>...I</i> closed the first half
+for eleven years, and you know it!
+
+262
+00:18:24,840 --> 00:18:27,638
+47 minutes from now my plane takes off
+and how do I find you?
+
+263
+00:18:27,720 --> 00:18:30,553
+- Not ready, looking like a junkyard!
+- Thank you so much!
+
+264
+00:18:30,640 --> 00:18:33,871
+Is it sabotage?
+Have you no human consideration?
+
+265
+00:18:33,960 --> 00:18:37,635
+- Show me a human and I might have.
+- Airlines have clocks, even if you don't.
+
+266
+00:18:37,720 --> 00:18:40,871
+I start shooting a week from Monday.
+Zanuck is impatient.
+
+267
+00:18:40,960 --> 00:18:42,996
+Zanuck, Zanuck! What are you two? Lovers?
+
+268
+00:18:43,080 --> 00:18:45,833
+- Only in some ways. You're prettier.
+- I'm a junkyard.
+
+269
+00:18:45,920 --> 00:18:49,071
+- Bill! This is Eve Harrington.
+- Hi.
+
+270
+00:18:49,160 --> 00:18:53,551
+My wonderful junkyard. The mystery
+and dreams you find in a junkyard.
+
+271
+00:18:53,640 --> 00:18:55,437
+Heaven help me.
+
+272
+00:18:55,520 --> 00:18:57,511
+I love a psychotic.
+
+273
+00:18:59,200 --> 00:19:02,988
+- Hello. What's your name?
+- Eve Harrington.
+
+274
+00:19:03,080 --> 00:19:05,548
+- You've already met.
+- Huh? Where?
+
+275
+00:19:05,640 --> 00:19:09,599
+- Right here, just a minute ago.
+- That's nice.
+
+276
+00:19:12,880 --> 00:19:15,599
+- You're not going, are you?
+- I think I'd better.
+
+277
+00:19:15,680 --> 00:19:20,117
+It's been... I can hardly find
+the words to say how it's been.
+
+278
+00:19:20,200 --> 00:19:22,111
+No, don't go.
+
+279
+00:19:22,200 --> 00:19:26,990
+The four of you must have so much to say
+to each other with Mr Sampson leaving.
+
+280
+00:19:27,880 --> 00:19:30,235
+No, stick around, please.
+
+281
+00:19:30,320 --> 00:19:35,314
+Tell you what. We'll put Stanislavsky
+on his plane, then go somewhere and talk.
+
+282
+00:19:35,400 --> 00:19:38,073
+Well, if I'm not in the way...
+
+283
+00:19:38,160 --> 00:19:40,151
+I won't be a minute.
+
+284
+00:19:44,040 --> 00:19:46,031
+Lloyd, we've got to go!
+
+285
+00:19:51,120 --> 00:19:52,712
+Good night, Margo!
+
+286
+00:19:52,800 --> 00:19:55,598
+- I'll call you tomorrow.
+- Not too early!
+
+287
+00:19:58,840 --> 00:20:02,469
+- Good luck, genius.
+- Geniuses don't need good luck. I do.
+
+288
+00:20:03,560 --> 00:20:07,075
+- I'm not worried about you.
+- Keep the thought.
+
+289
+00:20:07,360 --> 00:20:10,272
+Good night, Eve.
+I hope I see you again soon.
+
+290
+00:20:10,360 --> 00:20:15,150
+- I'll be at the old stand tomorrow matinée.
+- Not just that way. As a friend.
+
+291
+00:20:15,240 --> 00:20:17,231
+I'd like that.
+
+292
+00:20:19,920 --> 00:20:23,799
+- It's been a real pleasure, Eve.
+- I hope so, Mr Richards. Good night.
+
+293
+00:20:23,880 --> 00:20:26,155
+Good night.
+
+294
+00:20:26,240 --> 00:20:28,037
+Mrs Richards?
+
+295
+00:20:28,240 --> 00:20:30,959
+I'll never forget this night as long as I live.
+
+296
+00:20:31,040 --> 00:20:34,271
+And I'll never forget <i>you</i>
+for making it possible.
+
+297
+00:20:39,360 --> 00:20:42,238
+<i>(Karen) And I'll never forget you, Eve.</i>
+
+298
+00:20:42,320 --> 00:20:45,437
+<i>Where were we going that night, Lloyd and I?</i>
+
+299
+00:20:45,520 --> 00:20:47,954
+<i>Funny, the things you remember...</i>
+
+300
+00:20:48,040 --> 00:20:50,031
+<i>... and the things you don't.</i>
+
+301
+00:20:58,480 --> 00:21:00,914
+- So you're going to Hollywood?
+- Mm-hm.
+
+302
+00:21:03,080 --> 00:21:05,958
+- Why?
+- I just wondered.
+
+303
+00:21:06,040 --> 00:21:08,918
+- Just wondered what?
+- Why?
+
+304
+00:21:09,680 --> 00:21:12,956
+- Why what?
+- Why you have to go out... there.
+
+305
+00:21:13,920 --> 00:21:17,435
+- I don't have to. I want to.
+- Is it the money?
+
+306
+00:21:18,360 --> 00:21:20,476
+80% of it'll go for taxes.
+
+307
+00:21:20,800 --> 00:21:25,157
+Then why? Why, if you're the most
+successful young director in the theatre...
+
+308
+00:21:25,320 --> 00:21:27,709
+The theatre! The theatre!
+
+309
+00:21:27,800 --> 00:21:31,315
+What rules say the theatre exists
+only within some ugly buildings...
+
+310
+00:21:31,400 --> 00:21:34,073
+...crowded into one
+square mile of New York City?
+
+311
+00:21:34,160 --> 00:21:36,151
+Or London, Paris or Vienna?
+
+312
+00:21:38,120 --> 00:21:40,588
+Listen, Junior, and learn.
+
+313
+00:21:40,680 --> 00:21:45,390
+Do you wanna know what the theatre is?
+A flea circus. Also opera.
+
+314
+00:21:46,480 --> 00:21:49,074
+Also rodeos, carnivals, ballets...
+
+315
+00:21:49,160 --> 00:21:53,278
+...Indian tribal dances, Punch and Judy,
+a one-man band - all theatre.
+
+316
+00:21:53,360 --> 00:21:58,150
+Wherever there's magic and make-believe
+and an audience, there's theatre.
+
+317
+00:21:59,200 --> 00:22:02,158
+Donald Duck, Ibsen and The Lone Ranger.
+
+318
+00:22:02,240 --> 00:22:06,358
+Sarah Bernhardt and Poodles Hanneford.
+Lunt and Fontanne, Betty Grable.
+
+319
+00:22:06,440 --> 00:22:09,432
+Rex the Wild Horse, Eleonora Duse -
+all theatre.
+
+320
+00:22:10,040 --> 00:22:12,838
+You don't understand them all.
+You don't like them all.
+
+321
+00:22:12,920 --> 00:22:17,835
+Why should you? The theatre's for everybody
+- you included - but not exclusively.
+
+322
+00:22:17,920 --> 00:22:20,480
+So, don't approve or disapprove.
+
+323
+00:22:20,560 --> 00:22:24,235
+It may not be your theatre,
+but it's theatre for somebody, somewhere.
+
+324
+00:22:24,320 --> 00:22:26,709
+I just asked a simple question.
+
+325
+00:22:27,720 --> 00:22:30,359
+And I shot my mouth off.
+
+326
+00:22:30,440 --> 00:22:33,398
+Nothing personal, Junior. No offence.
+
+327
+00:22:33,480 --> 00:22:38,634
+It's just that there's so much bushwa in
+this ivory greenroom they call the theatre...
+
+328
+00:22:38,720 --> 00:22:41,029
+...sometimes it gets up around my chin.
+
+329
+00:22:41,440 --> 00:22:44,398
+But Hollywood. You mustn't stay out there.
+
+330
+00:22:45,080 --> 00:22:47,992
+- It's only a one-picture deal.
+- So few come back.
+
+331
+00:22:50,640 --> 00:22:53,712
+I read George Jean Nathan every week.
+
+332
+00:22:53,800 --> 00:22:57,076
+- Also Addison DeWitt.
+- Every day.
+
+333
+00:22:58,560 --> 00:23:01,472
+- You didn't have to tell me.
+<i>- (door opens)</i>
+
+334
+00:23:01,560 --> 00:23:03,551
+It's the latest thing - one earring.
+
+335
+00:23:03,640 --> 00:23:07,474
+If it isn't, it's going to be.
+I can't find the other one.
+
+336
+00:23:07,560 --> 00:23:09,994
+Throw that dreary letter away. It bores me.
+
+337
+00:23:10,080 --> 00:23:12,878
+- Where do you suppose it could be?
+- It'll show up.
+
+338
+00:23:12,960 --> 00:23:16,316
+Oh, I give up. Look in the wigs.
+Maybe it got caught in one.
+
+339
+00:23:16,400 --> 00:23:19,119
+Real diamonds in a wig! The world we live in!
+
+340
+00:23:19,200 --> 00:23:21,998
+- Where's my coat?
+- Right where you left it.
+
+341
+00:23:25,120 --> 00:23:27,111
+The seams.
+
+342
+00:23:27,560 --> 00:23:30,438
+He can't take his eyes off my legs.
+
+343
+00:23:30,520 --> 00:23:32,511
+Like a nylon lemon peel.
+
+344
+00:23:32,600 --> 00:23:35,637
+Byron couldn't have said it more graciously.
+
+345
+00:23:35,720 --> 00:23:37,711
+Here we go.
+
+346
+00:23:38,480 --> 00:23:42,189
+Got any messages?
+What do you want me to tell Tyrone Power?
+
+347
+00:23:42,280 --> 00:23:45,477
+Just give him my phone number.
+I'll tell him myself.
+
+348
+00:23:46,120 --> 00:23:48,111
+Kill the people.
+
+349
+00:23:49,840 --> 00:23:52,229
+- You got your key?
+- See you at home.
+
+350
+00:23:57,120 --> 00:24:00,715
+I have a suggestion.
+There's really not very much time left.
+
+351
+00:24:00,800 --> 00:24:03,394
+I mean, you haven't had a minute alone yet.
+
+352
+00:24:03,480 --> 00:24:07,712
+And I could take care of everything here
+and meet you at the gate with the ticket...
+
+353
+00:24:07,800 --> 00:24:09,756
+<i>...if</i> you'd like.
+
+354
+00:24:09,840 --> 00:24:11,637
+I think we'd like very much.
+
+355
+00:24:11,720 --> 00:24:14,109
+- Sure you won't mind?
+- Of course not.
+
+356
+00:24:23,560 --> 00:24:27,599
+- She's quite a girl, this whatshername.
+- Eve. I'd forgotten they grew that way.
+
+357
+00:24:27,680 --> 00:24:31,593
+That lack of pretence,
+that strange directness and understanding.
+
+358
+00:24:31,680 --> 00:24:34,240
+Did she tell you about
+the theatre and what it meant?
+
+359
+00:24:34,320 --> 00:24:36,629
+No, I told her. I sounded off.
+
+360
+00:24:36,720 --> 00:24:39,553
+All the religions in the world rolled into <i>one,...</i>
+
+361
+00:24:39,640 --> 00:24:41,995
+<i>...and</i> we're gods and goddesses.
+
+362
+00:24:42,080 --> 00:24:46,551
+Isn't it silly? Suddenly I've developed
+a big, protective feeling toward her.
+
+363
+00:24:46,640 --> 00:24:49,234
+A lamb loose in our big, stone jungle.
+
+364
+00:24:54,480 --> 00:24:58,678
+- Take care of yourself out there.
+- They have the Indians pretty well in hand.
+
+365
+00:24:58,760 --> 00:25:02,958
+- Bill, don't get stuck on some glamour puss.
+- I'll try.
+
+366
+00:25:03,040 --> 00:25:06,635
+You're not much of a bargain. You're
+conceited, thoughtless and messy.
+
+367
+00:25:06,720 --> 00:25:11,714
+- Everybody can't be Gregory Peck.
+- You're a setup for some young babe.
+
+368
+00:25:11,800 --> 00:25:14,234
+How childish are you gonna get
+before you stop it?
+
+369
+00:25:14,320 --> 00:25:16,914
+I don't wanna be childish.
+I'd settle for a few years.
+
+370
+00:25:17,000 --> 00:25:19,070
+And cut that out right now.
+
+371
+00:25:19,160 --> 00:25:22,118
+Am I going to lose you, Bill? Am I?
+
+372
+00:25:22,200 --> 00:25:24,555
+As of this moment, you're six years old.
+
+373
+00:25:24,640 --> 00:25:27,234
+All ready.
+
+374
+00:25:42,440 --> 00:25:44,590
+Thanks for your help. Good luck.
+
+375
+00:25:44,680 --> 00:25:46,750
+Goodbye, Mr Sampson.
+
+376
+00:25:46,840 --> 00:25:49,638
+- Knit me a muffler?
+- Call me when you get in.
+
+377
+00:26:04,520 --> 00:26:06,750
+<i>(Bill)</i> Hey, Junior!
+
+378
+00:26:07,120 --> 00:26:12,069
+Keep your eye on her. Don't let her get lonely.
+She's a loose lamb in a jungle.
+
+379
+00:26:12,160 --> 00:26:14,151
+Don't worry.
+
+380
+00:26:27,240 --> 00:26:31,916
+<i>(Margo) That same night, we sent for Eve's</i>
+<i>things... her few pitiful possessions.</i>
+
+381
+00:26:32,000 --> 00:26:35,356
+<i>She moved into the little guest room</i>
+<i>on the top floor.</i>
+
+382
+00:26:38,440 --> 00:26:43,309
+<i>The next three weeks were out of a fairy tale,</i>
+<i>and I was Cinderella in the last act.</i>
+
+383
+00:26:43,400 --> 00:26:48,872
+<i>Eve became my sister, lawyer, mother,</i>
+<i>friend, psychiatrist and cop.</i>
+
+384
+00:26:50,560 --> 00:26:52,516
+<i>The honeymoon was on.</i>
+
+385
+00:26:52,600 --> 00:26:55,194
+<i>(inaudible)</i>
+
+386
+00:27:04,320 --> 00:27:06,311
+<i>(applause)</i>
+
+387
+00:27:42,400 --> 00:27:44,391
+<i>(cheering)</i>
+
+388
+00:27:56,080 --> 00:27:58,435
+One more?
+
+389
+00:27:58,520 --> 00:28:00,511
+From now on it isn't applause -
+
+390
+00:28:00,600 --> 00:28:03,797
+just something to do
+till the aisles get cleared.
+
+391
+00:28:05,560 --> 00:28:07,551
+What, again?
+
+392
+00:28:10,320 --> 00:28:14,552
+I could watch you play that last scene
+a thousand times, cry every time.
+
+393
+00:28:15,040 --> 00:28:18,316
+Performance number 1,000 of this one,
+if I play it that long...
+
+394
+00:28:18,400 --> 00:28:21,597
+<i>...will</i> take place
+in a well-padded booby hatch.
+
+395
+00:28:24,160 --> 00:28:28,358
+I must say, you can certainly tell
+Mr Sampson's been gone a month.
+
+396
+00:28:28,440 --> 00:28:30,476
+You certainly can.
+
+397
+00:28:30,560 --> 00:28:34,235
+Especially if you're me
+between now and tomorrow morning.
+
+398
+00:28:34,320 --> 00:28:37,437
+You bought the new girdles a size smaller.
+I can feel it.
+
+399
+00:28:37,520 --> 00:28:39,909
+Something maybe grew a size larger.
+
+400
+00:28:40,000 --> 00:28:43,310
+You can get into one of those girdles
+and act for two and a half hours.
+
+401
+00:28:43,400 --> 00:28:46,870
+I couldn't get into the girdle
+in two and a half hours!
+
+402
+00:28:52,480 --> 00:28:55,870
+You haven't noticed my latest bit
+of interior decorating.
+
+403
+00:28:55,960 --> 00:28:59,555
+<i>(Margo)</i> But you've done so much!
+What's new?
+
+404
+00:28:59,640 --> 00:29:02,029
+The curtains. I made them myself.
+
+405
+00:29:04,040 --> 00:29:06,793
+They're lovely. Aren't they lovely, Birdie?
+
+406
+00:29:06,880 --> 00:29:08,233
+Adorable.
+
+407
+00:29:08,320 --> 00:29:12,313
+We now got everything a dressing room
+needs except a basketball hoop!
+
+408
+00:29:12,400 --> 00:29:14,630
+Just because you can't even work a zipper!
+
+409
+00:29:14,720 --> 00:29:17,996
+It was very thoughtful of you, Eve.
+I appreciate it.
+
+410
+00:29:18,080 --> 00:29:20,753
+I'll just take this to the wardrobe mistress.
+
+411
+00:29:20,840 --> 00:29:24,992
+- Don't bother. Mrs Brown will be along soon.
+- No trouble at all.
+
+412
+00:29:30,560 --> 00:29:33,154
+May I be so bold as to say something?
+
+413
+00:29:33,240 --> 00:29:36,835
+- Have you ever heard of the word "union"?
+- Behind in your dues? How much?
+
+414
+00:29:36,920 --> 00:29:40,230
+- I haven't got a union. I'm slave labour.
+- Well?
+
+415
+00:29:40,320 --> 00:29:43,312
+But the wardrobe women have got one
+and, next to a tenor...
+
+416
+00:29:43,400 --> 00:29:46,836
+<i>...a</i> wardrobe woman is the
+touchiest thing in show business.
+
+417
+00:29:46,920 --> 00:29:47,909
+Oh, oh.
+
+418
+00:29:48,000 --> 00:29:51,231
+She's got two things to do:
+carry clothes and press 'em wrong.
+
+419
+00:29:51,320 --> 00:29:54,437
+And don't let anybody try to muscle in.
+
+420
+00:30:02,560 --> 00:30:04,915
+Eve.
+
+421
+00:30:07,600 --> 00:30:10,797
+We'd better let Mrs Brown
+pick up the wardrobe.
+
+422
+00:30:23,920 --> 00:30:25,911
+<i>(phone rings)</i>
+
+423
+00:30:38,200 --> 00:30:41,237
+- Hello.
+<i>- We are ready with your call to Beverly Hills.</i>
+
+424
+00:30:41,320 --> 00:30:46,348
+- Call? What call?
+<i>- Is this Templeton 89970? Miss Channing?</i>
+
+425
+00:30:46,440 --> 00:30:48,590
+Yes, it is, but I don't understand.
+
+426
+00:30:48,680 --> 00:30:53,549
+<i>We are ready with the call you placed for</i>
+<i>12 midnight, California time, to Mr Sampson.</i>
+
+427
+00:30:53,640 --> 00:30:56,393
+- I placed?
+<i>- Go ahead, please.</i>
+
+428
+00:30:56,480 --> 00:30:59,916
+<i>(Bill) Margo, what a wonderful surprise!</i>
+
+429
+00:31:00,000 --> 00:31:03,151
+<i>What a thoughtful, ever-lovin' thing to do!</i>
+
+430
+00:31:03,240 --> 00:31:06,710
+Bill! Have I gone crazy, Bill?
+
+431
+00:31:06,800 --> 00:31:09,314
+<i>- You're my girl, aren't you?</i>
+- That I am.
+
+432
+00:31:09,400 --> 00:31:11,391
+<i>Then you're crazy.</i>
+
+433
+00:31:12,720 --> 00:31:15,553
+- When are you coming back?
+<i>- I leave in a week.</i>
+
+434
+00:31:15,640 --> 00:31:18,313
+<i>The picture's wrapped up.</i>
+<i>We previewed last night.</i>
+
+435
+00:31:18,520 --> 00:31:20,556
+Oh, those previews!
+
+436
+00:31:20,640 --> 00:31:24,553
+Like opening out of town, but terrifying.
+There's nothing you can do.
+
+437
+00:31:24,640 --> 00:31:26,676
+You're trapped. You're in a tin can.
+
+438
+00:31:27,160 --> 00:31:32,188
+In a tin can, cellophane or wrapped
+in a Navajo blanket, I want you home.
+
+439
+00:31:32,640 --> 00:31:36,918
+- You in a hurry?
+- In a big hurry, so be quick about it.
+
+440
+00:31:37,600 --> 00:31:39,830
+Goodbye, darling. Sleep tight.
+
+441
+00:31:39,920 --> 00:31:42,718
+Hey, wait a minute!
+You haven't even said it yet!
+
+442
+00:31:43,200 --> 00:31:47,557
+Oh, now, Bill. You know how much I do,
+but over a phone...
+
+443
+00:31:47,640 --> 00:31:50,632
+Now, really. That's kids' stuff.
+
+444
+00:31:50,720 --> 00:31:54,315
+Kids' stuff or not. It doesn't happen
+every day and I wanna hear it!
+
+445
+00:31:54,400 --> 00:31:57,358
+- And if you won't say it, you can sing it.
+- Sing it?!
+
+446
+00:31:57,440 --> 00:32:00,238
+<i>Sure, like the Western Union boys used to do.</i>
+
+447
+00:32:04,200 --> 00:32:06,236
+Bill...
+
+448
+00:32:06,760 --> 00:32:09,149
+It's your birthday.
+
+449
+00:32:09,240 --> 00:32:14,189
+<i>And who remembered it?</i>
+<i>Who was there on the dot at 12 midnight?</i>
+
+450
+00:32:14,280 --> 00:32:16,157
+Happy birthday, darling.
+
+451
+00:32:16,240 --> 00:32:19,471
+The reading could've been better,
+but you said it.
+
+452
+00:32:19,560 --> 00:32:21,710
+Now "many happy returns of the day".
+
+453
+00:32:21,800 --> 00:32:24,598
+Many happy returns of the day.
+
+454
+00:32:25,480 --> 00:32:29,519
+<i>- I get a party, don't I?</i>
+- Of course. Birthday and coming home.
+
+455
+00:32:29,600 --> 00:32:33,309
+- Who will I ask?
+- I know all about the party. Eve wrote me.
+
+456
+00:32:35,400 --> 00:32:37,834
+- She did?
+<i>- She hasn't missed a week since I left.</i>
+
+457
+00:32:37,920 --> 00:32:40,514
+<i>But you know that.</i>
+<i>You probably tell her what to write.</i>
+
+458
+00:32:40,600 --> 00:32:44,878
+- I sent her a list of guests, so check with her.
+- Yeah, I will.
+
+459
+00:32:44,960 --> 00:32:48,396
+<i>- How is Eve? OK?</i>
+- OK.
+
+460
+00:32:48,480 --> 00:32:51,074
+<i>- I love you.</i>
+- I'll check with Eve.
+
+461
+00:32:51,160 --> 00:32:52,718
+<i>Hm?</i>
+
+462
+00:32:52,800 --> 00:32:56,429
+I love you too. Good night, darling.
+
+463
+00:32:56,800 --> 00:32:58,791
+See ya.
+
+464
+00:33:41,960 --> 00:33:43,951
+- Birdie.
+- Hm?
+
+465
+00:33:44,840 --> 00:33:47,149
+You don't like Eve, do you?
+
+466
+00:33:47,240 --> 00:33:49,435
+You want an argument or an answer?
+
+467
+00:33:49,520 --> 00:33:52,034
+- An answer.
+- No.
+
+468
+00:33:52,120 --> 00:33:54,509
+- Why not?
+- Now you want an argument.
+
+469
+00:33:55,560 --> 00:33:58,597
+- She works hard.
+- Night and day.
+
+470
+00:33:58,680 --> 00:34:02,878
+- She's loyal and efficient.
+- Like an agent with only one client.
+
+471
+00:34:04,640 --> 00:34:07,074
+She thinks only of me...
+
+472
+00:34:07,840 --> 00:34:09,831
+...doesn't she?
+
+473
+00:34:09,920 --> 00:34:13,276
+Well, let's say she thinks
+only <i>about</i> ya, anyway.
+
+474
+00:34:13,360 --> 00:34:16,238
+- How do you mean that?
+- I'll tell ya how.
+
+475
+00:34:17,120 --> 00:34:18,758
+Like...
+
+476
+00:34:18,840 --> 00:34:20,751
+Like she's studying you.
+
+477
+00:34:20,840 --> 00:34:23,912
+Like you was a play, or a book,
+or a set of blueprints.
+
+478
+00:34:24,000 --> 00:34:26,116
+How you walk, talk, eat, think...
+
+479
+00:34:26,200 --> 00:34:29,237
+I'm sure that's flattering.
+There's nothing wrong with it.
+
+480
+00:34:29,320 --> 00:34:30,912
+<i>(knock on door)</i>
+
+481
+00:34:31,560 --> 00:34:35,599
+Good morning. Well, what do
+you think of my elegant new suit?
+
+482
+00:34:35,680 --> 00:34:37,989
+It looks much better on you than it did on me.
+
+483
+00:34:38,080 --> 00:34:42,676
+I can imagine. All it needed was
+a little taking in here and letting out there.
+
+484
+00:34:42,760 --> 00:34:47,709
+- Are you sure you won't want it yourself?
+- Quite sure. I find it too <i>seventeenish</i> for me.
+
+485
+00:34:47,800 --> 00:34:50,030
+Come now, as though you were an old lady!
+
+486
+00:34:50,120 --> 00:34:52,509
+I'm on my way. Is there anything else?
+
+487
+00:34:52,600 --> 00:34:54,909
+- That script to take to the Guild.
+- I've got it.
+
+488
+00:34:55,000 --> 00:34:57,434
+And those cheques for the income-tax man.
+
+489
+00:34:57,520 --> 00:34:59,511
+Right here.
+
+490
+00:35:00,080 --> 00:35:03,197
+It seems I can't think of a thing
+you haven't thought of.
+
+491
+00:35:03,280 --> 00:35:05,874
+That's my job. See you at teatime.
+
+492
+00:35:08,360 --> 00:35:09,713
+Eve?
+
+493
+00:35:09,800 --> 00:35:15,193
+Did you place a call from me to Bill
+for midnight California time?
+
+494
+00:35:15,960 --> 00:35:19,316
+- Golly, I forgot to tell you!
+- Yes, dear, you forgot all about it.
+
+495
+00:35:19,400 --> 00:35:22,119
+I was sure you'd want to, being his birthday.
+
+496
+00:35:22,200 --> 00:35:26,830
+You've been so busy lately. Last night
+I meant to tell you before you went out.
+
+497
+00:35:26,920 --> 00:35:29,388
+I guess I was asleep when you got home.
+
+498
+00:35:29,480 --> 00:35:32,677
+Yes, I guess you were.
+It was very thoughtful of you, Eve.
+
+499
+00:35:33,040 --> 00:35:37,750
+Mr Sampson's birthday, I couldn't forget that.
+You'd never forgive me.
+
+500
+00:35:44,200 --> 00:35:47,670
+As a matter of fact,
+I sent him a telegram myself.
+
+501
+00:36:13,520 --> 00:36:17,877
+<i>(Margo) Bill's welcome-home birthday party...</i>
+<i>a night to go down in history.</i>
+
+502
+00:36:17,960 --> 00:36:22,397
+<i>Even before the party started,</i>
+<i>I could smell disaster in the air.</i>
+
+503
+00:36:22,480 --> 00:36:27,918
+<i>I knew it. I sensed it even as I finished</i>
+<i>dressing for that blasted party.</i>
+
+504
+00:36:29,240 --> 00:36:31,834
+- You all put together?
+- My back's open.
+
+505
+00:36:33,160 --> 00:36:35,754
+- Extra help get here?
+- There's some characters...
+
+506
+00:36:35,840 --> 00:36:39,549
+...dressed as maids and butlers.
+Did you call the William Morris Agency?
+
+507
+00:36:39,640 --> 00:36:42,791
+You're not funny. Actors would cost less!
+How about the food?
+
+508
+00:36:42,880 --> 00:36:45,394
+The caterer had to go back
+for the hors d'oeuvres.
+
+509
+00:36:45,480 --> 00:36:47,311
+<i>Voilà!</i>
+
+510
+00:36:47,400 --> 00:36:50,153
+That French ventriloquist taught you a lot.
+
+511
+00:36:50,240 --> 00:36:52,993
+There was nothing he didn't know.
+
+512
+00:36:57,760 --> 00:36:59,751
+There's a message from the bartender.
+
+513
+00:36:59,840 --> 00:37:03,355
+"Does Miss Channing know that
+she ordered domestic gin by mistake?"
+
+514
+00:37:03,440 --> 00:37:06,113
+The only thing I ordered
+by mistake is the guests.
+
+515
+00:37:06,200 --> 00:37:09,078
+They don't care what they drink
+as long as it burns.
+
+516
+00:37:09,160 --> 00:37:11,958
+- Where's Bill? He's late.
+- Late for what?
+
+517
+00:37:12,040 --> 00:37:16,158
+- Don't be dense. The party.
+- I ain't dense. He's been here for 20 minutes.
+
+518
+00:37:16,240 --> 00:37:20,028
+Well, I certainly think it's odd
+he hasn't even come up to...
+
+519
+00:37:37,200 --> 00:37:39,475
+<i>- (laughter)</i>
+- The cameraman said:
+
+520
+00:37:39,560 --> 00:37:43,599
+"Even De Mille couldn't see anything
+looking through the wrong end!" So...
+
+521
+00:37:43,680 --> 00:37:46,638
+Don't let me kill the point.
+Or isn't it a story for grown-ups?
+
+522
+00:37:46,720 --> 00:37:49,792
+You've heard it. I looked through
+the wrong end of the camera.
+
+523
+00:37:49,880 --> 00:37:53,839
+Remind me to tell you about the time
+I looked into the heart of an artichoke.
+
+524
+00:37:53,920 --> 00:37:58,198
+- I'd like to hear it.
+- Some snowy night in front of the fire.
+
+525
+00:37:58,280 --> 00:38:01,272
+Meanwhile, would you check
+about the hors d'oeuvres, Eve?
+
+526
+00:38:01,360 --> 00:38:04,511
+The caterer forgot them.
+The varnish wasn't dry or something.
+
+527
+00:38:04,600 --> 00:38:06,591
+Of course.
+
+528
+00:38:16,960 --> 00:38:19,110
+Looks like I'm going
+to have a fancy party.
+
+529
+00:38:19,200 --> 00:38:22,875
+- I thought you were going to be late.
+- Well, I'm guest of honour!
+
+530
+00:38:22,960 --> 00:38:24,916
+I had no idea you were even here.
+
+531
+00:38:25,000 --> 00:38:28,037
+I ran into Eve
+and she told me you were dressing.
+
+532
+00:38:28,120 --> 00:38:30,509
+That's never stopped you before.
+
+533
+00:38:31,920 --> 00:38:35,390
+She wanted to know about Hollywood.
+She seemed so interested...
+
+534
+00:38:35,480 --> 00:38:39,393
+- She's a girl of so many interests.
+- It's a pretty rare quality these days.
+
+535
+00:38:39,480 --> 00:38:42,790
+- A girl of so many <i>rare</i> qualities.
+- So she seems.
+
+536
+00:38:42,880 --> 00:38:45,075
+So you've pointed out so often!
+
+537
+00:38:45,160 --> 00:38:47,116
+So many qualities so often!
+
+538
+00:38:47,200 --> 00:38:51,318
+Her loyalty, efficiency, devotion, warmth
+and affection, and so young!
+
+539
+00:38:51,400 --> 00:38:53,391
+So young and so fair.
+
+540
+00:38:55,240 --> 00:38:57,435
+I can't believe you're making this up.
+
+541
+00:38:57,520 --> 00:39:00,512
+It sounds like something
+out of an old Clyde Fitch play.
+
+542
+00:39:00,600 --> 00:39:04,309
+Clyde Fitch, though you may not think so,
+was well before my time!
+
+543
+00:39:04,400 --> 00:39:08,518
+I always deny that you were in <i>Our American</i>
+<i>Cousin</i> the night Lincoln was shot.
+
+544
+00:39:08,600 --> 00:39:11,478
+- I don't think that's funny.
+- Of course it is!
+
+545
+00:39:11,560 --> 00:39:14,028
+This is all too laughable to be anything else!
+
+546
+00:39:14,120 --> 00:39:16,475
+You know what I feel
+about your age obsession.
+
+547
+00:39:16,560 --> 00:39:21,156
+And this getting into a jealous froth because
+I spent ten minutes with a stage-struck kid.
+
+548
+00:39:21,240 --> 00:39:23,549
+- 20!
+- 30 minutes, 40 minutes. What of it?
+
+549
+00:39:23,640 --> 00:39:26,029
+Stage-struck! She's a young lady of qualities.
+
+550
+00:39:26,120 --> 00:39:29,954
+And I'm fed up with both
+the young lady and her qualities!
+
+551
+00:39:30,040 --> 00:39:33,316
+Studying me as if I were a play or a blueprint!
+
+552
+00:39:33,400 --> 00:39:36,278
+How I walk, talk, think, act, sleep!
+
+553
+00:39:36,360 --> 00:39:40,069
+How can you take offence at a kid
+trying to be like her ideal?
+
+554
+00:39:40,160 --> 00:39:42,549
+Stop calling her a kid!
+
+555
+00:39:44,320 --> 00:39:47,676
+As it happens, there are
+particular aspects of my life...
+
+556
+00:39:47,760 --> 00:39:51,799
+<i>...to</i> which I would like to maintain
+sole and exclusive rights and privileges.
+
+557
+00:39:52,080 --> 00:39:54,992
+- For instance, what?
+- For instance, you.
+
+558
+00:39:57,240 --> 00:40:00,915
+This is my cue to take you
+in my arms and reassure you.
+
+559
+00:40:01,000 --> 00:40:02,797
+But I'm not going to. I'm too mad.
+
+560
+00:40:02,880 --> 00:40:04,359
+- Guilty!
+- Mad!
+
+561
+00:40:04,440 --> 00:40:08,479
+There are certain characteristics
+for which you are famous, on stage and off.
+
+562
+00:40:08,560 --> 00:40:12,838
+I love you for some and in spite of others.
+I haven't let those become too important.
+
+563
+00:40:12,920 --> 00:40:17,391
+They're part of your equipment for getting
+along in what is called "our environment".
+
+564
+00:40:17,480 --> 00:40:19,948
+You have to keep your teeth sharp, all right.
+
+565
+00:40:20,040 --> 00:40:22,873
+But I will not have you
+sharpen them on me, or on Eve.
+
+566
+00:40:22,960 --> 00:40:27,317
+- What about her teeth? Her fangs?
+- She hasn't cut them yet and you know it!
+
+567
+00:40:27,400 --> 00:40:30,392
+So when you start judging
+an idealistic, dreamy-eyed kid...
+
+568
+00:40:30,480 --> 00:40:35,474
+<i>...by</i> the bar-room, Benzedrine standards of
+this megalomaniac society, I won't have it!
+
+569
+00:40:35,560 --> 00:40:38,996
+Eve Harrington has never by word, look,
+thought or suggestion...
+
+570
+00:40:39,080 --> 00:40:43,471
+...indicated anything to me but adoration
+for you and happiness at our being in love!
+
+571
+00:40:43,560 --> 00:40:48,270
+To intimate anything else spells a paranoiac
+insecurity that you should be ashamed of!
+
+572
+00:40:48,360 --> 00:40:53,150
+Cut! Print it! What happens in the next reel?
+Do I get dragged off to the snake pits?
+
+573
+00:40:53,240 --> 00:40:55,231
+<i>(Eve)</i> Miss Channing?
+
+574
+00:40:57,480 --> 00:41:01,314
+The hors d'oeuvres are here.
+Is there anything else I can do?
+
+575
+00:41:04,880 --> 00:41:08,475
+Thank you, Eve. I'd like a martini, very dry.
+
+576
+00:41:08,560 --> 00:41:10,551
+I'll get it.
+
+577
+00:41:12,800 --> 00:41:14,916
+- What'll you have?
+- A milk shake?
+
+578
+00:41:16,000 --> 00:41:18,389
+A martini, very dry, please.
+
+579
+00:41:18,480 --> 00:41:20,471
+<i>(laughter and chatter)</i>
+
+580
+00:41:22,520 --> 00:41:25,398
+- The party's on the first floor.
+- Hi, Bill.
+
+581
+00:41:25,480 --> 00:41:27,755
+- Hello, Mrs Richards.
+- How are you, dear?
+
+582
+00:41:27,840 --> 00:41:30,559
+Good evening, Mr Richards. Mr Fabian.
+
+583
+00:41:30,640 --> 00:41:32,870
+- May I have your coat?
+- I'll take it up.
+
+584
+00:41:32,960 --> 00:41:34,951
+- Please.
+- Thank you.
+
+585
+00:41:35,480 --> 00:41:37,471
+- Hi.
+- Hi, Margo!
+
+586
+00:41:37,960 --> 00:41:40,952
+- The house looks lovely.
+- I like that girl.
+
+587
+00:41:41,040 --> 00:41:43,076
+That quality of quiet graciousness.
+
+588
+00:41:43,160 --> 00:41:45,879
+Among so many quiet qualities.
+
+589
+00:41:45,960 --> 00:41:47,791
+Shall we?
+
+590
+00:41:48,160 --> 00:41:52,870
+- It's made me so happy your taking Eve in.
+- I'm so happy you're happy.
+
+591
+00:41:52,960 --> 00:41:57,875
+You haven't been running a settlement house
+exactly. The kid has earned her way.
+
+592
+00:41:57,960 --> 00:42:00,554
+You had a mixed-up inventory
+when she took over.
+
+593
+00:42:00,640 --> 00:42:02,835
+Merchandise laying all over the shop.
+
+594
+00:42:02,920 --> 00:42:06,674
+- You mixed Margo up with a five-and-ten.
+- Make it Bergdorf Goodman.
+
+595
+00:42:06,760 --> 00:42:10,469
+Everything on its proper shelf, eh, Max?
+All done up in little ribbons.
+
+596
+00:42:10,560 --> 00:42:13,393
+I could die right now
+and nobody'd be confused.
+
+597
+00:42:13,480 --> 00:42:15,675
+- How about you, Max?
+- How about me what?
+
+598
+00:42:15,760 --> 00:42:18,752
+Suppose you dropped dead.
+What about your inventory?
+
+599
+00:42:18,840 --> 00:42:22,913
+I ain't going to drop dead. Not with the heat.
+
+600
+00:42:23,000 --> 00:42:25,673
+This is the most ghoulish conversation!
+
+601
+00:42:25,760 --> 00:42:27,796
+- Thank you.
+- Nothing.
+
+602
+00:42:27,880 --> 00:42:29,791
+Max! <i>Mon vieux!</i>
+
+603
+00:42:29,880 --> 00:42:32,189
+Fife!
+
+604
+00:42:32,280 --> 00:42:36,558
+"The kid" will be down in a minute, unless
+you'd like to take her drink up to her.
+
+605
+00:42:36,640 --> 00:42:40,269
+I can get a fresh one...
+Karen, you're a Gibson girl.
+
+606
+00:42:40,560 --> 00:42:43,074
+The general atmosphere is very Macbethish.
+
+607
+00:42:43,160 --> 00:42:46,152
+- What has or is about to happen?
+- What <i>is</i> he talking about?
+
+608
+00:42:46,240 --> 00:42:49,550
+- Macbeth.
+- We've seen you like this before.
+
+609
+00:42:49,640 --> 00:42:52,029
+Is it over or is it just beginning?
+
+610
+00:43:01,320 --> 00:43:05,279
+Fasten your seat belts.
+It's going to be a bumpy night.
+
+611
+00:43:07,040 --> 00:43:09,315
+- Margo, darling!
+- How are you?
+
+612
+00:43:09,400 --> 00:43:12,073
+<i>Mademoiselle, je vous remercie</i>
+<i>pour l'invitation.</i>
+
+613
+00:43:12,160 --> 00:43:15,277
+<i>Enchantée</i> to you too.
+
+614
+00:43:15,760 --> 00:43:19,548
+I remember, Addison, crossing you off
+my guest list. What are you doing here?
+
+615
+00:43:19,640 --> 00:43:23,792
+Dear Margo, you were an unforgettable
+Peter Pan. You must play it again soon.
+
+616
+00:43:23,880 --> 00:43:26,314
+- Remember Miss Caswell?
+- I do not. How do you do?
+
+617
+00:43:26,400 --> 00:43:29,437
+- We've never met. Maybe that's why.
+- She is an actress.
+
+618
+00:43:29,520 --> 00:43:32,717
+A graduate of the Copacabana
+School of Dramatic Art.
+
+619
+00:43:33,960 --> 00:43:35,996
+Ah... Eve.
+
+620
+00:43:36,080 --> 00:43:39,311
+- Good evening, Mr DeWitt.
+- I had no idea you knew each other.
+
+621
+00:43:39,400 --> 00:43:42,073
+This must be, at long last,
+our formal introduction.
+
+622
+00:43:42,160 --> 00:43:46,790
+- Until now, we've only met in passing.
+- That's how you met me. In passing.
+
+623
+00:43:46,880 --> 00:43:49,235
+Eve, this is an old friend
+of Mr DeWitt's mother(!)
+
+624
+00:43:49,320 --> 00:43:52,630
+- Miss Caswell, Miss Harrington.
+- How do you do?
+
+625
+00:43:52,720 --> 00:43:55,473
+I've been wanting you
+to meet Eve for the longest time.
+
+626
+00:43:55,560 --> 00:43:58,518
+Your timidity must have
+kept you from mentioning it.
+
+627
+00:43:58,600 --> 00:44:01,876
+- You know of her interest in the theatre?
+- We have that in common.
+
+628
+00:44:01,960 --> 00:44:03,791
+Then you two must have a long talk.
+
+629
+00:44:03,880 --> 00:44:06,792
+I'm afraid Mr DeWitt would find me
+boring before too long.
+
+630
+00:44:06,880 --> 00:44:10,236
+You won't bore him, honey.
+You won't even get a chance to talk.
+
+631
+00:44:10,320 --> 00:44:12,311
+Claudia, come here.
+
+632
+00:44:14,200 --> 00:44:17,078
+You see that man?
+That's Max Fabian, the producer.
+
+633
+00:44:17,160 --> 00:44:19,390
+Now, go and do yourself some good.
+
+634
+00:44:19,480 --> 00:44:22,119
+Why do they always look
+like unhappy rabbits?
+
+635
+00:44:22,200 --> 00:44:25,795
+Cos that's what they are.
+Now go and make him happier.
+
+636
+00:44:28,400 --> 00:44:32,598
+Now, don't worry about your little charge.
+She'll be in safe hands.
+
+637
+00:44:42,960 --> 00:44:44,951
+Amen!
+
+638
+00:44:47,160 --> 00:44:49,151
+<i>("Liebestraum" by Liszt)</i>
+
+639
+00:45:21,720 --> 00:45:23,711
+<i>(changes to a jaunty tune)</i>
+
+640
+00:45:25,840 --> 00:45:29,230
+<i>- Liebestraum.</i>
+- I just played it.
+
+641
+00:45:29,320 --> 00:45:32,471
+- Play it again.
+- But that was the fourth straight time.
+
+642
+00:45:32,560 --> 00:45:34,710
+Then this will be five.
+
+643
+00:45:37,440 --> 00:45:41,797
+Many of your guests are wondering when
+they may be permitted to view the body.
+
+644
+00:45:41,880 --> 00:45:45,953
+- Where has it been laid out?
+- It hasn't been laid out.
+
+645
+00:45:46,040 --> 00:45:49,157
+We haven't finished with the embalming.
+
+646
+00:45:49,240 --> 00:45:52,118
+As a matter of fact, you're looking at it.
+
+647
+00:45:52,200 --> 00:45:54,919
+The remains of Margo Channing...
+
+648
+00:45:55,800 --> 00:45:57,791
+...sitting up.
+
+649
+00:45:57,880 --> 00:46:01,236
+It is my last wish to be buried sitting up.
+
+650
+00:46:01,320 --> 00:46:03,709
+Wouldn't you feel more natural taking a bow?
+
+651
+00:46:03,800 --> 00:46:07,998
+You know nothing about feelings,
+natural or unnatural.
+
+652
+00:46:08,080 --> 00:46:11,550
+Your guests were also wondering
+whether the music couldn't be...
+
+653
+00:46:11,640 --> 00:46:14,837
+<i>...a</i> shade more on the...
+shall we say, happier side?
+
+654
+00:46:14,920 --> 00:46:20,313
+If my guests do not like it here, I suggest
+they accompany you to the nursery...
+
+655
+00:46:20,400 --> 00:46:24,075
+...where I'm sure you will
+all feel more at home.
+
+656
+00:46:24,160 --> 00:46:28,915
+Margo, you by any chance haven't got
+any bicarbonate of soda in the house?
+
+657
+00:46:29,000 --> 00:46:32,197
+Poor Max! Heartburn?
+
+658
+00:46:33,360 --> 00:46:35,555
+It's that Miss Caswell.
+
+659
+00:46:35,640 --> 00:46:38,677
+I don't see why she hasn't
+given Addison heartburn.
+
+660
+00:46:38,760 --> 00:46:44,198
+- No heart to burn.
+- Everybody has a heart, except some people.
+
+661
+00:46:45,240 --> 00:46:47,390
+Of course I've got bicarb.
+
+662
+00:46:47,480 --> 00:46:49,869
+I've got a box in the pantry.
+
+663
+00:46:49,960 --> 00:46:53,396
+We'll put your name on it. "Max Fabian."
+
+664
+00:46:53,480 --> 00:46:57,712
+It will stay there always, just for you.
+
+665
+00:46:58,760 --> 00:47:02,036
+Let the rest of the world
+beat their brains out for a buck.
+
+666
+00:47:02,120 --> 00:47:04,156
+It's friends that count.
+
+667
+00:47:04,240 --> 00:47:08,870
+- And I have friends.
+- I love you, Max. I really mean it.
+
+668
+00:47:08,960 --> 00:47:11,110
+I love you.
+
+669
+00:47:11,200 --> 00:47:13,395
+Come to the pantry.
+
+670
+00:47:14,040 --> 00:47:17,032
+She loves me like a father. Also, she's loaded.
+
+671
+00:47:32,000 --> 00:47:33,991
+There you are, Maxie dear.
+
+672
+00:47:34,080 --> 00:47:37,072
+One good burp
+and you'll be rid of that Miss Caswell.
+
+673
+00:47:37,160 --> 00:47:40,596
+The situation I'm in ain't the kind
+you can belch your way out of.
+
+674
+00:47:40,680 --> 00:47:43,956
+- I made a promise.
+- To Miss Caswell? What?
+
+675
+00:47:44,040 --> 00:47:46,634
+For an audition for this part we are replacing.
+
+676
+00:47:46,720 --> 00:47:48,676
+What's her name? Your sister?
+
+677
+00:47:48,760 --> 00:47:51,035
+- One?
+- No, two, please.
+
+678
+00:47:51,120 --> 00:47:53,350
+If she can act, she might not be bad.
+
+679
+00:47:53,440 --> 00:47:56,432
+She looks like she might
+burn down a plantation.
+
+680
+00:47:56,520 --> 00:47:59,239
+Right now, I feel like
+there is one burning in me.
+
+681
+00:47:59,320 --> 00:48:02,153
+- When's the audition?
+- A couple of weeks.
+
+682
+00:48:02,240 --> 00:48:05,789
+Tell you what. Why don't I read with her?
+
+683
+00:48:05,880 --> 00:48:09,475
+- Would you?
+- Anything to help you out, Max.
+
+684
+00:48:09,560 --> 00:48:12,472
+Now that's cooperation. I appreciate it.
+
+685
+00:48:12,560 --> 00:48:16,189
+Not at all. And now you
+can do me a great favour.
+
+686
+00:48:16,280 --> 00:48:18,316
+Just name it.
+
+687
+00:48:18,400 --> 00:48:21,597
+Give Eve Harrington a job in your office.
+
+688
+00:48:24,280 --> 00:48:27,590
+<i>- (belches)</i>
+- You get quick action, don't you?
+
+689
+00:48:27,680 --> 00:48:30,478
+I wouldn't think of taking
+that girl away from you.
+
+690
+00:48:30,560 --> 00:48:35,111
+You said yourself my inventory was in shape,
+all my merchandise put away.
+
+691
+00:48:35,200 --> 00:48:38,636
+To keep her here with nothing to do,
+I'd be standing in her way.
+
+692
+00:48:38,720 --> 00:48:41,518
+- And you need her, Max.
+- What will she do?
+
+693
+00:48:41,600 --> 00:48:44,319
+She'd be a great help. She'd read scripts...
+
+694
+00:48:44,400 --> 00:48:48,712
+...interview people you have to see,
+get rid of those you don't have to.
+
+695
+00:48:48,800 --> 00:48:51,268
+You'd be a man of leisure, Maxie.
+
+696
+00:48:51,360 --> 00:48:53,635
+- Well...
+- Think of your health.
+
+697
+00:48:53,720 --> 00:48:57,110
+More time to relax
+in the fresh air at a racetrack.
+
+698
+00:48:57,200 --> 00:49:00,636
+- I don't think it's such a good idea.
+- Promise?
+
+699
+00:49:00,720 --> 00:49:02,711
+- Promise.
+- That's my Max.
+
+700
+00:49:04,360 --> 00:49:06,078
+Oh, there you both are.
+
+701
+00:49:06,160 --> 00:49:08,276
+Max, Karen's decided it's time to go.
+
+702
+00:49:08,360 --> 00:49:10,874
+- Where is she now?
+- Up in your room.
+
+703
+00:49:10,960 --> 00:49:14,157
+If you'll excuse me,
+I'll go and tell Miss Caswell.
+
+704
+00:49:17,840 --> 00:49:20,229
+- Who's left out there?
+- Too many.
+
+705
+00:49:20,320 --> 00:49:23,676
+And, besides, you got a new guest.
+A movie star from Hollywood.
+
+706
+00:49:23,760 --> 00:49:28,276
+Shucks! And I sent
+my autograph book to the cleaners.
+
+707
+00:49:32,120 --> 00:49:34,873
+You disapprove of me
+when I'm like this, don't you?
+
+708
+00:49:34,960 --> 00:49:39,431
+Not exactly. Sometimes, though,
+I wish I understood you better.
+
+709
+00:49:39,520 --> 00:49:41,909
+- When you do, let me in on it.
+- I will.
+
+710
+00:49:43,840 --> 00:49:47,992
+- How's the new one coming?
+- The play? Oh, all right, I guess.
+
+711
+00:49:48,960 --> 00:49:52,236
+Cora. Still a girl of 20?
+
+712
+00:49:52,320 --> 00:49:54,311
+20-ish. It's not important.
+
+713
+00:49:54,400 --> 00:49:57,073
+Don't you think it's about time
+it became important?
+
+714
+00:49:57,160 --> 00:50:00,197
+- How do you mean?
+- Don't be evasive.
+
+715
+00:50:00,280 --> 00:50:02,635
+Margo, you haven't got any age.
+
+716
+00:50:02,720 --> 00:50:06,235
+Miss Channing is ageless.
+Spoken like a press agent.
+
+717
+00:50:06,320 --> 00:50:09,039
+I know what I'm talking about.
+They're my plays.
+
+718
+00:50:09,120 --> 00:50:11,111
+Spoken like an author.
+
+719
+00:50:12,000 --> 00:50:15,151
+Lloyd, I'm not 20-ish. I'm not 30-ish.
+
+720
+00:50:15,240 --> 00:50:17,959
+Three months ago I was 40 years old.
+
+721
+00:50:18,040 --> 00:50:20,508
+40! Four-0.
+
+722
+00:50:23,160 --> 00:50:27,870
+That slipped out.
+I hadn't quite made up my mind to admit it.
+
+723
+00:50:29,560 --> 00:50:33,314
+Now I suddenly feel as if
+I've taken all my clothes off.
+
+724
+00:50:36,240 --> 00:50:39,073
+To thousands of people
+you're as young as you want.
+
+725
+00:50:39,160 --> 00:50:41,799
+As young as <i>they</i> want, you mean.
+
+726
+00:50:41,880 --> 00:50:45,589
+I'm not interested whether thousands
+of people think I'm six or 600!
+
+727
+00:50:45,680 --> 00:50:48,069
+Just one person, isn't that so?
+
+728
+00:50:50,880 --> 00:50:55,556
+You know what this is all about. It has little
+to do with whether you should play Cora.
+
+729
+00:50:55,640 --> 00:50:58,632
+It has everything to do with
+you having a fight with Bill.
+
+730
+00:50:58,720 --> 00:51:01,678
+Bill's 32. He looks 32.
+
+731
+00:51:01,760 --> 00:51:06,072
+He looked it five years ago.
+He'll look it 20 years from now.
+
+732
+00:51:06,160 --> 00:51:08,151
+I hate men!
+
+733
+00:51:10,720 --> 00:51:13,439
+Don't worry, Lloyd. I'll play your play.
+
+734
+00:51:13,520 --> 00:51:17,638
+I'll wear rompers and come in
+rolling a hoop, if you like.
+
+735
+00:51:21,360 --> 00:51:24,955
+Who'd show up at this hour?
+It's time people went home.
+
+736
+00:51:27,160 --> 00:51:29,151
+Hold that coat up.
+
+737
+00:51:30,320 --> 00:51:31,958
+<i>(wolf-whistles)</i>
+
+738
+00:51:32,040 --> 00:51:35,237
+- Whose is it?
+- Some Hollywood movie star.
+
+739
+00:51:35,320 --> 00:51:38,551
+- Her plane got in late.
+- Discouraging, isn't it?
+
+740
+00:51:38,640 --> 00:51:41,871
+Women with furs like that
+where it never even gets cold.
+
+741
+00:51:41,960 --> 00:51:43,951
+Hollywood.
+
+742
+00:51:46,360 --> 00:51:49,796
+Tell me, Eve. How are things
+going with you? Happy?
+
+743
+00:51:49,880 --> 00:51:52,030
+There should be a new word for happiness.
+
+744
+00:51:52,120 --> 00:51:55,715
+Being here with Miss Channing
+has been a... I just can't say.
+
+745
+00:51:55,800 --> 00:51:59,110
+She's been so wonderful,
+done so much for me.
+
+746
+00:52:00,480 --> 00:52:05,952
+Lloyd says Margo compensates for
+underplaying on stage by overplaying reality.
+
+747
+00:52:06,960 --> 00:52:10,794
+Next to that sable, my new mink
+seems like an old bed jacket.
+
+748
+00:52:10,880 --> 00:52:16,079
+You've done your share, Eve. You've
+worked wonders with Margo. Good night.
+
+749
+00:52:16,160 --> 00:52:18,879
+- Mrs Richards?
+- Karen.
+
+750
+00:52:18,960 --> 00:52:20,837
+Karen.
+
+751
+00:52:20,920 --> 00:52:24,390
+Isn't it awful? I'm about
+to ask you for another favour...
+
+752
+00:52:24,480 --> 00:52:26,391
+...after all you've done already.
+
+753
+00:52:26,480 --> 00:52:28,311
+Nobody's done so much.
+
+754
+00:52:28,400 --> 00:52:31,915
+Stop thinking of yourself
+as one of the hundred neediest cases.
+
+755
+00:52:32,000 --> 00:52:35,959
+- What is it?
+- Miss Channing's affairs are in good shape...
+
+756
+00:52:36,040 --> 00:52:39,032
+<i>...so</i> there isn't enough
+to keep me as busy as I should be.
+
+757
+00:52:39,120 --> 00:52:42,317
+Not that I'd consider anything
+that would take me away from her.
+
+758
+00:52:42,400 --> 00:52:45,836
+But the other day
+when Mr Fabian told Miss Channing...
+
+759
+00:52:45,920 --> 00:52:50,277
+<i>...that</i> her understudy was going to have
+a baby and they'd have to replace her...
+
+760
+00:52:50,360 --> 00:52:54,911
+- You wanna be Margo's new understudy?
+- I don't let myself think about it even.
+
+761
+00:52:55,000 --> 00:52:58,436
+But I do know the part so well,
+and every bit of the staging...
+
+762
+00:52:58,520 --> 00:53:01,318
+...there'd be no need to break in a new girl.
+
+763
+00:53:02,400 --> 00:53:04,994
+Suppose I had to go on one night...
+
+764
+00:53:05,080 --> 00:53:08,231
+<i>...to</i> an audience that came
+to see Margo Channing.
+
+765
+00:53:08,320 --> 00:53:11,710
+- Oh no, I couldn't possibly!
+- I wouldn't worry too much about that.
+
+766
+00:53:11,800 --> 00:53:17,193
+Margo just doesn't miss performances.
+If she can walk, crawl or roll, she plays.
+
+767
+00:53:17,280 --> 00:53:21,592
+- The show must go on.
+- No, dear. Margo must go on.
+
+768
+00:53:21,680 --> 00:53:24,717
+I don't see any reason
+why you shouldn't be her understudy.
+
+769
+00:53:24,800 --> 00:53:28,236
+- You think Miss Channing would approve?
+- I think she'd cheer.
+
+770
+00:53:28,320 --> 00:53:32,472
+- But Mr Richards and Mr Sampson?
+- They'll do as they're told.
+
+771
+00:53:33,280 --> 00:53:36,431
+Then... would you speak
+to Mr Fabian about it?
+
+772
+00:53:36,520 --> 00:53:39,193
+- Of course.
+- You won't forget?
+
+773
+00:53:39,480 --> 00:53:41,471
+I won't forget.
+
+774
+00:53:43,720 --> 00:53:47,429
+I seem to be forever
+thanking you for something, don't I?
+
+775
+00:53:55,080 --> 00:53:57,913
+- The bed looks like a dead animal act.
+<i>- (Karen chuckles)</i>
+
+776
+00:53:58,000 --> 00:54:01,310
+- Which one is sable?
+- But she just got here!
+
+777
+00:54:01,400 --> 00:54:04,836
+Well, she's on her way
+with half the men in the joint.
+
+778
+00:54:04,920 --> 00:54:08,390
+- It's only a fur coat.
+- What do you expect? Live sable?
+
+779
+00:54:08,480 --> 00:54:12,473
+Diamond collar, gold sleeves.
+You know - picture people.
+
+780
+00:54:13,880 --> 00:54:17,111
+<i>(Addison)</i> Elder statesmen
+of the theatre or cinema...
+
+781
+00:54:17,200 --> 00:54:21,512
+...assure the public that actors
+and actresses are just plain folks...
+
+782
+00:54:21,600 --> 00:54:25,036
+...ignoring the fact that their greatest
+attraction to the public...
+
+783
+00:54:25,120 --> 00:54:28,635
+<i>...is</i> their complete lack of resemblance
+to normal human beings.
+
+784
+00:54:28,720 --> 00:54:31,996
+Now there's something
+a girl could make sacrifices for.
+
+785
+00:54:32,080 --> 00:54:34,469
+- And probably has.
+- Sable!
+
+786
+00:54:34,560 --> 00:54:37,916
+- Sable? Did she say sable or Gable?
+- Either one.
+
+787
+00:54:38,000 --> 00:54:41,037
+We all have abnormality in common.
+
+788
+00:54:41,120 --> 00:54:44,795
+We're a breed apart from the rest
+of humanity, we theatre folk.
+
+789
+00:54:44,880 --> 00:54:47,997
+We are the original displaced personalities.
+
+790
+00:54:48,080 --> 00:54:51,755
+You won't have to read his column
+tomorrow, Eve. You just heard it.
+
+791
+00:54:51,840 --> 00:54:55,992
+- I don't agree, Addison.
+- That's your particular abnormality.
+
+792
+00:54:56,080 --> 00:54:58,719
+I admit there's a screwball
+element in the theatre.
+
+793
+00:54:58,800 --> 00:55:02,679
+It sticks out, it's got spotlights
+on it and a brass band.
+
+794
+00:55:02,760 --> 00:55:07,709
+But it isn't basic. It isn't standard.
+If it were, the theatre couldn't survive.
+
+795
+00:55:07,800 --> 00:55:12,032
+- Oh, waiter.
+- That isn't a waiter, my dear. That's a butler.
+
+796
+00:55:12,120 --> 00:55:14,429
+Well, I can't yell out "butler", can I?
+
+797
+00:55:14,520 --> 00:55:16,988
+Maybe somebody's name is Butler.
+
+798
+00:55:17,080 --> 00:55:20,550
+You have a point. An idiotic one, but a point.
+
+799
+00:55:20,640 --> 00:55:24,428
+I don't wanna make trouble.
+All I want is a drink.
+
+800
+00:55:24,520 --> 00:55:28,149
+- Leave it to me. I'll get you one.
+- Thank you, Mr Fabian.
+
+801
+00:55:28,920 --> 00:55:33,436
+Well done. I can see your career
+rising in the east like the sun.
+
+802
+00:55:35,560 --> 00:55:39,758
+- You were saying?
+- The theatre is nine-tenths hard work.
+
+803
+00:55:40,160 --> 00:55:44,392
+Work done the hard way - by sweat,
+application and craftsmanship.
+
+804
+00:55:44,720 --> 00:55:48,030
+To be a good actor or actress,
+or anything in the theatre...
+
+805
+00:55:48,120 --> 00:55:50,839
+...means wanting to be that
+more than anything else.
+
+806
+00:55:50,920 --> 00:55:53,070
+Yes. Yes, it does.
+
+807
+00:55:53,160 --> 00:55:56,789
+It means a concentration
+of desire or ambition and sacrifice...
+
+808
+00:55:56,880 --> 00:55:59,075
+<i>...such</i> as no other profession demands.
+
+809
+00:55:59,160 --> 00:56:02,869
+And the man or woman who accepts
+those terms can't be ordinary...
+
+810
+00:56:02,960 --> 00:56:05,030
+...can't be just someone.
+
+811
+00:56:05,120 --> 00:56:07,953
+To give so much for almost always so little!
+
+812
+00:56:08,040 --> 00:56:10,235
+"So little"?
+
+813
+00:56:10,320 --> 00:56:12,390
+"So little", did you say?
+
+814
+00:56:13,480 --> 00:56:16,836
+Why, if there's nothing else,
+there's applause.
+
+815
+00:56:16,920 --> 00:56:20,071
+I've listened backstage to people applaud.
+
+816
+00:56:20,160 --> 00:56:21,991
+It's like...
+
+817
+00:56:22,080 --> 00:56:26,756
+Like waves of love coming over
+the footlights and wrapping you up.
+
+818
+00:56:26,840 --> 00:56:32,039
+Imagine - to know every night
+that different hundreds of people love you.
+
+819
+00:56:32,120 --> 00:56:36,159
+They smile, their eyes shine,
+you've pleased them.
+
+820
+00:56:36,240 --> 00:56:39,232
+They want you. You belong.
+
+821
+00:56:40,680 --> 00:56:43,558
+Just that alone is worth anything.
+
+822
+00:56:56,840 --> 00:57:01,311
+Don't get up. And please stop acting
+as if I were the Queen Mother!
+
+823
+00:57:01,400 --> 00:57:04,233
+- I'm sorry, I didn't...
+- Outside of a beehive, Margo...
+
+824
+00:57:04,320 --> 00:57:07,357
+<i>...your</i> behaviour is hardly
+queenly or motherly.
+
+825
+00:57:07,440 --> 00:57:09,431
+You're in a beehive, pal!
+
+826
+00:57:09,520 --> 00:57:13,957
+We're all busy little bees, full of stings,
+making honey day and night.
+
+827
+00:57:14,040 --> 00:57:16,076
+- Aren't we, honey?
+- Margo, really!
+
+828
+00:57:16,400 --> 00:57:18,914
+Please don't play governess, Karen.
+
+829
+00:57:19,000 --> 00:57:22,356
+I haven't your unyielding good taste.
+
+830
+00:57:22,440 --> 00:57:26,911
+I wish I could have gone to Radcliffe, too,
+but Father wouldn't hear of it.
+
+831
+00:57:27,000 --> 00:57:29,639
+He needed help behind a notions counter.
+
+832
+00:57:29,720 --> 00:57:33,679
+I'm being rude now, aren't I?
+Or should I say, <i>ain't</i> I?
+
+833
+00:57:34,000 --> 00:57:37,549
+You're maudlin and full of self-pity.
+You're magnificent.
+
+834
+00:57:37,640 --> 00:57:39,995
+How about calling it a night?
+
+835
+00:57:40,080 --> 00:57:42,548
+And you pose as a playwright.
+
+836
+00:57:42,640 --> 00:57:47,077
+A situation pregnant with possibilities,
+and all you can think of is "go to sleep".
+
+837
+00:57:47,400 --> 00:57:50,358
+- It's a good thought.
+- It won't play.
+
+838
+00:57:51,080 --> 00:57:55,153
+As a nonprofessional,
+I think it's an excellent idea. Excuse me.
+
+839
+00:57:55,920 --> 00:57:58,878
+Undramatic, perhaps, but practical.
+
+840
+00:57:58,960 --> 00:58:01,679
+- Happy little housewife.
+- Cut it out.
+
+841
+00:58:01,760 --> 00:58:06,470
+This is my house, not a theatre.
+In my house you're a guest, not a director.
+
+842
+00:58:06,560 --> 00:58:10,235
+Then stop being a star and treating
+your guests as your supporting cast.
+
+843
+00:58:10,320 --> 00:58:12,880
+- Let's not get into a big hassle.
+- It's time we did.
+
+844
+00:58:12,960 --> 00:58:16,953
+Margo has to realise what's attractive
+on stage need not be attractive off.
+
+845
+00:58:17,040 --> 00:58:19,429
+All right!
+
+846
+00:58:19,520 --> 00:58:21,556
+I'm going to bed.
+
+847
+00:58:28,440 --> 00:58:32,831
+You be host. It's your party.
+Happy birthday. Welcome home.
+
+848
+00:58:32,920 --> 00:58:35,434
+And we who are about to die salute you.
+
+849
+00:58:35,520 --> 00:58:37,511
+Need any help?
+
+850
+00:58:42,760 --> 00:58:46,548
+To put me to bed?
+Take my clothes off, hold my head?
+
+851
+00:58:47,400 --> 00:58:50,836
+Tuck me in, turn out the lights
+and tiptoe out?
+
+852
+00:58:52,480 --> 00:58:54,789
+Eve would, wouldn't you, Eve?
+
+853
+00:58:54,880 --> 00:58:57,394
+- If you'd like.
+- I wouldn't like.
+
+854
+00:59:04,160 --> 00:59:06,799
+- Oh, I forgot I had it.
+- I didn't.
+
+855
+00:59:14,120 --> 00:59:17,476
+Too bad. We're gonna miss the third act.
+
+856
+00:59:17,560 --> 00:59:19,949
+They're gonna play it offstage.
+
+857
+00:59:22,840 --> 00:59:25,229
+- Coming, Max?
+- In a minute.
+
+858
+00:59:28,240 --> 00:59:32,392
+Eve, you mustn't mind Margo
+too much, even if I do.
+
+859
+00:59:32,480 --> 00:59:35,711
+There must be some reason,
+something I've done without knowing.
+
+860
+00:59:35,800 --> 00:59:39,554
+The reason is Margo and don't try
+to figure it out. Einstein couldn't.
+
+861
+00:59:39,640 --> 00:59:42,074
+But if I thought I'd offended her,
+of all people...
+
+862
+00:59:42,160 --> 00:59:47,598
+Eve... I'm fond of Margo, too.
+But I know Margo. And every now and then...
+
+863
+00:59:47,680 --> 00:59:52,595
+...there is nothing I wanna do so much
+as kick her right square in the pants.
+
+864
+00:59:52,680 --> 00:59:55,148
+Well, if she has to pick on someone...
+
+865
+00:59:55,240 --> 00:59:57,629
+<i>...I’d</i> just as soon it was me.
+
+866
+01:00:00,560 --> 01:00:02,676
+- Max is gonna drop us.
+- Good night.
+
+867
+01:00:02,760 --> 01:00:04,830
+- Good night.
+- Good night.
+
+868
+01:00:04,920 --> 01:00:09,550
+Mrs Richards? You won't forget, will you?
+What we talked about before?
+
+869
+01:00:09,640 --> 01:00:11,631
+No, Eve. I won't forget.
+
+870
+01:00:37,080 --> 01:00:38,957
+Why so remote, Addison?
+
+871
+01:00:39,040 --> 01:00:42,476
+You should be at the side of
+your protégée, lending her moral support.
+
+872
+01:00:42,560 --> 01:00:46,473
+Miss Caswell is where I can
+lend no support, moral or otherwise.
+
+873
+01:00:46,560 --> 01:00:48,676
+In the ladies' shall we say "lounge"?
+
+874
+01:00:48,760 --> 01:00:50,990
+Being violently ill to her tummy.
+
+875
+01:00:51,080 --> 01:00:53,435
+It's good luck before an audition.
+
+876
+01:00:53,520 --> 01:00:56,512
+Miss Caswell got lucky too late.
+The audition is over.
+
+877
+01:00:56,600 --> 01:01:00,195
+It can't be. I came here to read
+with Miss Caswell. I promised Max.
+
+878
+01:01:00,280 --> 01:01:02,714
+The audition was at 2.30.
+It's now nearly four.
+
+879
+01:01:02,800 --> 01:01:06,349
+Is it really? I must start wearing a watch!
+I never have, you know.
+
+880
+01:01:06,440 --> 01:01:08,670
+Who read with Miss Caswell?
+
+881
+01:01:08,760 --> 01:01:11,274
+- Bill? Lloyd?
+- No.
+
+882
+01:01:11,360 --> 01:01:14,989
+- Well, it can't have been Max. Who?
+- Naturally, your understudy.
+
+883
+01:01:15,080 --> 01:01:18,516
+It's unnatural to allow a girl
+in an advanced state of pregnancy...
+
+884
+01:01:18,600 --> 01:01:23,355
+I refer to your new and unpregnant
+understudy, Miss Eve Harrington.
+
+885
+01:01:23,440 --> 01:01:26,000
+Eve? My understudy?
+
+886
+01:01:26,080 --> 01:01:29,675
+- Didn't you know?
+- Of course I knew.
+
+887
+01:01:29,760 --> 01:01:31,751
+It just slipped your mind?
+
+888
+01:01:35,360 --> 01:01:37,874
+How... was Miss Caswell?
+
+889
+01:01:38,480 --> 01:01:40,596
+Frankly, I don't remember.
+
+890
+01:01:40,680 --> 01:01:43,194
+- Just slipped your mind?
+- Completely.
+
+891
+01:01:43,280 --> 01:01:46,477
+Nor can anyone else present
+tell you how Miss Caswell read...
+
+892
+01:01:46,560 --> 01:01:49,438
+<i>...or</i> whether Miss Caswell read
+or rode a pogo stick.
+
+893
+01:01:49,520 --> 01:01:51,636
+Was she that bad?
+
+894
+01:01:52,280 --> 01:01:56,159
+Margo, I have lived in the theatre
+as a Trappist monk lives in his faith.
+
+895
+01:01:56,240 --> 01:01:58,834
+I have no other world, no other life.
+
+896
+01:01:58,920 --> 01:02:01,878
+Once in a great while,
+I experience that moment of revelation...
+
+897
+01:02:01,960 --> 01:02:04,918
+<i>...for</i> which all true believers
+wait and pray. You were one.
+
+898
+01:02:05,000 --> 01:02:10,632
+Jeanne Eagels another, Paula Wessely,
+Hayes. There are others, three or four.
+
+899
+01:02:10,720 --> 01:02:12,915
+Eve Harrington will be among them.
+
+900
+01:02:13,000 --> 01:02:15,036
+I take it she read well.
+
+901
+01:02:15,120 --> 01:02:17,395
+It wasn't a reading, it was a performance.
+
+902
+01:02:17,480 --> 01:02:20,950
+Brilliant, vivid,
+something made of music and fire.
+
+903
+01:02:21,040 --> 01:02:23,076
+How nice.
+
+904
+01:02:23,160 --> 01:02:25,913
+In time, she'll be what you are.
+
+905
+01:02:26,000 --> 01:02:28,389
+A mass of music and fire.
+
+906
+01:02:29,080 --> 01:02:32,470
+That's me. An old kazoo with some sparklers.
+
+907
+01:02:34,840 --> 01:02:38,310
+Tell me, was... Bill swept away too?
+
+908
+01:02:38,400 --> 01:02:42,552
+- Or were you too full of revelation to notice?
+- Bill didn't say.
+
+909
+01:02:42,640 --> 01:02:47,395
+But Lloyd listened to his play as if
+it had been written by someone else, he said.
+
+910
+01:02:47,480 --> 01:02:50,631
+It sounded so fresh,
+so new, so full of meaning.
+
+911
+01:02:51,240 --> 01:02:55,392
+How nice for Lloyd. How nice for Eve.
+How nice for everybody.
+
+912
+01:02:56,000 --> 01:02:59,993
+Eve was incredibly modest.
+She insisted that no credit was due her.
+
+913
+01:03:00,080 --> 01:03:04,153
+That Lloyd felt as he did because she read
+his lines exactly as he'd written them.
+
+914
+01:03:04,240 --> 01:03:07,312
+The implication being
+that I did not read them as written?
+
+915
+01:03:07,400 --> 01:03:11,712
+Neither your name nor your performance
+entered the conversation.
+
+916
+01:03:11,800 --> 01:03:14,075
+<i>(door opens)</i>
+
+917
+01:03:16,280 --> 01:03:19,238
+Ah! Feeling better, my dear?
+
+918
+01:03:22,000 --> 01:03:26,198
+Like I just swam the English Channel.
+Now what?
+
+919
+01:03:26,280 --> 01:03:30,273
+Your next move, it seems to me,
+should be towards television.
+
+920
+01:03:33,680 --> 01:03:37,309
+Tell me this.
+Do they have auditions for television?
+
+921
+01:03:37,400 --> 01:03:41,234
+That's all television is, my dear.
+Nothing but auditions.
+
+922
+01:03:45,560 --> 01:03:47,551
+Oh, Margo, darling!
+
+923
+01:03:53,400 --> 01:03:55,231
+Mm-hm!
+
+924
+01:03:58,720 --> 01:04:02,508
+Terribly sorry I was late.
+Lunch was long and I couldn't find a cab.
+
+925
+01:04:02,600 --> 01:04:05,831
+- Where's Miss Caswell? Oh, hello, Eve.
+- Hello, Miss Channing.
+
+926
+01:04:05,920 --> 01:04:08,434
+How are you making out
+in Mr Fabian's office?
+
+927
+01:04:08,520 --> 01:04:12,911
+Now, Max, I don't want you working this child
+too hard just because you promised.
+
+928
+01:04:13,000 --> 01:04:15,992
+As you see, I</i> kept my promise, too.
+
+929
+01:04:16,080 --> 01:04:18,275
+It's all over.
+
+930
+01:04:18,360 --> 01:04:21,318
+- What's all over?
+- The audition.
+
+931
+01:04:21,400 --> 01:04:25,916
+- Eve read with Miss Caswell.
+- Eve? How enchanting!
+
+932
+01:04:26,000 --> 01:04:29,276
+How did you get the idea of letting
+Eve read with Miss Caswell?
+
+933
+01:04:29,360 --> 01:04:33,399
+- Well, she's your understudy.
+- Eve? My understudy? I had no idea.
+
+934
+01:04:33,480 --> 01:04:35,630
+I thought you knew. She started a week ago.
+
+935
+01:04:35,720 --> 01:04:41,716
+I've never seen her backstage, but with
+so many people loitering about... Well, well.
+
+936
+01:04:41,800 --> 01:04:44,394
+So Eve is not working for Max, after all.
+
+937
+01:04:45,480 --> 01:04:47,869
+Max, you sly puss.
+
+938
+01:04:49,960 --> 01:04:54,715
+Miss Channing, I can't tell you
+how glad I am that you arrived so late.
+
+939
+01:04:54,800 --> 01:04:58,793
+- Really, Eve? Why?
+- Otherwise, I never would have dared to read.
+
+940
+01:04:58,880 --> 01:05:01,314
+- Why not?
+- If you'd come in the middle...
+
+941
+01:05:01,400 --> 01:05:03,391
+<i>...I</i> couldn't have gone on.
+
+942
+01:05:03,480 --> 01:05:07,314
+What a pity.
+All that fire and music being turned off.
+
+943
+01:05:07,400 --> 01:05:09,834
+- What fire and music?
+- You wouldn't understand.
+
+944
+01:05:09,920 --> 01:05:11,911
+How was Miss Caswell?
+
+945
+01:05:12,000 --> 01:05:14,036
+Back to the Copacabana.
+
+946
+01:05:14,120 --> 01:05:16,714
+But Eve, Margo. Let me tell you about Eve.
+
+947
+01:05:16,800 --> 01:05:22,158
+I was dreadful, Miss Channing. I have no right
+to be anyone's understudy, much less yours.
+
+948
+01:05:22,240 --> 01:05:24,834
+I'm sure you underestimate yourself.
+You always do.
+
+949
+01:05:24,920 --> 01:05:26,831
+You were about to tell me about Eve.
+
+950
+01:05:26,920 --> 01:05:28,911
+- You'd have been proud of her.
+- I'm sure.
+
+951
+01:05:29,000 --> 01:05:31,560
+- She was a revelation.
+- Oh, to you too?
+
+952
+01:05:31,640 --> 01:05:34,871
+- What do you mean by that?
+- It must have been a revelation...
+
+953
+01:05:34,960 --> 01:05:38,669
+<i>...to</i> have a 24-year-old character
+played by a 24-year-old actress.
+
+954
+01:05:38,760 --> 01:05:41,115
+- That's beside the point.
+- It is the point!
+
+955
+01:05:41,200 --> 01:05:43,430
+It must have seemed
+so new and fresh to you...
+
+956
+01:05:43,520 --> 01:05:46,671
+<i>...so</i> exciting, to have your lines
+read just as you wrote them!
+
+957
+01:05:46,760 --> 01:05:49,877
+- Addison.
+- So full of meaning, fire and music!
+
+958
+01:05:51,400 --> 01:05:53,994
+You've talked to that
+venomous fishwife DeWitt.
+
+959
+01:05:54,080 --> 01:05:56,799
+In this case, as trustworthy
+as the world almanac!
+
+960
+01:05:56,880 --> 01:05:59,838
+You knew when you came in
+that Eve was your understudy.
+
+961
+01:05:59,920 --> 01:06:02,309
+Playing that childish game of cat and mouse!
+
+962
+01:06:02,400 --> 01:06:05,472
+Not mouse. Never mouse. If anything, rat!
+
+963
+01:06:05,560 --> 01:06:10,190
+Your genius for making a bar-room brawl
+out of a perfectly innocent misunderstanding.
+
+964
+01:06:10,280 --> 01:06:12,919
+Perfectly innocent?
+Men have been hanged for less!
+
+965
+01:06:13,000 --> 01:06:15,309
+I'm lied to, attacked behind my back...
+
+966
+01:06:15,400 --> 01:06:18,472
+...accused of reading your play
+as if it were the holy gospel!
+
+967
+01:06:18,560 --> 01:06:20,278
+I never said it was!
+
+968
+01:06:20,360 --> 01:06:24,512
+You listen as if someone else had written
+your play. Whom do you have in mind?
+
+969
+01:06:24,640 --> 01:06:27,757
+Arthur Miller? Sherwood?
+Beaumont and Fletcher?
+
+970
+01:06:27,840 --> 01:06:30,229
+- May I say a word?
+- No!
+
+971
+01:06:31,120 --> 01:06:35,159
+You think Miller or Sherwood would stand
+for the nonsense I take from you?
+
+972
+01:06:35,240 --> 01:06:39,358
+Stick to Beaumont and Fletcher.
+They've been dead for 300 years!
+
+973
+01:06:40,120 --> 01:06:43,078
+All playwrights should be dead for 300 years!
+
+974
+01:06:43,880 --> 01:06:48,271
+That would solve none of their problems
+because actresses never die!
+
+975
+01:06:52,280 --> 01:06:55,670
+The stars never die and never change.
+
+976
+01:06:56,000 --> 01:06:58,389
+You may change this star
+any time you want...
+
+977
+01:06:58,480 --> 01:07:02,553
+<i>...for</i> a new and fresh and exciting one,
+fully equipped with fire and music.
+
+978
+01:07:02,640 --> 01:07:06,599
+Any time you want,
+starting with tonight's performance.
+
+979
+01:07:06,680 --> 01:07:08,671
+This is for lawyers to talk about.
+
+980
+01:07:08,760 --> 01:07:12,389
+This concerns a contract
+that you cannot rewrite or ad-lib.
+
+981
+01:07:12,480 --> 01:07:16,678
+Are you threatening me
+with legal action, Mr Fabian?
+
+982
+01:07:17,160 --> 01:07:21,073
+- Are you breaking the contract?
+- Answer my question.
+
+983
+01:07:21,160 --> 01:07:25,119
+- Who am I to threaten? I'm a dying man.
+- I don't hear you.
+
+984
+01:07:25,200 --> 01:07:28,954
+- I said I'm a dying man!
+- Not until the last drugstore...
+
+985
+01:07:29,040 --> 01:07:31,634
+<i>...has</i> sold its last pill.
+
+986
+01:07:31,720 --> 01:07:35,315
+I shall never understand the process
+by which a body with a voice...
+
+987
+01:07:35,400 --> 01:07:37,755
+...suddenly fancies itself as a mind.
+
+988
+01:07:37,840 --> 01:07:40,229
+Just when does an actress decide...
+
+989
+01:07:40,320 --> 01:07:43,756
+...they're her words she's saying
+and her thoughts she's expressing?
+
+990
+01:07:43,840 --> 01:07:47,310
+Usually at the point
+when she has to rewrite and rethink them...
+
+991
+01:07:47,400 --> 01:07:49,960
+<i>...to</i> keep the audience
+from leaving the theatre.
+
+992
+01:07:50,040 --> 01:07:54,716
+It's about time the piano realised
+it has not written the concerto!
+
+993
+01:07:59,560 --> 01:08:06,079
+And you, I take it, are the Paderewski
+who plays his concerto on me, the piano?
+
+994
+01:08:07,800 --> 01:08:10,268
+Where is Princess Fire and Music?
+
+995
+01:08:10,360 --> 01:08:12,749
+- Who?
+- The kid. Junior.
+
+996
+01:08:18,080 --> 01:08:21,038
+- Gone.
+- I must have frightened her away.
+
+997
+01:08:21,120 --> 01:08:23,918
+I wouldn't be surprised.
+Sometimes you frighten me.
+
+998
+01:08:24,000 --> 01:08:27,276
+Poor little flower.
+Dropped her petals and folded her tent.
+
+999
+01:08:27,360 --> 01:08:30,557
+- Don't mix your metaphors.
+- I'll mix what I like!
+
+1000
+01:08:30,640 --> 01:08:33,677
+I'm nothing but a body with a voice. No mind.
+
+1001
+01:08:33,760 --> 01:08:36,115
+What a body. What a voice.
+
+1002
+01:08:36,840 --> 01:08:40,719
+That ex ship-news reporter.
+No body, no voice, all mind.
+
+1003
+01:08:40,880 --> 01:08:45,192
+- The gong rang, the fight's over, calm down.
+- I will not calm down.
+
+1004
+01:08:45,280 --> 01:08:47,669
+Don't calm down.
+
+1005
+01:08:50,240 --> 01:08:54,472
+- You're being terribly tolerant, aren't you?
+- I'm trying terribly hard.
+
+1006
+01:08:54,560 --> 01:08:58,872
+Well, you needn't be. I will not be
+tolerated and I will not be plotted against.
+
+1007
+01:08:58,960 --> 01:09:02,077
+- Here we go.
+- Such nonsense! What do you take me for?
+
+1008
+01:09:02,160 --> 01:09:06,517
+Little Nell from the country? Been my
+understudy for a week without me knowing it!
+
+1009
+01:09:06,600 --> 01:09:09,558
+- Carefully hidden, no doubt.
+- Don't get carried away.
+
+1010
+01:09:09,640 --> 01:09:13,030
+Arrives here for an audition
+when everyone knows I will be here...
+
+1011
+01:09:13,120 --> 01:09:17,750
+<i>...and</i> gives a performance out of nowhere!
+- You've been all through that with Lloyd.
+
+1012
+01:09:17,840 --> 01:09:21,799
+The playwright doesn't make the
+performance. It doesn’t just happen.
+
+1013
+01:09:21,880 --> 01:09:24,678
+Full of fire and music and whatnot!
+
+1014
+01:09:24,760 --> 01:09:27,069
+Carefully rehearsed, I have no doubt.
+
+1015
+01:09:27,160 --> 01:09:29,799
+Full of those Bill Sampson touches.
+
+1016
+01:09:29,880 --> 01:09:33,236
+- I am tired of these paranoiac outbursts.
+- Paranoiac?
+
+1017
+01:09:33,320 --> 01:09:36,312
+I didn't know Eve was
+your understudy until this afternoon.
+
+1018
+01:09:36,400 --> 01:09:41,952
+- Tell that to Dr Freud along with the rest of it.
+- No, I'll tell it to you for the last time.
+
+1019
+01:09:42,040 --> 01:09:46,352
+Cos you've got to stop hurting the two of us
+by these paranoiac tantrums.
+
+1020
+01:09:46,440 --> 01:09:49,955
+- That word. I don't even know what it means.
+- It's time you found out.
+
+1021
+01:09:50,040 --> 01:09:52,554
+- I love you. I love you!
+- Hah!
+
+1022
+01:09:52,640 --> 01:09:55,552
+- You're beautiful and intelligent.
+- A body with a voice.
+
+1023
+01:09:55,640 --> 01:09:59,269
+A beautiful and an intelligent woman,
+and a great actress.
+
+1024
+01:10:00,320 --> 01:10:04,279
+A great actress at the peak of her career.
+You have every reason for happiness.
+
+1025
+01:10:04,360 --> 01:10:06,191
+- Except happiness!
+- Every reason!
+
+1026
+01:10:06,280 --> 01:10:10,796
+But due to some uncontrollable drive,
+you permit the slightest action of a kid...
+
+1027
+01:10:10,880 --> 01:10:14,634
+- A kid!
+<i>...a</i> kid to turn you into a screaming harpy.
+
+1028
+01:10:14,720 --> 01:10:16,950
+Now, once and for all, stop it!
+
+1029
+01:10:34,120 --> 01:10:36,509
+It's obvious you're not a woman.
+
+1030
+01:10:37,400 --> 01:10:41,359
+- I've been aware of that for some time.
+- Well, I am.
+
+1031
+01:10:41,440 --> 01:10:43,431
+I'll say.
+
+1032
+01:10:43,920 --> 01:10:45,911
+Don't be condescending.
+
+1033
+01:10:46,000 --> 01:10:48,389
+Come on, get up. I'll buy you a drink.
+
+1034
+01:10:48,480 --> 01:10:53,474
+I may have seen better days, but I'm
+still not to be had for the price of a cocktail.
+
+1035
+01:10:53,560 --> 01:10:55,551
+Like a salted peanut.
+
+1036
+01:10:56,640 --> 01:11:01,156
+- Margo, let's make peace.
+- The terms are too high.
+
+1037
+01:11:01,240 --> 01:11:05,518
+Just being happy? Just stopping
+all this nonsense about Eve?
+
+1038
+01:11:05,600 --> 01:11:08,160
+- And Eve and me?
+- It's not nonsense.
+
+1039
+01:11:08,240 --> 01:11:12,313
+But if I tell you it is, as I just did...
+were you listening to me?
+
+1040
+01:11:13,800 --> 01:11:17,509
+- Isn't that enough?
+- I wish it were.
+
+1041
+01:11:17,600 --> 01:11:20,068
+Then what would be enough?
+
+1042
+01:11:20,160 --> 01:11:22,390
+If we got married?
+
+1043
+01:11:22,480 --> 01:11:25,597
+I wouldn't want you to marry me
+just to prove something.
+
+1044
+01:11:25,680 --> 01:11:29,229
+You've had so many reasons
+for not wanting to marry me.
+
+1045
+01:11:30,400 --> 01:11:33,631
+Margo, tell me what's behind all this.
+
+1046
+01:11:33,720 --> 01:11:35,631
+I... I don't know, Bill.
+
+1047
+01:11:35,720 --> 01:11:38,029
+It's just a feeling. I don't know.
+
+1048
+01:11:38,120 --> 01:11:40,031
+I think you do know.
+
+1049
+01:11:40,120 --> 01:11:42,714
+But you won't or can't tell me.
+
+1050
+01:11:44,080 --> 01:11:48,471
+I said before it was gonna be
+my last try, and I meant it.
+
+1051
+01:11:48,560 --> 01:11:51,950
+I can't think of anything else to do.
+I wish I could.
+
+1052
+01:11:53,240 --> 01:11:56,391
+We usually wind up screaming
+as the curtain comes down.
+
+1053
+01:11:56,480 --> 01:11:59,040
+Then it comes up again and everything's fine.
+
+1054
+01:11:59,120 --> 01:12:01,111
+But not this time.
+
+1055
+01:12:03,040 --> 01:12:05,713
+No playwright in the world
+could make me believe...
+
+1056
+01:12:05,800 --> 01:12:08,997
+<i>...this</i> would happen
+between two adult people.
+
+1057
+01:12:10,320 --> 01:12:12,311
+Goodbye, Margo.
+
+1058
+01:12:18,160 --> 01:12:20,310
+Bill?
+
+1059
+01:12:21,920 --> 01:12:24,275
+Where are you going?
+
+1060
+01:12:24,360 --> 01:12:26,555
+To find Eve?
+
+1061
+01:12:28,160 --> 01:12:31,550
+That suddenly makes
+the whole thing believable.
+
+1062
+01:12:40,400 --> 01:12:42,391
+<i>(sobs)</i>
+
+1063
+01:12:49,120 --> 01:12:51,111
+<i>(door opens)</i>
+
+1064
+01:12:52,960 --> 01:12:54,951
+Lloyd!
+
+1065
+01:12:55,880 --> 01:12:59,555
+- Lloyd, what's happened?
+- Up to here, that's where I've got it.
+
+1066
+01:12:59,640 --> 01:13:02,313
+Of all the star-ridden,
+presumptuous, hysterical...
+
+1067
+01:13:02,400 --> 01:13:04,197
+- Margo again.
+- And again and again.
+
+1068
+01:13:04,280 --> 01:13:07,352
+- Two hours late for the audition.
+- That's on time for Margo.
+
+1069
+01:13:07,440 --> 01:13:11,194
+And then a childish routine about
+not knowing Eve was her understudy.
+
+1070
+01:13:11,280 --> 01:13:13,510
+- It's possible she didn't.
+- She knew.
+
+1071
+01:13:13,600 --> 01:13:17,479
+Addison told her how superbly
+Eve had read the part.
+
+1072
+01:13:17,560 --> 01:13:21,633
+Karen, let me tell you about Eve.
+She's got everything. A born actress.
+
+1073
+01:13:21,720 --> 01:13:26,157
+- Sensitive, understanding, young, exciting...
+- You'll run out of adjectives, dear.
+
+1074
+01:13:26,240 --> 01:13:29,471
+Everything a playwright first thinks
+of wanting to write about...
+
+1075
+01:13:29,560 --> 01:13:32,438
+...until his play becomes
+a vehicle for Miss Channing.
+
+1076
+01:13:32,520 --> 01:13:34,431
+Margo hasn't done badly by it.
+
+1077
+01:13:34,520 --> 01:13:37,273
+Margo's great.
+She knows it, that's the trouble.
+
+1078
+01:13:37,360 --> 01:13:40,477
+She can play <i>Peck's Bad Boy</i>
+all she wants and who's to stop her?
+
+1079
+01:13:40,560 --> 01:13:44,553
+Who's to give her that boot
+in the rear she needs and deserves?
+
+1080
+01:13:45,920 --> 01:13:48,593
+It's gonna be a cosy weekend.
+
+1081
+01:13:48,680 --> 01:13:51,638
+- What is?
+- We're driving to the country tomorrow.
+
+1082
+01:13:51,720 --> 01:13:54,917
+Just the four of us. Bill, Margo, you and I.
+
+1083
+01:13:55,000 --> 01:13:58,675
+Well, we've spent weekends
+before with nobody talking.
+
+1084
+01:13:58,760 --> 01:14:03,197
+Just be sure to lock up
+all blunt instruments and throwable objects.
+
+1085
+01:14:06,200 --> 01:14:10,990
+<i>(Karen) Newton, they say, thought of gravity</i>
+<i>by getting hit on the head by an apple.</i>
+
+1086
+01:14:11,080 --> 01:14:15,392
+<i>And the man who invented the steam-engine,</i>
+<i>he was watching a teakettle.</i>
+
+1087
+01:14:15,480 --> 01:14:19,951
+<i>But not me. My big idea came</i>
+<i>to me just sitting on a couch.</i>
+
+1088
+01:14:21,000 --> 01:14:24,788
+<i>That boot in the rear to Margo.</i>
+<i>Heaven knows, she had one coming.</i>
+
+1089
+01:14:24,880 --> 01:14:28,998
+<i>From me, from Lloyd, from Eve,</i>
+<i>Bill, Max and so on.</i>
+
+1090
+01:14:29,080 --> 01:14:32,390
+<i>We'd all felt those size fives</i>
+<i>of hers often enough.</i>
+
+1091
+01:14:32,480 --> 01:14:35,916
+<i>But how? The answer was</i>
+<i>buzzing around me like a fly.</i>
+
+1092
+01:14:36,800 --> 01:14:38,791
+<i>I had it!</i>
+
+1093
+01:14:38,880 --> 01:14:42,919
+<i>But I let it go.</i>
+<i>Screaming and calling names is one thing...</i>
+
+1094
+01:14:43,000 --> 01:14:44,991
+<i>... but this could mean...</i>
+
+1095
+01:14:46,760 --> 01:14:50,912
+<i>Why not? "Why” I said to myself "not?"</i>
+
+1096
+01:14:51,000 --> 01:14:55,949
+<i>It would all seem perfectly legitimate.</i>
+<i>And only two people in the world would know.</i>
+
+1097
+01:14:56,040 --> 01:14:59,953
+<i>Also, the boot would land where</i>
+<i>it would do the most good for all concerned.</i>
+
+1098
+01:15:00,040 --> 01:15:02,838
+<i>After all, it was no more</i>
+<i>than a harmless joke...</i>
+
+1099
+01:15:02,920 --> 01:15:05,878
+<i>... which Margo herself</i>
+<i>would be the first to enjoy.</i>
+
+1100
+01:15:05,960 --> 01:15:09,953
+<i>And no reason why she shouldn't</i>
+<i>be told about it... in time.</i>
+
+1101
+01:15:17,640 --> 01:15:21,952
+Hello. Will you please call
+Miss Eve Harrington to the phone?
+
+1102
+01:15:23,320 --> 01:15:25,311
+Not at all. I'll wait.
+
+1103
+01:15:27,240 --> 01:15:30,835
+<i>(Karen) It was a cold weekend, outside and in.</i>
+
+1104
+01:15:30,920 --> 01:15:32,717
+<i>Bill didn't come at all.</i>
+
+1105
+01:15:32,800 --> 01:15:37,396
+<i>Margo didn't know where he was</i>
+<i>and didn't care... she kept saying.</i>
+
+1106
+01:15:37,480 --> 01:15:39,914
+<i>Somehow we staggered through Sunday...</i>
+
+1107
+01:15:40,000 --> 01:15:43,675
+<i>... and by the time we drove Margo</i>
+<i>to the station late Monday afternoon...</i>
+
+1108
+01:15:43,760 --> 01:15:48,629
+<i>... she and Lloyd had thawed out</i>
+<i>to the extent of being civil to each other.</i>
+
+1109
+01:15:48,720 --> 01:15:52,713
+- What time is it?
+- When you asked a minute ago, it was 5.42.
+
+1110
+01:15:52,800 --> 01:15:55,837
+It is now 5.43.
+When you ask again a minute from now...
+
+1111
+01:15:55,920 --> 01:16:00,118
+I just don't want Margo to miss her train.
+As it is, she'll barely make the theatre.
+
+1112
+01:16:00,200 --> 01:16:03,829
+5.55. We'll be at the station in plenty of time.
+
+1113
+01:16:03,920 --> 01:16:07,469
+That little place
+"just two hours from New York".
+
+1114
+01:16:07,560 --> 01:16:12,714
+It's on my list of things I'll never understand,
+like collecting shrunken Indian heads.
+
+1115
+01:16:12,800 --> 01:16:16,076
+You should know what it means
+to want a little peace and quiet.
+
+1116
+01:16:16,160 --> 01:16:18,799
+Peace and quiet is for libraries.
+
+1117
+01:16:18,880 --> 01:16:20,950
+Lloyd! Please.
+
+1118
+01:16:21,040 --> 01:16:24,635
+Just a little skid, that's all.
+This road's like glass.
+
+1119
+01:16:24,720 --> 01:16:28,679
+- Karen and I just don't want an accident.
+- I don't intend to have an accident.
+
+1120
+01:16:28,760 --> 01:16:32,878
+It isn't important whether <i>you</i> do.
+<i>We</i> are wearing long underwear.
+
+1121
+01:16:34,960 --> 01:16:36,951
+Now what's this?
+
+1122
+01:16:42,040 --> 01:16:44,031
+<i>(car fails to start)</i>
+
+1123
+01:16:52,000 --> 01:16:54,116
+But it can't be! We can't be out of gas!
+
+1124
+01:16:54,200 --> 01:16:58,716
+I filled it myself yesterday. Wasn't it full
+when you drove to Brewster this morning?
+
+1125
+01:16:58,800 --> 01:17:02,156
+I didn't look. You know
+I don't pay attention to those things.
+
+1126
+01:17:02,240 --> 01:17:03,719
+Just incredible!
+
+1127
+01:17:03,800 --> 01:17:06,792
+- How much time have we got?
+- Roughly ten minutes.
+
+1128
+01:17:06,880 --> 01:17:09,713
+- How far is the station?
+- About three or four miles.
+
+1129
+01:17:09,800 --> 01:17:13,952
+- Any houses where we can borrow gas?
+- There's not much along this back road.
+
+1130
+01:17:14,040 --> 01:17:17,191
+Not many cars either.
+Not much chance of a lift.
+
+1131
+01:17:17,280 --> 01:17:21,273
+No sense in sitting here. I'm gonna
+walk up about half a mile, just in case.
+
+1132
+01:17:32,040 --> 01:17:34,031
+<i>("Liebestraum" by Liszt)</i>
+
+1133
+01:17:38,520 --> 01:17:41,193
+- You want it on?
+- It doesn't matter.
+
+1134
+01:17:41,720 --> 01:17:43,915
+I detest cheap sentiment.
+
+1135
+01:17:44,000 --> 01:17:45,831
+<i>(radio off)</i>
+
+1136
+01:17:50,000 --> 01:17:52,389
+- Karen?
+- Mm-hm?
+
+1137
+01:17:52,480 --> 01:17:53,595
+No, thank you.
+
+1138
+01:17:53,680 --> 01:17:58,151
+- I haven't been very pleasant this weekend.
+- We've all been a little tense lately.
+
+1139
+01:17:58,240 --> 01:18:03,075
+Come to think of it, I haven't been very
+pleasant for weeks. For that, I'm truly sorry.
+
+1140
+01:18:03,160 --> 01:18:06,948
+More than any two people I know, I don't
+want you and Lloyd to be angry with me.
+
+1141
+01:18:07,040 --> 01:18:10,874
+We're never deeply angry.
+We just get mad the way you do.
+
+1142
+01:18:10,960 --> 01:18:12,951
+We know you too well.
+
+1143
+01:18:13,040 --> 01:18:15,508
+So many people know me.
+
+1144
+01:18:15,600 --> 01:18:18,592
+I wish I did.
+I wish someone would tell me about me.
+
+1145
+01:18:18,880 --> 01:18:21,519
+You're Margo. Just... Margo.
+
+1146
+01:18:22,120 --> 01:18:26,796
+And what is that? Besides something
+spelled out in light bulbs, I mean.
+
+1147
+01:18:26,880 --> 01:18:32,398
+Besides a temperament, which consists
+mostly of swooping about on a broomstick...
+
+1148
+01:18:32,480 --> 01:18:34,710
+<i>...and</i> screaming at the top of my voice.
+
+1149
+01:18:34,800 --> 01:18:37,189
+Infants behave the way I do, you know.
+
+1150
+01:18:37,280 --> 01:18:41,478
+They carry on and misbehave.
+They'd get drunk if they knew how...
+
+1151
+01:18:41,560 --> 01:18:44,279
+<i>...when</i> they can't have what they want.
+
+1152
+01:18:44,360 --> 01:18:47,477
+When they feel unwanted or insecure or...
+
+1153
+01:18:48,320 --> 01:18:50,151
+...unloved.
+
+1154
+01:18:51,680 --> 01:18:54,956
+- What about Bill?
+- What about Bill?
+
+1155
+01:18:55,040 --> 01:18:56,632
+He's in love with you.
+
+1156
+01:18:56,720 --> 01:19:01,316
+More than anything in this world,
+I love Bill. And I want Bill.
+
+1157
+01:19:01,400 --> 01:19:03,391
+And I want him to want me.
+
+1158
+01:19:03,480 --> 01:19:05,471
+But me, not Margo Channing.
+
+1159
+01:19:06,480 --> 01:19:09,278
+And if I can't tell them apart, how can he?
+
+1160
+01:19:10,000 --> 01:19:12,389
+Well, why should he and why should you?
+
+1161
+01:19:12,480 --> 01:19:17,190
+Bill's in love with Margo Channing. He's
+fought with her, worked with her, loved her.
+
+1162
+01:19:17,280 --> 01:19:21,398
+But ten years from now
+Margo Channing will have ceased to exist.
+
+1163
+01:19:21,480 --> 01:19:24,950
+And what's left will be... what?
+
+1164
+01:19:26,000 --> 01:19:29,151
+Margo, Bill is all of
+eight years younger than you.
+
+1165
+01:19:29,240 --> 01:19:34,075
+Those years stretch as the years go on.
+I've seen it happen too often.
+
+1166
+01:19:34,160 --> 01:19:36,310
+Not to you, not to Bill.
+
+1167
+01:19:36,400 --> 01:19:39,073
+Isn't that what they always say?
+
+1168
+01:19:43,760 --> 01:19:46,479
+I don't suppose the heater runs
+if the motor doesn't.
+
+1169
+01:19:46,560 --> 01:19:51,918
+Silly, isn't it? You'd think they'd fix it so
+people could just sit in a car and keep warm.
+
+1170
+01:19:52,640 --> 01:19:54,915
+About Eve.
+
+1171
+01:19:55,000 --> 01:19:58,231
+I've acted pretty disgracefully
+toward her too.
+
+1172
+01:19:59,200 --> 01:20:01,998
+- Well...
+- Don't fumble for excuses.
+
+1173
+01:20:02,080 --> 01:20:04,719
+Not here and now with my hair down.
+
+1174
+01:20:05,760 --> 01:20:09,309
+At best, let's say I've been oversensitive to...
+
+1175
+01:20:09,400 --> 01:20:14,155
+Well, to the fact that she's so young,
+so feminine and so helpless.
+
+1176
+01:20:14,240 --> 01:20:17,312
+To so many things I want to be for Bill.
+
+1177
+01:20:18,480 --> 01:20:24,589
+It's funny, a woman's career. The things you
+drop on your way up so you can move faster.
+
+1178
+01:20:24,680 --> 01:20:28,468
+You forget you'll need them again
+when you get back to being a woman.
+
+1179
+01:20:28,560 --> 01:20:33,236
+That's one career all females have
+in common, whether we like it or not.
+
+1180
+01:20:33,320 --> 01:20:35,311
+Being a woman.
+
+1181
+01:20:35,400 --> 01:20:37,914
+Sooner or later, we've got to work at it.
+
+1182
+01:20:38,600 --> 01:20:42,149
+No matter how many
+other careers we've had or wanted.
+
+1183
+01:20:43,480 --> 01:20:47,075
+And in the last analysis,
+nothing's any good unless you can...
+
+1184
+01:20:47,160 --> 01:20:49,674
+<i>...look</i> up just before dinner or...
+
+1185
+01:20:49,760 --> 01:20:52,274
+<i>...turn</i> around in bed and there he is.
+
+1186
+01:20:52,360 --> 01:20:54,555
+Without that, you're not a woman.
+
+1187
+01:20:54,640 --> 01:20:59,873
+You're something with a French provincial
+office or a... a book full of clippings.
+
+1188
+01:21:01,160 --> 01:21:03,549
+But you're not a woman.
+
+1189
+01:21:07,120 --> 01:21:09,315
+Slow curtain. The end.
+
+1190
+01:21:11,760 --> 01:21:16,356
+Margo. Margo, I want you
+to know how sorry I am about this.
+
+1191
+01:21:16,800 --> 01:21:19,189
+- About what?
+- This.
+
+1192
+01:21:19,280 --> 01:21:21,840
+I can't tell you how sorry I am.
+
+1193
+01:21:21,920 --> 01:21:24,798
+Don't give it a thought.
+One of destiny's merry pranks.
+
+1194
+01:21:24,880 --> 01:21:29,317
+After all, you didn't personally
+drain the gasoline tank yourself.
+
+1195
+01:21:35,960 --> 01:21:38,110
+<i>(Addison) Eve, of course, was superb.</i>
+
+1196
+01:21:38,200 --> 01:21:43,069
+<i>Many of the audience understandably</i>
+<i>preferred to return another time to see Margo.</i>
+
+1197
+01:21:43,160 --> 01:21:47,517
+<i>But those who remained cheered loudly,</i>
+<i>lustily and long for Eve.</i>
+
+1198
+01:21:47,600 --> 01:21:51,115
+<i>How thoughtful of her to call</i>
+<i>and invite me that afternoon.</i>
+
+1199
+01:21:51,200 --> 01:21:54,431
+<i>And what a happy coincidence</i>
+<i>that several representatives...</i>
+
+1200
+01:21:54,520 --> 01:21:56,909
+<i>... of other newspapers</i>
+<i>happened to be present.</i>
+
+1201
+01:21:57,000 --> 01:21:59,195
+<i>All of us invited that afternoon...</i>
+
+1202
+01:21:59,280 --> 01:22:03,751
+<i>... to attend an understudy's performance,</i>
+<i>about which the management knew nothing...</i>
+
+1203
+01:22:03,840 --> 01:22:07,276
+<i>... until they were forced</i>
+<i>to ring up the curtain at nine o'clock.</i>
+
+1204
+01:22:07,360 --> 01:22:08,713
+<i>Coincidence.</i>
+
+1205
+01:22:08,800 --> 01:22:11,030
+<i>(Bill)</i> You were better than all right.
+
+1206
+01:22:11,120 --> 01:22:14,556
+You rang a bell. Little things
+here and there, but it doesn't matter.
+
+1207
+01:22:14,640 --> 01:22:17,074
+Be proud of yourself. You've got a right to be.
+
+1208
+01:22:17,160 --> 01:22:19,151
+Are you proud of me, Bill?
+
+1209
+01:22:19,240 --> 01:22:22,152
+I admit I was worried
+when Max called. I had my doubts.
+
+1210
+01:22:22,400 --> 01:22:26,518
+- You shouldn't have had any doubts.
+- After all, the other day was one scene.
+
+1211
+01:22:26,600 --> 01:22:29,068
+The woods are full of one-scene sensations.
+
+1212
+01:22:29,160 --> 01:22:32,869
+But you did it. With work and patience,
+you'll be a good actress...
+
+1213
+01:22:32,960 --> 01:22:36,111
+<i>...if</i> that's what you wanna be.
+- Is that what you want me to be?
+
+1214
+01:22:36,200 --> 01:22:40,113
+- I'm talking about you and what you want.
+- So am I.
+
+1215
+01:22:42,000 --> 01:22:45,197
+- What have I got to do with it?
+- Everything.
+
+1216
+01:22:47,640 --> 01:22:52,156
+The names I've been called,
+but never Svengali. Good luck.
+
+1217
+01:22:54,840 --> 01:22:57,400
+Don't run away, Bill.
+
+1218
+01:22:57,480 --> 01:22:59,869
+From what would I be running?
+
+1219
+01:23:01,600 --> 01:23:05,354
+You're always after truth
+on the stage. What about off?
+
+1220
+01:23:06,080 --> 01:23:09,277
+- I'm for it.
+- Then face it. I have.
+
+1221
+01:23:09,600 --> 01:23:14,799
+- Ever since that first night in here.
+- I told you what every actress should know.
+
+1222
+01:23:14,880 --> 01:23:18,714
+You told me that whatever I became,
+it would be because of you.
+
+1223
+01:23:18,800 --> 01:23:21,678
+- Make-up's a little heavy.
+- And for you.
+
+1224
+01:23:22,640 --> 01:23:25,473
+- You're quite a girl.
+- You think?
+
+1225
+01:23:25,560 --> 01:23:30,350
+- I'm in love with Margo. Hadn't you heard?
+- You hear all kinds of things.
+
+1226
+01:23:30,440 --> 01:23:34,194
+I'm only human, rumours to the contrary,
+and I'm as curious as the next man.
+
+1227
+01:23:34,280 --> 01:23:37,078
+- Find out.
+- Only thing:
+
+1228
+01:23:37,160 --> 01:23:39,310
+what I go after I</i> want to go after.
+
+1229
+01:23:39,400 --> 01:23:41,391
+I don't want it to come after me.
+
+1230
+01:23:48,080 --> 01:23:51,709
+Don't cry. Just score it
+as an incomplete forward pass.
+
+1231
+01:24:10,880 --> 01:24:12,836
+<i>(knocking)</i>
+
+1232
+01:24:12,920 --> 01:24:14,911
+Who is it?
+
+1233
+01:24:16,560 --> 01:24:18,551
+May I come in?
+
+1234
+01:24:19,560 --> 01:24:21,551
+Certainly, Mr DeWitt.
+
+1235
+01:24:24,480 --> 01:24:28,439
+I expected to find this room
+with a theatreful of people at your feet.
+
+1236
+01:24:28,520 --> 01:24:32,832
+- I'm lucky they didn't throw things.
+- Your performance was no surprise to me.
+
+1237
+01:24:32,920 --> 01:24:36,230
+After the other day, I regarded it
+as simply a promise fulfilled.
+
+1238
+01:24:36,320 --> 01:24:40,199
+You're more than kind. But it's
+still Miss Channing's performance.
+
+1239
+01:24:40,280 --> 01:24:43,431
+I'm the carbon copy you read
+when you can't find the original.
+
+1240
+01:24:43,520 --> 01:24:48,548
+- You're more than modest.
+- It's not modesty. I don't try to kid myself.
+
+1241
+01:24:48,640 --> 01:24:50,915
+A revolutionary approach to the theatre.
+
+1242
+01:24:51,000 --> 01:24:55,278
+- But if I may make a suggestion...
+- Please do.
+
+1243
+01:24:55,360 --> 01:24:58,272
+I think the time has come
+to shed some of your humility.
+
+1244
+01:24:58,360 --> 01:25:02,399
+It is just as false not to blow your horn
+at all as it is to blow it too loudly.
+
+1245
+01:25:02,680 --> 01:25:05,399
+I don't think I've done anything
+to sound off about.
+
+1246
+01:25:05,480 --> 01:25:09,393
+We come into this world with our little
+egos equipped with individual horns.
+
+1247
+01:25:09,480 --> 01:25:11,471
+If we don't blow them, who else will?
+
+1248
+01:25:11,560 --> 01:25:17,715
+Even so... one pretty good performance by
+an understudy, it'll be forgotten tomorrow.
+
+1249
+01:25:19,000 --> 01:25:21,753
+It needn't be.
+
+1250
+01:25:21,840 --> 01:25:27,233
+Even if I wanted to, as you say,
+be less humble, blow my own horn...
+
+1251
+01:25:28,400 --> 01:25:31,278
+<i>...how</i> would I do it? I'm less than nobody.
+
+1252
+01:25:32,360 --> 01:25:35,636
+<i>- I'm</i> somebody.
+- You certainly are.
+
+1253
+01:25:37,040 --> 01:25:40,476
+Leave the door open a bit... so we can talk.
+
+1254
+01:25:44,960 --> 01:25:49,351
+After you change, if you're not busy
+elsewhere, we could have supper.
+
+1255
+01:25:49,640 --> 01:25:52,632
+I'd love to. Or should I pretend I'm busy?
+
+1256
+01:25:53,040 --> 01:25:57,033
+Let's have a minimum of pretending.
+I shall want to do a column about you.
+
+1257
+01:25:57,120 --> 01:25:59,350
+I'm not even enough for a paragraph.
+
+1258
+01:25:59,440 --> 01:26:04,070
+Perhaps more than one. There's so much
+I want to know. I've heard your story in part.
+
+1259
+01:26:04,160 --> 01:26:08,790
+Your home in Wisconsin, your tragic
+marriage, your fanatical attachment to Margo.
+
+1260
+01:26:08,880 --> 01:26:11,792
+It started in San Francisco, didn't it?
+
+1261
+01:26:12,720 --> 01:26:16,918
+I say your idolatry of Margo
+started in San Francisco, didn't it?
+
+1262
+01:26:17,000 --> 01:26:18,149
+That's right.
+
+1263
+01:26:18,240 --> 01:26:21,994
+San Francisco, an oasis of
+civilisation in the California desert.
+
+1264
+01:26:22,080 --> 01:26:26,198
+Tell me, do you share
+my high opinion of San Francisco?
+
+1265
+01:26:26,280 --> 01:26:28,271
+Yes, I do.
+
+1266
+01:26:28,960 --> 01:26:33,078
+And that memorable night when Margo
+first dazzled you from the stage...
+
+1267
+01:26:33,160 --> 01:26:37,153
+<i>...what</i> theatre was it in San Francisco?
+Was it the Shubert?
+
+1268
+01:26:37,240 --> 01:26:39,231
+Yes, the Shubert.
+
+1269
+01:26:39,800 --> 01:26:43,349
+Fine old theatre, the Shubert. Full of tradition.
+
+1270
+01:26:43,440 --> 01:26:47,035
+Untouched by the earthquake.
+Or should I say fire?
+
+1271
+01:26:47,160 --> 01:26:49,799
+Tell me, what was your husband's name?
+
+1272
+01:26:50,760 --> 01:26:52,751
+- Eddie.
+- Eddie what?
+
+1273
+01:26:56,520 --> 01:27:00,195
+I'm about to go into the shower.
+I won't be able to hear you.
+
+1274
+01:27:00,280 --> 01:27:02,077
+Well, it can wait.
+
+1275
+01:27:02,160 --> 01:27:05,277
+Where would you like to go?
+We must make this a special night.
+
+1276
+01:27:05,360 --> 01:27:08,477
+You take charge.
+
+1277
+01:27:08,560 --> 01:27:10,357
+I believe I will.
+
+1278
+01:27:17,720 --> 01:27:19,711
+<i>(shower running)</i>
+
+1279
+01:27:24,000 --> 01:27:27,709
+<i>(Karen) Some morning papers carried</i>
+<i>a squib about Eve's performance.</i>
+
+1280
+01:27:27,800 --> 01:27:30,155
+<i>Not much, but full of praise.</i>
+
+1281
+01:27:30,240 --> 01:27:32,708
+<i>I couldn't imagine</i>
+<i>how they found out about it.</i>
+
+1282
+01:27:32,800 --> 01:27:36,793
+<i>But Lloyd said Max's publicity man</i>
+<i>probably sent out the story.</i>
+
+1283
+01:27:36,880 --> 01:27:40,077
+<i>At any rate, I felt terribly guilty</i>
+<i>and ashamed of myself...</i>
+
+1284
+01:27:40,160 --> 01:27:43,391
+<i>... and wanted nothing so much</i>
+<i>as to forget the whole thing.</i>
+
+1285
+01:27:43,480 --> 01:27:45,710
+<i>Margo and I were having lunch at 21...</i>
+
+1286
+01:27:45,800 --> 01:27:48,314
+<i>... just like girlfriends... with hats on.</i>
+
+1287
+01:27:50,320 --> 01:27:52,550
+- Has Miss Channing come in?
+- Not yet.
+
+1288
+01:27:52,640 --> 01:27:54,631
+Thank you.
+
+1289
+01:27:55,600 --> 01:27:59,798
+Oh, Eve! I've heard the most wonderful
+things about your performance.
+
+1290
+01:27:59,880 --> 01:28:03,236
+- Relief that I managed to stagger through it.
+- She was magnificent.
+
+1291
+01:28:03,320 --> 01:28:05,470
+- Then you've heard, too.
+- I was there.
+
+1292
+01:28:05,560 --> 01:28:08,438
+- You were at the play last night?
+- A happy coincidence.
+
+1293
+01:28:08,520 --> 01:28:12,593
+- We're having lunch with a talent scout.
+- They certainly don't waste much time.
+
+1294
+01:28:12,680 --> 01:28:16,309
+- It's nothing definite. Just lunch.
+- They'll be wasting their time.
+
+1295
+01:28:16,400 --> 01:28:19,312
+Eve has no intention of going to Hollywood.
+
+1296
+01:28:19,400 --> 01:28:22,517
+By your smart dress,
+I take it your companion is a lady?
+
+1297
+01:28:22,600 --> 01:28:24,795
+- Margo.
+- Margo lunching in public?
+
+1298
+01:28:24,880 --> 01:28:27,599
+It's a new Margo,
+but she's just as late as the old one.
+
+1299
+01:28:27,680 --> 01:28:30,069
+She may be later than you think.
+
+1300
+01:28:33,400 --> 01:28:36,073
+Why not read my column to pass the time?
+
+1301
+01:28:36,160 --> 01:28:38,879
+- The minutes will fly like hours.
+- Thank you, Addison.
+
+1302
+01:28:38,960 --> 01:28:41,474
+Now we must join our sunburnt eager beaver.
+
+1303
+01:28:41,560 --> 01:28:43,551
+- Goodbye, Karen.
+- Goodbye.
+
+1304
+01:29:05,520 --> 01:29:08,159
+"And so my hat which has,
+lo, these many seasons...
+
+1305
+01:29:08,240 --> 01:29:11,869
+...become firmly rooted about my ears,
+is lifted to Miss Harrington."
+
+1306
+01:29:11,960 --> 01:29:15,794
+"I am available for dancing in the streets
+and shouting from the housetops."
+
+1307
+01:29:15,880 --> 01:29:19,509
+I thought that one went out with Woollcott!
+Now listen to this.
+
+1308
+01:29:19,600 --> 01:29:23,752
+"Miss Harrington had much to tell and
+these columns shall report her faithfully...
+
+1309
+01:29:23,840 --> 01:29:27,594
+...about the lamentable practice
+in our theatre of permitting...
+
+1310
+01:29:27,680 --> 01:29:30,478
+...mature actresses to continue playing roles...
+
+1311
+01:29:30,560 --> 01:29:34,792
+...requiring a youth and vigour
+of which they retain but a dim memory."
+
+1312
+01:29:34,880 --> 01:29:37,872
+- I just can't believe it!
+- It gets better!
+
+1313
+01:29:37,960 --> 01:29:42,317
+"About the understandable reluctance
+of our entrenched first ladies of the stage...
+
+1314
+01:29:42,400 --> 01:29:45,119
+<i>...to</i> encourage, shall we say,
+younger actresses...
+
+1315
+01:29:45,200 --> 01:29:48,590
+<i>...and</i> Miss Harrington's unsupported
+struggle for opportunity."
+
+1316
+01:29:48,680 --> 01:29:51,672
+- I can't believe Eve said those things.
+- In this rat race...
+
+1317
+01:29:51,760 --> 01:29:54,354
+...everybody's guilty till proved innocent.
+
+1318
+01:29:54,440 --> 01:29:58,911
+One of the differences between
+the theatre and civilisation!
+
+1319
+01:29:59,000 --> 01:30:03,790
+What gets me is how all the papers happened
+to catch that particular performance.
+
+1320
+01:30:03,880 --> 01:30:05,871
+Lloyd says it's a publicity release.
+
+1321
+01:30:05,960 --> 01:30:08,633
+The witch must have
+sent out Indian Runners...
+
+1322
+01:30:08,720 --> 01:30:13,714
+...snatching critics out of bars, steam rooms
+and museums or wherever they hole up.
+
+1323
+01:30:13,800 --> 01:30:17,429
+She won't get away with it.
+Nor will Addison DeWitt and his poison pen.
+
+1324
+01:30:17,520 --> 01:30:20,990
+If Equity or my lawyer can't
+or won't do anything about it...
+
+1325
+01:30:21,080 --> 01:30:26,154
+<i>...I</i> shall personally stuff that pathetic little
+lost lamb down Mr DeWitt's ugly throat!
+
+1326
+01:30:26,240 --> 01:30:27,229
+<i>(footsteps)</i>
+
+1327
+01:30:36,400 --> 01:30:40,837
+I came as soon as I read that piece of filth.
+I ran all the way.
+
+1328
+01:30:51,760 --> 01:30:54,035
+Bill's here, baby.
+
+1329
+01:30:54,120 --> 01:30:56,111
+Everything's all right now.
+
+1330
+01:31:03,920 --> 01:31:07,390
+I guess at this point
+I'm what the French call <i>"de trop".</i>
+
+1331
+01:31:07,480 --> 01:31:10,074
+Maybe just a little around the edges.
+
+1332
+01:31:22,320 --> 01:31:26,074
+It's Addison from start to finish.
+It drips with his brand of venom.
+
+1333
+01:31:26,160 --> 01:31:28,674
+Taking advantage of a kid,
+twisting her words...
+
+1334
+01:31:28,760 --> 01:31:31,433
+...making her say what he wanted her to say.
+
+1335
+01:31:31,520 --> 01:31:34,876
+- Where did you get all that information?
+- Eve.
+
+1336
+01:31:34,960 --> 01:31:37,838
+- Eve?
+- She's been to see me.
+
+1337
+01:31:37,920 --> 01:31:41,071
+She left just before you came in.
+You just missed her.
+
+1338
+01:31:41,160 --> 01:31:44,516
+- That was a pity.
+- Wanted to explain about the interview.
+
+1339
+01:31:44,600 --> 01:31:48,229
+Wanted to apologise to someone,
+and didn't dare face Margo.
+
+1340
+01:31:48,320 --> 01:31:52,074
+- I wonder why.
+- She started talking and couldn't finish.
+
+1341
+01:31:52,160 --> 01:31:54,151
+She cried so.
+
+1342
+01:31:55,640 --> 01:31:59,599
+I've been going over our financial position,
+if you'll pardon the expression.
+
+1343
+01:31:59,680 --> 01:32:03,992
+- That's quite a change of subject.
+- What with taxes coming up, and...
+
+1344
+01:32:04,080 --> 01:32:07,789
+...since I'm a playwright and not
+an oil-well operator, I was thinking...
+
+1345
+01:32:07,880 --> 01:32:10,075
+I'm trying hard to follow you.
+
+1346
+01:32:10,160 --> 01:32:13,709
+Instead of waiting until next season
+to do <i>Footsteps on the Ceiling...</i>
+
+1347
+01:32:13,800 --> 01:32:15,597
+...which is in pretty good shape...
+
+1348
+01:32:15,680 --> 01:32:19,434
+<i>...and</i> if Margo can be talked into
+going on tour with <i>Aged in Wood...</i>
+
+1349
+01:32:19,520 --> 01:32:22,512
+<i>...we</i> could put <i>Footsteps</i>
+into production right away.
+
+1350
+01:32:22,600 --> 01:32:26,229
+- I'm beginning to catch up.
+- If we can cast it properly, that is.
+
+1351
+01:32:26,320 --> 01:32:30,950
+Maybe get some younger actress? Someone
+who'd look the part as well as play it?
+
+1352
+01:32:31,040 --> 01:32:35,477
+- You've got to admit, it'd be a novelty.
+- Now you're quoting Addison... or Eve.
+
+1353
+01:32:35,560 --> 01:32:37,869
+Eve did mention the play, but in passing.
+
+1354
+01:32:37,960 --> 01:32:40,838
+She'd never have the nerve
+to ask to play a part like Cora.
+
+1355
+01:32:40,920 --> 01:32:43,912
+Eve would ask Abbott to give her Costello.
+
+1356
+01:32:44,000 --> 01:32:47,151
+I got the idea myself while
+she was talking about the play.
+
+1357
+01:32:47,240 --> 01:32:49,959
+- With gestures, of course.
+- To write something...
+
+1358
+01:32:50,040 --> 01:32:54,636
+<i>...and</i> have it realised completely.
+For once, not to compromise.
+
+1359
+01:32:55,280 --> 01:32:59,671
+Lloyd Richards, do not consider giving
+that contemptible little worm the part of Cora!
+
+1360
+01:32:59,760 --> 01:33:04,515
+- Now just a minute...
+- Margo's not been exactly a compromise.
+
+1361
+01:33:04,600 --> 01:33:08,149
+Playwrights everywhere would
+give their shirts for that compromise.
+
+1362
+01:33:08,240 --> 01:33:09,309
+Now just a minute...
+
+1363
+01:33:09,400 --> 01:33:12,710
+Eve's disloyalty and ingratitude
+must be contagious!
+
+1364
+01:33:12,800 --> 01:33:16,270
+All this hysteria because
+of an impulsive excited kid...
+
+1365
+01:33:16,360 --> 01:33:19,158
+<i>...and</i> a professional
+manure-slinger named DeWitt!
+
+1366
+01:33:19,240 --> 01:33:22,949
+- She apologised, didn't she?
+- On her knees, I've no doubt!
+
+1367
+01:33:23,040 --> 01:33:26,032
+Very touching.
+Very Academy of Dramatic Arts(!)
+
+1368
+01:33:26,120 --> 01:33:29,999
+That bitter cynicism is something
+you've acquired since you left Radcliffe!
+
+1369
+01:33:30,080 --> 01:33:34,198
+That cynicism I acquired the day I
+discovered I was different from little boys.
+
+1370
+01:33:34,280 --> 01:33:36,430
+<i>(phone rings)</i>
+
+1371
+01:33:36,520 --> 01:33:38,158
+Hello!
+
+1372
+01:33:38,240 --> 01:33:40,231
+Oh, hi, Margo.
+
+1373
+01:33:40,920 --> 01:33:43,115
+No. No, no, not at all.
+
+1374
+01:33:44,520 --> 01:33:47,193
+Karen and I were just chatting.
+
+1375
+01:33:47,280 --> 01:33:49,271
+Hm?
+
+1376
+01:33:50,200 --> 01:33:53,431
+Why, yes, I'm sure we can
+and I'm sure we'd love to.
+
+1377
+01:33:53,960 --> 01:33:56,520
+Right. 11.45ish.
+
+1378
+01:33:58,360 --> 01:34:00,351
+See you then.
+
+1379
+01:34:01,520 --> 01:34:06,594
+Margo and Bill want us to meet them
+at the Cub Room tonight after the theatre.
+
+1380
+01:34:06,680 --> 01:34:09,194
+Margo Channing in the Cub Room.
+
+1381
+01:34:09,280 --> 01:34:12,590
+I couldn't be more surprised
+if she'd said Grant's tomb.
+
+1382
+01:34:12,680 --> 01:34:16,673
+- I'm glad Bill's back.
+- They'd die without each other.
+
+1383
+01:34:17,680 --> 01:34:21,036
+I didn't promise Eve anything.
+I said she'd be fine for the part...
+
+1384
+01:34:21,120 --> 01:34:23,315
+<i>...but</i> there were practical difficulties.
+
+1385
+01:34:23,400 --> 01:34:25,391
+- Such as?
+- You, for one.
+
+1386
+01:34:25,480 --> 01:34:29,473
+I told her you wanted Margo to play
+the part and I would want your approval.
+
+1387
+01:34:29,560 --> 01:34:31,630
+That's fine. Fine and dandy.
+
+1388
+01:34:31,720 --> 01:34:35,713
+Just refer all of Miss Eve Harrington's
+future requests to me.
+
+1389
+01:34:39,600 --> 01:34:43,957
+The so-called art of acting is not one
+for which I have a particularly high regard.
+
+1390
+01:34:44,040 --> 01:34:46,793
+- Hear, hear.
+- But you may quote me as follows:
+
+1391
+01:34:46,880 --> 01:34:51,829
+"Tonight Miss Margo Channing gave
+a performance in your cockamamie play...
+
+1392
+01:34:51,920 --> 01:34:57,790
+<i>...the</i> like of which I have never seen before
+and expect rarely to see again."
+
+1393
+01:34:57,880 --> 01:35:01,316
+- He does not exaggerate. I was good.
+- You were great.
+
+1394
+01:35:01,400 --> 01:35:06,474
+Quite a night. I hear your understudy,
+a Miss Harrington, has given her notice.
+
+1395
+01:35:06,560 --> 01:35:08,596
+- Too bad.
+- I'm broken up about it.
+
+1396
+01:35:08,680 --> 01:35:11,433
+You just can't pick up
+champagne and drink it.
+
+1397
+01:35:11,520 --> 01:35:13,909
+Somebody's got to be
+very witty about a toast.
+
+1398
+01:35:14,000 --> 01:35:15,991
+I shall propose the toast...
+
+1399
+01:35:16,080 --> 01:35:19,072
+...without wit, with all my heart.
+
+1400
+01:35:20,040 --> 01:35:21,712
+To Margo.
+
+1401
+01:35:21,800 --> 01:35:24,792
+- To my bride-to-be.
+- Glory hallelujah.
+
+1402
+01:35:25,000 --> 01:35:26,991
+- Margo!
+- Drink!
+
+1403
+01:35:29,880 --> 01:35:33,759
+- When? When are you going to do it?
+- Tomorrow we meet at City Hall at ten.
+
+1404
+01:35:33,840 --> 01:35:36,434
+- And you're going to be on time.
+- Yes, sir.
+
+1405
+01:35:36,520 --> 01:35:41,674
+City Hall, that's for prizefighters and
+reporters. I see a cathedral, banks of flowers...
+
+1406
+01:35:41,760 --> 01:35:45,469
+It's only for the licence.
+There's a three-day wait for blood tests.
+
+1407
+01:35:45,560 --> 01:35:48,632
+I'll marry you if it turns out
+you have no blood at all.
+
+1408
+01:35:48,920 --> 01:35:51,718
+- What are you going to wear?
+- Something simple...
+
+1409
+01:35:51,800 --> 01:35:53,756
+<i>...a</i> fur coat over a nightgown.
+
+1410
+01:35:53,840 --> 01:35:58,630
+The point is this. In a cathedral,
+a ballpark or a penny arcade...
+
+1411
+01:35:58,720 --> 01:36:02,474
+<i>...we</i> want you two beside us,
+as our nearest and dearest friends.
+
+1412
+01:36:02,560 --> 01:36:05,757
+Which we are. Which we'll always be.
+
+1413
+01:36:05,840 --> 01:36:10,391
+There are very few moments in life
+as good as this. Let's remember it.
+
+1414
+01:36:10,480 --> 01:36:14,189
+To each of us and all of us -
+never have we been more close.
+
+1415
+01:36:14,280 --> 01:36:16,669
+May we never be farther apart.
+
+1416
+01:36:19,000 --> 01:36:20,831
+- Mrs Richards?
+- Yes.
+
+1417
+01:36:20,920 --> 01:36:22,911
+- For you.
+- Thank you.
+
+1418
+01:36:24,080 --> 01:36:26,992
+Very indiscreet. A note in the open like that.
+
+1419
+01:36:27,080 --> 01:36:30,197
+Next time, tell your lover
+to blow smoke rings or tap a glass.
+
+1420
+01:36:30,280 --> 01:36:32,510
+Lloyd, I want you to be big about this.
+
+1421
+01:36:32,600 --> 01:36:36,070
+The world is full of love tonight.
+No woman is safe.
+
+1422
+01:36:36,160 --> 01:36:41,553
+Well, this beats all world's records
+for running, jumping or standing gall.
+
+1423
+01:36:43,160 --> 01:36:46,277
+"Forgive my butting in to what
+seems such a happy occasion...
+
+1424
+01:36:46,360 --> 01:36:48,555
+<i>...but</i> it's important that I speak with you."
+
+1425
+01:36:48,640 --> 01:36:50,995
+"Please", and that's underlined...
+
+1426
+01:36:51,080 --> 01:36:53,992
+..."meet me in the ladies' room. Eve."
+
+1427
+01:36:54,760 --> 01:36:57,991
+I understand she's now
+the understudy in there.
+
+1428
+01:36:58,080 --> 01:37:00,674
+Hand me that empty bottle. I may find her.
+
+1429
+01:37:02,840 --> 01:37:05,559
+Well, look! There's Rasputin!
+
+1430
+01:37:10,960 --> 01:37:13,918
+<i>- Encore du champagne.</i>
+- More champagne, Miss Channing?
+
+1431
+01:37:14,000 --> 01:37:16,116
+That's what I said, bub.
+
+1432
+01:37:16,200 --> 01:37:21,069
+- Maybe she just wants to apologise.
+- I have no interest in anything she may say.
+
+1433
+01:37:21,160 --> 01:37:24,470
+But what <i>could</i> she say?
+That's what fascinates me.
+
+1434
+01:37:24,560 --> 01:37:28,712
+- Go on, find out.
+- Karen, in all the years of our friendship...
+
+1435
+01:37:28,800 --> 01:37:32,236
+<i>...I</i> have never let you go
+to the ladies' room alone.
+
+1436
+01:37:32,320 --> 01:37:35,039
+Now I must. I am busting to find out...
+
+1437
+01:37:35,120 --> 01:37:39,432
+...what's going on in that feverish
+little brain waiting in there.
+
+1438
+01:37:41,000 --> 01:37:43,992
+Well... all right.
+
+1439
+01:37:48,880 --> 01:37:50,791
+Karen!
+
+1440
+01:37:50,880 --> 01:37:52,871
+How nice.
+
+1441
+01:38:03,880 --> 01:38:06,678
+Very effective, but why take it out on me?
+
+1442
+01:38:30,720 --> 01:38:32,836
+I was wondering whether you'd come at all.
+
+1443
+01:38:32,920 --> 01:38:35,753
+Don't get up. And don't act
+as if I were the Queen Mother.
+
+1444
+01:38:35,840 --> 01:38:37,831
+I don't expect you to be pleasant.
+
+1445
+01:38:37,920 --> 01:38:39,990
+I don't intend to be.
+
+1446
+01:38:40,080 --> 01:38:43,914
+Can't we sit down just for a minute?
+I've got a lot to say and none of it's easy.
+
+1447
+01:38:44,000 --> 01:38:46,355
+- There can't be very much.
+- But there is.
+
+1448
+01:38:46,440 --> 01:38:50,194
+- Easy or not, I won't believe a word of it.
+- Why should you?
+
+1449
+01:38:51,080 --> 01:38:53,071
+Please sit down.
+
+1450
+01:38:58,440 --> 01:39:02,035
+You know, I've always considered
+myself a very clever girl.
+
+1451
+01:39:02,120 --> 01:39:05,237
+Smart, good head on my shoulders,
+that sort of thing.
+
+1452
+01:39:05,320 --> 01:39:08,676
+Never the wrong word at the wrong time.
+
+1453
+01:39:08,760 --> 01:39:11,149
+But then I'd never met Addison DeWitt.
+
+1454
+01:39:13,400 --> 01:39:15,470
+I remember I had a tooth pulled once.
+
+1455
+01:39:15,560 --> 01:39:18,677
+They gave me some anaesthetic.
+I don't remember the name.
+
+1456
+01:39:18,760 --> 01:39:20,557
+It affected me strangely.
+
+1457
+01:39:20,640 --> 01:39:24,189
+I found myself saying things
+I wasn't even thinking.
+
+1458
+01:39:24,280 --> 01:39:28,193
+As if my mind was outside of my body
+and couldn't control what I did or said.
+
+1459
+01:39:28,280 --> 01:39:31,556
+- And you felt like that talking to Addison?
+- In a way.
+
+1460
+01:39:31,640 --> 01:39:36,031
+You find yourself trying to say what
+you mean, but somehow the words change.
+
+1461
+01:39:36,120 --> 01:39:38,111
+They become his words.
+
+1462
+01:39:38,200 --> 01:39:42,318
+And suddenly you're not saying
+what <i>you</i> mean, but what <i>he</i> means.
+
+1463
+01:39:42,400 --> 01:39:46,632
+Do you expect me to believe that you didn't
+say any of that? That they were all Addison?
+
+1464
+01:39:46,720 --> 01:39:48,995
+I don't expect you to believe anything...
+
+1465
+01:39:49,080 --> 01:39:52,993
+...except that the responsibility
+is mine... and the disgrace.
+
+1466
+01:39:54,360 --> 01:39:56,749
+Let's not get overdramatic.
+
+1467
+01:39:58,320 --> 01:40:01,312
+You really have a low opinion
+of me, haven't you?
+
+1468
+01:40:02,120 --> 01:40:04,395
+I'll give you some pleasant news.
+
+1469
+01:40:04,480 --> 01:40:08,632
+I've been told off
+in no uncertain terms, all over town.
+
+1470
+01:40:08,720 --> 01:40:11,109
+Miss Channing should be happy to hear that.
+
+1471
+01:40:11,200 --> 01:40:13,998
+To know how loyal her friends are...
+
+1472
+01:40:14,080 --> 01:40:18,119
+<i>...how</i> much more loyal than
+she had a right to expect me to be.
+
+1473
+01:40:18,200 --> 01:40:20,998
+- Eve, don't cry.
+- I'm not crying.
+
+1474
+01:40:22,760 --> 01:40:26,719
+Tell me, how did your luncheon
+turn out with the man from Hollywood?
+
+1475
+01:40:26,800 --> 01:40:31,794
+Some vague promises of a test. If a particular
+part should come along, one of those things.
+
+1476
+01:40:31,880 --> 01:40:36,078
+- But the raves about your performance...
+- An understudy's performance.
+
+1477
+01:40:36,160 --> 01:40:40,790
+Well, I think you're painting
+the picture a little blacker than it is, really.
+
+1478
+01:40:40,880 --> 01:40:44,953
+Don't underestimate him.
+You have a powerful friend in Addison.
+
+1479
+01:40:45,280 --> 01:40:47,714
+He's not my friend. You were my friends.
+
+1480
+01:40:47,800 --> 01:40:50,598
+- He can help you.
+- I wish I'd never met him.
+
+1481
+01:40:50,680 --> 01:40:52,671
+I'd like him to be dead.
+
+1482
+01:40:52,760 --> 01:40:54,751
+I want my friends back!
+
+1483
+01:40:55,640 --> 01:41:00,191
+Eve... I don't think
+you meant to cause unhappiness.
+
+1484
+01:41:00,280 --> 01:41:04,398
+But you did. More to yourself perhaps,
+as it turned out, than to anyone else.
+
+1485
+01:41:04,480 --> 01:41:07,472
+- I'll never get over it.
+- Oh, yes, you will.
+
+1486
+01:41:07,560 --> 01:41:11,997
+You theatre people always do.
+Nothing is for ever in the theatre.
+
+1487
+01:41:12,080 --> 01:41:16,198
+Whatever it is, it's here,
+it flares up, burns hot...
+
+1488
+01:41:16,280 --> 01:41:18,271
+<i>...and</i> it's gone.
+
+1489
+01:41:18,800 --> 01:41:22,429
+- I wish I could believe that.
+- Give yourself time.
+
+1490
+01:41:22,520 --> 01:41:24,988
+Don't worry too much
+about what people think.
+
+1491
+01:41:25,080 --> 01:41:27,674
+You're very young and very talented.
+
+1492
+01:41:28,800 --> 01:41:32,998
+And, believe it or not,
+if there's anything I can do...
+
+1493
+01:41:33,080 --> 01:41:35,435
+There <i>is</i> something.
+
+1494
+01:41:37,720 --> 01:41:42,111
+- I think I know.
+- Something most important you can do.
+
+1495
+01:41:42,480 --> 01:41:46,553
+You wanna play Cora. You want me
+to tell Lloyd I think you should play it.
+
+1496
+01:41:46,800 --> 01:41:49,712
+If you told him so, he'd give me
+the part. He said he would.
+
+1497
+01:41:49,800 --> 01:41:54,430
+After all you've said. Don't you know
+that part was written for Margo?
+
+1498
+01:41:54,520 --> 01:41:57,193
+It might've been 15 years ago.
+It's my part now.
+
+1499
+01:41:57,280 --> 01:42:02,479
+- You talk just as Addison said you did.
+- Cora is my part. You've got to tell Lloyd.
+
+1500
+01:42:02,760 --> 01:42:06,799
+- Nothing in the world will make me say that.
+- Addison wants me to play it.
+
+1501
+01:42:06,880 --> 01:42:09,872
+- Over my dead body.
+- That won't be necessary.
+
+1502
+01:42:10,240 --> 01:42:13,755
+Addison knows how Margo
+happened to miss that performance...
+
+1503
+01:42:13,840 --> 01:42:18,868
+<i>...how</i> I happened to know she'd miss it
+in time to notify every paper in town.
+
+1504
+01:42:18,960 --> 01:42:22,236
+It's quite a story.
+Addison could make quite a thing of it.
+
+1505
+01:42:22,320 --> 01:42:26,438
+Imagine how snide and vicious he could get,
+and still tell nothing but the truth.
+
+1506
+01:42:26,640 --> 01:42:29,200
+I had a time persuading him.
+
+1507
+01:42:30,400 --> 01:42:33,392
+You better sit down. You look a bit wobbly.
+
+1508
+01:42:37,680 --> 01:42:42,151
+If I play Cora, Addison will never
+tell what happened, in or out of print.
+
+1509
+01:42:42,240 --> 01:42:45,198
+A simple exchange of favours.
+
+1510
+01:42:45,280 --> 01:42:48,590
+I'm so happy I can do something
+for you at long last.
+
+1511
+01:42:50,680 --> 01:42:52,796
+Your friendship with Margo...
+
+1512
+01:42:52,880 --> 01:42:55,348
+<i>...your</i> deep, close friendship.
+
+1513
+01:42:55,760 --> 01:43:01,073
+What would happen to it if she knew the
+cheap trick you played on her for my benefit?
+
+1514
+01:43:01,160 --> 01:43:04,789
+You and Lloyd, how long,
+even in the theatre...
+
+1515
+01:43:05,920 --> 01:43:09,913
+...before people forgot what happened
+and trusted you again?
+
+1516
+01:43:11,840 --> 01:43:13,478
+No.
+
+1517
+01:43:14,640 --> 01:43:18,792
+It would be so much easier for everyone
+concerned if I were to play Cora.
+
+1518
+01:43:18,880 --> 01:43:21,269
+So much better theatre, too.
+
+1519
+01:43:22,080 --> 01:43:24,071
+A part in a play.
+
+1520
+01:43:25,240 --> 01:43:28,437
+You'd do all that just for a part in a play?
+
+1521
+01:43:28,520 --> 01:43:31,318
+I'd do much more for a part that good.
+
+1522
+01:43:53,680 --> 01:43:55,671
+Hungry?
+
+1523
+01:43:57,400 --> 01:44:00,949
+I'm not surprised, after all that humble pie.
+
+1524
+01:44:01,040 --> 01:44:04,669
+Nothing of the kind.
+Karen and I had a nice talk.
+
+1525
+01:44:04,760 --> 01:44:06,751
+Heart to heart? Woman to woman?
+
+1526
+01:44:06,840 --> 01:44:11,356
+Including a casual reference to the part
+of Cora and your hopes of playing it?
+
+1527
+01:44:11,440 --> 01:44:16,036
+I discussed it very openly. I told her I'd
+spoken to Lloyd, and that he was interested.
+
+1528
+01:44:16,120 --> 01:44:20,238
+And Karen mentioned, of course,
+that Margo expects to play the part?
+
+1529
+01:44:20,320 --> 01:44:23,995
+Oddly enough, she didn't
+say a word about Margo.
+
+1530
+01:44:24,080 --> 01:44:28,437
+Just that she'll be happy to do
+what she can to see that I</i> play it.
+
+1531
+01:44:29,680 --> 01:44:32,069
+Just like that, eh?
+
+1532
+01:44:32,160 --> 01:44:34,594
+Just like that.
+
+1533
+01:44:34,680 --> 01:44:38,389
+You know, Eve, sometimes
+I think you keep things from me.
+
+1534
+01:44:39,680 --> 01:44:42,831
+- I don't think that's funny.
+- It wasn't meant to be.
+
+1535
+01:44:42,920 --> 01:44:46,549
+I confide in you and rely on you
+more than anyone I've ever known.
+
+1536
+01:44:46,640 --> 01:44:49,393
+To say a thing like that now,
+without any reason...
+
+1537
+01:44:49,480 --> 01:44:51,755
+<i>...when</i> I need you more than ever.
+
+1538
+01:44:51,840 --> 01:44:54,274
+I hope you mean what you say.
+
+1539
+01:44:54,360 --> 01:44:56,749
+I intend to hold you to it.
+
+1540
+01:44:58,040 --> 01:45:00,998
+We have a great deal
+in common, it seems to me.
+
+1541
+01:45:10,360 --> 01:45:13,989
+- Well, what happened?
+- Nothing much. She apologised.
+
+1542
+01:45:14,080 --> 01:45:15,957
+- With tears?
+- With tears.
+
+1543
+01:45:16,040 --> 01:45:19,794
+But not right away. First fight them back,
+chin up, stout fellow.
+
+1544
+01:45:19,880 --> 01:45:22,269
+- Check.
+- Very classy. Lots of technique.
+
+1545
+01:45:22,360 --> 01:45:26,990
+You mean all this time she's done
+nothing but apologise? What did you say?
+
+1546
+01:45:27,680 --> 01:45:29,671
+Not much.
+
+1547
+01:45:32,080 --> 01:45:34,878
+Groom, may I have a wedding present?
+
+1548
+01:45:34,960 --> 01:45:39,158
+- What would you like? Texas?
+- I want everybody to shut up about Eve.
+
+1549
+01:45:39,240 --> 01:45:41,993
+Just shut up about Eve. That's all I want.
+
+1550
+01:45:42,080 --> 01:45:44,116
+Give Karen more wine.
+
+1551
+01:45:44,200 --> 01:45:46,236
+Never have I been so happy.
+
+1552
+01:45:46,320 --> 01:45:49,357
+Isn't it a lovely room? The Cub Room.
+
+1553
+01:45:49,440 --> 01:45:53,592
+What a lovely, clever name.
+Where the elite meet.
+
+1554
+01:45:53,680 --> 01:45:57,832
+Never have I seen so much elite,
+all with their eyes on me...
+
+1555
+01:45:57,920 --> 01:46:02,198
+...waiting for me to crack that little
+gnome on the noggin with a bottle.
+
+1556
+01:46:02,280 --> 01:46:06,512
+But not tonight. I'm forgiving tonight.
+Even Eve. I forgive Eve.
+
+1557
+01:46:07,480 --> 01:46:09,710
+There they go.
+
+1558
+01:46:10,840 --> 01:46:12,478
+There goes Eve.
+
+1559
+01:46:12,560 --> 01:46:15,518
+Eve Evil, little Miss Evil.
+
+1560
+01:46:16,760 --> 01:46:19,593
+But "the evil that men do..."
+How does that go, groom?
+
+1561
+01:46:19,680 --> 01:46:24,356
+Something about the good they leave behind.
+I played it once in rep in Wilkes-Barre.
+
+1562
+01:46:24,440 --> 01:46:27,079
+You've got it backwards,
+even for Wilkes-Barre.
+
+1563
+01:46:27,160 --> 01:46:30,675
+Do you know why I forgive Eve?
+She left good behind.
+
+1564
+01:46:30,960 --> 01:46:35,158
+The four of us here together -
+it's Eve fault. I forgive her.
+
+1565
+01:46:35,760 --> 01:46:39,912
+And Bill, especially Bill. She did that too.
+
+1566
+01:46:40,280 --> 01:46:42,555
+You know, she probably means well after all.
+
+1567
+01:46:42,640 --> 01:46:45,916
+- She is a louse.
+- Never try to outguess Margo.
+
+1568
+01:46:46,560 --> 01:46:48,710
+- Groom?
+- Yes, dear.
+
+1569
+01:46:48,800 --> 01:46:50,995
+- Do you know what I'm going to be?
+- A cowboy?
+
+1570
+01:46:51,080 --> 01:46:54,038
+- A married lady.
+- With a paper to prove it.
+
+1571
+01:46:54,120 --> 01:46:57,795
+I'm going to look up at six o'clock,
+and there he'll be.
+
+1572
+01:46:58,480 --> 01:47:01,119
+- Remember, Karen?
+- I remember.
+
+1573
+01:47:02,000 --> 01:47:05,788
+- You'll be there, won't you?
+- Often enough to keep the franchise.
+
+1574
+01:47:05,880 --> 01:47:08,440
+No more make-believe, offstage or on.
+
+1575
+01:47:08,720 --> 01:47:11,154
+Remember, Lloyd? I mean it now.
+
+1576
+01:47:11,240 --> 01:47:14,277
+Lloyd, will you promise
+not to be angry with me?
+
+1577
+01:47:14,920 --> 01:47:17,593
+- That depends.
+- No, I mean deeply angry.
+
+1578
+01:47:17,840 --> 01:47:19,990
+I don't think I could be.
+
+1579
+01:47:20,080 --> 01:47:22,958
+Well, I don't want to play Cora.
+
+1580
+01:47:23,280 --> 01:47:26,397
+- What?
+- You're always so touchy about his plays.
+
+1581
+01:47:26,480 --> 01:47:30,678
+It isn't the part. It's a great part
+and a fine play. But not for me any more.
+
+1582
+01:47:30,760 --> 01:47:34,912
+Not for a foursquare, upright,
+downright, forthright, married lady.
+
+1583
+01:47:35,160 --> 01:47:40,712
+- What's your being married got to do with it?
+- It means I've finally got a life to live.
+
+1584
+01:47:40,800 --> 01:47:43,598
+I don't have to play parts I'm too old for...
+
+1585
+01:47:43,680 --> 01:47:46,956
+<i>...just</i> because I've got
+nothing to do with my nights.
+
+1586
+01:47:47,800 --> 01:47:50,314
+Oh, Lloyd, I'll make it up to you, believe me.
+
+1587
+01:47:50,400 --> 01:47:55,110
+I'll tour a year with this one, anything.
+Only you do understand, don't you?
+
+1588
+01:48:01,760 --> 01:48:04,115
+- What's so funny?
+- Nothing.
+
+1589
+01:48:04,520 --> 01:48:07,910
+- Nothing?
+- Everything. Everything's so funny.
+
+1590
+01:48:19,440 --> 01:48:21,954
+<i>(Karen) Lloyd never got around to asking...</i>
+
+1591
+01:48:22,040 --> 01:48:25,953
+<i>... whether it was all right with me</i>
+<i>for Eve to play Cora.</i>
+
+1592
+01:48:26,040 --> 01:48:30,909
+<i>Bill, oddly enough, refused to direct</i>
+<i>the play at first... with Eve in it.</i>
+
+1593
+01:48:31,000 --> 01:48:33,673
+<i>Lloyd and Max finally won him over.</i>
+
+1594
+01:48:33,760 --> 01:48:39,596
+<i>Margo never came to rehearsal.</i>
+<i>Too much to do around the house, she said.</i>
+
+1595
+01:48:39,680 --> 01:48:43,468
+<i>I'd never known Bill and Lloyd</i>
+<i>to fight as bitterly and often...</i>
+
+1596
+01:48:43,560 --> 01:48:46,120
+<i>... and always over some business for Eve...</i>
+
+1597
+01:48:46,200 --> 01:48:49,476
+<i>... or a move, or the way she read a speech.</i>
+
+1598
+01:48:49,720 --> 01:48:53,315
+<i>But I'd never known Lloyd</i>
+<i>to meddle as much with Bill's directing...</i>
+
+1599
+01:48:53,400 --> 01:48:56,551
+<i>... as far as it affected Eve, that is.</i>
+
+1600
+01:48:56,640 --> 01:48:59,154
+<i>Somehow Eve kept them going.</i>
+
+1601
+01:48:59,240 --> 01:49:02,630
+<i>Bill stuck it out. Lloyd seemed happy.</i>
+
+1602
+01:49:06,360 --> 01:49:10,512
+<i>And I thought it might be best</i>
+<i>if I skipped rehearsals from then on.</i>
+
+1603
+01:49:12,160 --> 01:49:16,278
+<i>It seemed to me I had known always</i>
+<i>that it would happen. And here it was.</i>
+
+1604
+01:49:16,360 --> 01:49:21,070
+<i>I felt helpless. That helplessness you</i>
+<i>feel when you have no talent to offer...</i>
+
+1605
+01:49:21,160 --> 01:49:23,310
+<i>... outside of loving your husband.</i>
+
+1606
+01:49:23,400 --> 01:49:27,234
+<i>How could I compete?</i>
+<i>Everything Lloyd loved about me...</i>
+
+1607
+01:49:27,320 --> 01:49:29,311
+<i>... he'd gotten used to long ago.</i>
+
+1608
+01:49:29,400 --> 01:49:31,391
+<i>(phone rings)</i>
+
+1609
+01:49:34,680 --> 01:49:36,159
+Hello?
+
+1610
+01:49:36,240 --> 01:49:38,435
+Who? Who's calling Mr Richards?
+
+1611
+01:49:38,520 --> 01:49:42,479
+My name wouldn't mean anything.
+I room across the hall from Eve Harrington.
+
+1612
+01:49:42,560 --> 01:49:45,950
+She isn't well. She's been crying
+all night and she's hysterical.
+
+1613
+01:49:46,040 --> 01:49:48,110
+She doesn't want a doctor and...
+
+1614
+01:49:48,560 --> 01:49:50,551
+Who is it? What's it all about?
+
+1615
+01:49:50,640 --> 01:49:54,952
+- Did Miss Harrington tell you to call?
+<i>- Oh, no. Eve didn't say to call him.</i>
+
+1616
+01:49:55,040 --> 01:50:00,239
+I saw Mr Richards with her a couple of times.
+I thought, they being such good friends...
+
+1617
+01:50:00,320 --> 01:50:03,357
+This is Lloyd Richards.
+Where is Eve? Let me talk to her.
+
+1618
+01:50:03,440 --> 01:50:06,591
+Hello, Mr Richards.
+She's upstairs in her room.
+
+1619
+01:50:06,680 --> 01:50:10,309
+I really hate to bother you this way,
+but the way Eve's been feeling...
+
+1620
+01:50:10,400 --> 01:50:14,029
+<i>...I’ve</i> been worried sick, what with
+her leaving tomorrow for New Haven.
+
+1621
+01:50:14,120 --> 01:50:17,078
+Tell her not to worry. Tell her I'll be right over.
+
+1622
+01:50:34,880 --> 01:50:38,111
+<i>(Addison) To the theatre world,</i>
+<i>New Haven, Connecticut...</i>
+
+1623
+01:50:38,200 --> 01:50:42,830
+<i>... is a short stretch of sidewalk between</i>
+<i>the Shubert Theatre and the Taft Hotel...</i>
+
+1624
+01:50:42,920 --> 01:50:46,310
+<i>... surrounded by what looks</i>
+<i>very much like a small city.</i>
+
+1625
+01:50:46,400 --> 01:50:51,190
+<i>It is here that managers have</i>
+<i>what are called out-of-town openings...</i>
+
+1626
+01:50:51,280 --> 01:50:55,353
+<i>... which are openings for New Yorkers</i>
+<i>who want to go out of town.</i>
+
+1627
+01:50:56,080 --> 01:50:59,277
+What a day! What a heavenly day!
+
+1628
+01:50:59,360 --> 01:51:02,318
+- D-day.
+- Just like it.
+
+1629
+01:51:02,400 --> 01:51:06,552
+Tomorrow morning, you will have won
+your beachhead on the shores of immortality.
+
+1630
+01:51:06,640 --> 01:51:08,631
+Stop rehearsing your column.
+
+1631
+01:51:09,560 --> 01:51:11,471
+Isn't it strange, Addison?
+
+1632
+01:51:11,560 --> 01:51:15,712
+I thought I'd be panic-stricken,
+want to run away or something.
+
+1633
+01:51:15,800 --> 01:51:19,839
+Instead, I can't wait for tonight
+to come. To come and go.
+
+1634
+01:51:19,920 --> 01:51:22,036
+Are you that sure of tomorrow?
+
+1635
+01:51:22,120 --> 01:51:24,680
+- Aren't you?
+- Frankly, yes.
+
+1636
+01:51:31,000 --> 01:51:32,991
+It'll be a night to remember.
+
+1637
+01:51:33,080 --> 01:51:35,719
+It'll bring me everything I've ever wanted.
+
+1638
+01:51:35,800 --> 01:51:38,360
+The end of an old road,
+the beginning of a new one.
+
+1639
+01:51:38,440 --> 01:51:42,513
+- All paved with diamonds and gold?
+- You know me better than that.
+
+1640
+01:51:42,600 --> 01:51:44,591
+Paved with what, then?
+
+1641
+01:51:45,480 --> 01:51:47,471
+Stars.
+
+1642
+01:51:48,520 --> 01:51:50,431
+What time?
+
+1643
+01:51:50,520 --> 01:51:52,511
+Almost four.
+
+1644
+01:51:53,080 --> 01:51:55,310
+Plenty of time for a nice, long nap.
+
+1645
+01:51:55,400 --> 01:51:57,834
+We rehearsed most of last night.
+
+1646
+01:51:57,920 --> 01:52:00,036
+You could sleep now, couldn't you?
+
+1647
+01:52:00,120 --> 01:52:03,078
+- Why not?
+- The mark of a true killer.
+
+1648
+01:52:04,000 --> 01:52:07,072
+Sleep tight, rest easy and come out fighting.
+
+1649
+01:52:07,160 --> 01:52:09,799
+Why did you call me a killer?
+
+1650
+01:52:09,880 --> 01:52:13,953
+Did I say killer? I meant champion.
+I get my boxing terms mixed.
+
+1651
+01:52:15,200 --> 01:52:18,431
+Addison, come in for a minute, will you?
+
+1652
+01:52:18,520 --> 01:52:20,909
+I've got something to tell you.
+
+1653
+01:52:30,400 --> 01:52:33,551
+Suites are for expense accounts.
+You're being extravagant.
+
+1654
+01:52:33,640 --> 01:52:38,316
+Max is paying for it. He and Lloyd
+had a terrific row, but Lloyd insisted.
+
+1655
+01:52:39,200 --> 01:52:43,796
+- Can I fix you a drink?
+- With the reluctant compliments of Max?
+
+1656
+01:52:43,880 --> 01:52:46,269
+Lloyd. I never have any.
+
+1657
+01:52:46,360 --> 01:52:49,511
+He likes a few drinks after we finish,
+so he sent it up.
+
+1658
+01:52:49,600 --> 01:52:53,513
+Some plain soda. Lloyd must be
+expecting a record run in New Haven.
+
+1659
+01:52:53,600 --> 01:52:56,956
+That's for tonight. You're invited.
+
+1660
+01:52:57,040 --> 01:53:00,112
+We're having everyone up
+after the performance.
+
+1661
+01:53:00,200 --> 01:53:02,156
+"We are"?
+
+1662
+01:53:02,240 --> 01:53:04,231
+Lloyd and I.
+
+1663
+01:53:05,400 --> 01:53:08,198
+I find it odd that Karen
+isn't here for the opening.
+
+1664
+01:53:08,280 --> 01:53:10,748
+- Addison...
+- She was always so devoted to Lloyd.
+
+1665
+01:53:10,840 --> 01:53:14,469
+- One would think only death could keep her...
+- Addison...
+
+1666
+01:53:14,560 --> 01:53:20,829
+I said this would be a night to remember,
+that it would bring me all I ever wanted.
+
+1667
+01:53:20,920 --> 01:53:25,357
+Oh, yes. Something about an old road ending
+and a new one starting, all paved with stars.
+
+1668
+01:53:25,440 --> 01:53:27,874
+I didn't mean just the theatre.
+
+1669
+01:53:27,960 --> 01:53:29,951
+What else?
+
+1670
+01:53:32,600 --> 01:53:35,034
+Lloyd Richards.
+
+1671
+01:53:35,400 --> 01:53:38,870
+He's going to leave Karen.
+We're going to be married.
+
+1672
+01:53:40,160 --> 01:53:42,993
+So that's it. Lloyd.
+
+1673
+01:53:43,080 --> 01:53:45,753
+Still just the theatre, after all.
+
+1674
+01:53:45,840 --> 01:53:47,717
+It's nothing of the kind!
+
+1675
+01:53:47,800 --> 01:53:49,916
+Lloyd loves me. I love him.
+
+1676
+01:53:50,160 --> 01:53:54,312
+I know nothing of Lloyd's loves. I leave
+those to Louisa May Alcott. But I know you.
+
+1677
+01:53:54,400 --> 01:53:59,110
+- I'm in love with Lloyd.
+- He is a commercially successful playwright.
+
+1678
+01:53:59,400 --> 01:54:02,870
+- You have no right to say that.
+- And, artistically, very promising.
+
+1679
+01:54:02,960 --> 01:54:05,110
+Eve, dear, this is Addison.
+
+1680
+01:54:07,320 --> 01:54:09,470
+Oh, Addison, won't it be just perfect?
+
+1681
+01:54:09,560 --> 01:54:12,916
+Lloyd and I.
+There's no telling how far we can go.
+
+1682
+01:54:13,000 --> 01:54:16,436
+He'll write great plays for me.
+I'll make them great.
+
+1683
+01:54:16,520 --> 01:54:19,353
+You're the only one who knows,
+except Lloyd and me.
+
+1684
+01:54:19,440 --> 01:54:21,431
+- And Karen.
+- She doesn't know.
+
+1685
+01:54:21,520 --> 01:54:24,398
+- She knows enough not to be here.
+- But not all of it.
+
+1686
+01:54:24,480 --> 01:54:27,472
+- Not that Lloyd and I are gonna be married.
+- I see.
+
+1687
+01:54:27,920 --> 01:54:31,071
+And when was this unholy alliance joined?
+
+1688
+01:54:31,160 --> 01:54:34,550
+We decided night before last,
+before we came up here.
+
+1689
+01:54:34,640 --> 01:54:37,712
+I trust the setting was properly romantic.
+
+1690
+01:54:37,800 --> 01:54:41,349
+Lights on dimmers
+and gypsy violins offstage.
+
+1691
+01:54:41,440 --> 01:54:43,749
+The setting wasn't romantic...
+
+1692
+01:54:43,840 --> 01:54:45,796
+<i>...but</i> Lloyd was.
+
+1693
+01:54:45,880 --> 01:54:49,077
+He woke me up at three o'clock
+in the morning, banging on my door.
+
+1694
+01:54:49,160 --> 01:54:52,550
+He couldn't sleep, he said. He'd left Karen.
+
+1695
+01:54:52,640 --> 01:54:56,997
+Couldn't go on with the play or anything
+else until I promised to marry him.
+
+1696
+01:54:57,080 --> 01:54:59,878
+We sat and talked until it was light.
+
+1697
+01:54:59,960 --> 01:55:02,190
+He never went home.
+
+1698
+01:55:02,280 --> 01:55:06,512
+- You sat and <i>talked</i> until it was light?
+- We sat and talked, Addison.
+
+1699
+01:55:07,560 --> 01:55:09,994
+I want a run-of-the-play contract.
+
+1700
+01:55:11,480 --> 01:55:15,473
+There never was, and there
+never will be, another like you.
+
+1701
+01:55:16,680 --> 01:55:18,910
+Well, say something. Anything!
+
+1702
+01:55:19,000 --> 01:55:21,560
+<i>Congratulations. Skål.</i> Good work, Eve!
+
+1703
+01:55:28,160 --> 01:55:32,676
+- What do you take me for?
+- I don't know that I "take you" for anything.
+
+1704
+01:55:32,760 --> 01:55:35,638
+Is it possible that you've confused me...
+
+1705
+01:55:35,720 --> 01:55:38,917
+<i>...with</i> those backward children
+you've played tricks on?
+
+1706
+01:55:39,000 --> 01:55:41,719
+That you have the same contempt
+for me as for them?
+
+1707
+01:55:41,800 --> 01:55:44,394
+I'm sure you mean something,
+but I don't know what.
+
+1708
+01:55:44,480 --> 01:55:46,948
+Look closely, Eve. It's time you did.
+
+1709
+01:55:47,440 --> 01:55:51,831
+I am Addison DeWitt.
+I'm nobody's fool, least of all yours.
+
+1710
+01:55:52,120 --> 01:55:56,113
+- I never intended you to be.
+- Yes, you did, and you still do.
+
+1711
+01:55:56,200 --> 01:55:59,715
+I don't know what you mean.
+But I want to take my nap. It's important...
+
+1712
+01:55:59,800 --> 01:56:03,509
+- It's important that we talk, killer to killer.
+- Champion to champion.
+
+1713
+01:56:03,600 --> 01:56:06,433
+Not with me, you're no champion.
+You're stepping up.
+
+1714
+01:56:06,520 --> 01:56:10,672
+Please say what you have to say, plainly
+and distinctly, and then let me take my nap.
+
+1715
+01:56:10,760 --> 01:56:16,357
+Very well. Although it's unnecessary,
+because you know what I'm going to say.
+
+1716
+01:56:16,440 --> 01:56:20,149
+Lloyd may leave Karen,
+but he will not leave Karen for you.
+
+1717
+01:56:20,240 --> 01:56:24,358
+- What do you mean by that?
+- More plainly and more distinctly?
+
+1718
+01:56:24,440 --> 01:56:27,910
+I have not come to New Haven
+to see the play, discuss your dreams...
+
+1719
+01:56:28,000 --> 01:56:30,719
+<i>...or</i> pull the ivy from the walls of Yale.
+
+1720
+01:56:30,800 --> 01:56:34,395
+I came to tell you that you will
+not marry Lloyd, or anyone else...
+
+1721
+01:56:34,480 --> 01:56:36,471
+...because I will not permit it.
+
+1722
+01:56:36,560 --> 01:56:39,028
+- What have you got to do with it?
+- Everything.
+
+1723
+01:56:39,360 --> 01:56:42,591
+Because after tonight you will belong to me.
+
+1724
+01:56:42,680 --> 01:56:45,956
+Belong? To you?
+
+1725
+01:56:46,880 --> 01:56:48,871
+I can't believe my ears!
+
+1726
+01:56:48,960 --> 01:56:50,837
+A dull cliché.
+
+1727
+01:56:50,920 --> 01:56:52,990
+"Belong" to you?
+
+1728
+01:56:53,080 --> 01:56:56,197
+That sounds medieval.
+Something out of an old melodrama.
+
+1729
+01:56:56,280 --> 01:56:59,317
+So does the history of the world
+for the past 20 years.
+
+1730
+01:56:59,400 --> 01:57:01,436
+I don't enjoy putting it this bluntly.
+
+1731
+01:57:01,520 --> 01:57:04,876
+I'd hoped that you would have
+taken it for granted that you and I...
+
+1732
+01:57:04,960 --> 01:57:06,951
+"Taken it for granted"?
+
+1733
+01:57:07,040 --> 01:57:09,031
+"That you and I..."?
+
+1734
+01:57:13,880 --> 01:57:16,952
+Now remember, as long as you live,
+never to laugh at me.
+
+1735
+01:57:17,040 --> 01:57:19,918
+At anything or anyone else, but never at me!
+
+1736
+01:57:23,240 --> 01:57:27,028
+- Get out.
+- You're too short for that gesture.
+
+1737
+01:57:27,120 --> 01:57:29,509
+Besides, it went out with Mrs Fiske.
+
+1738
+01:57:30,640 --> 01:57:33,632
+Then if you won't get out,
+I'll have you thrown out.
+
+1739
+01:57:33,720 --> 01:57:36,598
+Don't pick up that phone. Don't even touch it.
+
+1740
+01:57:36,680 --> 01:57:39,069
+Something told you to do
+what I said, didn't it?
+
+1741
+01:57:39,160 --> 01:57:42,835
+That instinct is worth millions.
+You can't buy it, Eve. Cherish it.
+
+1742
+01:57:42,920 --> 01:57:46,230
+When that alarm goes off,
+go to your battle stations.
+
+1743
+01:57:47,400 --> 01:57:51,871
+To begin with, your name is not Eve
+Harrington. It's Gertrude Slescynski.
+
+1744
+01:57:51,960 --> 01:57:55,635
+- What of it?
+- True, your parents were poor, and still are.
+
+1745
+01:57:55,720 --> 01:58:00,271
+They would like to know how you are. They
+haven't heard from you for three years.
+
+1746
+01:58:00,360 --> 01:58:02,351
+What of it?
+
+1747
+01:58:03,000 --> 01:58:05,036
+A matter of opinion, granted.
+
+1748
+01:58:05,120 --> 01:58:11,070
+It's also true you worked in a brewery. But
+life there was not as dull as you pictured it.
+
+1749
+01:58:11,160 --> 01:58:15,790
+It got less and less dull, until your boss's
+wife had your boss followed by detectives.
+
+1750
+01:58:15,880 --> 01:58:19,634
+- She never proved a thing!
+- But the $500 you got to get out of town...
+
+1751
+01:58:19,720 --> 01:58:22,837
+...brought you straight to New York, didn't it?
+
+1752
+01:58:30,800 --> 01:58:35,237
+- That $500 brought you straight to New York.
+- She was a liar. She was a liar!
+
+1753
+01:58:35,320 --> 01:58:38,835
+Answer my question.
+Weren't you paid to get out of town?
+
+1754
+01:58:42,000 --> 01:58:45,470
+There was no Eddie, no pilot.
+You've never been married.
+
+1755
+01:58:45,560 --> 01:58:50,315
+That was not only a lie, it was an insult to
+dead heroes and the women who loved them.
+
+1756
+01:58:50,400 --> 01:58:54,473
+San Francisco has no Shubert Theatre.
+You've never been to San Francisco.
+
+1757
+01:58:54,560 --> 01:58:58,075
+That was a stupid lie, easy to expose,
+not worthy of you.
+
+1758
+01:58:58,160 --> 01:59:03,075
+I had to get in to meet Margo. I had to say
+something, be somebody. Make her like me!
+
+1759
+01:59:03,160 --> 01:59:05,390
+She did like you. She helped and trusted you.
+
+1760
+01:59:05,480 --> 01:59:08,313
+- You repaid her by trying to win Bill.
+- That's not true!
+
+1761
+01:59:08,400 --> 01:59:12,393
+I was there. I saw you and heard you
+through the dressing-room door.
+
+1762
+01:59:13,160 --> 01:59:16,675
+You used my name to blackmail Karen
+into getting you the part of Cora.
+
+1763
+01:59:16,760 --> 01:59:19,718
+- You lied to me about it.
+- No! No! No!
+
+1764
+01:59:19,920 --> 01:59:22,559
+I had lunch with Karen not three hours ago.
+
+1765
+01:59:22,640 --> 01:59:27,395
+As always with women who try to find out
+things, she told more than she learnt.
+
+1766
+01:59:28,160 --> 01:59:32,278
+Now do you want to change your story about
+Lloyd beating at your door that night?
+
+1767
+01:59:32,360 --> 01:59:34,157
+Please, please.
+
+1768
+01:59:38,520 --> 01:59:43,514
+That I should want you at all suddenly
+strikes me as the height of improbability.
+
+1769
+01:59:43,600 --> 01:59:47,070
+But that in itself is probably the reason.
+
+1770
+01:59:47,160 --> 01:59:51,836
+You're an improbable person, Eve,
+and so am I. We have that in common.
+
+1771
+01:59:51,920 --> 01:59:56,038
+Also a contempt for humanity,
+an inability to love and be loved.
+
+1772
+01:59:56,120 --> 01:59:59,749
+Insatiable ambition... and talent.
+
+1773
+01:59:59,840 --> 02:00:03,150
+We deserve each other.
+Are you listening to me?
+
+1774
+02:00:05,360 --> 02:00:08,158
+- Then say so.
+- Yes, Addison.
+
+1775
+02:00:08,440 --> 02:00:12,319
+And you realise and you agree
+how completely you belong to me?
+
+1776
+02:00:12,760 --> 02:00:14,318
+Yes, Addison.
+
+1777
+02:00:14,920 --> 02:00:18,151
+Then take your nap,
+and good luck for tonight.
+
+1778
+02:00:23,120 --> 02:00:25,076
+I won't play tonight.
+
+1779
+02:00:25,160 --> 02:00:29,597
+I couldn't. Not possibly. I couldn't go on.
+
+1780
+02:00:29,680 --> 02:00:33,719
+"Couldn't go on"?
+You'll give the performance of your life.
+
+1781
+02:00:47,400 --> 02:00:49,391
+<i>(door closes)</i>
+
+1782
+02:00:51,640 --> 02:00:54,552
+<i>(Addison) And she gave</i>
+<i>the performance of her life.</i>
+
+1783
+02:00:54,640 --> 02:00:57,234
+<i>And it was a night to remember, that night.</i>
+
+1784
+02:00:57,320 --> 02:00:59,311
+<i>(applause and cheering)</i>
+
+1785
+02:01:06,960 --> 02:01:09,952
+Honoured members of
+the Sarah Siddons Society...
+
+1786
+02:01:10,040 --> 02:01:13,350
+...distinguished guests, ladies and gentlemen.
+
+1787
+02:01:14,600 --> 02:01:16,955
+What is there for me to say?
+
+1788
+02:01:17,040 --> 02:01:20,350
+Everything wise and witty
+has long since been said...
+
+1789
+02:01:20,440 --> 02:01:24,718
+<i>...by</i> minds more mature
+and talents far greater than mine.
+
+1790
+02:01:24,800 --> 02:01:28,156
+For me to thank you as equals
+would be presumptuous.
+
+1791
+02:01:28,240 --> 02:01:30,629
+I am an apprentice in the theatre...
+
+1792
+02:01:30,720 --> 02:01:33,712
+<i>...and</i> have much to learn from all of you.
+
+1793
+02:01:33,800 --> 02:01:37,315
+Let me say only that I am proud and happy...
+
+1794
+02:01:38,240 --> 02:01:41,152
+<i>...and</i> that I regard this great honour...
+
+1795
+02:01:41,240 --> 02:01:44,312
+<i>...not</i> so much as an award
+for what I have achieved...
+
+1796
+02:01:44,400 --> 02:01:47,676
+<i>...but</i> as a standard to hold against
+what I have yet to accomplish.
+
+1797
+02:01:47,760 --> 02:01:49,751
+<i>(applause)</i>
+
+1798
+02:01:49,840 --> 02:01:54,630
+And, further, that I regard it
+as bestowed upon me only in part.
+
+1799
+02:01:55,720 --> 02:02:00,077
+The larger share belongs
+to my friends in the theatre...
+
+1800
+02:02:00,160 --> 02:02:02,628
+<i>...and</i> to the theatre itself...
+
+1801
+02:02:02,720 --> 02:02:05,518
+...which has given me all I have.
+
+1802
+02:02:06,880 --> 02:02:10,873
+In good conscience,
+I must give credit where credit is due.
+
+1803
+02:02:12,320 --> 02:02:15,790
+To Max Fabian. Dear Max.
+
+1804
+02:02:16,280 --> 02:02:20,273
+Dear sentimental, generous,
+courageous Max Fabian...
+
+1805
+02:02:20,360 --> 02:02:24,069
+<i>...who</i> took a chance on
+an unknown, untried amateur.
+
+1806
+02:02:28,560 --> 02:02:31,996
+To my first friend in the theatre...
+
+1807
+02:02:32,080 --> 02:02:35,834
+...whose kindness and graciousness
+I shall never forget...
+
+1808
+02:02:35,920 --> 02:02:38,309
+...Karen. Mrs Lloyd Richards.
+
+1809
+02:02:44,240 --> 02:02:48,028
+It was Karen who first brought me
+to one whom I'd always idolised...
+
+1810
+02:02:48,120 --> 02:02:51,317
+<i>...one</i> who became
+my benefactress and champion.
+
+1811
+02:02:52,480 --> 02:02:56,155
+A great actress and a great woman...
+
+1812
+02:02:56,560 --> 02:02:58,596
+...Margo Channing.
+
+1813
+02:02:58,680 --> 02:03:00,671
+<i>(cheering)</i>
+
+1814
+02:03:03,240 --> 02:03:05,549
+To my director...
+
+1815
+02:03:05,640 --> 02:03:10,395
+<i>...who</i> demanded always a little more
+than my talent could provide...
+
+1816
+02:03:10,480 --> 02:03:13,074
+<i>...but</i> who taught me patiently and well...
+
+1817
+02:03:14,640 --> 02:03:16,631
+<i>...Bill</i> Sampson.
+
+1818
+02:03:16,720 --> 02:03:18,312
+<i>(applause)</i>
+
+1819
+02:03:19,320 --> 02:03:23,233
+And one without whose
+great play and faith in me...
+
+1820
+02:03:23,920 --> 02:03:26,593
+<i>...this</i> night could never have been.
+
+1821
+02:03:26,680 --> 02:03:29,035
+How can I repay Lloyd Richards?
+
+1822
+02:03:29,120 --> 02:03:31,111
+<i>(applause)</i>
+
+1823
+02:03:31,760 --> 02:03:33,990
+How can I repay the many others...
+
+1824
+02:03:34,080 --> 02:03:37,038
+<i>...so</i> many, I couldn't possibly
+name them all...
+
+1825
+02:03:37,120 --> 02:03:40,078
+...whose help, guidance, and advice...
+
+1826
+02:03:41,560 --> 02:03:46,475
+<i>...have</i> made this, the happiest
+night of my life, possible.
+
+1827
+02:03:50,680 --> 02:03:54,559
+Although I am going to Hollywood
+next week to make a film...
+
+1828
+02:03:54,640 --> 02:03:57,791
+<i>...do</i> not think for a moment
+that I am leaving you.
+
+1829
+02:03:57,880 --> 02:03:59,996
+How could I?
+
+1830
+02:04:00,080 --> 02:04:02,799
+My heart is here in the theatre...
+
+1831
+02:04:02,880 --> 02:04:07,192
+<i>...and</i> 3,000 miles are too far
+to be away from one's heart.
+
+1832
+02:04:07,280 --> 02:04:10,158
+I'll be back to claim it... and soon.
+
+1833
+02:04:11,800 --> 02:04:15,554
+That is, if you want me back.
+
+1834
+02:04:21,840 --> 02:04:24,912
+Good night to you all,
+and to all, a good night.
+
+1835
+02:04:32,240 --> 02:04:36,518
+For services rendered beyond...
+whatever it is of duty, darling.
+
+1836
+02:04:41,120 --> 02:04:46,194
+Come on, I'm the host. I got to get home
+before my guests start stealing the liquor!
+
+1837
+02:04:48,840 --> 02:04:51,593
+- Congratulations, Eve.
+- Thank you, Karen.
+
+1838
+02:04:54,960 --> 02:04:58,748
+- Congratulations, Miss Harrington.
+- Oh, thank you so much.
+
+1839
+02:04:59,400 --> 02:05:03,996
+Nice speech, Eve. But I wouldn't worry
+too much about your heart.
+
+1840
+02:05:04,080 --> 02:05:07,675
+You can always put that award
+where your heart ought to be.
+
+1841
+02:05:10,080 --> 02:05:12,071
+I don't suppose there's a drink left?
+
+1842
+02:05:12,160 --> 02:05:14,833
+- You can have one at Max's.
+- I don't think I'm going.
+
+1843
+02:05:14,920 --> 02:05:18,799
+- Why not?
+- Because I don't want to.
+
+1844
+02:05:18,880 --> 02:05:22,316
+- I'm so happy for you, Eve.
+- Thank you so much.
+
+1845
+02:05:23,720 --> 02:05:28,589
+Max has gone to a lot of trouble. This is going
+to be an elaborate party and it's for you.
+
+1846
+02:05:28,680 --> 02:05:32,070
+No, it isn't. It's for this.
+
+1847
+02:05:32,160 --> 02:05:34,754
+- It's the same thing, isn't it?
+- Exactly.
+
+1848
+02:05:36,000 --> 02:05:38,753
+Here, take <i>it</i> to the party instead of me.
+
+1849
+02:05:38,840 --> 02:05:40,990
+You're being very childish.
+
+1850
+02:05:41,080 --> 02:05:45,119
+- I'm tired. I want to go home.
+- Very well. I'll drop you off.
+
+1851
+02:05:45,200 --> 02:05:48,670
+I shall go to the party alone.
+I have no intention of missing it.
+
+1852
+02:07:11,680 --> 02:07:13,716
+- Who are you?
+- Miss Harrington!
+
+1853
+02:07:13,800 --> 02:07:17,429
+- What are you doing here?
+- I... I guess I fell asleep.
+
+1854
+02:07:20,440 --> 02:07:24,353
+Please don't have me arrested.
+I didn't steal anything. You can search me.
+
+1855
+02:07:24,440 --> 02:07:28,228
+- How did you get in here?
+- I hid outside till the maid came in.
+
+1856
+02:07:28,320 --> 02:07:31,039
+She went out to get something
+and left the door open.
+
+1857
+02:07:31,120 --> 02:07:35,033
+I sneaked in and hid till she'd finished.
+Then I just looked around.
+
+1858
+02:07:35,120 --> 02:07:38,715
+I was afraid someone would notice
+the lights were on, so I turned them off.
+
+1859
+02:07:38,800 --> 02:07:42,236
+- Then I guess I fell asleep.
+- You were just looking around?
+
+1860
+02:07:42,320 --> 02:07:44,151
+- That's all.
+- What for?
+
+1861
+02:07:44,240 --> 02:07:46,800
+- You probably won't believe me.
+- Probably not.
+
+1862
+02:07:46,880 --> 02:07:49,235
+- It was for my report.
+- What report? To whom?
+
+1863
+02:07:49,320 --> 02:07:52,073
+About how you live,
+what kind of clothes you wear...
+
+1864
+02:07:52,160 --> 02:07:56,119
+<i>...what</i> kind of perfume
+and books, things like that.
+
+1865
+02:07:56,200 --> 02:08:00,079
+You know the Eve Harrington Club that
+they have in most girls' high schools?
+
+1866
+02:08:00,160 --> 02:08:03,994
+- I've heard of them.
+- Ours was one of the first - Erasmus Hall.
+
+1867
+02:08:04,080 --> 02:08:08,198
+- I'm the president.
+- Erasmus Hall. That's in Brooklyn, isn't it?
+
+1868
+02:08:08,280 --> 02:08:12,512
+Lots of actresses come from Brooklyn.
+Barbara Stanwyck and Susan Hayward.
+
+1869
+02:08:12,600 --> 02:08:14,909
+Of course, they're just movie stars.
+
+1870
+02:08:15,000 --> 02:08:17,560
+You're going to Hollywood, aren't you?
+
+1871
+02:08:17,640 --> 02:08:18,868
+Mm-hm.
+
+1872
+02:08:18,960 --> 02:08:22,430
+From the trunks you're packing,
+you must be going to stay a long time.
+
+1873
+02:08:22,520 --> 02:08:24,511
+I might.
+
+1874
+02:08:28,360 --> 02:08:31,158
+That spilled drink's gonna ruin your carpet.
+
+1875
+02:08:31,240 --> 02:08:33,629
+Maid'll fix it in the morning.
+
+1876
+02:08:34,520 --> 02:08:37,318
+- I'll just clean up the mess.
+- Don't bother.
+
+1877
+02:08:38,160 --> 02:08:41,072
+- How'd you get up here from Brooklyn?
+- Subway.
+
+1878
+02:08:42,160 --> 02:08:44,310
+How long does it take?
+
+1879
+02:08:44,400 --> 02:08:47,198
+With changing and everything,
+a little over an hour.
+
+1880
+02:08:47,280 --> 02:08:50,795
+It's after one now.
+You won't get home till all hours.
+
+1881
+02:08:52,560 --> 02:08:54,551
+I don't care if I never get home.
+
+1882
+02:08:54,640 --> 02:08:56,710
+<i>(buzzer)</i>
+
+1883
+02:08:56,800 --> 02:08:58,791
+That's the door.
+
+1884
+02:09:01,760 --> 02:09:03,751
+You rest. I'll get it.
+
+1885
+02:09:11,600 --> 02:09:13,795
+Hello. Who are you?
+
+1886
+02:09:14,600 --> 02:09:18,479
+Miss Harrington's resting, Mr DeWitt.
+She asked me to see who it is.
+
+1887
+02:09:18,560 --> 02:09:20,551
+Well, we won't disturb her rest.
+
+1888
+02:09:20,640 --> 02:09:25,555
+It seems Miss Harrington left her award
+in the taxi cab. Will you give it to her?
+
+1889
+02:09:26,800 --> 02:09:29,633
+Tell me, how did you know my name?
+
+1890
+02:09:30,400 --> 02:09:32,994
+It's a very famous name, Mr DeWitt.
+
+1891
+02:09:33,080 --> 02:09:35,389
+- And what's your name?
+- Phoebe.
+
+1892
+02:09:36,040 --> 02:09:38,918
+- Phoebe?
+- I call myself Phoebe.
+
+1893
+02:09:40,240 --> 02:09:42,037
+And why not?
+
+1894
+02:09:42,120 --> 02:09:47,240
+Tell me, Phoebe, do you want someday
+to have an award like that of your own?
+
+1895
+02:09:47,320 --> 02:09:52,519
+- More than anything else in the world.
+- Then ask Miss Harrington how to get one.
+
+1896
+02:09:53,640 --> 02:09:56,438
+Miss Harrington knows all about it.
+
+1897
+02:10:04,640 --> 02:10:06,710
+<i>(Eve)</i> Who was it?
+
+1898
+02:10:06,800 --> 02:10:08,870
+Just a taxi driver, Miss Harrington.
+
+1899
+02:10:08,960 --> 02:10:12,669
+You left your award in his cab,
+and he brought it back.
+
+1900
+02:10:12,760 --> 02:10:16,639
+<i>(Eve)</i> Put it on one of the trunks,
+will you? I wanna pack it.
+
+1901
+02:10:16,720 --> 02:10:18,711
+Sure, Miss Harrington.
+
+1902
+02:11:47,920 --> 02:11:49,911
+Subtitles by Visiontext
+
+1903
+02:12:32,920 --> 02:12:34,911
+ENGLISH SDH
+

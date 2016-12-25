@@ -1,78 +1,42 @@
 import os
 from config import *
 
-
-#TODO verify files new.movies and new_movies.title
 def init_verify():
-	test_srt_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TEST)
-	
-	if '.DS_Store' in test_srt_movies_file:
-		test_srt_movies_file = test_srt_movies_file[1:]
-
-
-	# TRAIN_UTTERANCE = os.listdir(os.getcwd()+'/'+FOLDER_UTTERANCE_TRAIN)
-	# if '.DS_Store' in TRAIN_UTTERANCE:
-	# 	TRAIN_UTTERANCE = TRAIN_UTTERANCE[1:]
-	# TRAIN_UTTERANCE = ['tt'+i.split('_tt')[1].split('.')[0] for i in TRAIN_UTTERANCE]
-
-	# TEST_UTTERANCE = os.listdir(os.getcwd()+'/'+FOLDER_UTTERANCE_TEST)
-	# if '.DS_Store' in TEST_UTTERANCE:
-	# 	TEST_UTTERANCE = TEST_UTTERANCE[1:]
-	# TEST_UTTERANCE = ['tt'+i.split('_tt')[1].split('.')[0] for i in TEST_UTTERANCE]
-
-	test_srt_movies_file = ['tt'+i.split('_tt')[1].split('.')[0] for i in test_srt_movies_file]
+	TEST_SRT = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TEST)
+	if '.DS_Store' in TEST_SRT:
+		TEST_SRT = TEST_SRT[1:]
+	TEST_SRT = ['tt'+i.split('_tt')[1].split('.')[0] for i in TEST_SRT]
 
 
 	TRAIN_SRT = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TRAIN)
+	if '.DS_Store' in TRAIN_SRT:
+		TRAIN_SRT = TRAIN_SRT[1:]
 	TRAIN_SRT = ['tt'+i.split('_tt')[1].split('.')[0] for i in TRAIN_SRT]
 
 
-	# TEST_TAG = os.listdir(os.getcwd()+'/'+FOLDER_TEST_TAGS)
-	# TEST_TAG = ['tt'+i.split('_tt')[1].split('.')[0] for i in TEST_TAG[1:]]
-
-	# TRAIN_TAG = os.listdir(os.getcwd()+'/'+FOLDER_TRAIN_TAGS)
-	# TRAIN_TAG = ['tt'+i.split('_tt')[1].split('.')[0] for i in TRAIN_TAG[1:]]
-
-	# train_cast_file = open(PATH__WATCHED_CAST)
-	# TRAIN_CAST = dict([(t.split(';')[0],";".join(t.split(';')[1:])) for t in train_cast_file.read().split('\n')])
-	# train_cast_file.close()
-
-	# test_cast_file = open(PATH__NEW_CAST)
-	# TEST_CAST = dict([(t.split(';')[0],";".join(t.split(';')[1:])) for t in test_cast_file.read().split('\n')])
-	# test_cast_file.close()
-
-	watched_movies = open(PATH__WATCHED_MOVIES).read().split('\n')
+	watched_movies = open(FILE_WATCHED_DATA).read().split('\n')
 	movies_name = []
-	movies_name.extend([(i.split(';')[0],i.split(';')[1]) for i in open(PATH__NEW_MOVIES).read().split('\n')])
+	movies_name.extend([(i.split(';')[0],i.split(';')[1]) for i in open(FILE_WATCHLIST_DATA).read().split('\n')])
 	movies_name.extend([(w.split(';')[1],w.split(';')[0]) for w in watched_movies])
 	movies_name = dict(movies_name)
 
-	new_movies = open(PATH__NEW_MOVIES_CODE)
 
-
-	NM = new_movies.read().split('\n')
-	WM = [w.split(';')[0] for w in watched_movies]
-	new_movies.close()
+	WATCHLIST = open(FILE_WATCHLIST_IMDB).read().split('\n')
+	WATCHED = open(FILE_WATCHED_IMDB).read().split('\n')
 	
 
 	verify_srt(TRAIN_SRT,
-				test_srt_movies_file,
-				NM,
-				WM,
+				TEST_SRT,
+				WATCHLIST,
+				WATCHED,
 				movies_name)
 
-
-
-	# verify_cast(TRAIN_CAST,TEST_CAST,NM,WM)
-	# verify_utterances(TRAIN_UTTERANCE,TEST_UTTERANCE,NM,WM)
-
-#CONCLUDED
 def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies):
 	"""
 		srt_train,srt_test,watched_movies_list,new_movies:  [list of IMDB code]
 		dic_movies: a dicionary that maps IMDB_code to movie title
 
-		What is verifying?
+		What will be virified?
 			srt_train
 			srt_test
 
@@ -122,7 +86,7 @@ def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies
 		elif code_movie not in srt_train:
 			print '%s/%s must to be copied from srt_test to TRAIN' % (dic_movies[imdb_code],imdb_code)
 
-	fnew_movie_titles = open(PATH__NEW_MOVIES_CODE,'w')
+	fnew_movie_titles = open(FILE_WATCHLIST_IMDB,'w')
 
 	for index in xrange(len(new_movies_list)):
 		i = new_movies_list[index]
@@ -131,115 +95,6 @@ def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies
 			fnew_movie_titles.write('\n')
 
 	print 'The new_movie_list was updated'
-
-# #def verify_tag():
-
-# #CONCLUDED
-# def verify_utterances(utterance_train,utterance_test,new_movies_list,watched_movies_list):
-# 	"""
-# 		cast_train,cast_test,new_movies_list,watched_movies_list  list<imdb_code>
-# 	"""
-# 	output = ''
-
-# 	for utterance_file in utterance_test:
-# 		if utterance_file in watched_movies_list:
-# 			if utterance_file in new_movies_list:
-# 				new_movies_list.remove(utterance_file)
-# 			else:
-# 				output += 'test\\%s copy to train\n' % utterance_file
-
-
-# 		elif utterance_file not in new_movies_list and utterance_file not in watched_movies_list:
-# 			output += 'test\\%s not in new.movies\n' % utterance_file
-
-# 	for utterance_file in utterance_train:
-		
-# 		if utterance_file not in new_movies_list and utterance_file not in watched_movies_list:
-# 			output += 'train\\%s not in watched.movies\n' % utterance_file
-
-# 	for code_movie in new_movies_list:
-# 		if code_movie not in utterance_test:
-# 			output += 'Convert utterance_file %s to test\n' % code_movie
-
-# 	for code_movie in watched_movies_list:
-# 		if code_movie not in utterance_train and code_movie not in utterance_test:
-# 			output += 'Download utterance_file %s to train\n' % code_movie
-# 		elif code_movie not in utterance_train:
-# 			output += 'Copy utterance_file %s from test\n' % code_movie
-
-# 	fnew_movie_titles = open(PATH__NEW_MOVIES_CODE,'w')
-
-# 	for index in xrange(len(new_movies_list)):
-# 		i = new_movies_list[index]
-# 		fnew_movie_titles.write(i)
-# 		if index < len(new_movies_list)-1:
-# 			fnew_movie_titles.write('\n')
-
-# 	if output != '':
-# 		raise Exception('\n'+output)
-	
-# #CONCLUDED
-# def verify_cast(cast_train,cast_test,new_movies_list,watched_movies_list):
-
-# 	"""
-# 		cast_train,cast_test,new_movies_list,watched_movies_list  list<imdb_code>
-# 	"""
-# 	output = ''
-# 	TEST_CAST_ITERATOR = list(cast_test.items())
-# 	TRAIN_CAST_ITERATOR = list(cast_train.items())
-
-# 	for cast_file in TEST_CAST_ITERATOR:
-		
-# 		cast_file = cast_file[0]
-
-# 		if cast_file in new_movies_list and cast_file in watched_movies_list:
-# 			new_movies_list.remove(cast_file)
-
-# 		elif cast_file not in new_movies_list and cast_file not in watched_movies_list:
-# 			output += 'test\\%s not in new.movies\n' % cast_file
-# 			del cast_test[cast_file]
-
-
-# 	for cast_file in TRAIN_CAST_ITERATOR:
-# 		cast_file = cast_file[0]
-
-# 		if cast_file not in new_movies_list and cast_file not in watched_movies_list:
-# 			output += 'train\\%s not in watched.movies\n' % cast_file
-
-# 	for code_movie in new_movies_list:
-# 		if code_movie not in cast_test:
-# 			output += 'Download cast_file %s to test\n' % code_movie
-
-# 	for code_movie in watched_movies_list:
-# 		if code_movie not in cast_train and code_movie not in cast_test:
-# 			output += 'Download cast_file %s to train\n' % code_movie
-# 		elif code_movie not in cast_train and code_movie in cast_test:
-# 			output += 'Copy cast_file %s from test\n' % code_movie
-# 			cast_train[code_movie ] = cast_test[code_movie ]
-# 			del cast_test[code_movie ]
-
-# 	fnew_movie_titles = open(PATH__NEW_MOVIES_CODE,'w')
-
-# 	for index in xrange(len(new_movies_list)):
-# 		i = new_movies_list[index]
-# 		fnew_movie_titles.write(i)
-# 		if index < len(new_movies_list)-1:
-# 			fnew_movie_titles.write('\n')
-
-	
-	
-# 	cast_test_writer = open(PATH__NEW_CAST,'w')
-# 	for key,stars in cast_test.iteritems():
-# 		cast_test_writer.write('%s;%s\n' % (key,stars))
-
-# 	cast_train_writer = open(PATH__WATCHED_CAST,'w')
-# 	for key,stars in cast_train.iteritems():
-# 		cast_train_writer.write('%s;%s\n' % (key,stars))
-
-	
-# 	if output != '' and '\ ' not in output:
-# 		raise Exception('\n'+output)
-
 
 init_verify()
 

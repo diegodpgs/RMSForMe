@@ -1,0 +1,6508 @@
+﻿0
+00:00:03,000 --> 00:00:10,500
+{\move(10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000&\3c&H00FFFF&}anoXmous
+
+1
+00:00:12,501 --> 00:00:21,202
+{\move(400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&HFF0000&\3c&H00FFFF&}https://thepiratebay.se/user/Zen_Bud  
+
+1
+00:00:22,047 --> 00:00:25,591
+SINGlNG: Singin' in the rain
+Just singin' in the rain
+
+2
+00:00:25,842 --> 00:00:29,929
+What a glorious feelin'
+We're happy again
+
+3
+00:00:30,180 --> 00:00:32,014
+We'll walk down the lane
+
+4
+00:00:32,223 --> 00:00:34,016
+With a happy refrain
+
+5
+00:00:34,267 --> 00:00:36,602
+And singin'
+Just singin' in the rain
+
+6
+00:01:38,790 --> 00:01:41,417
+DORA [OVER PA]: This is
+Dora Bailey, ladies and gentlemen...
+
+7
+00:01:41,584 --> 00:01:45,421
+...talking to you from the front
+of the Chinese Theater in Hollywood.
+
+8
+00:01:45,672 --> 00:01:48,966
+What a night, ladies and gentlemen.
+What a night!
+
+9
+00:01:49,259 --> 00:01:53,595
+Every star in Hollywood is here
+to make Monumental Pictures' premiere. ..
+
+10
+00:01:53,847 --> 00:01:58,684
+...of The Royal Rascal,
+the outstanding event of 1 927.
+
+11
+00:01:58,893 --> 00:02:00,769
+Everyone breathlessly awaits. ..
+
+12
+00:02:01,021 --> 00:02:04,815
+...the arrival of Lina Lamont
+and Don Lockwood.
+
+13
+00:02:05,191 --> 00:02:06,817
+Look who's arriving now.
+
+14
+00:02:07,068 --> 00:02:09,653
+It's that famous "zip" girl
+of the screen. ..
+
+15
+00:02:09,904 --> 00:02:11,905
+...the darling of the flapper set.. .
+
+16
+00:02:12,157 --> 00:02:14,116
+...Zelda Zanders!
+
+17
+00:02:14,284 --> 00:02:15,284
+[CHEERING]
+
+18
+00:02:15,493 --> 00:02:17,953
+Zelda! Zelda!
+
+19
+00:02:18,455 --> 00:02:22,458
+DORA: Her new red-hot pash,
+J. Cumberland Spendrill I I I. ..
+
+20
+00:02:22,709 --> 00:02:25,711
+...that well-known eligible bachelor.
+
+21
+00:02:25,962 --> 00:02:31,091
+Zelda's had so much unhappiness,
+I hope this time it's really love.
+
+22
+00:02:31,968 --> 00:02:36,180
+And here comes that
+exotic star, Olga Mara!
+
+23
+00:02:36,389 --> 00:02:38,432
+ALL:
+Ooh.
+
+24
+00:02:38,600 --> 00:02:43,312
+And her new husband,
+the Baron de la Bonnet de la Toulon.
+
+25
+00:02:43,688 --> 00:02:48,150
+They've been married two months already,
+but still as happy as newlyweds.
+
+26
+00:02:48,318 --> 00:02:49,735
+[CAR HORN TOOTING]
+
+27
+00:02:49,944 --> 00:02:53,322
+Well, well, well.
+It's Cosmo Brown!
+
+28
+00:02:53,490 --> 00:02:55,157
+[CROWD CHEERlNG]
+
+29
+00:02:55,325 --> 00:02:56,658
+[CROWD GROANS]
+
+30
+00:03:00,246 --> 00:03:01,955
+Cosmo is Don's best friend.
+
+31
+00:03:02,207 --> 00:03:04,500
+He plays the piano on the set
+for Don and Lina...
+
+32
+00:03:04,751 --> 00:03:08,212
+...to get them into
+those romantic moods!
+
+33
+00:03:08,630 --> 00:03:10,631
+Oh, folks, this is it.
+This is it!
+
+34
+00:03:10,799 --> 00:03:13,175
+[POLICE SlRENS WAILING]
+
+35
+00:03:13,510 --> 00:03:14,968
+[ALL CHEERING]
+
+36
+00:03:17,889 --> 00:03:22,017
+The stars of tonight's picture,
+those romantic lovers of the screen.. .
+
+37
+00:03:22,268 --> 00:03:24,853
+...Don Lockwood and Lina Lamont!
+
+38
+00:03:25,313 --> 00:03:27,064
+[CROWD CHEERlNG]
+
+39
+00:03:30,860 --> 00:03:34,279
+Ladies and gentlemen, when you look
+at this gorgeous couple...
+
+40
+00:03:34,531 --> 00:03:38,033
+...it's no wonder they're
+a household name all over the world.
+
+41
+00:03:38,243 --> 00:03:40,369
+Like "bacon and eggs."
+
+42
+00:03:41,246 --> 00:03:43,872
+"Lockwood and Lamont."
+
+43
+00:03:46,376 --> 00:03:49,586
+Don, tell me confidentially,
+are these rumors true...
+
+44
+00:03:49,796 --> 00:03:52,422
+...that wedding bells are soon
+to ring for you and Lina?
+
+45
+00:03:52,674 --> 00:03:55,759
+Lina and I have no statement
+to make at the present time.
+
+46
+00:03:55,969 --> 00:03:57,219
+We're just good friends.
+
+47
+00:03:57,428 --> 00:04:01,431
+You've come a long way together.
+Won't you tell us how it happened?
+
+48
+00:04:01,683 --> 00:04:04,893
+Lina and I have made
+a number of pictures together--
+
+49
+00:04:05,103 --> 00:04:08,522
+Oh, no, no, Don.
+I want your story from the beginning.
+
+50
+00:04:08,773 --> 00:04:11,692
+Dora, not in front of all these people!
+
+51
+00:04:11,943 --> 00:04:13,527
+[CROWD CHEERS]
+
+52
+00:04:15,280 --> 00:04:17,906
+The story of your success
+is an inspiration...
+
+53
+00:04:18,158 --> 00:04:20,409
+...to young people all over the world.
+
+54
+00:04:20,827 --> 00:04:22,035
+Please!
+
+55
+00:04:22,328 --> 00:04:24,246
+[CROWD CHEERlNG]
+
+56
+00:04:25,665 --> 00:04:28,208
+Well, to begin with,
+any story of my career...
+
+57
+00:04:28,459 --> 00:04:32,254
+...would have to include
+my lifelong friend, Cosmo Brown.
+
+58
+00:04:32,463 --> 00:04:35,299
+We were kids together,
+grew up together, worked together.
+
+59
+00:04:35,466 --> 00:04:36,466
+Yes?
+
+60
+00:04:37,302 --> 00:04:42,222
+Well, Dora, l've had one motto
+which I've always lived by:
+
+61
+00:04:42,849 --> 00:04:45,767
+"Dignity. Always dignity."
+
+62
+00:04:46,436 --> 00:04:50,606
+This was instilled in me by Mum and Dad
+from the very beginning.
+
+63
+00:04:50,857 --> 00:04:54,109
+They sent me to the finest schools,
+including dancing school.
+
+64
+00:04:54,319 --> 00:04:56,445
+That's where I first met Cosmo.
+
+65
+00:04:56,696 --> 00:05:00,949
+And with him, I used to perform
+for Mum and Dad's society friends.
+
+66
+00:05:01,159 --> 00:05:03,660
+[HARMONICA PLAYING]
+
+67
+00:05:08,625 --> 00:05:11,293
+DON:
+They used to make such a fuss over me.
+
+68
+00:05:11,544 --> 00:05:16,298
+lf l was very good, l was allowed
+to accompany Mum and Dad to the theater.
+
+69
+00:05:16,549 --> 00:05:18,550
+They brought me up on Shaw...
+
+70
+00:05:18,801 --> 00:05:21,595
+...Molière, the finest of the classics.
+
+71
+00:05:23,139 --> 00:05:25,974
+To this was added rigorous
+musical training...
+
+72
+00:05:26,184 --> 00:05:28,352
+...at the Conservatory of Fine Arts.
+
+73
+00:05:28,686 --> 00:05:31,480
+[UPBEAT JAZZ TUNE PLAYING]
+
+74
+00:05:33,650 --> 00:05:38,028
+We rounded out our apprenticeship
+at an exclusive dramatics academy.
+
+75
+00:05:39,280 --> 00:05:41,073
+And at all times...
+
+76
+00:05:41,324 --> 00:05:42,991
+...the motto remained...
+
+77
+00:05:43,493 --> 00:05:44,534
+..."Dignity.
+
+78
+00:05:44,786 --> 00:05:46,703
+Always dignity."
+
+79
+00:05:48,873 --> 00:05:52,751
+ln a few years, we were ready
+to embark on a dance concert tour.
+
+80
+00:05:53,670 --> 00:05:57,089
+We played the finest
+symphonic halls in the country.
+
+81
+00:05:58,091 --> 00:05:59,841
+[SINGING] Fit as a fiddle
+And ready for love
+
+82
+00:06:00,093 --> 00:06:02,427
+l can jump over
+The moon up above
+
+83
+00:06:02,637 --> 00:06:05,222
+Fit as a fiddle
+And ready for love
+
+84
+00:06:06,808 --> 00:06:08,600
+Haven't a worry
+Haven't a care
+
+85
+00:06:08,851 --> 00:06:11,061
+Feelin' like a feather
+That's floatin' on air
+
+86
+00:06:11,271 --> 00:06:14,022
+Fit as a fiddle
+And ready for love
+
+87
+00:06:15,066 --> 00:06:19,361
+Soon the church bells will be ringin'
+And a march with Ma and Pa
+
+88
+00:06:19,612 --> 00:06:21,571
+How the church bells will be ringin'
+
+89
+00:06:21,823 --> 00:06:24,324
+With a hey-nonny-nonny
+And a hot-cha-cha
+
+90
+00:06:24,534 --> 00:06:26,368
+Hi diddle diddle
+My baby's okay
+
+91
+00:06:26,619 --> 00:06:28,912
+Ask me a riddle
+I'm happy to say
+
+92
+00:06:29,122 --> 00:06:31,873
+Fit as a fiddle
+And ready for love
+
+93
+00:07:28,973 --> 00:07:29,973
+[AUDIENCE BOOING]
+
+94
+00:07:30,224 --> 00:07:32,601
+DON:
+Audiences everywhere adored us.
+
+95
+00:07:32,769 --> 00:07:33,769
+MAN:
+Get out of here!
+
+96
+00:07:35,188 --> 00:07:38,315
+DON: Finally we decided to come
+to sunny California.
+
+97
+00:07:39,108 --> 00:07:41,860
+We were stranded--
+We were staying here, resting up...
+
+98
+00:07:42,111 --> 00:07:45,197
+...when offers from the movie
+studios started pouring in.
+
+99
+00:07:45,448 --> 00:07:49,826
+We sorted them out and decided
+to favor Monumental Pictures.
+
+100
+00:07:50,244 --> 00:07:53,705
+DEXTER: Lina, you hate him.
+Resist him. Keep that mood music going.
+
+101
+00:07:53,915 --> 00:07:56,208
+Now, Phil, you come in.
+Keep on grinding.
+
+102
+00:07:56,459 --> 00:08:01,004
+Now you see her. Now here's the bit,
+Bert, where you get it on the jaw.
+
+103
+00:08:01,881 --> 00:08:02,881
+Cut!
+
+104
+00:08:03,132 --> 00:08:05,008
+No, no! That wasn't right!
+
+105
+00:08:05,259 --> 00:08:09,554
+You were supposed to go over the bar
+and crash into the glasses! Try it again!
+
+106
+00:08:09,764 --> 00:08:11,640
+Okay, Bert? Bert!
+
+107
+00:08:11,891 --> 00:08:13,934
+Oh, that's swell, just swell.
+
+108
+00:08:14,143 --> 00:08:16,144
+Take him away, fellas!
+
+109
+00:08:16,312 --> 00:08:20,023
+You'll be all right. We've lost
+more stuntmen on these pictures--
+
+110
+00:08:20,274 --> 00:08:23,151
+It'll take hours to get
+a new one from Central Casting.
+
+111
+00:08:23,319 --> 00:08:25,320
+Mr. Dexter, I can do that.
+
+112
+00:08:25,571 --> 00:08:28,323
+-You? You're a musician.
+-That's a moot point.
+
+113
+00:08:28,533 --> 00:08:30,325
+No kidding!
+What's your name?
+
+114
+00:08:30,576 --> 00:08:33,161
+Don Lockwood, but the fellas
+call me "Donald."
+
+115
+00:08:33,413 --> 00:08:36,081
+Wise guy, huh?
+Okay, l'll try you.
+
+116
+00:08:36,332 --> 00:08:38,166
+Get this guy into Bert's suit!
+
+117
+00:08:38,376 --> 00:08:42,963
+And remember, Lockwood, you might be
+trading that fiddle in for a harp.
+
+118
+00:08:45,174 --> 00:08:46,258
+DEXTER:
+Camera!
+
+119
+00:08:47,301 --> 00:08:50,011
+Phil, come in. Now you see him.
+That's it.
+
+120
+00:08:50,263 --> 00:08:52,722
+Now, here's where you get it
+right on the jaw.
+
+121
+00:08:54,725 --> 00:08:55,725
+Cut!
+
+122
+00:08:55,935 --> 00:08:57,394
+That was wonderful!
+
+123
+00:08:59,188 --> 00:09:01,314
+Got any more little chores
+you want done?
+
+124
+00:09:01,566 --> 00:09:02,691
+Plenty!
+
+125
+00:09:07,071 --> 00:09:08,321
+Okay.
+
+126
+00:09:28,885 --> 00:09:32,220
+DON:
+My roles in these films were urbane...
+
+127
+00:09:32,430 --> 00:09:33,805
+...sophisticated...
+
+128
+00:09:33,973 --> 00:09:34,973
+...suave.
+
+129
+00:09:37,935 --> 00:09:40,729
+And of course,
+all through those pictures...
+
+130
+00:09:40,938 --> 00:09:44,399
+...Lina was, as always,
+an inspiration to me.
+
+131
+00:09:44,609 --> 00:09:46,359
+Warm and helpful.
+
+132
+00:09:46,736 --> 00:09:48,361
+A real lady.
+
+133
+00:09:52,325 --> 00:09:55,744
+Hello, Miss Lamont.
+I'm Don Lockwood, the stuntman.
+
+134
+00:09:57,872 --> 00:10:00,499
+It was a thrill working
+with you, Miss Lamont.
+
+135
+00:10:00,750 --> 00:10:01,958
+DEXTER:
+Hey, Don.
+
+136
+00:10:02,335 --> 00:10:05,086
+Meet the producer
+of the picture, R.F. Simpson.
+
+137
+00:10:05,296 --> 00:10:09,090
+I just saw some rushes and asked
+Dexter who the stuntmen were.
+
+138
+00:10:09,342 --> 00:10:13,553
+He said they were all you. I'm putting
+you and Lina together in a picture.
+
+139
+00:10:13,804 --> 00:10:16,181
+Come to my office.
+We'll discuss a contract.
+
+140
+00:10:16,432 --> 00:10:18,183
+Thanks, Mr. Simpson!
+
+141
+00:10:22,146 --> 00:10:25,106
+Are you doing anything tonight,
+Miss Lamont?
+
+142
+00:10:26,776 --> 00:10:28,276
+That's funny.
+
+143
+00:10:28,444 --> 00:10:29,778
+I'm busy.
+
+144
+00:10:34,951 --> 00:10:39,120
+DON: Lina and l have had the same
+wonderful relationship ever since.
+
+145
+00:10:39,455 --> 00:10:43,291
+But most important of all,
+I continue living up to my motto:
+
+146
+00:10:43,834 --> 00:10:44,960
+"Dignity.
+
+147
+00:10:45,378 --> 00:10:47,379
+Always dignity."
+
+148
+00:10:47,547 --> 00:10:48,797
+[CROWD CHEERlNG]
+
+149
+00:10:48,965 --> 00:10:49,965
+Thank you, Don.
+
+150
+00:10:50,216 --> 00:10:54,719
+And l'm sure you and Lina will continue
+making movie history tonight...
+
+151
+00:10:54,971 --> 00:10:59,724
+...in your greatest picture,
+The Royal Rascal.
+
+152
+00:11:00,184 --> 00:11:02,477
+[CROWD CHEERlNG]
+
+153
+00:11:03,521 --> 00:11:04,854
+Get enough, boys?
+
+154
+00:11:09,068 --> 00:11:10,944
+[ORCHESTRA MUSIC PLAYING]
+
+155
+00:11:20,121 --> 00:11:21,871
+[INAUDIBLE DIALOGUE]
+
+156
+00:11:42,268 --> 00:11:43,977
+She's so refined.. .
+
+157
+00:11:44,228 --> 00:11:46,563
+... I think I'll kill myself.
+
+158
+00:12:13,215 --> 00:12:15,884
+[APPLAUSE]
+
+159
+00:12:25,686 --> 00:12:29,898
+Thank you, ladies and gentlemen.
+Thank you, thank you, thank you.
+
+160
+00:12:31,901 --> 00:12:35,070
+We're thrilled at your response
+to The Royal Rascal.
+
+161
+00:12:35,321 --> 00:12:39,616
+We had fun making it, and we hope
+you had fun seeing it tonight.
+
+162
+00:12:39,784 --> 00:12:41,493
+[APPLAUSE]
+
+163
+00:12:42,536 --> 00:12:46,831
+We screen actors aren't much good
+at speaking in public.
+
+164
+00:12:47,083 --> 00:12:49,417
+So we'll just act out our thanks.
+
+165
+00:12:49,919 --> 00:12:52,087
+[APPLAUSE]
+
+166
+00:13:00,054 --> 00:13:03,014
+ROD: Hot diggity! It's a smash!
+R.F.: Don, Lina, you were gorgeous!
+
+167
+00:13:03,265 --> 00:13:05,141
+Lina, you looked pretty good for a girl.
+
+168
+00:13:05,309 --> 00:13:07,060
+[SCREECHY VOICE]
+What's the big idea?
+
+169
+00:13:07,311 --> 00:13:11,231
+Can't a girl get a word in edgewise?
+They're my public too!
+
+170
+00:13:11,482 --> 00:13:12,982
+The publicity department.. .
+
+171
+00:13:13,192 --> 00:13:16,861
+...thought it'd be better if Don
+made all the speeches for the team.
+
+172
+00:13:17,029 --> 00:13:18,029
+Why?
+
+173
+00:13:18,239 --> 00:13:21,366
+You're beautiful. Audiences think
+you got a voice to match.
+
+174
+00:13:21,575 --> 00:13:24,452
+We gotta keep our stars
+from looking ridiculous at any cost.
+
+175
+00:13:24,704 --> 00:13:28,957
+-No one's got that much money.
+-What's wrong with the way l talk?
+
+176
+00:13:29,208 --> 00:13:32,168
+Am I dumb or something?
+
+177
+00:13:32,378 --> 00:13:35,338
+No, it's just that Don's
+had so much more experience--
+
+178
+00:13:35,589 --> 00:13:39,050
+Next time, write me out a speech.
+I could memorize it.
+
+179
+00:13:39,301 --> 00:13:42,470
+Sure. Why don't you recite
+the Gettysburg Address?
+
+180
+00:13:42,680 --> 00:13:47,225
+What do you know about it,
+you piano player? Are you anybody?
+
+181
+00:13:47,476 --> 00:13:51,688
+Donnie, how can you let him talk
+to me like that, your fiancée?
+
+182
+00:13:51,981 --> 00:13:53,273
+My fia--
+
+183
+00:13:53,733 --> 00:13:57,110
+Lina, you've been reading
+those fan magazines again.
+
+184
+00:13:57,361 --> 00:14:00,530
+Look, you shouldn't believe
+all that banana oil.. .
+
+185
+00:14:00,740 --> 00:14:02,907
+...that Dora Bailey dishes out.
+
+186
+00:14:03,117 --> 00:14:07,120
+Now, try to get this straight:
+There is nothing between us.
+
+187
+00:14:07,371 --> 00:14:09,914
+There has never been
+anything between us.
+
+188
+00:14:10,124 --> 00:14:13,376
+-Just air.
+-Oh, Donnie, you don't mean that.
+
+189
+00:14:13,627 --> 00:14:15,545
+We'll be late for R.F.'s party.
+
+190
+00:14:15,796 --> 00:14:19,424
+Better go in separate cars
+to break up the mobs. Come on, honey.
+
+191
+00:14:19,633 --> 00:14:22,385
+Ta-ta, Donnie! See you there!
+
+192
+00:14:23,679 --> 00:14:24,679
+"Donnie."
+
+193
+00:14:25,181 --> 00:14:27,515
+Can't that girl take a gentle hint?
+
+194
+00:14:27,725 --> 00:14:31,019
+Haven't you heard? She's irresistible.
+She told me so.
+
+195
+00:14:31,270 --> 00:14:34,564
+I can't get her out of my hair.
+This romance for publicity... .
+
+196
+00:14:34,815 --> 00:14:37,275
+The price of fame.
+You've got the glory.
+
+197
+00:14:37,526 --> 00:14:39,360
+The little heartaches go with it.
+
+198
+00:14:39,528 --> 00:14:43,323
+Look at me. l got no glory.
+I got no fame. I got no mansions.
+
+199
+00:14:43,574 --> 00:14:46,075
+I got no money. But l've got--
+
+200
+00:14:46,535 --> 00:14:48,745
+-What have I got?
+-I don't know.
+
+201
+00:14:49,038 --> 00:14:50,580
+I gotta get out of here.
+
+202
+00:14:56,128 --> 00:14:57,670
+[TIRE BLOWS OUT]
+
+203
+00:14:59,340 --> 00:15:01,549
+Don't tell me. It's a flat tire.
+
+204
+00:15:01,801 --> 00:15:04,969
+This car hasn't given me trouble
+in nearly six hours.
+
+205
+00:15:05,179 --> 00:15:06,846
+GIRL 1 :
+Hey, there's Don Lockwood!
+
+206
+00:15:07,640 --> 00:15:08,973
+Hey, give me an autograph!
+
+207
+00:15:09,225 --> 00:15:12,602
+BOY 1 : Give me your autograph!
+BOY 2: I want a souvenir!
+
+208
+00:15:12,853 --> 00:15:14,479
+GIRL 2:
+I want a souvenir too!
+
+209
+00:15:14,730 --> 00:15:18,066
+DON: Hey! You're playing rough here!
+You're tearing my--!
+
+210
+00:15:18,609 --> 00:15:21,152
+Hey, Cos, do something!
+Call me a cab!
+
+211
+00:15:21,362 --> 00:15:22,487
+You're a cab.
+
+212
+00:15:23,155 --> 00:15:24,572
+Thanks a lot!
+
+213
+00:15:37,920 --> 00:15:38,920
+[KATHY SCREAMS]
+
+214
+00:15:39,088 --> 00:15:40,588
+-Lady, keep driving.
+-Get out!
+
+215
+00:15:40,798 --> 00:15:43,508
+-Everything's all right!
+-I'll call a policeman!
+
+216
+00:15:43,717 --> 00:15:45,426
+-Just a few blocks.
+-Don't hurt me!
+
+217
+00:15:45,636 --> 00:15:47,846
+-I'm not a criminal.
+-I don't care--
+
+218
+00:15:48,097 --> 00:15:51,683
+You are a criminal!
+I've seen that face. You're a gangster!
+
+219
+00:15:51,892 --> 00:15:55,311
+I've seen your picture in the paper
+or in the post office.
+
+220
+00:15:55,479 --> 00:15:56,521
+Officer!
+
+221
+00:15:56,730 --> 00:16:00,650
+-This man jumped in my car and--
+-Why, it's Don Lockwood!
+
+222
+00:16:00,901 --> 00:16:03,611
+-Don Lockwood?
+-How are you? Out for a joy ride?
+
+223
+00:16:03,863 --> 00:16:07,156
+Just a lift. My car broke down.
+I got surrounded by--
+
+224
+00:16:07,408 --> 00:16:10,034
+-You're a lucky lady. Anything wrong?
+-Why, no.
+
+225
+00:16:10,244 --> 00:16:12,161
+No, I should think not.
+Good night.
+
+226
+00:16:12,413 --> 00:16:14,038
+Good night, officer.
+
+227
+00:16:15,457 --> 00:16:19,460
+Well, thanks for saving my life.
+I'll get out now.
+
+228
+00:16:19,670 --> 00:16:22,630
+I'm driving to Beverly Hills.
+Can I drop you someplace?
+
+229
+00:16:22,840 --> 00:16:27,343
+I'd like to get out of this suit
+if you're going by Camden and Sunset.
+
+230
+00:16:27,553 --> 00:16:28,970
+Yes, I am.
+
+231
+00:16:32,933 --> 00:16:36,019
+I'd like to know whose
+hospitality I'm enjoying.
+
+232
+00:16:36,270 --> 00:16:38,021
+Selden. Kathy Selden.
+
+233
+00:16:38,272 --> 00:16:40,231
+Enchanted, Miss Selden.
+
+234
+00:16:40,524 --> 00:16:42,358
+I'm sorry I frightened you.
+
+235
+00:16:42,568 --> 00:16:45,820
+I was getting a little
+too much love from my fans.
+
+236
+00:16:46,071 --> 00:16:48,740
+Oh, that's what you were
+running away from.
+
+237
+00:16:48,991 --> 00:16:51,951
+They did that to you?
+That's terrible!
+
+238
+00:16:55,164 --> 00:16:57,290
+Yes. Yes, it is, isn't it?
+
+239
+00:16:57,541 --> 00:16:59,042
+It is terrible.
+
+240
+00:16:59,752 --> 00:17:02,503
+Well, we movie stars get the glory.. .
+
+241
+00:17:02,713 --> 00:17:06,341
+... I guess we have to take
+the little heartaches that go with it.
+
+242
+00:17:06,842 --> 00:17:10,762
+People think we lead lives
+of glamour and romance...
+
+243
+00:17:11,013 --> 00:17:12,847
+...but we're really lonely.
+
+244
+00:17:14,099 --> 00:17:15,391
+Terribly lonely.
+
+245
+00:17:15,601 --> 00:17:20,188
+I really can't tell you how sorry
+I am about taking you for a criminal.
+
+246
+00:17:20,397 --> 00:17:24,484
+But it was understandable, under
+the circumstances. I knew I'd seen you.
+
+247
+00:17:24,693 --> 00:17:27,195
+Which of my pictures have you seen?
+
+248
+00:17:27,363 --> 00:17:28,446
+I don't remember.
+
+249
+00:17:28,697 --> 00:17:30,448
+I saw one once.
+
+250
+00:17:31,241 --> 00:17:33,993
+-You saw one once?
+-I think you were dueling.
+
+251
+00:17:34,244 --> 00:17:36,204
+And there was a girl.
+Lina Lamont.
+
+252
+00:17:36,455 --> 00:17:38,247
+I don't go to the movies much.
+
+253
+00:17:38,457 --> 00:17:41,542
+If you've seen one,
+you've seen them all.
+
+254
+00:17:42,711 --> 00:17:43,711
+Thank you.
+
+255
+00:17:43,963 --> 00:17:45,129
+No offense.
+
+256
+00:17:45,381 --> 00:17:47,465
+Movies are entertaining
+for the masses...
+
+257
+00:17:47,716 --> 00:17:50,760
+...but the personalities
+on the screen don't impress me.
+
+258
+00:17:51,011 --> 00:17:54,639
+They don't talk or act.
+They just make a lot of dumb show.
+
+259
+00:17:54,890 --> 00:17:56,307
+Well, you know.
+
+260
+00:17:58,060 --> 00:17:59,060
+Like that.
+
+261
+00:17:59,770 --> 00:18:01,771
+You mean, like what I do.
+
+262
+00:18:02,523 --> 00:18:03,856
+Well, yes.
+
+263
+00:18:04,274 --> 00:18:07,026
+Here we are, Sunset and Camden.
+
+264
+00:18:08,862 --> 00:18:11,280
+Wait, you mean I'm not an actor?
+
+265
+00:18:11,490 --> 00:18:13,950
+-Pantomime isn't acting?
+-Of course not.
+
+266
+00:18:14,243 --> 00:18:17,745
+Acting means great parts,
+wonderful lines, glorious words.
+
+267
+00:18:17,913 --> 00:18:19,122
+Shakespeare. Ibsen.
+
+268
+00:18:19,373 --> 00:18:21,249
+What's your lofty mission in life...
+
+269
+00:18:21,500 --> 00:18:24,794
+...that lets you sneer
+at my humble profession?
+
+270
+00:18:25,004 --> 00:18:26,754
+I'm an actress. On the stage.
+
+271
+00:18:26,964 --> 00:18:28,506
+Oh, on the stage.
+
+272
+00:18:28,757 --> 00:18:31,134
+I'd like to see you.
+What're you in now?
+
+273
+00:18:31,385 --> 00:18:34,595
+I could brush up on my English
+or bring an interpreter.
+
+274
+00:18:35,014 --> 00:18:36,681
+That's if they'd let in a movie actor.
+
+275
+00:18:36,932 --> 00:18:39,767
+I'm not in a play now.
+But I'm going to New York--
+
+276
+00:18:39,977 --> 00:18:44,355
+You're going to New York, and someday
+we'll all hear of you, won't we?
+
+277
+00:18:44,565 --> 00:18:47,942
+Kathy Selden as Juliet,
+as Lady Macbeth, as King Lear!
+
+278
+00:18:48,193 --> 00:18:49,569
+You'll have to wear a beard!
+
+279
+00:18:49,820 --> 00:18:53,281
+Laugh if you want, but the stage
+is a dignified profession.
+
+280
+00:18:53,490 --> 00:18:55,408
+Why are you so conceited?
+
+281
+00:18:55,659 --> 00:18:59,704
+You're nothing but a shadow on film.
+You're not flesh and blood.
+
+282
+00:18:59,913 --> 00:19:02,331
+-Stop!
+-What can I do? I'm only a shadow.
+
+283
+00:19:02,541 --> 00:19:06,461
+Keep away from me! Just because
+you're a big movie star. ..
+
+284
+00:19:06,712 --> 00:19:10,423
+...you expect every girl to faint
+at your feet. Don't touch me!
+
+285
+00:19:10,632 --> 00:19:13,134
+Fear not, sweet lady.
+I will not molest you.
+
+286
+00:19:13,385 --> 00:19:18,347
+I am but a humble jester. And you?
+You are too far above me.
+
+287
+00:19:18,849 --> 00:19:20,641
+Farewell, Ethel Barrymore.
+
+288
+00:19:20,893 --> 00:19:23,978
+I must tear myself from your side.
+
+289
+00:19:24,146 --> 00:19:25,354
+[SUIT RIPPING]
+
+290
+00:19:25,522 --> 00:19:27,315
+[KATHY LAUGHING]
+
+291
+00:19:36,033 --> 00:19:39,952
+KATHY: Is this R.F. Simpson's house?
+I'm one of the Coconut Grove girls.
+
+292
+00:19:40,204 --> 00:19:44,415
+-Yes, the floor show. Around the back.
+-Oh, l see. Thank you.
+
+293
+00:19:47,377 --> 00:19:49,670
+[BAND PLAYING TANGO]
+
+294
+00:20:07,606 --> 00:20:09,982
+-Nice little party, R.F.
+-Thanks, Roscoe.
+
+295
+00:20:10,234 --> 00:20:13,236
+Do you really think
+you can get me in the movies?
+
+296
+00:20:13,487 --> 00:20:15,488
+-I should think so.
+-Really?
+
+297
+00:20:15,739 --> 00:20:19,367
+MAN: The picture's great.
+WOMAN: There's Don. I loved the picture.
+
+298
+00:20:19,660 --> 00:20:23,037
+COSMO: Did you come by way of Australia?
+DON: Hello, Cos. Excuse me.
+
+299
+00:20:23,288 --> 00:20:26,165
+Cos, tell me the truth.
+Am I a good actor?
+
+300
+00:20:26,416 --> 00:20:29,043
+As long as I work for Monumental,
+you're the greatest.
+
+301
+00:20:29,253 --> 00:20:31,629
+No kidding. You're my pal.
+You can tell me.
+
+302
+00:20:31,880 --> 00:20:34,048
+What's the matter?
+Of course, you're good.
+
+303
+00:20:34,258 --> 00:20:38,010
+Keep telling me from time to time.
+I feel a little shaken.
+
+304
+00:20:38,262 --> 00:20:39,762
+-The new Don Lockwood.
+R.F.: Don!
+
+305
+00:20:40,389 --> 00:20:43,558
+-Hi, R.F.
+-It's colossal. Where have you been?
+
+306
+00:20:43,809 --> 00:20:46,477
+There you are. Where were you?
+I was lonely.
+
+307
+00:20:46,645 --> 00:20:47,645
+Hello, Lina.
+
+308
+00:20:47,896 --> 00:20:49,397
+Okay, fellas. Hold it.
+
+309
+00:20:49,565 --> 00:20:50,565
+[MUSIC STOPS]
+
+310
+00:20:50,732 --> 00:20:53,359
+Together again, my two little stars,
+Don and Lina.
+
+311
+00:20:53,527 --> 00:20:55,736
+No kidding, folks, aren't they great?
+
+312
+00:20:58,240 --> 00:21:00,158
+All right, open that screen.
+
+313
+00:21:00,909 --> 00:21:04,495
+-A movie? We just saw one.
+-Gotta show one at a party. It's a law.
+
+314
+00:21:04,705 --> 00:21:07,415
+Everybody, I've got
+a few surprises for you.
+
+315
+00:21:07,624 --> 00:21:09,792
+All right, sit down, sit down.
+
+316
+00:21:10,085 --> 00:21:11,627
+This'll make you laugh.
+
+317
+00:21:11,920 --> 00:21:15,214
+There's a madman coming
+into my office for months, and--
+
+318
+00:21:15,549 --> 00:21:18,259
+-You got that gadget working?
+PROJECTIONIST: All set.
+
+319
+00:21:18,468 --> 00:21:20,344
+R.F.:
+Okay, let her go.
+
+320
+00:21:26,268 --> 00:21:27,727
+Hello.
+
+321
+00:21:28,353 --> 00:21:32,690
+This is a demonstration
+of a talking picture.
+
+322
+00:21:33,108 --> 00:21:37,945
+Notice, it is a picture of me
+and l am talking.
+
+323
+00:21:38,155 --> 00:21:42,325
+Note how my lips
+and the sound issuing from them...
+
+324
+00:21:42,534 --> 00:21:44,994
+...are synchronized together...
+
+325
+00:21:45,245 --> 00:21:47,997
+...in perfect unison.
+
+326
+00:21:48,790 --> 00:21:51,751
+-Who's that?
+-Somebody's talking behind that screen.
+
+327
+00:21:51,960 --> 00:21:54,337
+Come out from behind
+that screen, Mr. Simpson.
+
+328
+00:21:54,630 --> 00:21:56,214
+Oh, no. I'm right here.
+
+329
+00:21:59,218 --> 00:22:02,762
+My voice has been recorded on a record.
+
+330
+00:22:03,055 --> 00:22:05,056
+A talking picture.
+
+331
+00:22:05,682 --> 00:22:07,099
+Thank you.
+
+332
+00:22:07,351 --> 00:22:08,476
+Goodbye.
+
+333
+00:22:12,105 --> 00:22:13,105
+Well?
+
+334
+00:22:13,649 --> 00:22:16,192
+-It's just a toy.
+-It's a scream!
+
+335
+00:22:16,485 --> 00:22:19,403
+-It's vulgar.
+-You think they'll ever use it?
+
+336
+00:22:19,655 --> 00:22:23,616
+I doubt it. Warners is making
+a picture with it, The Jazz Singer.
+
+337
+00:22:23,825 --> 00:22:27,119
+-They'll lose their shirts.
+-It'll never amount to a thing.
+
+338
+00:22:27,329 --> 00:22:29,121
+They said that about
+the horseless carriage.
+
+339
+00:22:29,331 --> 00:22:31,499
+Let's get on with the show.
+Okay, boys.
+
+340
+00:22:31,750 --> 00:22:33,751
+Come on, my little starlets.
+
+341
+00:22:34,169 --> 00:22:36,504
+R.F.: I have a surprise.
+A very special cake.
+
+342
+00:22:36,713 --> 00:22:39,382
+I want you kiddies
+to have the first piece.
+
+343
+00:22:41,301 --> 00:22:43,678
+[CROWD APPLAUDS]
+
+344
+00:22:44,888 --> 00:22:47,848
+Well! If it isn't Ethel Barrymore!
+
+345
+00:22:53,689 --> 00:22:58,818
+I do hope you'll favor us with something
+special. Say, Hamlet's soliloquy...
+
+346
+00:22:59,027 --> 00:23:02,154
+...or a scene from Romeo and Juliet?
+Don't be shy.
+
+347
+00:23:02,406 --> 00:23:06,284
+You make about the prettiest Juliet
+I've ever seen. Really.
+
+348
+00:23:09,621 --> 00:23:13,040
+[SINGING] All I do is dream ofyou
+The whole night through
+
+349
+00:23:13,667 --> 00:23:17,253
+With the dawn l still go on
+Dreaming of you
+
+350
+00:23:17,546 --> 00:23:19,672
+You're every thought
+You're everything
+
+351
+00:23:19,923 --> 00:23:21,340
+You're every song I ever sing
+
+352
+00:23:21,591 --> 00:23:25,261
+Summer, winter, autumn and spring
+
+353
+00:23:25,470 --> 00:23:29,265
+And were there more than
+Twenty-four hours a day
+
+354
+00:23:29,725 --> 00:23:33,185
+They'd be spent in sweet content
+Dreaming away
+
+355
+00:23:33,603 --> 00:23:35,563
+When skies are gray
+When skies are blue
+
+356
+00:23:35,772 --> 00:23:37,565
+Morning, noon and nighttime too
+
+357
+00:23:37,774 --> 00:23:41,777
+All l do the whole day through
+ls dream of you
+
+358
+00:24:04,009 --> 00:24:05,593
+lt's the cat's meow!
+
+359
+00:24:09,139 --> 00:24:12,975
+All l do the whole day through
+ls dream of you
+
+360
+00:24:13,268 --> 00:24:15,728
+-I had to tell you how good you were.
+-Excuse me.
+
+361
+00:24:15,979 --> 00:24:19,398
+Now that I know where you live,
+I'd like to see you home.
+
+362
+00:24:19,649 --> 00:24:23,110
+-Listen, Mr. Lockwood--
+-Say, who is this dame anyway?
+
+363
+00:24:23,320 --> 00:24:26,155
+Someone lofty and far above us all.
+
+364
+00:24:26,365 --> 00:24:30,743
+She couldn't learn anything from
+the movies. She's a stage actress.
+
+365
+00:24:30,994 --> 00:24:34,121
+Here's one thing I've learned
+from the movies!
+
+366
+00:24:34,998 --> 00:24:37,917
+[LINA SOB AND SCREAMS]
+
+367
+00:24:38,335 --> 00:24:41,170
+-I'll kill her!
+-Lina, she was aiming at me!
+
+368
+00:24:41,421 --> 00:24:43,923
+-You never looked lovelier.
+-It was an accident.
+
+369
+00:24:44,174 --> 00:24:46,217
+It happens to me
+five or six times a day.
+
+370
+00:24:46,468 --> 00:24:47,718
+Where is she?
+
+371
+00:24:48,553 --> 00:24:49,637
+Donnie?
+
+372
+00:24:51,473 --> 00:24:52,473
+[WOMEN SCREAM]
+
+373
+00:24:52,641 --> 00:24:54,725
+Excuse me.
+Where'd Miss Selden go?
+
+374
+00:24:54,976 --> 00:24:58,521
+She grabbed her things and bolted.
+Anything I can do?
+
+375
+00:24:58,772 --> 00:25:01,399
+Sorry. I don't have time to find out.
+
+376
+00:25:04,653 --> 00:25:05,653
+Kathy!
+
+377
+00:25:05,862 --> 00:25:07,154
+Hey, Kathy!
+
+378
+00:25:09,324 --> 00:25:10,491
+Hey!
+
+379
+00:25:36,726 --> 00:25:39,562
+DIRECTOR 1 : Keep that action going.
+More steam in the kettle!
+
+380
+00:25:39,813 --> 00:25:41,981
+More action, boys.
+A little more rhythm.
+
+381
+00:25:42,232 --> 00:25:43,941
+More steam and more water.
+
+382
+00:25:44,401 --> 00:25:45,943
+-Hi, Maxie.
+MAXIE: Hi, Don.
+
+383
+00:25:47,112 --> 00:25:48,863
+-Good morning, fellas.
+-Hiya, Don.
+
+384
+00:25:49,114 --> 00:25:50,823
+Did you read Variety today?
+
+385
+00:25:51,032 --> 00:25:54,785
+"First talking picture, The Jazz Singer.
+All-time smash end of first week."
+
+386
+00:25:54,995 --> 00:25:57,955
+-All-time flop end of the second.
+-We start today.
+
+387
+00:25:58,206 --> 00:25:59,290
+-Good luck.
+-Thanks.
+
+388
+00:25:59,541 --> 00:26:03,127
+I'm now Count Pierre de Bataille,
+known as the Duelling Cavalier.
+
+389
+00:26:03,378 --> 00:26:05,963
+-What's it about?
+-It's a French Revolution story.
+
+390
+00:26:06,214 --> 00:26:07,923
+You're a French aristocrat.
+
+391
+00:26:08,216 --> 00:26:11,594
+She's a simple girl of the people
+and won't even give you a tumble.
+
+392
+00:26:11,803 --> 00:26:13,637
+Well, it's a living.
+
+393
+00:26:14,514 --> 00:26:15,723
+COSMO:
+Good morning.
+
+394
+00:26:16,516 --> 00:26:18,476
+DIRECTOR 2: Keep the background moving.
+Hit him.
+
+395
+00:26:18,727 --> 00:26:20,060
+Come on. Knock him down!
+
+396
+00:26:20,270 --> 00:26:22,813
+Get up there and hit him again.
+Hurry up!
+
+397
+00:26:23,064 --> 00:26:26,358
+Why bother to shoot this?
+Release the old one under a new title.
+
+398
+00:26:26,610 --> 00:26:28,944
+You've seen one, you've seen them all.
+
+399
+00:26:29,112 --> 00:26:31,238
+-Why'd you say that?
+-What's the matter?
+
+400
+00:26:31,448 --> 00:26:34,241
+That's what that Kathy Selden
+said to me that night.
+
+401
+00:26:34,451 --> 00:26:37,620
+That's three weeks ago.
+You still thinking about that?
+
+402
+00:26:37,996 --> 00:26:41,499
+-I can't get her out of my mind.
+-How could you?
+
+403
+00:26:41,750 --> 00:26:44,960
+She's the first dame who hasn't
+fallen for you since you were 4.
+
+404
+00:26:45,253 --> 00:26:46,587
+She's on my conscience.
+
+405
+00:26:46,838 --> 00:26:48,672
+It's not your fault she lost her job.
+
+406
+00:26:48,882 --> 00:26:51,175
+-I've got to find her.
+-You've been trying to.
+
+407
+00:26:51,384 --> 00:26:53,677
+Short of sending out
+bloodhounds and a posse.
+
+408
+00:26:53,929 --> 00:26:55,471
+Come on, now.
+Snap out of it.
+
+409
+00:26:55,764 --> 00:26:57,473
+You can't let this get you down.
+
+410
+00:26:57,766 --> 00:27:01,101
+You're Donald Lockwood.
+Donald Lockwood's an actor, isn't he?
+
+411
+00:27:01,311 --> 00:27:03,187
+What's the first thing
+an actor learns?
+
+412
+00:27:03,396 --> 00:27:08,526
+"The show must go on, come rain,
+come shine, come snow, come sleet!"
+
+413
+00:27:09,069 --> 00:27:12,488
+[SPEAKS IN ITALIAN]
+
+414
+00:27:12,656 --> 00:27:13,697
+Yeah.
+
+415
+00:27:14,157 --> 00:27:16,033
+The world's so full
+Of a number of things
+
+416
+00:27:16,284 --> 00:27:18,619
+l'm sure we should all
+Be as happy as--
+
+417
+00:27:18,870 --> 00:27:20,371
+But are we? No
+
+418
+00:27:20,622 --> 00:27:21,622
+Definitely, no
+
+419
+00:27:21,831 --> 00:27:24,333
+Positively, no
+Decidedly, no
+
+420
+00:27:27,128 --> 00:27:29,171
+Short people have long faces
+
+421
+00:27:29,422 --> 00:27:31,215
+Long people have short faces
+
+422
+00:27:31,424 --> 00:27:34,385
+Big people have little humor
+Little people have no humor at all
+
+423
+00:27:34,553 --> 00:27:35,594
+[DON CHUCKLES]
+
+424
+00:27:35,762 --> 00:27:38,931
+ln the words of that immortal bard
+Samuel J. Snodgrass
+
+425
+00:27:39,140 --> 00:27:41,517
+As he was being led
+To the guillotine
+
+426
+00:27:42,519 --> 00:27:45,396
+[SINGING] Make 'em laugh
+Make 'em laugh
+
+427
+00:27:45,605 --> 00:27:48,315
+Don't you know everyone wants to laugh
+Ha, ha
+
+428
+00:27:48,984 --> 00:27:51,735
+My dad said, "Be an actor, my son
+
+429
+00:27:52,362 --> 00:27:54,405
+But be a comical one"
+
+430
+00:27:54,656 --> 00:27:57,408
+They'll be standin' in lines
+
+431
+00:27:57,701 --> 00:28:00,828
+For those old honky-tonk monkeyshines
+
+432
+00:28:01,121 --> 00:28:03,956
+Now you could study Shakespeare
+And be quite elite
+
+433
+00:28:04,207 --> 00:28:06,875
+And you could charm the critics
+And have nothing to eat
+
+434
+00:28:07,085 --> 00:28:09,837
+Just slip on a banana peel
+The world's at your feet
+
+435
+00:28:10,088 --> 00:28:11,589
+Make 'em laugh
+Make 'em laugh
+
+436
+00:28:11,756 --> 00:28:12,756
+Make 'em laugh
+
+437
+00:28:12,924 --> 00:28:13,924
+Make--?
+
+438
+00:28:14,551 --> 00:28:15,843
+Make 'em laugh
+
+439
+00:28:16,052 --> 00:28:19,346
+Don't you know everyone wants to laugh?
+
+440
+00:28:19,556 --> 00:28:22,474
+My Grandpa said,
+"Go out and tell 'em a joke
+
+441
+00:28:23,143 --> 00:28:25,436
+but give it plenty of hoke"
+
+442
+00:28:25,687 --> 00:28:28,188
+Make 'em roar
+Make 'em scream
+
+443
+00:28:28,440 --> 00:28:31,525
+Take a fall, butt a wall
+Split a seam
+
+444
+00:28:31,776 --> 00:28:34,612
+You start off by pretending
+You're a dancer with grace
+
+445
+00:28:34,863 --> 00:28:37,656
+You wiggle till they're giggling
+All over the place
+
+446
+00:28:37,907 --> 00:28:40,492
+And then you get
+A great big custard pie in the face
+
+447
+00:28:40,744 --> 00:28:42,119
+Make 'em laugh
+Make 'em laugh
+
+448
+00:28:42,370 --> 00:28:46,707
+Make 'em laugh
+
+449
+00:28:46,916 --> 00:28:48,208
+Don't ya--
+All the--
+
+450
+00:28:48,376 --> 00:28:49,460
+What--?
+
+451
+00:28:50,295 --> 00:28:51,378
+My Dad--
+
+452
+00:28:55,967 --> 00:28:58,927
+They'll be standing in lines
+
+453
+00:28:59,179 --> 00:29:02,431
+For those old honky-tonk monkeyshines
+
+454
+00:29:04,309 --> 00:29:05,476
+[CHUCKLES]
+
+455
+00:30:15,213 --> 00:30:18,298
+Make 'em laugh
+Make 'em laugh
+
+456
+00:30:18,550 --> 00:30:20,968
+Don't you know everyone--
+
+457
+00:30:21,970 --> 00:30:24,054
+[LAUGHING]
+
+458
+00:30:30,770 --> 00:30:31,895
+Make 'em laugh
+
+459
+00:30:32,147 --> 00:30:33,355
+[LAUGHS]
+
+460
+00:30:35,024 --> 00:30:36,150
+Make 'em laugh
+
+461
+00:30:36,317 --> 00:30:37,484
+[LAUGHS]
+
+462
+00:30:39,070 --> 00:30:40,487
+Make 'em laugh
+
+463
+00:30:41,114 --> 00:30:42,406
+[LAUGHING]
+
+464
+00:30:42,657 --> 00:30:43,782
+[SCREAMS]
+
+465
+00:30:44,200 --> 00:30:47,286
+Make 'em laugh
+Make 'em laugh
+
+466
+00:30:47,537 --> 00:30:50,330
+Make 'em laugh
+
+467
+00:30:56,713 --> 00:30:57,713
+Ready, Don?
+
+468
+00:30:58,006 --> 00:30:59,798
+-All set.
+-Here we go again.
+
+469
+00:31:00,008 --> 00:31:02,509
+-We have another smash on our hands.
+-I hope so.
+
+470
+00:31:02,761 --> 00:31:04,011
+You're darn tooting we have.
+
+471
+00:31:04,220 --> 00:31:06,847
+-Where's Lina?
+-Here she is, Mr. Dexter.
+
+472
+00:31:07,098 --> 00:31:10,017
+DEXTER: Well! Here comes our
+lovely leading lady now.
+
+473
+00:31:10,185 --> 00:31:13,520
+This wig weighs a ton.
+What dope'd wear a thing like this?
+
+474
+00:31:13,730 --> 00:31:15,022
+Everybody wore them.
+
+475
+00:31:15,190 --> 00:31:16,857
+Then everybody was a dope.
+
+476
+00:31:17,066 --> 00:31:18,942
+-You look beautiful.
+-You look great.
+
+477
+00:31:19,152 --> 00:31:21,028
+Let's get into the set.
+
+478
+00:31:21,738 --> 00:31:22,738
+Thanks, Joe.
+
+479
+00:31:22,947 --> 00:31:26,825
+I looked for you at Wally Ray's party.
+Where were you?
+
+480
+00:31:27,035 --> 00:31:28,577
+I've been busy.
+
+481
+00:31:28,828 --> 00:31:31,872
+And l know what you've been busy at.
+Looking for that girl.
+
+482
+00:31:32,081 --> 00:31:34,291
+-As a matter of fact, yes.
+LINA: Why?
+
+483
+00:31:34,542 --> 00:31:35,793
+I've been worried about her.
+
+484
+00:31:36,044 --> 00:31:37,961
+You should've been worried about me.
+
+485
+00:31:38,213 --> 00:31:41,089
+I'm the one who got
+the whipped cream in the kisser.
+
+486
+00:31:41,341 --> 00:31:43,759
+Yes, but you didn't
+lose your job, and she did.
+
+487
+00:31:43,968 --> 00:31:46,970
+Darn tooting she did.
+I arranged it.
+
+488
+00:31:47,138 --> 00:31:48,138
+What?
+
+489
+00:31:48,348 --> 00:31:51,725
+They weren't gonna fire her,
+so I told them they better.
+
+490
+00:31:51,976 --> 00:31:53,644
+-Why--
+-Don, now remember.
+
+491
+00:31:53,853 --> 00:31:57,606
+You're madly in love with her
+and you have to overcome her shyness.
+
+492
+00:31:57,899 --> 00:32:00,651
+Cosmo, mood music.
+
+493
+00:32:02,403 --> 00:32:03,779
+Roll 'em!
+
+494
+00:32:05,323 --> 00:32:06,740
+Okay, Don.
+
+495
+00:32:06,991 --> 00:32:08,158
+Now enter.
+
+496
+00:32:09,410 --> 00:32:10,494
+You see her.
+
+497
+00:32:10,745 --> 00:32:12,329
+Run to her!
+
+498
+00:32:17,126 --> 00:32:20,879
+Why, you rattlesnake, you.
+You got that poor kid fired.
+
+499
+00:32:21,089 --> 00:32:25,092
+That's not all I'm gonna do
+if I ever get my hands on her.
+
+500
+00:32:25,343 --> 00:32:27,719
+I never heard of anything so low.
+
+501
+00:32:27,929 --> 00:32:29,388
+Fine. Fine. Looks great.
+
+502
+00:32:30,223 --> 00:32:31,765
+What did you do it for?
+
+503
+00:32:32,016 --> 00:32:35,102
+Because you liked her. I could tell.
+
+504
+00:32:35,311 --> 00:32:36,770
+So that's it.
+
+505
+00:32:37,021 --> 00:32:41,233
+Believe me, I don't like her
+half as much as I hate you.
+
+506
+00:32:41,484 --> 00:32:42,985
+You reptile.
+
+507
+00:32:43,236 --> 00:32:45,988
+Sticks and stones may break my bones.
+
+508
+00:32:46,197 --> 00:32:48,282
+I'd like to break every bone
+in your body.
+
+509
+00:32:48,491 --> 00:32:50,784
+You and who else, you big lummox?
+
+510
+00:32:51,369 --> 00:32:52,452
+Now kiss her, Don.
+
+511
+00:32:54,289 --> 00:32:56,164
+That's it. More.
+
+512
+00:32:56,374 --> 00:32:58,667
+Great! Cut!
+
+513
+00:32:59,836 --> 00:33:04,006
+You couldn't kiss me like that and
+not mean it just a teensy-weensy bit.
+
+514
+00:33:04,215 --> 00:33:07,384
+Meet the world's greatest actor.
+I'd rather kiss a tarantula!
+
+515
+00:33:07,635 --> 00:33:09,511
+-You don't mean that!
+-I don't--?
+
+516
+00:33:09,762 --> 00:33:11,972
+Joe, bring me a tarantula.
+Now listen--
+
+517
+00:33:12,181 --> 00:33:14,892
+Stop that chitchat, you lovebirds.
+Let's get another take.
+
+518
+00:33:15,059 --> 00:33:16,101
+R.F.:
+Hold it.
+
+519
+00:33:16,477 --> 00:33:18,145
+-Hold it, Dexter!
+ACTRESS: Hello, Mr. Simpson.
+
+520
+00:33:18,313 --> 00:33:19,521
+We're really rolling.
+
+521
+00:33:19,772 --> 00:33:22,024
+Well, you can stop rolling at once.
+
+522
+00:33:22,233 --> 00:33:23,984
+All right, everybody! Save it!
+
+523
+00:33:24,193 --> 00:33:26,862
+Save it? Tell them to go home.
+We're shutting down.
+
+524
+00:33:27,071 --> 00:33:28,655
+Don't stand there.
+Tell them!
+
+525
+00:33:28,907 --> 00:33:31,491
+Go home until further notice!
+What is this?
+
+526
+00:33:31,659 --> 00:33:32,659
+What's the matter?
+
+527
+00:33:32,827 --> 00:33:34,995
+The Jazz Singer,
+that's what's the matter.
+
+528
+00:33:35,204 --> 00:33:38,498
+[SlNGS] Oh, my darling little mammy
+Down in Alabamy
+
+529
+00:33:38,708 --> 00:33:42,169
+This is no joke. It's a sensation.
+The public's screaming for more.
+
+530
+00:33:42,378 --> 00:33:44,713
+-More what?
+-Talking pictures.
+
+531
+00:33:44,923 --> 00:33:48,091
+-It's just a freak.
+-We should have such a freak.
+
+532
+00:33:48,301 --> 00:33:51,678
+I said talking pictures were a menace,
+but no one would listen.
+
+533
+00:33:51,846 --> 00:33:56,224
+We're going to make
+The Duelling Cavalier into a talking picture.
+
+534
+00:33:56,434 --> 00:33:58,185
+That means I'm out of a job.
+
+535
+00:33:58,394 --> 00:34:00,187
+I can start suffering
+and write that symphony.
+
+536
+00:34:00,438 --> 00:34:03,106
+We'll put you in as head
+of the music department.
+
+537
+00:34:03,358 --> 00:34:06,318
+Thanks. I can stop suffering
+and write that symphony.
+
+538
+00:34:06,527 --> 00:34:09,279
+Wait a second. Talking pictures!
+You should wait--
+
+539
+00:34:09,489 --> 00:34:11,823
+Every studio's jumping
+on the bandwagon.
+
+540
+00:34:12,033 --> 00:34:14,576
+All the theaters are putting in
+sound equipment.
+
+541
+00:34:14,827 --> 00:34:16,286
+We know nothing about it.
+
+542
+00:34:16,496 --> 00:34:18,080
+What do you have to know?
+
+543
+00:34:18,289 --> 00:34:21,416
+You do what you always did.
+You just add talking to it.
+
+544
+00:34:21,709 --> 00:34:23,543
+Believe me, it'll be a sensation.
+
+545
+00:34:23,920 --> 00:34:26,838
+"Lamont and Lockwood. They talk!"
+
+546
+00:34:27,048 --> 00:34:30,217
+Well, of course we talk.
+Don't everybody?
+
+547
+00:34:43,648 --> 00:34:46,441
+[HUMMING]
+
+548
+00:34:47,568 --> 00:34:49,361
+MEN [SINGING]: I got a feeling
+You're fooling
+
+549
+00:34:49,570 --> 00:34:51,279
+l got a feeling
+You're havin' fun
+
+550
+00:34:51,531 --> 00:34:54,366
+I get the go-by
+When you are done foolin' with me
+
+551
+00:34:54,575 --> 00:34:57,411
+WOMEN [SINGING]: It's a holiday
+Today's The Wedding of the Painted Doll
+
+552
+00:34:58,246 --> 00:34:59,955
+It's a jolly day
+The news is spreading
+
+553
+00:35:00,164 --> 00:35:04,001
+Should I reveal exactly how I feel
+
+554
+00:35:04,252 --> 00:35:06,044
+Should I confess
+
+555
+00:35:06,212 --> 00:35:08,130
+[WOMEN HUMMING]
+
+556
+00:35:08,297 --> 00:35:11,091
+l got a feeling you're fooling
+l got a feeling you're
+
+557
+00:35:11,259 --> 00:35:12,634
+[WOMEN HUMMING]
+
+558
+00:35:12,802 --> 00:35:14,302
+It's a holiday
+Today's The Wedding
+
+559
+00:35:14,512 --> 00:35:16,054
+Should I reveal
+
+560
+00:35:16,305 --> 00:35:17,889
+Exactly how l feel
+
+561
+00:35:18,057 --> 00:35:20,517
+[WOMEN HUMMING]
+
+562
+00:35:24,647 --> 00:35:25,647
+Should I reveal
+
+563
+00:35:25,940 --> 00:35:28,108
+[ALL HUMMING]
+
+564
+00:35:29,861 --> 00:35:33,405
+[SINGING] Beautiful girl
+You're a lovely picture
+
+565
+00:35:33,656 --> 00:35:37,117
+Beautiful girl
+You're a gorgeous mixture
+
+566
+00:35:37,368 --> 00:35:41,997
+Of all that lies
+Under the big blue sky
+
+567
+00:35:42,957 --> 00:35:44,499
+My heart cries
+
+568
+00:35:44,709 --> 00:35:46,501
+Who's that? She looks familiar.
+
+569
+00:35:46,961 --> 00:35:48,462
+You're a dazzling eyeful
+
+570
+00:35:48,629 --> 00:35:51,131
+I featured her before,
+in lots of nightclub shows.
+
+571
+00:35:51,340 --> 00:35:52,424
+I've seen her there.
+
+572
+00:35:52,633 --> 00:35:54,384
+She'd be good as Zelda's sister.
+
+573
+00:35:54,594 --> 00:35:57,137
+-That's a good idea.
+-Excuse me.
+
+574
+00:35:58,389 --> 00:36:03,185
+There may be blondes and brunettes
+That are hard to resist
+
+575
+00:36:03,394 --> 00:36:06,313
+You surpass them like a queen
+
+576
+00:36:07,356 --> 00:36:10,734
+You've got those lips
+That were meant to be kissed
+
+577
+00:36:10,985 --> 00:36:13,653
+And you're over sweet 1 6
+
+578
+00:36:15,031 --> 00:36:18,617
+Beautiful girl
+What a gorgeous creature
+
+579
+00:36:18,826 --> 00:36:22,370
+Beautiful girl
+Let me call a preacher
+
+580
+00:36:22,622 --> 00:36:24,372
+What can l do
+
+581
+00:36:24,624 --> 00:36:28,543
+But give my heart to you?
+
+582
+00:36:30,505 --> 00:36:35,133
+A beautiful girl
+ls like a great work of art
+
+583
+00:36:35,384 --> 00:36:38,345
+She's stylish
+She's chic
+
+584
+00:36:39,347 --> 00:36:43,433
+And she also is smart
+
+585
+00:36:45,853 --> 00:36:48,480
+For lounging in her boudoir
+
+586
+00:36:48,731 --> 00:36:51,691
+This simple plain pajama
+
+587
+00:36:52,902 --> 00:36:55,862
+Her cloak is trimmed with monkey fur
+
+588
+00:36:56,114 --> 00:36:58,365
+To lend a dash of drama
+
+589
+00:36:59,867 --> 00:37:01,368
+Anyone for tennis?
+
+590
+00:37:01,577 --> 00:37:04,538
+Well, this will make them cringe
+
+591
+00:37:06,249 --> 00:37:08,291
+And you'll knock 'em dead at dinner
+
+592
+00:37:08,543 --> 00:37:11,920
+lf your gown just drips with fringe
+
+593
+00:37:13,381 --> 00:37:18,176
+You simply can't be too modest
+At the beach or by the pool
+
+594
+00:37:19,679 --> 00:37:22,472
+And in summertime, it's organdy
+
+595
+00:37:22,723 --> 00:37:25,475
+That'll keep you fresh and cool
+
+596
+00:37:26,602 --> 00:37:28,937
+You'd never guess what loud applause
+
+597
+00:37:29,188 --> 00:37:32,440
+This cunning hat receives
+
+598
+00:37:33,025 --> 00:37:36,736
+And you'd never dream the things
+That you could hide
+
+599
+00:37:36,988 --> 00:37:39,281
+Within these sleeves
+
+600
+00:37:39,615 --> 00:37:42,701
+A string of pearls with a suit of tweed
+
+601
+00:37:42,952 --> 00:37:45,579
+lt's started quite a riot
+
+602
+00:37:46,497 --> 00:37:49,332
+And if you must wear fox to the opera
+
+603
+00:37:49,542 --> 00:37:52,919
+Dame Fashion says, "Dye it"
+
+604
+00:37:53,421 --> 00:37:56,047
+Black is best when you're in court
+
+605
+00:37:56,299 --> 00:38:00,302
+The judge will be impressed
+
+606
+00:38:00,761 --> 00:38:05,182
+But white is right when you're a bride
+
+607
+00:38:05,433 --> 00:38:10,562
+And you want to be well-dressed
+
+608
+00:38:12,940 --> 00:38:15,233
+Beautiful girl
+
+609
+00:38:16,527 --> 00:38:19,154
+For you l've got a passion
+
+610
+00:38:19,447 --> 00:38:21,823
+Beautiful girl
+
+611
+00:38:23,075 --> 00:38:25,827
+You're my queen of fashion
+
+612
+00:38:26,037 --> 00:38:28,371
+l'm in a whirl
+
+613
+00:38:30,374 --> 00:38:31,666
+Over
+
+614
+00:38:32,168 --> 00:38:37,297
+My beautiful girl
+
+615
+00:38:46,557 --> 00:38:48,308
+-That's stupendous!
+-Thanks.
+
+616
+00:38:48,476 --> 00:38:49,476
+Kathy, come here.
+
+617
+00:38:49,644 --> 00:38:51,978
+This will start a trend
+in musical pictures.
+
+618
+00:38:52,146 --> 00:38:55,190
+Mr. Simpson's thinking about
+casting you as Zelda's sister.
+
+619
+00:38:55,399 --> 00:38:56,691
+That's wonderful!
+
+620
+00:38:56,901 --> 00:38:58,151
+DON:
+Hey, Kathy!
+
+621
+00:38:58,486 --> 00:38:59,736
+That's Kathy Selden.
+
+622
+00:38:59,987 --> 00:39:01,488
+Thanks anyway.
+It was nice of you.
+
+623
+00:39:01,739 --> 00:39:03,615
+R.F.: Wait a minute.
+-That's all right.
+
+624
+00:39:03,824 --> 00:39:06,743
+Before Mr. Lockwood refreshes
+your memory, you may as well know.. .
+
+625
+00:39:06,994 --> 00:39:11,998
+... I'm the girl who hit Miss Lamont with
+a cake. It was meant for Mr. Lockwood.
+
+626
+00:39:12,208 --> 00:39:14,251
+Goodbye. I'm sorry.
+I should've told you.
+
+627
+00:39:14,502 --> 00:39:16,544
+Wait a minute.
+What's this all about?
+
+628
+00:39:16,796 --> 00:39:20,090
+We were gonna use her, but if
+it'd make you and Lina unhappy--
+
+629
+00:39:20,341 --> 00:39:22,050
+Unhappy? It's wonderful.
+
+630
+00:39:22,301 --> 00:39:23,802
+He's been looking for her!
+
+631
+00:39:24,053 --> 00:39:25,553
+Are you speaking for Lina also?
+
+632
+00:39:25,763 --> 00:39:28,807
+The owner of the Coconut Grove
+may do what Lina tells him. ..
+
+633
+00:39:29,016 --> 00:39:31,810
+-...but you're the head of this studio.
+-Yes, I am.
+
+634
+00:39:32,019 --> 00:39:34,729
+She's hired.
+Don't let Lina know she's on the lot.
+
+635
+00:39:34,897 --> 00:39:35,897
+Take care of that.
+
+636
+00:39:36,148 --> 00:39:37,190
+Thank you, Mr. Simpson!
+
+637
+00:39:37,441 --> 00:39:41,194
+I'm glad you turned up.
+We've been looking inside every cake in town.
+
+638
+00:39:42,863 --> 00:39:44,948
+Is it all right for you
+to be seen with me?
+
+639
+00:39:45,157 --> 00:39:47,826
+You mean, lofty star with humble player?
+
+640
+00:39:48,077 --> 00:39:52,372
+Not exactly. But for lunch, don't you
+tear a pheasant with Miss Lamont?
+
+641
+00:39:52,581 --> 00:39:56,668
+Look, Kathy. All that stuff
+about Lina and me is sheer publicity.
+
+642
+00:39:56,919 --> 00:39:59,462
+Oh? Certainly seems more than that.. .
+
+643
+00:39:59,714 --> 00:40:02,924
+...from what I've read in all
+those articles in the fan magazines.
+
+644
+00:40:03,092 --> 00:40:07,679
+Ohh, you read the fan magazines?
+
+645
+00:40:07,930 --> 00:40:11,141
+I pick them up in the beauty
+parlor or the dentist's office...
+
+646
+00:40:11,350 --> 00:40:13,059
+...just like anybody.
+
+647
+00:40:13,227 --> 00:40:14,477
+Honest?
+
+648
+00:40:16,397 --> 00:40:17,856
+I buy four or five a month.
+
+649
+00:40:18,107 --> 00:40:19,566
+You buy four or five.. .?
+
+650
+00:40:19,734 --> 00:40:20,775
+[CHUCKLES]
+
+651
+00:40:20,943 --> 00:40:22,819
+To get back to the main point.. .
+
+652
+00:40:23,070 --> 00:40:25,947
+...you achieve a kind of intimacy
+in all your pictures--
+
+653
+00:40:26,157 --> 00:40:28,867
+Did you say all my pictures?
+
+654
+00:40:31,245 --> 00:40:34,122
+Now that I think of it,
+I've seen eight or nine of them.
+
+655
+00:40:34,373 --> 00:40:35,373
+Eight or nine.
+
+656
+00:40:35,624 --> 00:40:38,293
+It seems to me
+I remember someone saying:
+
+657
+00:40:38,586 --> 00:40:41,796
+"If you've seen one,
+you've seen them all."
+
+658
+00:40:43,507 --> 00:40:46,593
+I did say some awful things
+that night, didn't I?
+
+659
+00:40:47,094 --> 00:40:49,512
+No, I deserved them.
+
+660
+00:40:49,722 --> 00:40:53,266
+Of course, I must admit
+I was pretty much upset by them.
+
+661
+00:40:53,851 --> 00:40:58,897
+So upset that I haven't been able
+to think of anything but you ever since.
+
+662
+00:40:59,815 --> 00:41:01,107
+Honest?
+
+663
+00:41:02,443 --> 00:41:03,693
+Honest.
+
+664
+00:41:05,363 --> 00:41:08,281
+Well, I've been pretty upset too.
+
+665
+00:41:08,449 --> 00:41:09,824
+Kathy.. ..
+
+666
+00:41:10,034 --> 00:41:11,868
+Kathy, look, I ....
+
+667
+00:41:12,119 --> 00:41:14,746
+Kathy, seeing you again now that I ... .
+
+668
+00:41:18,667 --> 00:41:21,628
+I'm trying to say
+something to you, but I.. ..
+
+669
+00:41:21,879 --> 00:41:23,505
+I'm such a ham.
+
+670
+00:41:23,714 --> 00:41:26,466
+I guess I'm not able to
+without the proper setting.
+
+671
+00:41:26,634 --> 00:41:27,634
+What do you mean?
+
+672
+00:41:27,802 --> 00:41:29,135
+Well.. ..
+
+673
+00:41:30,471 --> 00:41:31,846
+Come here.
+
+674
+00:41:40,231 --> 00:41:42,273
+DON:
+This is the proper setting.
+
+675
+00:41:43,526 --> 00:41:45,193
+Why, it's just an empty stage.
+
+676
+00:41:45,444 --> 00:41:46,986
+At first glance, yes.
+
+677
+00:41:47,238 --> 00:41:48,738
+But wait a second.
+
+678
+00:41:50,699 --> 00:41:52,909
+A beautiful sunset.
+
+679
+00:41:55,996 --> 00:41:58,748
+Mist from the distant mountains.
+
+680
+00:42:00,876 --> 00:42:03,169
+Colored lights in a garden.
+
+681
+00:42:05,506 --> 00:42:10,427
+Milady is standing on her balcony,
+in a rose-trellised bower. ..
+
+682
+00:42:14,265 --> 00:42:16,099
+...flooded with moonlight.
+
+683
+00:42:16,350 --> 00:42:19,727
+We add 500,000 kilowatts of stardust.
+
+684
+00:42:23,107 --> 00:42:25,442
+A soft summer breeze.
+
+685
+00:42:26,652 --> 00:42:28,111
+And... .
+
+686
+00:42:28,988 --> 00:42:31,448
+You sure look lovely in the moonlight.
+
+687
+00:42:33,033 --> 00:42:36,911
+Now that you have the proper setting,
+can you say it?
+
+688
+00:42:39,039 --> 00:42:40,081
+I'll try.
+
+689
+00:42:41,709 --> 00:42:44,335
+[SINGING]
+Life was a song
+
+690
+00:42:44,837 --> 00:42:47,714
+You came along
+
+691
+00:42:47,923 --> 00:42:53,052
+l've laid awake
+the whole night through
+
+692
+00:42:54,513 --> 00:42:56,848
+lf l but dared
+
+693
+00:42:57,725 --> 00:43:00,059
+To think you cared
+
+694
+00:43:00,769 --> 00:43:02,604
+This is what
+
+695
+00:43:03,063 --> 00:43:07,233
+I'd say to you
+
+696
+00:43:10,070 --> 00:43:14,657
+You were meant for me
+
+697
+00:43:18,245 --> 00:43:22,874
+And I was meant for you
+
+698
+00:43:26,378 --> 00:43:29,631
+Nature patterned you
+
+699
+00:43:30,090 --> 00:43:33,259
+And when she was done
+
+700
+00:43:34,428 --> 00:43:38,139
+You were all the sweet things
+
+701
+00:43:39,141 --> 00:43:41,976
+Rolled up in one
+
+702
+00:43:42,394 --> 00:43:44,062
+You're like
+
+703
+00:43:44,271 --> 00:43:49,275
+A plaintive melody
+
+704
+00:43:52,279 --> 00:43:57,408
+That never lets me free
+
+705
+00:44:00,621 --> 00:44:03,831
+But I'm content
+
+706
+00:44:04,792 --> 00:44:08,545
+The angels must have sent you
+
+707
+00:44:09,505 --> 00:44:13,132
+And they meant you
+
+708
+00:44:14,343 --> 00:44:17,470
+Just for me
+
+709
+00:45:44,391 --> 00:45:48,394
+But I'm content
+
+710
+00:45:49,688 --> 00:45:54,525
+The angels must have sent you
+
+711
+00:45:55,319 --> 00:46:00,740
+And they meant you
+
+712
+00:46:01,909 --> 00:46:06,412
+Just for me
+
+713
+00:46:25,516 --> 00:46:26,766
+Now... .
+
+714
+00:46:27,017 --> 00:46:29,617
+Ta, te, ti, toe, too.
+
+715
+00:46:37,361 --> 00:46:38,653
+No, no, Miss Lamont.. .
+
+716
+00:46:38,946 --> 00:46:41,948
+...round tones, round tones.
+
+717
+00:46:42,199 --> 00:46:45,284
+Now let me hear you read your line.
+
+718
+00:46:46,203 --> 00:46:48,830
+"And I can't stan' 'im."
+
+719
+00:46:49,081 --> 00:46:51,874
+And l can't stand him.
+
+720
+00:46:52,126 --> 00:46:55,294
+"And I can't stan' 'im."
+
+721
+00:46:55,671 --> 00:46:56,963
+"Can't."
+
+722
+00:46:57,256 --> 00:46:58,506
+Can't.
+
+723
+00:46:59,466 --> 00:47:01,551
+"Can't."
+
+724
+00:47:01,760 --> 00:47:03,845
+Can't!
+
+725
+00:47:04,221 --> 00:47:06,556
+Can't. Can't.
+
+726
+00:47:06,765 --> 00:47:08,015
+Very good.
+
+727
+00:47:08,225 --> 00:47:11,394
+"Around the rocks
+the rugged rascal ran."
+
+728
+00:47:11,645 --> 00:47:13,229
+"Around the rocks the rugged--"
+
+729
+00:47:13,480 --> 00:47:15,773
+No, no. "Rocks." "Rocks."
+
+730
+00:47:16,024 --> 00:47:18,359
+"Around the rocks
+the rugged rascal ran."
+
+731
+00:47:18,527 --> 00:47:19,527
+Very good.
+
+732
+00:47:19,737 --> 00:47:20,737
+Hi, Don.
+
+733
+00:47:20,904 --> 00:47:22,822
+-Shall I continue?
+-Don't mind me.
+
+734
+00:47:23,031 --> 00:47:26,367
+Now.
+"Sinful Caesar sipped his snifter...
+
+735
+00:47:26,618 --> 00:47:29,537
+...seized his knees and sneezed."
+
+736
+00:47:29,788 --> 00:47:32,039
+"Sinful Caesar snipped his sifter--"
+
+737
+00:47:32,291 --> 00:47:33,374
+Sipped his snifter.
+
+738
+00:47:33,584 --> 00:47:35,501
+"Sipped his snifter."
+
+739
+00:47:35,711 --> 00:47:36,836
+DON:
+Oh, thank you.
+
+740
+00:47:37,087 --> 00:47:41,382
+"Sinful Caesar sipped his snifter,
+seized his knees and sneezed."
+
+741
+00:47:41,592 --> 00:47:43,342
+-Marvelous.
+-Wonderful.
+
+742
+00:47:43,552 --> 00:47:45,386
+Here is a good one.
+
+743
+00:47:45,637 --> 00:47:49,140
+"Chester chooses chestnuts,
+cheddar cheese with chewy chives.
+
+744
+00:47:49,349 --> 00:47:51,267
+He chews them and he chooses them.
+
+745
+00:47:51,518 --> 00:47:53,561
+He chooses them and he chews them.. .
+
+746
+00:47:53,771 --> 00:47:56,606
+...those chestnuts,
+cheddar cheese and chives...
+
+747
+00:47:56,815 --> 00:47:59,108
+...in cheery, charming chunks."
+
+748
+00:47:59,359 --> 00:48:02,069
+-Wonderful! Do another one.
+-Thank you.
+
+749
+00:48:02,738 --> 00:48:05,573
+"Moses supposes his toeses are roses...
+
+750
+00:48:05,824 --> 00:48:08,534
+...but Moses supposes erroneously.
+
+751
+00:48:08,702 --> 00:48:11,204
+Moses, he knowses
+his toeses aren't roses...
+
+752
+00:48:11,455 --> 00:48:14,749
+...as Moses supposes his toeses to be."
+
+753
+00:48:18,128 --> 00:48:20,630
+"Moses supposes his toeses are roses...
+
+754
+00:48:20,881 --> 00:48:23,216
+...but Moses supposes erroneously."
+
+755
+00:48:23,467 --> 00:48:26,469
+"But Moses, he knowses
+his toes aren't roses.. .
+
+756
+00:48:26,720 --> 00:48:29,180
+...as Moses supposes his toeses to be."
+
+757
+00:48:29,431 --> 00:48:31,891
+Moses supposes his toeses are roses.. .
+
+758
+00:48:32,142 --> 00:48:34,477
+...but Moses supposes erroneously.
+
+759
+00:48:34,686 --> 00:48:35,895
+A mose is a mose.
+
+760
+00:48:36,104 --> 00:48:37,230
+A rose is a rose.
+
+761
+00:48:37,439 --> 00:48:38,940
+A toes is a toes.
+
+762
+00:48:39,149 --> 00:48:40,316
+[BOTH HUM]
+
+763
+00:48:40,484 --> 00:48:42,735
+BOTH [SINGING]:
+Moses supposes his toeses are roses
+
+764
+00:48:42,986 --> 00:48:45,613
+But Moses supposes erroneously
+
+765
+00:48:45,864 --> 00:48:48,366
+Moses, he knowses
+His toeses aren't roses
+
+766
+00:48:48,617 --> 00:48:51,494
+As Moses supposes his toeses to be
+
+767
+00:48:51,703 --> 00:48:54,163
+Moses supposes his toeses are roses
+
+768
+00:48:54,373 --> 00:48:56,582
+But Moses supposes erroneously
+
+769
+00:48:56,792 --> 00:48:59,418
+For Moses knowses
+His toeses aren't roses
+
+770
+00:48:59,670 --> 00:49:02,505
+As Moses supposes his toeses to be
+
+771
+00:49:02,714 --> 00:49:05,132
+A rose is a rose
+ls a rose is a rose is
+
+772
+00:49:05,384 --> 00:49:07,969
+A rose is what Moses
+Supposes his toes is
+
+773
+00:49:08,220 --> 00:49:10,638
+Couldn't be a lily
+Or a taffy daffy dilly
+
+774
+00:49:10,848 --> 00:49:13,599
+lt's gotta be a rose
+'Cause it rhymes with "mose"
+
+775
+00:49:13,851 --> 00:49:15,451
+Moses
+
+776
+00:51:19,226 --> 00:51:21,227
+"A "
+
+777
+00:51:27,401 --> 00:51:29,151
+DEXTER:
+All right, here we go.
+
+778
+00:51:29,403 --> 00:51:31,445
+-Quiet!
+MAN: Quiet.
+
+779
+00:51:31,613 --> 00:51:33,030
+Roll 'em!
+
+780
+00:51:35,867 --> 00:51:38,744
+Oh, Pierre. You shouldn't have come.
+
+781
+00:51:38,996 --> 00:51:42,873
+She's gotta talk into the mike.
+I can't pick it up.
+
+782
+00:51:44,001 --> 00:51:45,251
+Cut!
+
+783
+00:51:45,460 --> 00:51:46,627
+DON:
+What's the matter?
+
+784
+00:51:46,837 --> 00:51:47,878
+DEXTER:
+It's Lina.
+
+785
+00:51:48,130 --> 00:51:51,257
+Look, Lina, don't you remember?
+I told you.
+
+786
+00:51:51,508 --> 00:51:54,260
+There's a microphone right there...
+
+787
+00:51:54,511 --> 00:51:56,846
+-...in the bush.
+-Yeah.
+
+788
+00:51:57,014 --> 00:51:58,931
+You have to talk into it.
+
+789
+00:51:59,182 --> 00:52:01,559
+I was talking.
+Wasn't I , Miss Dinsmore?
+
+790
+00:52:01,768 --> 00:52:05,813
+Yes, my dear. But please remember,
+round tones.
+
+791
+00:52:06,023 --> 00:52:09,316
+"Pierre, you shouldn't have come."
+
+792
+00:52:09,568 --> 00:52:11,861
+Pierre, you shouldn't have come.
+
+793
+00:52:12,112 --> 00:52:13,279
+That's much better--
+
+794
+00:52:13,488 --> 00:52:15,197
+Hold it a second.
+
+795
+00:52:15,407 --> 00:52:17,116
+Now, Lina, look.
+
+796
+00:52:17,325 --> 00:52:18,534
+Here's the mike.
+
+797
+00:52:18,785 --> 00:52:21,037
+Right here in the bush.
+
+798
+00:52:21,204 --> 00:52:22,246
+Yeah.
+
+799
+00:52:22,414 --> 00:52:23,914
+Now, you talk towards it.
+
+800
+00:52:24,166 --> 00:52:27,168
+The sound goes through the cable
+to the box.
+
+801
+00:52:27,419 --> 00:52:31,047
+A man records it
+on a big record in wax. ..
+
+802
+00:52:31,298 --> 00:52:34,967
+...but you have to talk
+into the mike first.
+
+803
+00:52:35,177 --> 00:52:36,469
+In the bush!
+
+804
+00:52:36,720 --> 00:52:38,012
+Now try it again.
+
+805
+00:52:38,305 --> 00:52:39,346
+Gee, this is dumb.
+
+806
+00:52:39,556 --> 00:52:41,640
+She'll get it, Dexter.
+Don't worry.
+
+807
+00:52:41,892 --> 00:52:45,019
+We're all nervous the first day.
+Everything will be okay.
+
+808
+00:52:45,312 --> 00:52:47,813
+By the way. You know the scene
+coming up where I say:
+
+809
+00:52:48,023 --> 00:52:49,940
+"Imperious princess of the night"?
+
+810
+00:52:50,150 --> 00:52:53,736
+I don't like those lines.
+Is it all right if I say what I always do?
+
+811
+00:52:53,945 --> 00:52:56,447
+"I love you. I love you. I love you."
+
+812
+00:52:56,698 --> 00:52:58,949
+Sure. Any way it's comfortable.
+
+813
+00:52:59,159 --> 00:53:00,701
+But into the bush!
+
+814
+00:53:00,869 --> 00:53:01,911
+Okay.
+
+815
+00:53:02,079 --> 00:53:03,120
+Again!
+
+816
+00:53:03,330 --> 00:53:04,663
+Quiet!
+
+817
+00:53:05,040 --> 00:53:06,415
+Roll 'em!
+
+818
+00:53:11,004 --> 00:53:13,214
+[SPEAKING INDISTINCTLY]
+
+819
+00:53:18,970 --> 00:53:20,012
+Cut!
+
+820
+00:53:20,472 --> 00:53:22,556
+We're missing every other word.
+
+821
+00:53:22,849 --> 00:53:25,059
+You've got to talk into the mike!
+
+822
+00:53:25,352 --> 00:53:27,728
+Well, I can't make love to a bush!
+
+823
+00:53:27,979 --> 00:53:30,022
+All right, all right.
+
+824
+00:53:30,649 --> 00:53:34,026
+We'll have to think of something else.
+
+825
+00:53:39,616 --> 00:53:40,908
+What are you doing?
+
+826
+00:53:41,159 --> 00:53:43,619
+-You're being wired for sound.
+-What?
+
+827
+00:53:43,870 --> 00:53:47,748
+Watch out for those dentalized D's
+and T's and those flat A's.
+
+828
+00:53:47,958 --> 00:53:50,126
+Everybody's picking on me.
+
+829
+00:53:50,293 --> 00:53:51,377
+Okay, Lina.
+
+830
+00:53:51,545 --> 00:53:53,796
+Now look at this flower, see?
+
+831
+00:53:54,047 --> 00:53:55,881
+The mike is in there.
+
+832
+00:53:56,550 --> 00:53:57,800
+That's it.
+
+833
+00:53:58,009 --> 00:54:00,719
+The sound will run from it.. .
+
+834
+00:54:01,179 --> 00:54:03,764
+...through this wire, onto the record.
+
+835
+00:54:03,974 --> 00:54:06,100
+It'll catch whatever you say.
+
+836
+00:54:06,309 --> 00:54:09,478
+Now let's hear how it sounds, Lina.
+
+837
+00:54:09,938 --> 00:54:12,148
+Okay, quiet!
+
+838
+00:54:12,399 --> 00:54:13,774
+Roll 'em!
+
+839
+00:54:16,611 --> 00:54:18,696
+Oh, Pierre, you shouldn't have come.
+
+840
+00:54:18,864 --> 00:54:20,030
+[HEART BEATING]
+
+841
+00:54:20,198 --> 00:54:22,408
+You're flirting with danger.
+
+842
+00:54:23,660 --> 00:54:24,660
+What's that noise?
+
+843
+00:54:24,911 --> 00:54:26,662
+It's picking up her heartbeat.
+
+844
+00:54:26,913 --> 00:54:28,414
+Swell.
+
+845
+00:54:29,332 --> 00:54:30,416
+Cut!
+
+846
+00:54:34,713 --> 00:54:36,964
+That's right. That should do it.
+
+847
+00:54:37,215 --> 00:54:38,632
+Now, don't forget.
+
+848
+00:54:38,842 --> 00:54:40,843
+The mike is on your shoulder.
+
+849
+00:54:41,094 --> 00:54:44,722
+And whatever you say goes
+through the wire onto the record.
+
+850
+00:54:44,973 --> 00:54:48,017
+Now, please, Lina, talk into the mike.
+
+851
+00:54:48,268 --> 00:54:51,562
+Don't make any quick movements
+or you might disconnect it.
+
+852
+00:54:51,813 --> 00:54:53,272
+Okay, let's go.
+
+853
+00:54:53,523 --> 00:54:55,441
+-Quiet.
+MAN: Quiet.
+
+854
+00:54:55,609 --> 00:54:57,234
+Roll 'em.
+
+855
+00:55:00,447 --> 00:55:04,533
+LINA: Oh, Pierre, you shouldn't have come.
+You're flirting with danger.
+
+856
+00:55:04,701 --> 00:55:07,119
+What's this wire doing here?
+It's dangerous.
+
+857
+00:55:07,329 --> 00:55:08,662
+[LINA SCREAMS]
+
+858
+00:55:09,623 --> 00:55:11,457
+[CREW CLAMORING]
+
+859
+00:55:21,801 --> 00:55:23,510
+You'd better not go in together.
+
+860
+00:55:23,762 --> 00:55:26,639
+Lina's probably waiting
+right inside the door.
+
+861
+00:55:26,890 --> 00:55:28,724
+-Oh, how I wish--
+-Don't worry.
+
+862
+00:55:28,975 --> 00:55:32,478
+I'll lead the cheering section
+in the balcony. Good luck.
+
+863
+00:55:37,317 --> 00:55:39,610
+-Mr. Lockwood.
+DON: Hello.
+
+864
+00:55:40,487 --> 00:55:42,279
+[MUSIC PLAYING ON FILM]
+
+865
+00:55:42,530 --> 00:55:44,573
+[AUDIENCE APPLAUDS]
+
+866
+00:56:01,383 --> 00:56:04,009
+[RATTLING ON FILM]
+
+867
+00:56:07,931 --> 00:56:09,807
+What's that?
+The storm outside?
+
+868
+00:56:10,058 --> 00:56:12,518
+It's those pearls, Mr. Simpson.
+
+869
+00:56:13,561 --> 00:56:15,980
+[PEARLS RATTLING]
+
+870
+00:56:17,774 --> 00:56:22,111
+l am the noblest lady of the court,
+second only to the queen.
+
+871
+00:56:22,362 --> 00:56:26,031
+Yet I am the saddest
+of mortals in France.
+
+872
+00:56:26,283 --> 00:56:28,117
+What is the matter, milady?
+
+873
+00:56:28,368 --> 00:56:30,536
+l'm so downhearted, Theresa.
+
+874
+00:56:30,787 --> 00:56:34,081
+My father has me betrothed
+to the Baron de Landsfield...
+
+875
+00:56:34,332 --> 00:56:35,791
+...and l can't stand him.
+
+876
+00:56:35,959 --> 00:56:37,001
+[AUDIENCE LAUGHING]
+
+877
+00:56:37,168 --> 00:56:38,585
+Oh, but he's such a catch.
+
+878
+00:56:38,837 --> 00:56:42,423
+All the ladies of the court
+wish they were in your shoes.
+
+879
+00:56:42,674 --> 00:56:45,301
+My heart belongs to another...
+
+880
+00:56:46,052 --> 00:56:47,970
+...Pierre de Bataille.
+
+881
+00:56:48,179 --> 00:56:52,141
+Ever since l met him,
+l can't get him out of my mind.
+
+882
+00:56:52,434 --> 00:56:54,893
+Sounds good and loud, huh?
+
+883
+00:56:57,689 --> 00:56:58,897
+[STAFF BANGlNG]
+
+884
+00:56:59,065 --> 00:57:00,441
+[AUDIENCE LAUGHING]
+
+885
+00:57:03,153 --> 00:57:04,361
+Oh, Pierre!
+
+886
+00:57:04,529 --> 00:57:05,821
+[DIALOGUE CUTS lN AND OUT]
+
+887
+00:57:05,989 --> 00:57:08,907
+You shouldn't have come.
+You're flirting with danger.
+
+888
+00:57:09,200 --> 00:57:11,410
+They will surely find you out.
+
+889
+00:57:11,703 --> 00:57:14,455
+Your head is much too valuable.
+
+890
+00:57:14,706 --> 00:57:17,916
+She never could remember
+where the microphone was.
+
+891
+00:57:18,084 --> 00:57:20,794
+'Tis Cupid himself
+that called me here...
+
+892
+00:57:21,087 --> 00:57:22,421
+...and l...
+
+893
+00:57:22,756 --> 00:57:25,382
+...smitten by his arrow,
+must fly to your side...
+
+894
+00:57:25,550 --> 00:57:27,259
+[CLOTHES RUSTLlNG
+AND AUDIENCE LAUGHING]
+
+895
+00:57:27,427 --> 00:57:30,262
+...despite the threats
+of Madame Guillotine.
+
+896
+00:57:31,097 --> 00:57:33,932
+But the night is full of our enemies.
+
+897
+00:57:34,100 --> 00:57:36,935
+[FAN THUMPING
+AND AUDIENCE LAUGHING]
+
+898
+00:57:37,562 --> 00:57:39,813
+What you hitting him with,
+a blackjack?
+
+899
+00:57:40,899 --> 00:57:43,233
+lmperious princess of the night...
+
+900
+00:57:43,443 --> 00:57:44,777
+...l love you.
+
+901
+00:57:45,070 --> 00:57:46,612
+Oh, Pierre.
+
+902
+00:57:46,821 --> 00:57:48,447
+I love you.
+
+903
+00:57:48,698 --> 00:57:52,910
+I love you, l love you, I love you,
+I love you, l love you.
+
+904
+00:57:53,119 --> 00:57:57,289
+I love you, l love you, I love you,
+I love you!
+
+905
+00:57:57,457 --> 00:57:59,124
+[AUDIENCE LAUGHING]
+
+906
+00:57:59,292 --> 00:58:01,627
+Did somebody get paid
+for writing that?
+
+907
+00:58:04,798 --> 00:58:06,256
+Sounds like a comedy.
+
+908
+00:58:06,466 --> 00:58:08,967
+-It's a Lockwood-Lamont talkie.
+-What?
+
+909
+00:58:09,135 --> 00:58:10,636
+WOMAN:
+This is terrible.
+
+910
+00:58:13,014 --> 00:58:14,640
+[DIALOGUE DISTORTED]
+
+911
+00:58:17,936 --> 00:58:18,977
+What's that?
+
+912
+00:58:19,229 --> 00:58:21,438
+The sound.
+It's out of synchronization!
+
+913
+00:58:21,648 --> 00:58:22,940
+Tell them to fix it.
+
+914
+00:58:23,149 --> 00:58:24,650
+Yes, sir.
+
+915
+00:58:24,984 --> 00:58:25,984
+[AUDIO OUT OF SYNCH]
+
+916
+00:58:26,152 --> 00:58:27,486
+What's this? Yvonne?
+
+917
+00:58:27,654 --> 00:58:31,115
+Captured by Rouge Noir
+of the Purple Terror?
+
+918
+00:58:31,282 --> 00:58:33,826
+Ohh. Oh, my sword!
+
+919
+00:58:34,035 --> 00:58:36,495
+l must fly to her side!
+
+920
+00:58:36,746 --> 00:58:38,831
+Yvonne, Yvonne...
+
+921
+00:58:39,165 --> 00:58:40,666
+...my own.
+
+922
+00:58:41,334 --> 00:58:44,628
+LINA:
+Pierre will save me. Pierre!
+
+923
+00:58:44,838 --> 00:58:47,965
+ACTOR:
+Pierre is miles away, you witch.
+
+924
+00:58:48,550 --> 00:58:50,259
+LINA:
+No, no, no.
+
+925
+00:58:50,468 --> 00:58:52,511
+ACTOR:
+Yes, yes, yes.
+
+926
+00:58:52,679 --> 00:58:54,346
+LINA:
+No, no, no.
+
+927
+00:58:54,556 --> 00:58:57,349
+ACTOR:
+Yes, yes, yes.
+
+928
+00:58:57,851 --> 00:59:00,227
+[AUDIO DISTORTED
+AND AUDIENCE LAUGHING]
+
+929
+00:59:03,982 --> 00:59:05,065
+This is a scream.
+
+930
+00:59:05,316 --> 00:59:06,692
+Give me The Jazz Singer.
+
+931
+00:59:06,901 --> 00:59:09,069
+"I love you, I love you, I love you". ...
+
+932
+00:59:11,698 --> 00:59:14,658
+-We're all ruined.
+-You can't release this.
+
+933
+00:59:14,868 --> 00:59:18,078
+We're booked to open
+in six weeks all over the country.
+
+934
+00:59:18,371 --> 00:59:21,331
+But you're such big stars,
+we might get by.
+
+935
+00:59:21,499 --> 00:59:23,500
+WOMAN: I never wanna see
+Lockwood and Lamont again.
+
+936
+00:59:23,710 --> 00:59:24,710
+Wasn't it awful?
+
+937
+00:59:24,919 --> 00:59:27,379
+This is the worst picture ever made.
+
+938
+00:59:27,672 --> 00:59:29,339
+I liked it.
+
+939
+00:59:37,682 --> 00:59:39,892
+Well, take a last look at it.
+
+940
+00:59:40,185 --> 00:59:42,227
+It'll be up for auction
+in the morning.
+
+941
+00:59:42,437 --> 00:59:43,854
+You're out of your mind.
+
+942
+00:59:44,063 --> 00:59:46,815
+It's Saturday.
+No bank will foreclose until Monday.
+
+943
+00:59:47,066 --> 00:59:49,526
+-It wasn't so bad.
+-That's what I told him.
+
+944
+00:59:50,069 --> 00:59:51,570
+There's no use kidding myself.
+
+945
+00:59:51,863 --> 00:59:55,866
+Once they release The Duelling Cavalier,
+Lockwood and Lamont are through.
+
+946
+00:59:56,075 --> 00:59:57,868
+The picture's a museum piece.
+
+947
+00:59:58,077 --> 00:59:59,453
+I'm a museum piece.
+
+948
+00:59:59,704 --> 01:00:02,372
+Things went wrong with the sound.
+Get the technical--
+
+949
+01:00:02,582 --> 01:00:03,707
+No, it wasn't that.
+
+950
+01:00:03,917 --> 01:00:06,376
+This is sweet of both of you, but I--
+
+951
+01:00:07,587 --> 01:00:10,130
+Something happened to me tonight.
+
+952
+01:00:10,381 --> 01:00:12,633
+Everything you said
+about me is true.
+
+953
+01:00:12,926 --> 01:00:14,343
+I'm no actor.
+
+954
+01:00:14,594 --> 01:00:17,221
+I never was.
+Just a lot of dumb show.
+
+955
+01:00:17,430 --> 01:00:19,097
+I know that now.
+
+956
+01:00:19,766 --> 01:00:22,434
+Well, at least you're
+taking it lying down.
+
+957
+01:00:22,644 --> 01:00:23,936
+No kidding, Cosmo.
+
+958
+01:00:24,145 --> 01:00:26,980
+Did you ever see anything
+as idiotic as me on that screen?
+
+959
+01:00:27,273 --> 01:00:28,815
+Yeah. How about Lina?
+
+960
+01:00:28,983 --> 01:00:31,401
+Heh. l ran her a close second.
+
+961
+01:00:31,611 --> 01:00:34,363
+Maybe it was a photo finish.
+I'm through.
+
+962
+01:00:34,614 --> 01:00:35,906
+You're not through.
+
+963
+01:00:36,115 --> 01:00:37,574
+Why, of course not.
+
+964
+01:00:37,784 --> 01:00:40,118
+With your looks,
+you could drive an ice wagon.
+
+965
+01:00:40,370 --> 01:00:41,578
+-Or shine shoes.
+-Block hats.
+
+966
+01:00:41,788 --> 01:00:43,080
+-Sell pencils.
+-Dig ditches.
+
+967
+01:00:43,289 --> 01:00:44,873
+Or go back into vaudeville.
+
+968
+01:00:46,167 --> 01:00:49,253
+[SlNGS] Fit as a fiddle and ready for love
+l could jump over the moon up above
+
+969
+01:00:49,462 --> 01:00:51,630
+Fit as a fiddle and ready for love
+
+970
+01:00:52,924 --> 01:00:56,426
+Too bad I didn't do that in Duelling Cavalier.
+They might have liked it.
+
+971
+01:00:56,636 --> 01:00:58,303
+-Why don't you?
+-What?
+
+972
+01:00:58,596 --> 01:01:00,514
+-Make a musical.
+-A musical?
+
+973
+01:01:00,765 --> 01:01:02,266
+Sure. Make a musical.
+
+974
+01:01:02,475 --> 01:01:05,644
+The new Don Lockwood.
+He yodels, he jumps about to music.
+
+975
+01:01:05,895 --> 01:01:08,689
+The only trouble is
+that after Duelling Cavalier...
+
+976
+01:01:08,982 --> 01:01:12,901
+...nobody'd come to see me jump off
+the Woolworth Building into a damp rag.
+
+977
+01:01:13,111 --> 01:01:15,612
+Turn The Duelling Cavalier
+into a musical.
+
+978
+01:01:15,822 --> 01:01:17,489
+-Duelling Cavalier?
+-Sure.
+
+979
+01:01:17,699 --> 01:01:19,825
+They've got six weeks before
+it's released.
+
+980
+01:01:20,034 --> 01:01:22,995
+Add songs and dances,
+trim bad scenes, add new ones.
+
+981
+01:01:23,288 --> 01:01:24,788
+And you got it.
+
+982
+01:01:25,248 --> 01:01:27,124
+Hey, I think it'll work.
+
+983
+01:01:27,292 --> 01:01:28,292
+-Of course!
+-It's a cinch.
+
+984
+01:01:28,501 --> 01:01:30,460
+It may be crazy, but we'll do it.
+
+985
+01:01:30,670 --> 01:01:33,213
+The Duelling Cavalier
+is now a musical.
+
+986
+01:01:33,506 --> 01:01:34,840
+-Hot dog!
+-Hallelujah!
+
+987
+01:01:35,049 --> 01:01:39,678
+Whoopee! Fellas, I feel this is
+my lucky day, March 23rd.
+
+988
+01:01:39,971 --> 01:01:42,139
+-Your lucky day's the 24th.
+-What?
+
+989
+01:01:42,348 --> 01:01:44,349
+It's 1 :30 already.
+It's morning!
+
+990
+01:01:44,684 --> 01:01:48,437
+Yes. And what a lovely morning!
+
+991
+01:01:49,147 --> 01:01:51,023
+[SINGING]
+Good mornin'
+
+992
+01:01:51,316 --> 01:01:52,524
+Good mornin'
+
+993
+01:01:52,692 --> 01:01:54,443
+We've talked the whole night through
+
+994
+01:01:54,652 --> 01:01:55,652
+Good mornin'
+
+995
+01:01:55,862 --> 01:01:57,362
+Good mornin' to you
+
+996
+01:01:59,198 --> 01:02:01,867
+Good mornin'
+Good mornin'
+
+997
+01:02:02,035 --> 01:02:03,535
+It's great to stay up late
+
+998
+01:02:03,745 --> 01:02:06,705
+Good mornin'
+Good mornin' to you
+
+999
+01:02:08,583 --> 01:02:12,961
+When the band began to play
+The stars were shining bright
+
+1000
+01:02:13,212 --> 01:02:16,882
+Now the milkman's on his way
+It's too late to say good night
+
+1001
+01:02:17,091 --> 01:02:19,718
+So good mornin'
+Good mornin'
+
+1002
+01:02:20,011 --> 01:02:21,720
+Sunbeams will soon smile through
+
+1003
+01:02:22,013 --> 01:02:24,598
+Good mornin'
+Good mornin' to you
+
+1004
+01:02:24,891 --> 01:02:26,558
+And you and you and you
+
+1005
+01:02:26,726 --> 01:02:29,227
+Good mornin'
+Good mornin'
+
+1006
+01:02:29,520 --> 01:02:30,979
+We've gabbed the whole night through
+
+1007
+01:02:31,230 --> 01:02:33,565
+Good mornin'
+Good mornin' to you
+
+1008
+01:02:33,733 --> 01:02:35,609
+Nothing could be grander
+Than to be in Louisiana
+
+1009
+01:02:35,860 --> 01:02:37,986
+ln the mornin'
+ln the mornin'
+
+1010
+01:02:38,196 --> 01:02:40,072
+It's great to stay up late
+
+1011
+01:02:40,365 --> 01:02:42,741
+Good mornin'
+Good mornin' to you
+
+1012
+01:02:42,992 --> 01:02:45,035
+Might be just as zippy
+lf we was in Mississippi
+
+1013
+01:02:45,244 --> 01:02:49,122
+When we left the movie show
+The future wasn't bright
+
+1014
+01:02:49,415 --> 01:02:53,085
+But came the dawn, the show goes on
+And l don't wanna say good night
+
+1015
+01:02:53,378 --> 01:02:54,920
+So say good mornin'
+
+1016
+01:02:55,129 --> 01:02:56,630
+Good mornin'
+
+1017
+01:02:56,923 --> 01:02:58,423
+Rainbows are shinin' through
+
+1018
+01:02:58,633 --> 01:03:00,634
+-Good mornin'
+-Good mornin'
+
+1019
+01:03:00,885 --> 01:03:02,719
+-Bonjour!
+-Monsieur!
+
+1020
+01:03:02,929 --> 01:03:04,930
+-Buenos días!
+-Muchas frías!
+
+1021
+01:03:05,139 --> 01:03:07,015
+-Buon giorno!
+-A ritorno!
+
+1022
+01:03:07,225 --> 01:03:08,892
+-Guten morgen!
+-Guten morgen!
+
+1023
+01:03:09,102 --> 01:03:11,436
+Good mornin' to you
+
+1024
+01:04:02,989 --> 01:04:05,240
+[HUMMING]
+
+1025
+01:04:10,163 --> 01:04:11,163
+Olé!
+
+1026
+01:04:11,456 --> 01:04:12,998
+-Toro!
+-Toro!
+
+1027
+01:04:13,166 --> 01:04:14,666
+[COSMO LAUGHING]
+
+1028
+01:04:18,421 --> 01:04:21,590
+[KATHY SHOUTS]
+
+1029
+01:05:05,718 --> 01:05:08,178
+[LAUGHING]
+
+1030
+01:05:15,228 --> 01:05:17,437
+Hey, we can't make this a musical.
+
+1031
+01:05:17,688 --> 01:05:18,939
+What do you mean?
+
+1032
+01:05:19,440 --> 01:05:20,649
+Lina.
+
+1033
+01:05:22,026 --> 01:05:23,360
+-Lina.
+-Lina.
+
+1034
+01:05:23,861 --> 01:05:26,905
+She can't act, she can't sing
+and she can't dance.
+
+1035
+01:05:27,198 --> 01:05:29,407
+-A triple threat.
+-Yeah.
+
+1036
+01:05:30,535 --> 01:05:31,576
+What's so funny?
+
+1037
+01:05:31,869 --> 01:05:33,578
+I'm sorry, I was just thinking.
+
+1038
+01:05:33,788 --> 01:05:36,581
+I liked her best when
+the sound went off and she said:
+
+1039
+01:05:36,749 --> 01:05:38,208
+"Yes, yes, yes."
+
+1040
+01:05:38,417 --> 01:05:39,918
+[IN HIGH PITCHED VOICE]
+"No, no, no."
+
+1041
+01:05:40,211 --> 01:05:41,711
+"Yes, yes, yes."
+
+1042
+01:05:41,921 --> 01:05:43,380
+"No, no--"
+
+1043
+01:05:44,465 --> 01:05:45,590
+[IN NORMAL VOlCE]
+Wait a minute.
+
+1044
+01:05:45,800 --> 01:05:47,676
+I am just about to be brilliant.
+
+1045
+01:05:47,927 --> 01:05:50,178
+Come here, Kathy.
+Come here. Now, sing.
+
+1046
+01:05:50,346 --> 01:05:51,930
+KATHY: Huh?
+-I said sing.
+
+1047
+01:05:52,098 --> 01:05:54,057
+[SINGING] Good mornin'
+Good mornin'
+
+1048
+01:05:54,267 --> 01:05:56,476
+Don, keep your eyes
+riveted on my face.
+
+1049
+01:05:56,769 --> 01:05:59,437
+KATHY [SINGS]: Good mornin'
+Good mornin' to you
+
+1050
+01:05:59,730 --> 01:06:01,106
+Watch my mouth.
+
+1051
+01:06:01,315 --> 01:06:03,942
+KATHY [SINGS]: Good mornin'
+Good mornin'
+
+1052
+01:06:04,193 --> 01:06:05,610
+It's great to stay up late
+
+1053
+01:06:05,820 --> 01:06:08,238
+Good mornin'
+Good mornin' to you
+
+1054
+01:06:08,447 --> 01:06:10,115
+Well, convincing?
+
+1055
+01:06:10,283 --> 01:06:12,784
+Enchanting. What?
+
+1056
+01:06:14,954 --> 01:06:15,954
+Don't you get it?
+
+1057
+01:06:16,205 --> 01:06:17,789
+Use Kathy's voice.
+
+1058
+01:06:18,082 --> 01:06:21,126
+Lina moves her mouth
+and Kathy sings and talks for her.
+
+1059
+01:06:21,419 --> 01:06:22,419
+That's wonderful!
+
+1060
+01:06:22,628 --> 01:06:25,130
+-I couldn't let you do it, Kathy.
+-Why not?
+
+1061
+01:06:25,339 --> 01:06:28,133
+You wouldn't be seen.
+You'd throw away your career.
+
+1062
+01:06:28,342 --> 01:06:31,803
+It has nothing to do with my career.
+It's only for this picture.
+
+1063
+01:06:32,013 --> 01:06:34,306
+The important thing is to save
+The Duelling Cavalier...
+
+1064
+01:06:34,515 --> 01:06:37,100
+-...save Lockwood and Lamont.
+-Yeah.
+
+1065
+01:06:37,977 --> 01:06:42,147
+Well, all right, if it's only
+for this one picture, but... .
+
+1066
+01:06:43,441 --> 01:06:45,442
+-You think it'll get by?
+-Of course.
+
+1067
+01:06:45,651 --> 01:06:47,444
+It's simple to work the numbers.
+
+1068
+01:06:47,653 --> 01:06:50,947
+Just dance around Lina
+and teach her how to take a bow.
+
+1069
+01:06:51,157 --> 01:06:53,658
+We'll spring it on R.F.
+in the morning.
+
+1070
+01:06:53,951 --> 01:06:55,952
+Don, you're a genius.
+
+1071
+01:06:56,537 --> 01:06:58,288
+I'm glad you thought of it.
+
+1072
+01:06:58,497 --> 01:06:59,998
+KATHY:
+Oh, Cosmo.
+
+1073
+01:07:02,501 --> 01:07:04,002
+[BOTH CHUCKLING]
+
+1074
+01:07:08,674 --> 01:07:11,051
+Good night, Kathy. See you tomorrow.
+
+1075
+01:07:11,344 --> 01:07:14,387
+Good night, Don.
+Take care of that throat.
+
+1076
+01:07:14,680 --> 01:07:17,641
+You're a big singing star now, remember?
+
+1077
+01:07:17,850 --> 01:07:21,019
+This California dew
+is just a little heavier than usual.
+
+1078
+01:07:21,270 --> 01:07:22,646
+Really?
+
+1079
+01:07:23,356 --> 01:07:27,400
+From where I stand,
+the sun is shining all over the place.
+
+1080
+01:07:38,746 --> 01:07:40,538
+[CAR ENGINE STARTS]
+
+1081
+01:07:56,013 --> 01:07:59,224
+[HUMMING]
+
+1082
+01:08:15,700 --> 01:08:19,119
+[SINGING]
+l'm singin' in the rain
+
+1083
+01:08:19,412 --> 01:08:22,580
+Just singin' in the rain
+
+1084
+01:08:22,873 --> 01:08:26,042
+What a glorious feelin'
+
+1085
+01:08:26,252 --> 01:08:29,087
+I'm happy again
+
+1086
+01:08:30,423 --> 01:08:32,757
+l'm laughin' at clouds
+
+1087
+01:08:32,925 --> 01:08:36,761
+So dark up above
+
+1088
+01:08:37,138 --> 01:08:39,472
+The sun's in my heart
+
+1089
+01:08:39,765 --> 01:08:42,976
+And I'm ready for love
+
+1090
+01:08:43,227 --> 01:08:46,229
+Let the stormy clouds chase
+
+1091
+01:08:46,731 --> 01:08:49,941
+Everyone from the place
+
+1092
+01:08:51,110 --> 01:08:52,944
+Come on with the rain
+
+1093
+01:08:53,237 --> 01:08:57,240
+l've a smile on my face
+
+1094
+01:08:57,450 --> 01:09:00,618
+l'll walk down the lane
+
+1095
+01:09:00,870 --> 01:09:04,122
+With a happy refrain
+
+1096
+01:09:04,373 --> 01:09:06,166
+Just singin'
+
+1097
+01:09:06,459 --> 01:09:09,961
+Singin' in the rain
+
+1098
+01:09:12,131 --> 01:09:14,466
+Dancin' in the rain
+
+1099
+01:09:22,808 --> 01:09:25,310
+I'm happy again
+
+1100
+01:09:32,777 --> 01:09:34,527
+l'm singin'
+
+1101
+01:09:34,820 --> 01:09:38,323
+And dancin' in the rain
+
+1102
+01:11:29,560 --> 01:11:31,895
+l'm dancin'
+
+1103
+01:11:32,104 --> 01:11:33,771
+And singin'
+
+1104
+01:11:34,023 --> 01:11:38,401
+ln the rain
+
+1105
+01:11:55,794 --> 01:11:57,295
+Why, that's wonderful!
+
+1106
+01:11:57,588 --> 01:12:00,048
+We'll keep it secret
+until we're ready to release.. .
+
+1107
+01:12:00,299 --> 01:12:03,801
+...just in case it doesn't come off.
+I'm worried about Lina.
+
+1108
+01:12:04,053 --> 01:12:06,262
+She doesn't like Miss Selden.
+There might be fireworks.
+
+1109
+01:12:06,472 --> 01:12:08,973
+Lina won't even know she's on the lot.
+
+1110
+01:12:09,141 --> 01:12:10,642
+Boys, this is great.
+
+1111
+01:12:10,935 --> 01:12:13,353
+The Duelling Cavalier can be saved.
+
+1112
+01:12:13,604 --> 01:12:14,604
+Now, let's see.
+
+1113
+01:12:14,813 --> 01:12:17,315
+The Duelling Cavalier with music.
+
+1114
+01:12:17,483 --> 01:12:18,983
+The title.
+
+1115
+01:12:19,276 --> 01:12:22,695
+The title's not right.
+We need a musical title. Cosmo?
+
+1116
+01:12:26,659 --> 01:12:29,160
+Hey! The Duelling Mammy.
+
+1117
+01:12:29,954 --> 01:12:31,079
+No.
+
+1118
+01:12:34,500 --> 01:12:35,667
+I've got it.
+
+1119
+01:12:36,585 --> 01:12:37,961
+No.
+
+1120
+01:12:40,506 --> 01:12:41,673
+The Dancing Cavalier!
+
+1121
+01:12:41,966 --> 01:12:43,675
+That's it.
+The Dancing Cavalier.
+
+1122
+01:12:43,968 --> 01:12:47,345
+-Remind me to make you a scriptwriter.
+-Thanks. Have a cigar.
+
+1123
+01:12:47,596 --> 01:12:48,805
+Thanks.
+
+1124
+01:12:51,308 --> 01:12:53,184
+Now, what about the story?
+
+1125
+01:12:53,394 --> 01:12:56,312
+We need modern musical numbers.
+
+1126
+01:13:00,401 --> 01:13:02,527
+We throw a modern section into it.
+
+1127
+01:13:02,820 --> 01:13:04,487
+The hero's a hoofer on Broadway.
+
+1128
+01:13:04,697 --> 01:13:06,114
+He sings and he dances.
+
+1129
+01:13:06,323 --> 01:13:09,033
+One night, backstage, he's reading
+The Tale of Two Cities.
+
+1130
+01:13:09,201 --> 01:13:10,535
+A sandbag hits his head.
+
+1131
+01:13:10,744 --> 01:13:12,704
+He dreams he's back
+during the French Revolution.
+
+1132
+01:13:12,871 --> 01:13:15,373
+This way, we get in
+the modern dancing numbers.
+
+1133
+01:13:15,541 --> 01:13:17,834
+But in the dream,
+we can still use the costumes.
+
+1134
+01:13:18,043 --> 01:13:20,878
+Sensational! Cosmo,
+remind me to give you a raise.
+
+1135
+01:13:21,046 --> 01:13:22,964
+-Oh, R.F.
+-Yes?
+
+1136
+01:13:23,132 --> 01:13:24,507
+Give me a raise.
+
+1137
+01:13:31,932 --> 01:13:36,853
+[SINGING]
+He holds her in his arms
+
+1138
+01:13:37,146 --> 01:13:40,690
+Would you?
+
+1139
+01:13:41,734 --> 01:13:45,903
+He tells her of her charms
+
+1140
+01:13:46,155 --> 01:13:49,657
+Would you?
+
+1141
+01:13:50,576 --> 01:13:54,287
+They met as you and l
+
+1142
+01:13:54,538 --> 01:13:59,584
+And they were only friends
+
+1143
+01:14:00,753 --> 01:14:03,796
+But before...
+
+1144
+01:14:04,256 --> 01:14:09,385
+LINA [SINGS ALONG TO KATHY]:
+...the story ends
+
+1145
+01:14:09,970 --> 01:14:14,265
+He'll kiss her with a sigh
+
+1146
+01:14:14,725 --> 01:14:18,686
+Would you?
+
+1147
+01:14:18,937 --> 01:14:22,815
+And if the girl were l
+
+1148
+01:14:23,108 --> 01:14:24,692
+Would you?
+
+1149
+01:14:27,196 --> 01:14:30,990
+KATHY [SINGING ON RECORDING]:
+And would you dare to say
+
+1150
+01:14:31,283 --> 01:14:33,785
+Let's do the same
+
+1151
+01:14:34,328 --> 01:14:36,996
+[LINA LIP-SYNCHING]
+As they
+
+1152
+01:14:37,289 --> 01:14:41,292
+l would
+
+1153
+01:14:41,460 --> 01:14:43,836
+Would you?
+
+1154
+01:14:46,799 --> 01:14:51,469
+And would you dare to say
+
+1155
+01:14:51,637 --> 01:14:54,806
+Let's do the same
+
+1156
+01:14:55,015 --> 01:14:57,642
+As they
+
+1157
+01:14:58,310 --> 01:14:59,910
+l would
+
+1158
+01:15:03,357 --> 01:15:06,818
+Would you?
+
+1159
+01:15:13,283 --> 01:15:15,326
+Perfect! That Selden girl is great.
+
+1160
+01:15:15,494 --> 01:15:17,954
+I'm gonna give her a big buildup.
+
+1161
+01:15:18,163 --> 01:15:19,997
+-Swell!
+-How much is there left to do?
+
+1162
+01:15:20,249 --> 01:15:21,958
+-One scene and a number.
+-What number?
+
+1163
+01:15:22,167 --> 01:15:24,377
+It's a new one.
+It's for the modern part.
+
+1164
+01:15:24,670 --> 01:15:26,170
+It's called "Broadway Melody."
+
+1165
+01:15:27,005 --> 01:15:30,133
+It's the story of a young hoofer
+who comes to New York.
+
+1166
+01:15:30,342 --> 01:15:32,510
+First, we set the stage with a song.
+
+1167
+01:15:32,803 --> 01:15:33,970
+It goes like this.
+
+1168
+01:15:34,680 --> 01:15:39,267
+[SINGING]
+Don't bring a frown to old Broadway
+
+1169
+01:15:39,852 --> 01:15:44,021
+You gotta clown on Broadway
+
+1170
+01:15:44,523 --> 01:15:46,357
+Your troubles there
+
+1171
+01:15:46,775 --> 01:15:48,359
+They're out of style
+
+1172
+01:15:48,569 --> 01:15:53,322
+For Broadway always wears a smile
+
+1173
+01:15:54,032 --> 01:15:55,700
+A million lights
+
+1174
+01:15:56,285 --> 01:15:58,369
+They flicker there
+
+1175
+01:15:58,579 --> 01:16:02,874
+A million hearts beat quicker there
+
+1176
+01:16:03,375 --> 01:16:08,045
+No skies of gray
+On that Great White Way
+
+1177
+01:16:08,338 --> 01:16:12,300
+That's the Broadway
+
+1178
+01:16:12,509 --> 01:16:16,888
+Melody
+
+1179
+01:17:14,446 --> 01:17:16,446
+Gotta dance
+
+1180
+01:17:51,525 --> 01:17:52,650
+Shh.
+
+1181
+01:17:59,992 --> 01:18:03,786
+Gotta dance
+
+1182
+01:18:04,538 --> 01:18:09,333
+Gotta dance, gotta dance
+
+1183
+01:18:10,961 --> 01:18:13,337
+Broadway rhythm
+lt's got me
+
+1184
+01:18:13,630 --> 01:18:17,133
+Everybody dance
+
+1185
+01:18:17,676 --> 01:18:20,052
+Broadway rhythm
+lt's got me
+
+1186
+01:18:20,345 --> 01:18:23,347
+Everybody dance
+
+1187
+01:18:23,515 --> 01:18:26,726
+Out on that Gay White Way
+And each merry café
+
+1188
+01:18:27,019 --> 01:18:30,438
+Orchestras play
+Taking your breath away
+
+1189
+01:18:30,939 --> 01:18:33,357
+Broadway rhythm
+lt's got me
+
+1190
+01:18:33,650 --> 01:18:37,194
+Everybody sing and dance
+
+1191
+01:18:39,031 --> 01:18:41,631
+Oh, that Broadway rhythm
+
+1192
+01:18:52,210 --> 01:18:55,338
+When l hear that happy beat
+
+1193
+01:18:55,547 --> 01:18:58,591
+Feel like dancin' down the street
+
+1194
+01:18:58,842 --> 01:19:02,595
+To that Broadway rhythm
+
+1195
+01:19:02,888 --> 01:19:04,555
+Writhing, beating
+
+1196
+01:19:04,723 --> 01:19:05,890
+Rhythm
+
+1197
+01:19:06,183 --> 01:19:08,183
+Gotta dance
+
+1198
+01:20:35,939 --> 01:20:37,064
+[COUGHS]
+
+1199
+01:22:53,285 --> 01:22:56,120
+DANCERS [SINGING]:
+When l hear that happy beat
+
+1200
+01:22:56,329 --> 01:22:59,123
+Feel like dancin' down the street
+
+1201
+01:23:08,925 --> 01:23:11,635
+When l hear that happy beat
+
+1202
+01:23:11,970 --> 01:23:14,763
+Feel like dancin' down the street
+
+1203
+01:27:39,404 --> 01:27:41,238
+YOUNG MAN:
+Gotta dance
+
+1204
+01:27:44,784 --> 01:27:46,784
+Gotta dance
+
+1205
+01:27:56,254 --> 01:28:02,217
+Gotta dance
+Gotta dance
+
+1206
+01:28:30,622 --> 01:28:35,083
+That's the Broadway
+
+1207
+01:28:35,293 --> 01:28:36,893
+Melody
+
+1208
+01:28:48,848 --> 01:28:51,475
+That's the idea.
+What do you think of it?
+
+1209
+01:28:51,768 --> 01:28:54,645
+I can't visualize it.
+I'll have to see it on film first.
+
+1210
+01:28:54,812 --> 01:28:57,314
+-On film, it'll be better yet.
+-Don't forget.
+
+1211
+01:28:57,565 --> 01:29:00,067
+Have Selden re-record
+all of Lina's dialogue.
+
+1212
+01:29:00,276 --> 01:29:02,152
+-It's all set up.
+-And remember...
+
+1213
+01:29:02,445 --> 01:29:04,947
+...don't let Lina know about it.
+
+1214
+01:29:07,533 --> 01:29:08,951
+COSMO:
+All set in there?
+
+1215
+01:29:09,869 --> 01:29:11,161
+Right.
+
+1216
+01:29:11,788 --> 01:29:14,206
+Nothing can keep us apart.
+
+1217
+01:29:14,457 --> 01:29:18,460
+Our love will last
+till the stars turn cold.
+
+1218
+01:29:18,962 --> 01:29:20,879
+COSMO:
+All right, Kathy. Go ahead.
+
+1219
+01:29:21,839 --> 01:29:24,174
+KATHY:
+Nothing can keep us apart.
+
+1220
+01:29:24,384 --> 01:29:28,220
+Our love will last
+till the stars turn cold.
+
+1221
+01:29:28,638 --> 01:29:30,597
+COSMO:
+That's great! Perfect. Cut.
+
+1222
+01:29:33,101 --> 01:29:35,894
+Till the stars turn cold.
+
+1223
+01:29:36,521 --> 01:29:38,647
+Oh, Kathy, I love you.
+
+1224
+01:29:40,817 --> 01:29:43,026
+I can't wait till
+this picture's finished.
+
+1225
+01:29:43,319 --> 01:29:46,697
+No more secrecy.
+I'm gonna let Lina and everyone know.
+
+1226
+01:29:46,906 --> 01:29:49,491
+Your fans will be
+bitterly disappointed.
+
+1227
+01:29:49,701 --> 01:29:53,412
+From now on, there's only
+one fan I'm worried about.
+
+1228
+01:29:56,833 --> 01:29:57,874
+ZELDA:
+There!
+
+1229
+01:29:58,042 --> 01:30:01,169
+-What did I tell you?
+-Thanks, Zelda. You're a real pal.
+
+1230
+01:30:01,379 --> 01:30:05,340
+I want that girl off the lot at once!
+She ain't gonna be my voice.
+
+1231
+01:30:05,550 --> 01:30:07,134
+Zelda told me everything.
+
+1232
+01:30:07,385 --> 01:30:10,178
+-Thanks, Zelda. You're a real pal.
+-Anytime, Don.
+
+1233
+01:30:10,388 --> 01:30:11,638
+Look, Don and I--
+
+1234
+01:30:11,889 --> 01:30:14,558
+Don! Don't you dare call him Don!
+
+1235
+01:30:14,767 --> 01:30:17,769
+I was calling him Don
+before you were born.
+
+1236
+01:30:18,021 --> 01:30:19,730
+I mean--
+You were kissing him!
+
+1237
+01:30:20,023 --> 01:30:23,442
+I was kissing her.
+I happen to be in love with her.
+
+1238
+01:30:23,693 --> 01:30:27,738
+That's ridiculous! Everybody knows
+you're in love with me.
+
+1239
+01:30:27,905 --> 01:30:32,034
+Ha, ha. Now look, Lina.
+Try and understand this.
+
+1240
+01:30:32,243 --> 01:30:33,910
+I'm going to marry her.
+
+1241
+01:30:34,203 --> 01:30:36,872
+Silly boy.
+She ain't the marrying kind.
+
+1242
+01:30:37,081 --> 01:30:39,916
+She's a flirt
+trying to get ahead by using you.
+
+1243
+01:30:40,168 --> 01:30:44,546
+Well, I'll put a stop to that!
+I'm gonna go up and see R.F. right now!
+
+1244
+01:30:44,756 --> 01:30:46,256
+A little late.
+The picture's finished.
+
+1245
+01:30:46,424 --> 01:30:48,759
+If she weren't in it,
+you'd be finished too.
+
+1246
+01:30:48,968 --> 01:30:51,928
+As far as I can see,
+she's the only one who's finished.
+
+1247
+01:30:52,221 --> 01:30:53,221
+Who'll hear of her?
+
+1248
+01:30:53,431 --> 01:30:56,600
+Everybody. Why do you think
+Zelda's in such a sweat?
+
+1249
+01:30:56,809 --> 01:30:58,602
+Kathy nearly stole
+the picture from her.
+
+1250
+01:30:58,770 --> 01:31:00,812
+She's only doing you a favor
+in The Dancing Cavalier.
+
+1251
+01:31:01,105 --> 01:31:04,107
+And she's getting
+full screen credit for it too.
+
+1252
+01:31:04,400 --> 01:31:08,111
+It'll say on the screen
+that I don't talk and sing for myself?
+
+1253
+01:31:08,279 --> 01:31:10,197
+Of course. What do you think?
+
+1254
+01:31:10,448 --> 01:31:12,449
+-They can't do that.
+-It's already done.
+
+1255
+01:31:12,742 --> 01:31:14,993
+There's a whole
+publicity campaign planned.
+
+1256
+01:31:15,286 --> 01:31:16,703
+Publicity?
+
+1257
+01:31:16,954 --> 01:31:18,789
+They can't make a fool out of me.
+
+1258
+01:31:18,998 --> 01:31:21,625
+They can't make a laughingstock
+out of Lina Lamont.
+
+1259
+01:31:21,918 --> 01:31:24,795
+What do they think I am,
+dumb or something?
+
+1260
+01:31:25,088 --> 01:31:27,339
+Why, I make more money...
+
+1261
+01:31:28,132 --> 01:31:30,008
+...than Calvin Coolidge...
+
+1262
+01:31:30,259 --> 01:31:32,094
+...put together!
+
+1263
+01:31:34,138 --> 01:31:38,850
+ROD: "Monumental Pictures enthusiastic
+over Lina's singing and dancing."
+
+1264
+01:31:39,102 --> 01:31:40,143
+I never said that.
+
+1265
+01:31:40,311 --> 01:31:44,314
+"Premiere tomorrow night to reveal
+Lina Lamont, big musical talent."
+
+1266
+01:31:44,524 --> 01:31:47,651
+You can't pull a switch like this
+on the publicity department.
+
+1267
+01:31:47,860 --> 01:31:49,986
+We were prepared
+for the Selden campaign.
+
+1268
+01:31:50,238 --> 01:31:52,322
+Now you do this.
+At least keep us informed.
+
+1269
+01:31:52,490 --> 01:31:55,283
+Wait a minute.
+I don't know anything about this.
+
+1270
+01:31:55,493 --> 01:31:56,743
+What are we gonna do?
+
+1271
+01:31:56,953 --> 01:31:57,953
+LINA:
+Nothing.
+
+1272
+01:31:58,955 --> 01:32:01,498
+Absolutely nothing.
+
+1273
+01:32:01,791 --> 01:32:04,835
+You wouldn't wanna call the papers
+and say Lina Lamont.. .
+
+1274
+01:32:05,044 --> 01:32:07,337
+...is a big fat liar.
+
+1275
+01:32:07,630 --> 01:32:09,172
+Did you send this stuff out?
+
+1276
+01:32:09,465 --> 01:32:12,801
+I gave an exclusive story
+to every paper in town.
+
+1277
+01:32:13,010 --> 01:32:15,178
+You'll never get away with it.
+Call the papers.
+
+1278
+01:32:15,388 --> 01:32:17,180
+I wouldn't do that if I were you.
+
+1279
+01:32:17,390 --> 01:32:19,474
+Don't tell me what to do, Lina.
+
+1280
+01:32:19,684 --> 01:32:23,186
+What do you think I am,
+dumb or something?
+
+1281
+01:32:23,396 --> 01:32:26,523
+I had my lawyer go over my contract.
+
+1282
+01:32:26,774 --> 01:32:27,858
+Contract?
+
+1283
+01:32:28,151 --> 01:32:30,694
+And l control my publicity, not you.
+
+1284
+01:32:30,862 --> 01:32:32,070
+-Yeah?
+-Yeah.
+
+1285
+01:32:32,238 --> 01:32:35,282
+The studio is responsible
+for every word printed about me.
+
+1286
+01:32:35,491 --> 01:32:38,577
+If I don't like it, I can sue.
+
+1287
+01:32:38,870 --> 01:32:39,911
+What?
+
+1288
+01:32:40,163 --> 01:32:42,372
+I can sue.
+
+1289
+01:32:42,582 --> 01:32:45,542
+If you tell the papers
+about Kathy Selden...
+
+1290
+01:32:45,793 --> 01:32:50,505
+...it would be "detrimental
+and deleterious" to my career.
+
+1291
+01:32:51,174 --> 01:32:54,301
+I could sue you for the whole studio.
+
+1292
+01:32:54,552 --> 01:32:56,803
+-That's a lot of nonsense.
+-Says so.
+
+1293
+01:32:57,054 --> 01:32:58,430
+Right here.
+
+1294
+01:32:58,723 --> 01:33:03,226
+Contract dated June 8, 1 925,
+paragraph 34, subdivision letter A.
+
+1295
+01:33:03,394 --> 01:33:05,437
+"The party of the first part--"
+
+1296
+01:33:05,688 --> 01:33:07,522
+-That's me.
+-You win, Lina.
+
+1297
+01:33:07,732 --> 01:33:10,358
+We better take Kathy's
+credit card off the screen.
+
+1298
+01:33:10,568 --> 01:33:11,902
+All right, go ahead.
+
+1299
+01:33:12,111 --> 01:33:14,321
+Let's just get
+this premiere over with.
+
+1300
+01:33:14,572 --> 01:33:15,906
+Satisfied?
+
+1301
+01:33:16,115 --> 01:33:18,617
+There's just one little thing more.
+
+1302
+01:33:19,076 --> 01:33:23,121
+You want me to change the name of
+the studio to Lamont Pictures, Inc.?
+
+1303
+01:33:23,414 --> 01:33:25,373
+R.F., you're cute.
+
+1304
+01:33:25,583 --> 01:33:27,417
+Now, I was just thinking.
+
+1305
+01:33:27,627 --> 01:33:30,128
+You've given her
+a part in Zelda's picture. ..
+
+1306
+01:33:30,421 --> 01:33:32,923
+...and you'll give her
+a bigger one in the next.
+
+1307
+01:33:33,216 --> 01:33:34,716
+So, what?
+
+1308
+01:33:34,926 --> 01:33:37,636
+If she's done such a grand job
+doubling for my voice. ..
+
+1309
+01:33:37,929 --> 01:33:41,223
+...don't you think she ought to
+go on doing just that?
+
+1310
+01:33:41,432 --> 01:33:43,725
+-And nothing else.
+-You're out of your mind.
+
+1311
+01:33:43,935 --> 01:33:46,978
+I'm still more important
+to the studio than she is.
+
+1312
+01:33:47,230 --> 01:33:48,980
+I wouldn't do that to her
+in a million years.
+
+1313
+01:33:49,232 --> 01:33:52,734
+You'd take her career away.
+People don't do things like that.
+
+1314
+01:33:52,944 --> 01:33:54,486
+People?
+
+1315
+01:33:54,779 --> 01:33:56,613
+I ain't people.
+
+1316
+01:33:56,906 --> 01:33:58,657
+I am a... .
+
+1317
+01:34:02,078 --> 01:34:06,456
+"A shimmering, glowing star
+in the cinema firmament."
+
+1318
+01:34:06,624 --> 01:34:08,458
+It says so.. .
+
+1319
+01:34:08,793 --> 01:34:10,126
+...right there.
+
+1320
+01:34:22,640 --> 01:34:27,477
+Oh, Pierre, Pierre, my darling.
+At last, l've found you.
+
+1321
+01:34:27,645 --> 01:34:28,687
+Oh, Pierre.
+
+1322
+01:34:28,938 --> 01:34:32,691
+Pierre, you're hurt.
+Speak to me, speak to me.
+
+1323
+01:34:33,526 --> 01:34:37,529
+[SINGIN]
+l'll kiss her with a sigh
+
+1324
+01:34:38,322 --> 01:34:42,284
+Would you?
+
+1325
+01:34:42,785 --> 01:34:46,621
+And if the girl were l
+
+1326
+01:34:46,914 --> 01:34:51,042
+Would you?
+
+1327
+01:34:51,502 --> 01:34:54,796
+Oh, Pierre, hold me
+in your arms always.
+
+1328
+01:34:55,006 --> 01:34:56,298
+Lockwood's a sensation.
+
+1329
+01:34:56,507 --> 01:35:00,176
+Yes, but Lamont! What a voice!
+Isn't she marvelous?
+
+1330
+01:35:00,469 --> 01:35:02,971
+-It's going over wonderfully, isn't it?
+-Yeah.
+
+1331
+01:35:03,180 --> 01:35:07,517
+Our love will last
+till the stars turn cold.
+
+1332
+01:35:08,185 --> 01:35:12,856
+[SINGING]
+And would you dare to say
+
+1333
+01:35:13,024 --> 01:35:18,194
+Let's do the same as they
+
+1334
+01:35:19,655 --> 01:35:21,255
+l would
+
+1335
+01:35:24,869 --> 01:35:29,039
+Would you?
+
+1336
+01:35:36,130 --> 01:35:38,381
+[AUDIENCE APPLAUDS]
+
+1337
+01:35:52,855 --> 01:35:54,230
+R.F., it's a real smash.
+
+1338
+01:35:54,398 --> 01:35:57,108
+-Congratulations. We owe you a lot.
+-Thank you.
+
+1339
+01:35:57,360 --> 01:35:59,235
+-Kathy, we made it!
+-It's a miracle!
+
+1340
+01:35:59,528 --> 01:36:01,279
+It's great, Don. Just great.
+
+1341
+01:36:01,530 --> 01:36:04,407
+You were fabulous.
+You sang as well as Kathy Selden.
+
+1342
+01:36:04,617 --> 01:36:07,577
+And l'm gonna for a long time.
+
+1343
+01:36:07,745 --> 01:36:08,745
+What do you mean?
+
+1344
+01:36:08,996 --> 01:36:12,248
+I mean she's gonna go
+right on singing for me.
+
+1345
+01:36:12,541 --> 01:36:13,625
+Listen, Lina.
+
+1346
+01:36:13,918 --> 01:36:17,587
+I thought something was cooking
+beneath those bleached curls.
+
+1347
+01:36:17,797 --> 01:36:20,924
+Kathy has her own career.
+She only did this for this picture.
+
+1348
+01:36:21,217 --> 01:36:22,592
+That's what you think.
+
+1349
+01:36:22,802 --> 01:36:24,427
+Come on, come on.
+
+1350
+01:36:24,720 --> 01:36:26,930
+-Lina's getting carried away.
+-Yeah, she is.
+
+1351
+01:36:27,223 --> 01:36:28,598
+Listen, you boa constrictor.
+
+1352
+01:36:28,891 --> 01:36:31,643
+Don't get any fancy ideas
+about the future. Tell her!
+
+1353
+01:36:31,936 --> 01:36:34,270
+Never mind, R.F.!
+Listen to that applause.
+
+1354
+01:36:34,563 --> 01:36:36,147
+Wait till the money rolls in.
+
+1355
+01:36:36,399 --> 01:36:40,318
+You won't give all that up because
+a nobody don't wanna be my voice.
+
+1356
+01:36:40,611 --> 01:36:42,529
+She's got something.
+It's a gold mine.
+
+1357
+01:36:42,780 --> 01:36:44,906
+Part of that choice is mine.
+
+1358
+01:36:45,116 --> 01:36:46,408
+And l just won't do it.
+
+1359
+01:36:46,617 --> 01:36:50,245
+You've got a five-year contract.
+You'll do what R.F. says.
+
+1360
+01:36:50,454 --> 01:36:52,956
+What's the matter?
+Why don't you tell her off?
+
+1361
+01:36:53,165 --> 01:36:55,041
+I'm confused.
+This thing is so big--
+
+1362
+01:36:55,292 --> 01:36:58,461
+-They're tearing the house apart.
+-Take a curtain call.
+
+1363
+01:36:58,671 --> 01:37:00,964
+I once gave you a cigar.
+Can I have it back?
+
+1364
+01:37:01,132 --> 01:37:04,467
+Listen! I'm an avalanche!
+Selden, you're stuck.
+
+1365
+01:37:04,760 --> 01:37:07,971
+If this happens, get a new boy.
+I won't stand for it.
+
+1366
+01:37:08,180 --> 01:37:11,599
+Who needs you? They'd come to see me
+if I played opposite a monkey!
+
+1367
+01:37:11,809 --> 01:37:13,143
+Don's a smash too.
+
+1368
+01:37:13,436 --> 01:37:15,979
+I'll say a few words.
+I'm still running the studio.
+
+1369
+01:37:16,188 --> 01:37:17,647
+I'm not so sure!
+
+1370
+01:37:17,857 --> 01:37:21,151
+You're Mr. Producer,
+always running things, running me.
+
+1371
+01:37:21,360 --> 01:37:24,821
+From now on, as far as I'm concerned,
+I'm running things.
+
+1372
+01:37:25,114 --> 01:37:27,407
+-Lina Lamont Pictures, Inc., huh?
+-Yeah.
+
+1373
+01:37:27,616 --> 01:37:29,325
+You've gone a little too far.
+
+1374
+01:37:29,577 --> 01:37:31,828
+-They're yelling for a speech.
+-A speech?
+
+1375
+01:37:32,121 --> 01:37:34,956
+Yeah, everybody's always making
+speeches for me.
+
+1376
+01:37:35,166 --> 01:37:39,502
+Tonight, I'm gonna do my own talking.
+I'm gonna make the speech!
+
+1377
+01:37:39,795 --> 01:37:42,672
+ROD: No, please!
+DON: Wait a minute. Wait a minute.
+
+1378
+01:37:42,965 --> 01:37:46,843
+This is Lina's big night
+and she's entitled to do the talking.
+
+1379
+01:37:48,095 --> 01:37:50,346
+-Right?
+-Right.
+
+1380
+01:37:55,227 --> 01:37:57,312
+Ladies and gentlemen.
+
+1381
+01:37:57,521 --> 01:37:58,605
+I can't tell you. ..
+
+1382
+01:37:58,814 --> 01:38:00,982
+...how thrilled we are
+at your reception. ..
+
+1383
+01:38:01,192 --> 01:38:05,195
+...for The Dancing Cavalier,
+our first musical picture together.
+
+1384
+01:38:05,488 --> 01:38:09,741
+If we bring a little joy
+into your humdrum lives. ..
+
+1385
+01:38:10,034 --> 01:38:12,243
+...it makes us feel
+as though our hard work.. .
+
+1386
+01:38:12,536 --> 01:38:14,996
+...ain't been in vain for nothing.
+
+1387
+01:38:16,123 --> 01:38:17,832
+Bless you all.
+
+1388
+01:38:18,042 --> 01:38:19,751
+She didn't sound that way
+in the picture.
+
+1389
+01:38:20,044 --> 01:38:21,628
+Cut the talk, Lina. Sing!
+
+1390
+01:38:22,671 --> 01:38:25,465
+MAN 1 : Sing us a song, Lina.
+Sing to us.
+
+1391
+01:38:25,633 --> 01:38:28,092
+MAN 2: Please.
+MAN 3: Come on, Lina, sing.
+
+1392
+01:38:29,220 --> 01:38:30,887
+DON:
+I got an idea. Come here.
+
+1393
+01:38:31,096 --> 01:38:32,138
+Now, listen.
+
+1394
+01:38:36,352 --> 01:38:38,353
+LINA:
+What am I gonna do?
+
+1395
+01:38:38,562 --> 01:38:41,523
+We've got it.
+Get a mike set up back of that curtain.
+
+1396
+01:38:41,732 --> 01:38:45,068
+Kathy, come here.
+Kathy will stand back of there and sing.
+
+1397
+01:38:45,277 --> 01:38:48,738
+She'll be back of the curtain singing,
+and I'll be in front.. ..
+
+1398
+01:38:48,948 --> 01:38:50,657
+-Like in the picture?
+-Right.
+
+1399
+01:38:50,908 --> 01:38:52,742
+You've gotta do it. This is too big.
+
+1400
+01:38:52,952 --> 01:38:56,913
+She's got a five-year contract with me.
+Get over to that mike.
+
+1401
+01:38:57,164 --> 01:38:59,415
+You heard him, Kathy. Now do it!
+
+1402
+01:38:59,708 --> 01:39:00,875
+I'll do it, Don.
+
+1403
+01:39:01,085 --> 01:39:02,919
+But I never want to see you again. ..
+
+1404
+01:39:03,212 --> 01:39:05,088
+...on or off the screen.
+
+1405
+01:39:05,256 --> 01:39:06,923
+Now, come on, Lina.
+
+1406
+01:39:11,470 --> 01:39:13,221
+ORCHESTRA LEADER:
+What are you gonna sing?
+
+1407
+01:39:17,184 --> 01:39:22,981
+"Singin' in the Rain."
+
+1408
+01:39:23,274 --> 01:39:24,399
+In what key?
+
+1409
+01:39:27,278 --> 01:39:28,611
+KATHY:
+A-flat.
+
+1410
+01:39:28,821 --> 01:39:29,904
+A-flat.
+
+1411
+01:39:30,447 --> 01:39:32,073
+In A-flat.
+
+1412
+01:39:33,784 --> 01:39:35,785
+[ORCHESTRA PLAYING
+"SINGIN' IN THE RAIN"]
+
+1413
+01:39:43,335 --> 01:39:48,339
+KATHY [SINGS]: l'm singin' in the rain
+Just singin' in the rain
+
+1414
+01:39:48,591 --> 01:39:53,469
+What a glorious feelin'
+I'm happy again
+
+1415
+01:39:53,637 --> 01:39:58,725
+l'm laughin' at clouds
+So dark up above
+
+1416
+01:39:58,934 --> 01:40:01,811
+The sun's in my heart
+
+1417
+01:40:01,979 --> 01:40:03,855
+And I'm ready for love
+
+1418
+01:40:04,148 --> 01:40:06,316
+Let the stormy clouds chase
+
+1419
+01:40:06,609 --> 01:40:09,152
+Everyone from the place
+
+1420
+01:40:09,361 --> 01:40:14,365
+Come on with the rain
+l've a smile on my face
+
+1421
+01:40:14,658 --> 01:40:19,495
+l'll walk down the lane
+With a happy refrain
+
+1422
+01:40:19,747 --> 01:40:23,666
+And singin'
+Just singin' in the rain
+
+1423
+01:40:23,834 --> 01:40:25,126
+[AUDIENCE LAUGHS]
+
+1424
+01:40:25,294 --> 01:40:30,006
+l'm singin' in the rain
+Just singin' in the rain
+
+1425
+01:40:30,507 --> 01:40:35,136
+What a glorious feelin'
+I'm happy again
+
+1426
+01:40:35,346 --> 01:40:40,308
+l'm laughin' at clouds
+So dark up above
+
+1427
+01:40:40,768 --> 01:40:42,393
+The sun's in my heart
+
+1428
+01:40:42,645 --> 01:40:45,271
+And I'm ready for love
+
+1429
+01:40:45,522 --> 01:40:47,523
+Let the stormy clouds chase
+
+1430
+01:40:49,818 --> 01:40:51,152
+Stop that girl!
+
+1431
+01:40:51,362 --> 01:40:53,321
+That girl running up the aisle!
+Stop her!
+
+1432
+01:40:53,530 --> 01:40:56,199
+That's the girl whose voice
+you heard and loved.
+
+1433
+01:40:56,367 --> 01:40:59,410
+She's the real star of the picture,
+Kathy Selden!
+
+1434
+01:41:00,871 --> 01:41:02,956
+[AUDIENCE APPLAUDS]
+
+1435
+01:41:06,502 --> 01:41:07,710
+Kathy.
+
+1436
+01:41:08,712 --> 01:41:11,881
+[SINGING]
+You are
+
+1437
+01:41:12,508 --> 01:41:16,552
+My lucky star
+
+1438
+01:41:17,554 --> 01:41:20,014
+I saw you
+
+1439
+01:41:21,475 --> 01:41:24,394
+From afar
+
+1440
+01:41:26,230 --> 01:41:32,276
+Two lovely eyes
+At me they were gleaming
+
+1441
+01:41:33,821 --> 01:41:37,198
+Beaming
+
+1442
+01:41:37,950 --> 01:41:43,079
+l was starstruck
+
+1443
+01:41:43,747 --> 01:41:47,542
+You're all
+
+1444
+01:41:47,751 --> 01:41:51,838
+My lucky charms
+
+1445
+01:41:52,381 --> 01:41:56,426
+I'm lucky
+
+1446
+01:41:56,593 --> 01:42:00,763
+In your arms
+
+1447
+01:42:01,557 --> 01:42:05,435
+You've opened heaven's portal
+
+1448
+01:42:05,728 --> 01:42:12,233
+Here on earth for this poor mortal
+
+1449
+01:42:12,735 --> 01:42:15,111
+CHORUS [SINGS]:
+You
+
+1450
+01:42:15,362 --> 01:42:18,072
+Are my
+
+1451
+01:42:18,282 --> 01:42:23,453
+Lucky star
+
+1452
+01:42:43,849 --> 01:42:45,850
+<font face="Monotype Corsiva" color=#808080"> © anoXmous </ font>
+<font face="Monotype Corsiva" color=#D900D9"> @ https://thepiratebay.se/user/Zen_Bud </font>]
+

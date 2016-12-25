@@ -1,0 +1,6630 @@
+1
+00:00:07,149 --> 00:00:08,901
+[Whimsical instrumental music]
+
+2
+00:00:51,570 --> 00:00:53,655
+[Whimsical music continues]
+
+3
+00:01:24,895 --> 00:01:28,023
+PRINCETON UNIVERSITY - SEPTEMBER 1947
+
+4
+00:01:29,941 --> 00:01:32,402
+Mathematicians won the war.
+
+5
+00:01:33,194 --> 00:01:36,197
+Mathematicians broke
+the Japanese codes...
+
+6
+00:01:36,406 --> 00:01:38,325
+...and built the A-bomb.
+
+7
+00:01:38,700 --> 00:01:41,411
+Mathematicians, like you.
+
+8
+00:01:42,829 --> 00:01:46,416
+<i>The stated goal of the Soviets</i>
+<i>is global Communism. </i>
+
+9
+00:01:47,167 --> 00:01:48,960
+In medicine or economics...
+
+10
+00:01:49,085 --> 00:01:51,087
+...in technology or space...
+
+11
+00:01:51,379 --> 00:01:53,465
+...battle lines are being drawn.
+
+12
+00:01:54,132 --> 00:01:56,801
+<i>To triumph, we need results... </i>
+
+13
+00:01:57,052 --> 00:02:00,013
+<i>... publishable, applicable results. </i>
+
+14
+00:02:00,096 --> 00:02:02,975
+Now who among you
+will be the next Morse?
+
+15
+00:02:04,644 --> 00:02:06,270
+The next Einstein?
+
+16
+00:02:06,812 --> 00:02:09,607
+<i>Who among you will be</i>
+<i>the vanguard of democracy... </i>
+
+17
+00:02:09,690 --> 00:02:11,817
+<i>... freedom, and discovery? </i>
+
+18
+00:02:12,818 --> 00:02:16,656
+<i>Today, we bequeath America's future</i>
+<i>into your able hands. </i>
+
+19
+00:02:18,532 --> 00:02:20,618
+<i>Welcome to Princeton, gentlemen. </i>
+
+20
+00:02:37,802 --> 00:02:40,638
+MAN 1: It's not enough Hansen won
+the Carnegie Scholarship.
+
+21
+00:02:40,721 --> 00:02:42,682
+MAN 2: No, he wants it all for himself.
+
+22
+00:02:43,641 --> 00:02:47,353
+It's the first time the Carnegie Prize
+has been split. Hansen's all bent.
+
+23
+00:02:47,436 --> 00:02:51,774
+MAN 1: He has his sights set on
+Wheeler Lab, MIT's military think-tank.
+
+24
+00:02:51,857 --> 00:02:54,151
+<i>They're only taking one this year. </i>
+
+25
+00:02:54,235 --> 00:02:56,112
+MAN 2: Hansen's used to
+being picked first.
+
+26
+00:02:56,195 --> 00:02:57,863
+MAN 1: Yeah, he's wasted on math.
+
+27
+00:02:57,947 --> 00:03:00,157
+MAN 2: He should be running for president.
+
+28
+00:03:10,126 --> 00:03:13,879
+There could be a mathematical explanation
+for how bad your tie is.
+
+29
+00:03:14,880 --> 00:03:17,133
+[Laughs]
+
+30
+00:03:19,302 --> 00:03:20,846
+NEILSON: Thank you.
+
+31
+00:03:22,264 --> 00:03:23,974
+Neilson, symbol cryptography.
+
+32
+00:03:24,057 --> 00:03:27,102
+Neils here broke a Jap code.
+Helped rid the world of Fascism.
+
+33
+00:03:27,185 --> 00:03:30,188
+At least that's what he tells the girls,
+eh, Neils?
+
+34
+00:03:30,355 --> 00:03:32,441
+The name's Bender. Atomic physics.
+
+35
+00:03:32,524 --> 00:03:34,568
+NEILSON: And you are?
+SOL: Am I late?
+
+36
+00:03:34,651 --> 00:03:37,571
+BENDER: Yes, Mr. Sol.
+SOL: Oh, good. Hi.
+
+37
+00:03:38,447 --> 00:03:41,116
+SOL: Sol. Richard Sol.
+MARTIN: The burden of genius.
+
+38
+00:03:41,199 --> 00:03:43,577
+- There he is.
+- So many supplicants, and so little time.
+
+39
+00:03:43,619 --> 00:03:45,287
+- Mr. Sol.
+- How are you, sir?
+
+40
+00:03:45,370 --> 00:03:47,080
+MARTIN: Bender.
+BENDER: Nice to see you.
+
+41
+00:03:47,164 --> 00:03:49,917
+BENDER: Congratulations, Mr. Hansen.
+MARTIN: Thank you.
+
+42
+00:03:50,042 --> 00:03:51,752
+I'll take another.
+
+43
+00:03:53,003 --> 00:03:54,129
+Excuse me?
+
+44
+00:03:54,212 --> 00:03:56,465
+MARTIN: Pardon me.
+I assumed you were the waiter.
+
+45
+00:03:56,548 --> 00:03:59,217
+BENDER: Play nice.
+SOL: Nice is not Hansen's strong suit.
+
+46
+00:03:59,301 --> 00:04:00,636
+MARTIN: Honest mistake.
+
+47
+00:04:00,719 --> 00:04:02,679
+<i>Well, Martin Hansen. </i>
+
+48
+00:04:03,847 --> 00:04:05,557
+It is Martin, isn't it?
+
+49
+00:04:05,849 --> 00:04:07,726
+Why, yes, John, it is.
+
+50
+00:04:07,809 --> 00:04:11,313
+I imagine you're getting
+quite used to miscalculation.
+
+51
+00:04:13,774 --> 00:04:15,943
+I've read your preprints...
+
+52
+00:04:16,026 --> 00:04:18,445
+...both of them.
+
+53
+00:04:18,528 --> 00:04:20,197
+The one on Nazi ciphers...
+
+54
+00:04:20,364 --> 00:04:22,741
+...and the other one
+on nonlinear equations...
+
+55
+00:04:23,242 --> 00:04:26,662
+...and I am supremely confident
+that there is not a single seminal...
+
+56
+00:04:26,745 --> 00:04:29,414
+...or innovative idea in either one of them.
+
+57
+00:04:32,376 --> 00:04:34,127
+Enjoy your punch.
+
+58
+00:04:36,672 --> 00:04:38,132
+[Snickers]
+
+59
+00:04:38,216 --> 00:04:40,093
+Gentlemen, meet John Nash...
+
+60
+00:04:40,760 --> 00:04:43,096
+<i>... the mysterious West Virginia genius. </i>
+
+61
+00:04:43,179 --> 00:04:46,182
+<i>The other winner</i>
+<i>of the distinguished Carnegie Scholarship. </i>
+
+62
+00:04:46,266 --> 00:04:47,892
+BENDER: Okay.
+SOL: Yeah?
+
+63
+00:04:47,976 --> 00:04:49,269
+BENDER: Of course.
+
+64
+00:05:02,240 --> 00:05:04,951
+[Choral music plays on record-player]
+
+65
+00:05:20,592 --> 00:05:22,468
+CHARLES: [Coughs] Oh, Christ.
+
+66
+00:05:23,595 --> 00:05:26,264
+The prodigal roommate arrives.
+
+67
+00:05:27,181 --> 00:05:28,933
+Roommate?
+
+68
+00:05:29,017 --> 00:05:30,351
+Oh, God, no.
+
+69
+00:05:31,185 --> 00:05:32,937
+[Music slows to a stop]
+
+70
+00:05:33,021 --> 00:05:35,773
+CHARLES: Did you know that
+having a hangover...
+
+71
+00:05:36,274 --> 00:05:38,693
+...is not having enough water
+in your body...
+
+72
+00:05:38,776 --> 00:05:40,737
+...to run your Krebs cycle?
+
+73
+00:05:41,362 --> 00:05:45,116
+<i>Which is exactly what happens to you</i>
+<i>when you're dying of thirst. </i>
+
+74
+00:05:45,408 --> 00:05:48,328
+So, dying of thirst...
+
+75
+00:05:49,412 --> 00:05:51,497
+...would probably feel...
+
+76
+00:05:51,956 --> 00:05:56,337
+<i>... pretty much like the hangover</i>
+<i>that finally bloody kills you. </i>
+
+77
+00:05:58,422 --> 00:05:59,840
+John Nash?
+
+78
+00:05:59,924 --> 00:06:01,550
+Hello.
+
+79
+00:06:01,759 --> 00:06:03,260
+Charles Herman.
+
+80
+00:06:03,510 --> 00:06:05,137
+Pleased to meet you.
+
+81
+00:06:14,563 --> 00:06:16,857
+PLAYER: [Outside] All right! Well done!
+
+82
+00:06:22,071 --> 00:06:25,157
+CHARLES: Well, it's official.
+I'm almost human again.
+
+83
+00:06:25,991 --> 00:06:29,453
+<i>Officer, I saw the driver who hit me. </i>
+<i>His name was Johnny Walker. </i>
+
+84
+00:06:32,706 --> 00:06:34,541
+Whew.
+
+85
+00:06:35,417 --> 00:06:37,962
+CHARLES: Well, I got in last night
+in time for...
+
+86
+00:06:38,212 --> 00:06:40,339
+...English department cocktails.
+
+87
+00:06:40,631 --> 00:06:41,882
+Cock was mine...
+
+88
+00:06:41,966 --> 00:06:46,387
+...the tail belonged to a particularly
+lovely young thing with a passion for...
+
+89
+00:06:46,720 --> 00:06:50,224
+...D.H. Lawrence.
+You're not easily distracted, are you?
+
+90
+00:06:50,474 --> 00:06:52,977
+- I'm here to work.
+- Are you? Right.
+
+91
+00:06:53,060 --> 00:06:54,853
+I see. Crikey!
+
+92
+00:07:04,989 --> 00:07:06,907
+Is my roommate a dick?
+
+93
+00:07:08,284 --> 00:07:10,578
+Hmm?
+
+94
+00:07:11,078 --> 00:07:12,539
+Listen.
+
+95
+00:07:12,747 --> 00:07:14,666
+If we can't break the ice...
+
+96
+00:07:15,584 --> 00:07:17,544
+...how about we drown it?
+
+97
+00:07:27,721 --> 00:07:29,472
+CHARLES: So what's your story?
+
+98
+00:07:30,390 --> 00:07:33,768
+<i>You the poor kid that never got to go</i>
+<i>to Exeter or Andover? </i>
+
+99
+00:07:34,769 --> 00:07:37,439
+Despite my privileged upbringing,
+I'm well-balanced.
+
+100
+00:07:37,522 --> 00:07:39,232
+I have a chip on both shoulders.
+
+101
+00:07:39,316 --> 00:07:40,901
+[Chuckles]
+
+102
+00:07:41,443 --> 00:07:45,030
+Maybe you're just better with
+the old integers than you are with people.
+
+103
+00:07:45,113 --> 00:07:48,867
+JOHN: My first grade teacher said
+I was born with two helpings of brain...
+
+104
+00:07:48,950 --> 00:07:50,994
+...but only half a helping of heart.
+
+105
+00:07:51,077 --> 00:07:51,912
+[Chuckles]
+
+106
+00:07:52,203 --> 00:07:54,539
+CHARLES: Wow! She sounds lovely!
+
+107
+00:07:55,540 --> 00:07:57,375
+The truth is that I...
+
+108
+00:07:57,542 --> 00:07:59,377
+I don't like people much.
+
+109
+00:08:00,253 --> 00:08:01,838
+And they don't much like me.
+
+110
+00:08:01,922 --> 00:08:04,883
+But why,
+with all your obvious wit and charm?
+
+111
+00:08:05,175 --> 00:08:06,635
+[Laughs]
+
+112
+00:08:07,510 --> 00:08:09,179
+Seriously, John.
+
+113
+00:08:10,931 --> 00:08:12,432
+Mathematics...
+
+114
+00:08:13,516 --> 00:08:16,728
+Mathematics is never going to lead you
+to a higher truth.
+
+115
+00:08:16,811 --> 00:08:18,521
+And you know why?
+
+116
+00:08:18,980 --> 00:08:21,608
+Because it's boring. It's really boring.
+
+117
+00:08:22,776 --> 00:08:25,862
+You know, half these schoolboys
+are already published?
+
+118
+00:08:26,738 --> 00:08:29,408
+I cannot waste time
+with these classes and...
+
+119
+00:08:29,533 --> 00:08:31,285
+<i>... these books. </i>
+
+120
+00:08:32,787 --> 00:08:33,537
+[Coughs]
+
+121
+00:08:34,038 --> 00:08:36,666
+Memorizing the weaker assumptions
+of lesser mortals!
+
+122
+00:08:36,791 --> 00:08:39,085
+[Chuckles]
+
+123
+00:08:39,585 --> 00:08:41,462
+I need to look through...
+
+124
+00:08:41,921 --> 00:08:43,965
+...to the governing dynamics.
+
+125
+00:08:48,010 --> 00:08:49,804
+Find a truly original idea.
+
+126
+00:08:50,179 --> 00:08:52,640
+That's the only way
+I'll ever distinguish myself.
+
+127
+00:08:52,723 --> 00:08:55,434
+- It's the only way that I'll ever...
+- Matter.
+
+128
+00:08:58,312 --> 00:08:59,939
+Yes.
+
+129
+00:09:01,732 --> 00:09:04,652
+MARTIN: All right, who's next?
+SOL: I've played enough go for today.
+
+130
+00:09:04,735 --> 00:09:06,487
+- Come on.
+- I hate this game.
+
+131
+00:09:06,571 --> 00:09:08,239
+Cowards, all of you!
+
+132
+00:09:08,322 --> 00:09:10,491
+None of you rise to meet my challenge?
+
+133
+00:09:10,575 --> 00:09:14,120
+Come on, Bender. Whoever wins,
+Sol does his laundry all semester.
+
+134
+00:09:14,203 --> 00:09:17,206
+- Does that seem unfair to anyone else?
+- Not at all.
+
+135
+00:09:19,417 --> 00:09:21,377
+MARTIN: Look at him.
+BENDER: Nash!
+
+136
+00:09:21,460 --> 00:09:23,296
+Taking a reverse constitutional?
+
+137
+00:09:23,379 --> 00:09:26,841
+I'm hoping to extract an algorithm
+to define their movement.
+
+138
+00:09:30,136 --> 00:09:31,178
+Oh.
+
+139
+00:09:31,846 --> 00:09:32,888
+Psycho.
+
+140
+00:09:34,098 --> 00:09:37,518
+SOL: I thought you dropped out.
+You ever going to go to class or...
+
+141
+00:09:37,602 --> 00:09:39,896
+Classes will dull your mind.
+
+142
+00:09:40,479 --> 00:09:43,149
+Destroy the potential
+for authentic creativity.
+
+143
+00:09:43,232 --> 00:09:44,901
+Oh, I didn't know that.
+
+144
+00:09:44,984 --> 00:09:47,321
+Nash is going to stun us all
+with his genius.
+
+145
+00:09:47,905 --> 00:09:51,742
+Which is another way of saying
+he doesn't have the nerve to compete.
+
+146
+00:09:53,285 --> 00:09:54,536
+You scared?
+
+147
+00:09:54,620 --> 00:09:57,247
+Terrified. Mortified. Petrified.
+
+148
+00:09:57,331 --> 00:09:58,999
+Stupefied by you.
+
+149
+00:10:00,208 --> 00:10:01,627
+No starch.
+
+150
+00:10:01,710 --> 00:10:03,712
+Pressed and folded.
+
+151
+00:10:06,632 --> 00:10:08,675
+Let me ask you something, John.
+
+152
+00:10:08,967 --> 00:10:10,344
+Be my guest, Martin.
+
+153
+00:10:10,427 --> 00:10:14,514
+Bender and Sol here correctly completed
+Allen's proof of Perron's conjectures.
+
+154
+00:10:14,598 --> 00:10:16,266
+JOHN: Adequate work...
+
+155
+00:10:17,059 --> 00:10:18,727
+...without innovation.
+
+156
+00:10:18,852 --> 00:10:21,521
+- I'm flattered. You flattered?
+- Flattered.
+
+157
+00:10:21,605 --> 00:10:25,859
+MARTIN: And I've got two weapons briefs
+under security review by the DOD.
+
+158
+00:10:26,026 --> 00:10:27,903
+Derivative drivel.
+
+159
+00:10:29,404 --> 00:10:32,282
+But Nash achievements: zero.
+
+160
+00:10:32,366 --> 00:10:35,494
+I'm a patient man, Martin.
+Is there an actual question coming?
+
+161
+00:10:37,079 --> 00:10:40,082
+What if you never come up
+with your original idea?
+
+162
+00:10:42,376 --> 00:10:45,128
+MARTIN: How will it feel
+when I'm chosen for Wheeler...
+
+163
+00:10:45,963 --> 00:10:47,381
+...and you're not?
+
+164
+00:10:50,759 --> 00:10:52,386
+What if you lose?
+
+165
+00:11:03,690 --> 00:11:05,024
+You should not have won.
+
+166
+00:11:05,108 --> 00:11:05,858
+Hmm.
+
+167
+00:11:06,401 --> 00:11:08,987
+I had the first move, my play was perfect.
+
+168
+00:11:09,070 --> 00:11:10,780
+The hubris of the defeated.
+
+169
+00:11:10,863 --> 00:11:12,448
+The game is flawed.
+
+170
+00:11:19,038 --> 00:11:22,000
+MARTIN: Gentlemen, the great John Nash.
+
+171
+00:11:28,423 --> 00:11:30,967
+CHARLES: You've been in here
+for two days.
+
+172
+00:11:33,720 --> 00:11:36,431
+You know Hansen
+has just published another paper?
+
+173
+00:11:36,514 --> 00:11:39,100
+I can't even find a topic for my doctorate.
+
+174
+00:11:40,977 --> 00:11:43,771
+Well, on the bright side,
+you've invented window art.
+
+175
+00:11:46,107 --> 00:11:48,651
+This is a group playing touch football.
+
+176
+00:11:49,027 --> 00:11:52,405
+<i>This is a cluster of pigeons</i>
+<i>fighting over breadcrumbs. </i>
+
+177
+00:11:54,616 --> 00:11:58,369
+<i>And this is a woman who is chasing a man</i>
+<i>who stole her purse. </i>
+
+178
+00:11:59,329 --> 00:12:01,247
+John, you watched a mugging.
+
+179
+00:12:01,497 --> 00:12:02,916
+That's weird.
+
+180
+00:12:03,041 --> 00:12:05,668
+In competitive behavior,
+someone always loses.
+
+181
+00:12:05,752 --> 00:12:09,297
+Well, my niece knows that, John,
+and she's about this high.
+
+182
+00:12:09,380 --> 00:12:11,883
+See, if I could derive an equilibrium...
+
+183
+00:12:12,634 --> 00:12:15,345
+...where prevalence is
+a non-singular event...
+
+184
+00:12:15,887 --> 00:12:17,597
+...where nobody loses.
+
+185
+00:12:17,931 --> 00:12:21,143
+Imagine the effect that would have
+on conflict scenarios...
+
+186
+00:12:21,226 --> 00:12:23,228
+When did you last eat?
+
+187
+00:12:23,312 --> 00:12:25,898
+- When did you last eat?
+- Currency exchange?
+
+188
+00:12:25,981 --> 00:12:27,733
+You know, food.
+
+189
+00:12:29,276 --> 00:12:31,946
+You have no respect for cognitive reverie,
+you know?
+
+190
+00:12:32,029 --> 00:12:34,406
+Yes. But pizza...
+
+191
+00:12:36,075 --> 00:12:38,702
+Now, pizza I have enormous respect for.
+
+192
+00:12:40,537 --> 00:12:42,581
+And, of course, beer.
+
+193
+00:12:48,337 --> 00:12:50,256
+I have respect for beer.
+
+194
+00:12:51,632 --> 00:12:53,676
+I have respect for beer!
+
+195
+00:12:56,845 --> 00:12:58,931
+[Indistinct chatter and laughter]
+
+196
+00:13:01,976 --> 00:13:04,061
+BENDER: Good evening, Neils.
+MARTIN: Hey, Nash.
+
+197
+00:13:04,144 --> 00:13:05,980
+Who's winning? You or you?
+
+198
+00:13:06,689 --> 00:13:09,608
+BENDER: Good evening, Nash.
+SOL: Hey, guys. Hey, Nash.
+
+199
+00:13:11,402 --> 00:13:13,696
+WOMAN: He's looking at you for sure.
+
+200
+00:13:18,325 --> 00:13:19,743
+Hey, Nash.
+
+201
+00:13:19,827 --> 00:13:22,246
+<i>Neils is trying to get your attention. </i>
+
+202
+00:13:22,329 --> 00:13:24,290
+BENDER: You're joking.
+SOL: Oh, no.
+
+203
+00:13:29,628 --> 00:13:31,714
+- Go with God.
+- Come back a man.
+
+204
+00:13:33,215 --> 00:13:35,926
+- Fortune favors the brave.
+- Bombs away.
+
+205
+00:13:38,346 --> 00:13:41,933
+Gentlemen, might I remind you
+that my odds of success...
+
+206
+00:13:42,017 --> 00:13:44,227
+...dramatically improve with each attempt?
+
+207
+00:13:53,236 --> 00:13:55,322
+This is going to be classic.
+
+208
+00:14:25,852 --> 00:14:28,021
+Maybe you want to buy me a drink.
+
+209
+00:14:33,193 --> 00:14:35,445
+I don't know what I'm required to say...
+
+210
+00:14:35,528 --> 00:14:38,114
+...in order for you
+to have intercourse with me...
+
+211
+00:14:38,198 --> 00:14:40,825
+...but could we assume
+that I've said all that?
+
+212
+00:14:41,117 --> 00:14:44,079
+Essentially we're talking about
+fluid exchange, right?
+
+213
+00:14:44,162 --> 00:14:46,373
+So, could we just go straight to the sex?
+
+214
+00:14:47,958 --> 00:14:49,834
+Oh, that was sweet.
+
+215
+00:14:50,752 --> 00:14:52,837
+WOMAN: Have a nice night, asshole!
+
+216
+00:14:53,338 --> 00:14:55,049
+NEILSON: Ladies, wait!
+
+217
+00:14:57,009 --> 00:15:00,888
+CHARLES: I especially liked the bit
+about fluid exchange. It was...
+
+218
+00:15:01,555 --> 00:15:03,307
+...really charming.
+
+219
+00:15:07,561 --> 00:15:09,105
+PROFESSOR: Walk with me, John.
+
+220
+00:15:09,230 --> 00:15:11,691
+<i>I've been meaning to talk with you. </i>
+
+221
+00:15:11,857 --> 00:15:15,486
+The faculty is completing mid-year reviews.
+
+222
+00:15:15,570 --> 00:15:18,406
+We're deciding
+which placement applications to support.
+
+223
+00:15:18,489 --> 00:15:20,866
+Wheeler, sir.
+That would be my first choice.
+
+224
+00:15:20,950 --> 00:15:23,703
+JOHN: Actually, I don't really have
+a second choice, sir.
+
+225
+00:15:23,786 --> 00:15:27,999
+Your fellows have attended classes.
+They've written papers. They've published.
+
+226
+00:15:28,124 --> 00:15:29,959
+I'm still searching, sir, for my...
+
+227
+00:15:30,042 --> 00:15:32,378
+- Your original idea.
+- Governing dynamics, sir.
+
+228
+00:15:32,461 --> 00:15:36,465
+It's very clever, John, but I'm afraid
+it's just not nearly good enough.
+
+229
+00:15:42,555 --> 00:15:44,390
+- May I?
+- Thank you.
+
+230
+00:15:44,557 --> 00:15:46,434
+I'm working on manifold embedding.
+
+231
+00:15:46,517 --> 00:15:48,853
+My bargaining stratagems
+show some promise.
+
+232
+00:15:48,936 --> 00:15:52,189
+If you could just arrange another meeting
+with Professor Einstein.
+
+233
+00:15:52,273 --> 00:15:54,400
+I've repeatedly asked you for that.
+
+234
+00:15:54,525 --> 00:15:56,861
+I'd be able to show him
+my revisions on his...
+
+235
+00:15:56,986 --> 00:15:58,279
+John.
+
+236
+00:16:00,281 --> 00:16:02,950
+Do you see what they're doing there?
+
+237
+00:16:05,369 --> 00:16:07,663
+PROFESSOR 2:
+Congratulations, Professor Max.
+
+238
+00:16:07,747 --> 00:16:10,374
+MAX: Thank you, sir. Thank you.
+
+239
+00:16:11,543 --> 00:16:13,003
+It's the pens.
+
+240
+00:16:13,378 --> 00:16:17,424
+Reserved for a member of the department
+that makes the achievement of a lifetime.
+
+241
+00:16:17,966 --> 00:16:19,843
+Now what do you see, John?
+
+242
+00:16:21,011 --> 00:16:22,721
+Recognition.
+
+243
+00:16:23,472 --> 00:16:25,724
+Well done, Professor.
+
+244
+00:16:25,807 --> 00:16:28,226
+Well, try seeing accomplishment.
+
+245
+00:16:28,310 --> 00:16:30,103
+Is there a difference?
+
+246
+00:16:32,064 --> 00:16:33,941
+You haven't focused.
+
+247
+00:16:35,567 --> 00:16:40,364
+I'm sorry, but up to this point, your record
+doesn't warrant any placement at all.
+
+248
+00:16:44,284 --> 00:16:46,078
+Good day.
+
+249
+00:16:56,088 --> 00:16:58,340
+PROFESSOR:
+And my compliments to you, sir.
+
+250
+00:16:58,590 --> 00:17:00,217
+MAX: Thank you so much.
+
+251
+00:17:01,260 --> 00:17:03,345
+[Poignant instrumental music]
+
+252
+00:17:17,568 --> 00:17:19,278
+JOHN: I can't see it.
+
+253
+00:17:19,736 --> 00:17:21,697
+[Whimpers]
+
+254
+00:17:26,618 --> 00:17:28,329
+CHARLES: Jesus Christ, John.
+
+255
+00:17:29,581 --> 00:17:30,999
+I can't fail.
+
+256
+00:17:31,165 --> 00:17:33,835
+JOHN: This is all I am.
+CHARLES: Come on, let's go out.
+
+257
+00:17:33,960 --> 00:17:35,878
+- I have to get something done.
+- John!
+
+258
+00:17:35,962 --> 00:17:39,215
+- I can't keep staring into space.
+- John, enough!
+
+259
+00:17:39,340 --> 00:17:43,553
+JOHN: Got to face the wall,
+follow their rules, read their books...
+
+260
+00:17:43,636 --> 00:17:45,722
+...do their classes.
+
+261
+00:17:45,888 --> 00:17:48,391
+Come on! Go on, bust your head!
+Kill yourself.
+
+262
+00:17:49,100 --> 00:17:51,477
+CHARLES: Don't do it. Don't mess around.
+
+263
+00:17:51,561 --> 00:17:55,315
+Bust your head! Go on,
+bust that worthless head wide open.
+
+264
+00:17:55,398 --> 00:17:58,568
+JOHN: Goddamn it, Charles!
+What the hell is your problem?
+
+265
+00:18:01,654 --> 00:18:03,239
+It's not my problem.
+
+266
+00:18:05,366 --> 00:18:07,201
+And it's not your problem.
+
+267
+00:18:10,580 --> 00:18:12,248
+It's their problem.
+
+268
+00:18:12,457 --> 00:18:15,543
+CHARLES: Your answer isn't,
+"face the wall."
+
+269
+00:18:16,252 --> 00:18:17,795
+<i>It's out there... </i>
+
+270
+00:18:18,338 --> 00:18:20,298
+<i>... where you've been working. </i>
+
+271
+00:18:36,522 --> 00:18:37,857
+[John gasps]
+
+272
+00:18:41,236 --> 00:18:42,904
+That was heavy.
+
+273
+00:18:46,492 --> 00:18:48,661
+That Isaac Newton fellow was right.
+
+274
+00:18:48,911 --> 00:18:50,829
+- He was onto something.
+- Clever boy.
+
+275
+00:18:50,913 --> 00:18:51,914
+[Giggles]
+
+276
+00:18:51,997 --> 00:18:55,584
+JOHN: Don't worry, that's mine.
+I'll come and get it in a minute.
+
+277
+00:18:55,709 --> 00:18:58,045
+CHARLES: [Laughing] Oh, God.
+
+278
+00:19:01,215 --> 00:19:03,759
+NEILSON: Incoming, gentlemen.
+SOL: Ay-yi-yi.
+
+279
+00:19:08,389 --> 00:19:09,807
+Deep breaths.
+
+280
+00:19:10,641 --> 00:19:14,687
+SOL: Nash, you might want to stop
+shuffling your papers for five seconds.
+
+281
+00:19:18,774 --> 00:19:20,693
+I will not buy you gentlemen beer.
+
+282
+00:19:20,776 --> 00:19:23,320
+BENDER: We're not here for beer,
+my friend.
+
+283
+00:19:24,405 --> 00:19:26,323
+JOHN: Oh.
+
+284
+00:19:27,908 --> 00:19:31,245
+Does anyone else feel
+she should be moving in slow motion?
+
+285
+00:19:31,787 --> 00:19:33,914
+Will she want a large wedding, you think?
+
+286
+00:19:33,998 --> 00:19:36,166
+Shall we say swords? Pistols at dawn?
+
+287
+00:19:36,250 --> 00:19:38,002
+Have you remembered nothing?
+
+288
+00:19:38,711 --> 00:19:40,921
+<i>Recall the lessons of Adam Smith... </i>
+
+289
+00:19:41,088 --> 00:19:43,257
+...the father of modern economics.
+
+290
+00:19:43,841 --> 00:19:44,883
+"In competition...
+
+291
+00:19:44,967 --> 00:19:47,845
+SOL<i>I</i>NEILSON: "...individual ambition
+serves the common good."
+
+292
+00:19:47,928 --> 00:19:49,888
+Every man for himself, gentlemen.
+
+293
+00:19:49,972 --> 00:19:52,558
+BENDER: Those who strike out
+are stuck with her friends.
+
+294
+00:19:52,641 --> 00:19:54,310
+MARTIN: I'm not going to strike out.
+
+295
+00:19:54,393 --> 00:19:57,479
+SOL: You can lead a blonde to water,
+but you can't make her drink.
+
+296
+00:19:57,563 --> 00:19:58,981
+SOL: Nobody move.
+
+297
+00:19:59,106 --> 00:20:01,859
+<i>She's looking over here. </i>
+<i>She's looking at Nash. </i>
+
+298
+00:20:02,067 --> 00:20:04,321
+MARTIN: Oh, God.
+He may have the upper hand now...
+
+299
+00:20:04,404 --> 00:20:06,448
+<i>... but wait until he opens his mouth. </i>
+
+300
+00:20:06,531 --> 00:20:08,450
+<i>Remember the last time? </i>
+
+301
+00:20:08,533 --> 00:20:10,785
+BENDER: That was one
+for the history books.
+
+302
+00:20:17,292 --> 00:20:20,503
+- Adam Smith needs revision.
+- What are you talking about?
+
+303
+00:20:21,796 --> 00:20:23,798
+If we all go for the blonde...
+
+304
+00:20:28,553 --> 00:20:30,347
+<i>... we block each other. </i>
+
+305
+00:20:30,430 --> 00:20:33,391
+<i>Not a single one of us is going to get her. </i>
+
+306
+00:20:34,100 --> 00:20:36,186
+<i>So then we go for her friends... </i>
+
+307
+00:20:37,771 --> 00:20:42,651
+<i>... but they will all give us the cold shoulder</i>
+<i>because nobody likes to be second choice. </i>
+
+308
+00:20:42,734 --> 00:20:45,237
+Well, what if no one goes for the blonde?
+
+309
+00:20:47,113 --> 00:20:49,324
+<i>We don't get in each other's way... </i>
+
+310
+00:20:49,491 --> 00:20:51,910
+<i>... and we don't insult the other girls. </i>
+
+311
+00:20:53,286 --> 00:20:55,288
+That's the only way we win.
+
+312
+00:20:57,540 --> 00:20:59,417
+That's the only way we all get laid.
+
+313
+00:20:59,542 --> 00:21:01,044
+[Chuckles]
+
+314
+00:21:04,965 --> 00:21:06,716
+Adam Smith said:
+
+315
+00:21:06,925 --> 00:21:08,927
+"The best result comes...
+
+316
+00:21:09,844 --> 00:21:13,056
+"...from everyone in the group
+doing what's best for himself."
+
+317
+00:21:13,139 --> 00:21:15,809
+Right. Incomplete. Okay?
+
+318
+00:21:16,601 --> 00:21:19,145
+Because the best result will come...
+
+319
+00:21:20,398 --> 00:21:22,441
+...from everyone in the group...
+
+320
+00:21:22,525 --> 00:21:24,735
+...doing what's best for himself...
+
+321
+00:21:25,444 --> 00:21:26,612
+...and the group.
+
+322
+00:21:26,696 --> 00:21:29,782
+If this is some way for you
+to get the blonde, go to hell.
+
+323
+00:21:29,865 --> 00:21:33,286
+Governing dynamics. Adam Smith...
+
+324
+00:21:34,787 --> 00:21:36,539
+...was wrong.
+
+325
+00:21:36,622 --> 00:21:38,958
+SOL: Here we go.
+NEILSON: Careful, careful.
+
+326
+00:21:41,627 --> 00:21:42,962
+Thank you.
+
+327
+00:21:55,141 --> 00:21:57,810
+"C" of "S" equals "C" of "T."
+
+328
+00:22:00,021 --> 00:22:01,606
+[Indistinct muttering]
+
+329
+00:22:07,069 --> 00:22:09,155
+[Muttering continues]
+
+330
+00:22:26,589 --> 00:22:30,217
+[Dramatic instrumental music]
+
+331
+00:23:00,749 --> 00:23:04,336
+You do realize this flies in the face
+of 150 years of economic theory?
+
+332
+00:23:04,419 --> 00:23:05,545
+Yes, I do, sir.
+
+333
+00:23:05,629 --> 00:23:08,882
+- That's rather presumptuous, no?
+- It is, sir.
+
+334
+00:23:16,056 --> 00:23:17,891
+Well, Mr. Nash...
+
+335
+00:23:18,475 --> 00:23:21,103
+<i>... with a breakthrough of this magnitude... </i>
+
+336
+00:23:21,228 --> 00:23:24,314
+<i>... I'm confident you will get</i>
+<i>any placement you like. </i>
+
+337
+00:23:31,154 --> 00:23:32,906
+<i>Wheeler Labs... </i>
+
+338
+00:23:33,824 --> 00:23:36,618
+<i>... they'll ask you to recommend</i>
+<i>two team members. </i>
+
+339
+00:23:40,330 --> 00:23:42,624
+PROFESSOR: Stills and Frank
+are excellent choices.
+
+340
+00:23:42,708 --> 00:23:44,585
+Sol and Bender, sir.
+
+341
+00:23:44,668 --> 00:23:48,255
+Sol and Bender
+are extraordinary mathematicians.
+
+342
+00:23:48,338 --> 00:23:52,843
+Has it occurred to you that Sol and Bender
+might have plans of their own?
+
+343
+00:23:56,598 --> 00:23:58,016
+BENDER: [Laughing] We made it!
+
+344
+00:23:58,099 --> 00:24:00,059
+Wheeler, we made it!
+
+345
+00:24:00,935 --> 00:24:02,895
+Cheers, cheers, cheers!
+
+346
+00:24:05,231 --> 00:24:07,442
+Okay, awkward moment, gentlemen.
+
+347
+00:24:27,962 --> 00:24:29,422
+Umm...
+
+348
+00:24:32,258 --> 00:24:33,843
+Governing dynamics.
+
+349
+00:24:37,055 --> 00:24:38,556
+MARTIN: Congratulations, John.
+
+350
+00:24:38,640 --> 00:24:41,684
+BENDER: Toast! To Wheeler Labs!
+SOL: To Wheeler!
+
+351
+00:24:53,905 --> 00:24:56,950
+THE PENTAGON 1953 - FIVE YEARS LATER
+
+352
+00:25:06,501 --> 00:25:09,212
+MAN: General, the analyst
+from Wheeler Lab is here.
+
+353
+00:25:09,295 --> 00:25:11,048
+Dr. Nash, your coat?
+
+354
+00:25:11,131 --> 00:25:12,508
+Thank you, sir.
+
+355
+00:25:14,301 --> 00:25:17,012
+General, this is Wheeler team leader,
+Dr. John Nash.
+
+356
+00:25:17,096 --> 00:25:19,682
+- Glad you could come, Doctor.
+- Hello.
+
+357
+00:25:20,808 --> 00:25:22,309
+Right this way.
+
+358
+00:25:22,726 --> 00:25:26,188
+GENERAL: We've been intercepting
+radio transmissions from Moscow.
+
+359
+00:25:27,106 --> 00:25:30,567
+<i>The computer can't detect a pattern, </i>
+<i>but I'm sure it's code. </i>
+
+360
+00:25:31,360 --> 00:25:33,028
+JOHN: Why is that, General?
+
+361
+00:25:33,571 --> 00:25:36,073
+GENERAL: Ever just know something,
+Dr. Nash?
+
+362
+00:25:38,367 --> 00:25:39,785
+Constantly.
+
+363
+00:25:42,204 --> 00:25:44,373
+GENERAL: We've developed
+several ciphers.
+
+364
+00:25:46,083 --> 00:25:48,836
+<i>If you'd like to review</i>
+<i>our preliminary data? </i>
+
+365
+00:25:50,963 --> 00:25:53,424
+GENERAL: Doctor?
+JOHN: [Voiceover] 6-7-3-7.
+
+366
+00:25:53,716 --> 00:25:55,676
+<i>0- 3-6... </i>
+
+367
+00:26:09,273 --> 00:26:11,275
+<i>8- 4-9-4.</i>
+
+368
+00:26:41,014 --> 00:26:43,099
+<i>9- 1-4-0-3-4.</i>
+
+369
+00:27:00,867 --> 00:27:02,494
+I need a map.
+
+370
+00:27:04,955 --> 00:27:08,917
+JOHN: 46-13-08, 67-46-90.
+
+371
+00:27:11,336 --> 00:27:13,046
+<i>Starkey Corners, Maine. </i>
+
+372
+00:27:14,297 --> 00:27:16,091
+48-03-01.
+
+373
+00:27:16,174 --> 00:27:19,094
+91-26-35.
+
+374
+00:27:20,220 --> 00:27:22,013
+<i>Prairie Portage, Minnesota. </i>
+
+375
+00:27:22,389 --> 00:27:24,599
+These are latitudes and longitudes.
+
+376
+00:27:24,933 --> 00:27:26,601
+There are at least 10 others.
+
+377
+00:27:26,685 --> 00:27:30,313
+They appear to be routing orders
+across the border into the U.S.
+
+378
+00:27:31,439 --> 00:27:32,983
+Extraordinary.
+
+379
+00:27:33,817 --> 00:27:36,820
+Gentlemen, we need to move on this.
+
+380
+00:27:39,030 --> 00:27:43,076
+- Who's Big Brother?
+- You've done your country a great service.
+
+381
+00:27:43,577 --> 00:27:45,246
+- Captain!
+- Yes, sir.
+
+382
+00:27:46,706 --> 00:27:49,041
+Accompany Dr. Nash.
+
+383
+00:27:49,166 --> 00:27:51,544
+What are the Russians moving, General?
+
+384
+00:27:52,461 --> 00:27:55,798
+Captain Rogers will escort you
+to the unrestricted area, Doctor.
+
+385
+00:27:55,881 --> 00:27:57,008
+<i>Thank you. </i>
+
+386
+00:27:57,800 --> 00:28:00,136
+ROGERS: Dr. Nash, follow me, please.
+
+387
+00:28:07,018 --> 00:28:10,104
+[Over radio] <i>None of those</i>
+<i>who said they don't like the method... </i>
+
+388
+00:28:10,187 --> 00:28:14,233
+<i>... have told us any other method</i>
+<i>they could use that would be effective. </i>
+
+389
+00:28:15,151 --> 00:28:17,445
+DRIVER: It's Dr. Nash.
+GUARD: All right.
+
+390
+00:28:23,618 --> 00:28:27,455
+WHEELER DEFENSE LABS
+MIT CAMPUS
+
+391
+00:28:31,709 --> 00:28:33,961
+- Thank you, sir.
+- Home run at the Pentagon?
+
+392
+00:28:34,045 --> 00:28:37,506
+Have they actually taken the word
+"classified" out of the dictionary?
+
+393
+00:28:37,798 --> 00:28:40,009
+Hi. The air conditioning broke again.
+
+394
+00:28:40,092 --> 00:28:43,262
+How am I supposed to be in here
+saving the world if I'm melting?
+
+395
+00:28:43,346 --> 00:28:44,931
+Our hearts go out to you.
+
+396
+00:28:45,681 --> 00:28:48,517
+Two trips to the Pentagon in four years.
+
+397
+00:28:48,601 --> 00:28:51,187
+- That's two more than we've had.
+- It gets better.
+
+398
+00:28:51,270 --> 00:28:53,940
+Just got our latest
+scintillating assignment.
+
+399
+00:28:54,482 --> 00:28:58,736
+You know, the Russians have the H-bomb,
+the Nazis are repatriating South America...
+
+400
+00:28:58,819 --> 00:29:01,906
+...the Chinese have a standing army
+of 2.8 million...
+
+401
+00:29:01,990 --> 00:29:04,952
+...and I am doing stress tests on a dam.
+
+402
+00:29:05,535 --> 00:29:07,913
+You made the cover of <i>Fortune</i> again.
+
+403
+00:29:07,996 --> 00:29:10,874
+Please note the use of the word "you,"
+not "we."
+
+404
+00:29:11,917 --> 00:29:14,002
+That was supposed to be just me.
+
+405
+00:29:14,795 --> 00:29:16,713
+[Chuckles]
+
+406
+00:29:17,005 --> 00:29:19,216
+Not only do they rob me
+of the Fields' Medal...
+
+407
+00:29:19,299 --> 00:29:22,636
+...they put me on the cover
+of <i>Fortune</i> magazine with these hacks...
+
+408
+00:29:22,719 --> 00:29:24,388
+...these scholars of trivia.
+
+409
+00:29:24,596 --> 00:29:28,350
+Exactly what's the difference
+between genius and most genius?
+
+410
+00:29:29,142 --> 00:29:30,352
+Quite a lot.
+
+411
+00:29:31,061 --> 00:29:34,147
+He's your son.
+Anyway, you've got 10 minutes.
+
+412
+00:29:34,231 --> 00:29:37,484
+JOHN: I've always got 10 minutes.
+BENDER: Before your new class?
+
+413
+00:29:43,865 --> 00:29:46,702
+Can I not get a note
+from a doctor or something?
+
+414
+00:29:47,077 --> 00:29:49,329
+You are a doctor, John, and no.
+
+415
+00:29:49,913 --> 00:29:52,749
+You know the drill,
+we get these beautiful facilities...
+
+416
+00:29:52,833 --> 00:29:56,962
+...MIT gets America's great minds of today,
+teaching their great minds of tomorrow.
+
+417
+00:29:57,045 --> 00:30:00,340
+- Poor bastards.
+- Now, have a nice day at school.
+
+418
+00:30:00,549 --> 00:30:02,009
+The bell is ringing.
+
+419
+00:30:11,476 --> 00:30:13,520
+[Door opens]
+
+420
+00:30:23,781 --> 00:30:25,950
+The eager young minds of tomorrow.
+
+421
+00:30:26,284 --> 00:30:28,161
+[Loud jack-hammering outside]
+
+422
+00:30:36,044 --> 00:30:39,339
+STUDENT: Can we leave one open,
+Professor? It's really hot, sir.
+
+423
+00:30:41,466 --> 00:30:45,094
+Your comfort comes second
+to my ability to hear my own voice.
+
+424
+00:30:50,642 --> 00:30:51,893
+JOHN: Personally...
+
+425
+00:30:52,852 --> 00:30:56,731
+<i>... I think this class will be</i>
+<i>a waste of your... </i>
+
+426
+00:30:56,814 --> 00:30:58,816
+<i>... and what is infinitely worse... </i>
+
+427
+00:31:00,276 --> 00:31:01,611
+...my time.
+
+428
+00:31:03,488 --> 00:31:06,157
+However, here we are.
+
+429
+00:31:06,241 --> 00:31:09,160
+So you may attend or not.
+
+430
+00:31:10,286 --> 00:31:13,039
+You may complete your assignments
+at your whim.
+
+431
+00:31:13,122 --> 00:31:14,457
+<i>We have begun. </i>
+
+432
+00:31:17,585 --> 00:31:18,461
+Miss.
+
+433
+00:31:22,215 --> 00:31:23,383
+ALICIA: Excuse me!
+
+434
+00:31:24,217 --> 00:31:26,386
+ALICIA: Excuse me!
+FOREMAN: Hey, hey!
+
+435
+00:31:26,636 --> 00:31:27,512
+ALICIA: Hi!
+
+436
+00:31:29,681 --> 00:31:31,099
+<i>We have a little problem. </i>
+
+437
+00:31:31,182 --> 00:31:33,977
+<i>It's extremely hot in here</i>
+<i>with the windows closed... </i>
+
+438
+00:31:34,060 --> 00:31:36,438
+<i>... and extremely noisy with them open. </i>
+
+439
+00:31:36,522 --> 00:31:39,108
+<i>I was wondering</i>
+<i>if there was any way you could... </i>
+
+440
+00:31:39,191 --> 00:31:42,736
+<i>... I don't know, maybe work</i>
+<i>someplace else for about 45 minutes? </i>
+
+441
+00:31:43,195 --> 00:31:45,906
+FOREMAN: Not a problem.
+ALICIA: Thank you so much!
+
+442
+00:31:45,990 --> 00:31:47,908
+FOREMAN: Break!
+WORKER: Got it!
+
+443
+00:31:48,158 --> 00:31:50,744
+FOREMAN: Let's go. Clean it up a little bit.
+
+444
+00:31:52,663 --> 00:31:56,166
+As you will find in multivariable calculus,
+there is often...
+
+445
+00:31:57,167 --> 00:31:59,920
+...a number of solutions
+for any given problem.
+
+446
+00:32:03,716 --> 00:32:06,051
+As I was saying, this problem here...
+
+447
+00:32:06,885 --> 00:32:09,555
+<i>... will take some of you</i>
+<i>many months to solve. </i>
+
+448
+00:32:10,264 --> 00:32:11,974
+For others among you...
+
+449
+00:32:13,517 --> 00:32:16,520
+...it will take you the term
+of your natural lives.
+
+450
+00:32:30,200 --> 00:32:31,535
+PARCHER: Professor Nash.
+
+451
+00:32:45,215 --> 00:32:46,800
+William Parcher.
+
+452
+00:32:47,676 --> 00:32:48,928
+Big Brother...
+
+453
+00:32:50,763 --> 00:32:52,264
+<i>... at your service. </i>
+
+454
+00:32:52,556 --> 00:32:55,185
+What can I do
+for the Department of Defense?
+
+455
+00:32:55,518 --> 00:32:58,688
+- Are you here to give me a raise?
+- Let's take a walk.
+
+456
+00:33:00,065 --> 00:33:02,984
+- Impressive work at the Pentagon.
+- Yes, it was.
+
+457
+00:33:03,318 --> 00:33:07,072
+Oppenheimer used to say, "A genius
+sees the answer before the question."
+
+458
+00:33:07,155 --> 00:33:08,740
+You knew Oppenheimer?
+
+459
+00:33:09,157 --> 00:33:11,493
+His project was under my supervision.
+
+460
+00:33:12,077 --> 00:33:13,328
+Which project?
+
+461
+00:33:16,623 --> 00:33:19,334
+JOHN: That project.
+PARCHER: It's not that simple.
+
+462
+00:33:19,584 --> 00:33:21,127
+Well, you ended the war.
+
+463
+00:33:21,211 --> 00:33:24,756
+We incinerated 150,000 people
+in a heartbeat.
+
+464
+00:33:24,839 --> 00:33:27,676
+Great deeds come at great cost,
+Mr. Parcher.
+
+465
+00:33:28,802 --> 00:33:34,015
+Conviction, it turns out, is a luxury
+of those on the sidelines, Mr. Nash.
+
+466
+00:33:36,268 --> 00:33:38,311
+I'll try and keep that in mind.
+
+467
+00:33:41,231 --> 00:33:43,566
+PARCHER: So, John, no family...
+
+468
+00:33:44,234 --> 00:33:46,069
+<i>... no close friends. </i>
+
+469
+00:33:46,569 --> 00:33:50,323
+PARCHER: Why is that?
+JOHN: I like to think it's because I'm a Ione wolf.
+
+470
+00:33:51,491 --> 00:33:54,160
+But mainly it's because
+people don't like me.
+
+471
+00:33:54,244 --> 00:33:55,370
+[Chuckles]
+
+472
+00:33:55,453 --> 00:33:57,080
+There are certain endeavors...
+
+473
+00:33:57,163 --> 00:34:01,167
+...where your lack of personal connection
+would be considered an advantage.
+
+474
+00:34:03,336 --> 00:34:06,089
+JOHN: This is a secure area.
+PARCHER: They know me.
+
+475
+00:34:09,092 --> 00:34:10,511
+PARCHER: Have you ever been here?
+
+476
+00:34:10,595 --> 00:34:14,515
+JOHN: We were told in our initial briefing
+these warehouses were abandoned.
+
+477
+00:34:14,599 --> 00:34:16,767
+PARCHER: That's not precisely accurate.
+
+478
+00:34:23,065 --> 00:34:25,818
+[Low radio chatter]
+
+479
+00:34:32,533 --> 00:34:34,619
+[Dramatic instrumental music]
+
+480
+00:34:38,414 --> 00:34:40,666
+[Radio transmits Russian speaker]
+
+481
+00:34:53,930 --> 00:34:55,932
+PARCHER: By telling you this...
+
+482
+00:34:56,015 --> 00:34:59,393
+<i>... I am increasing your security clearance</i>
+<i>to top secret. </i>
+
+483
+00:34:59,477 --> 00:35:03,147
+Disclosure of secure information
+can result in imprisonment.
+
+484
+00:35:03,606 --> 00:35:04,607
+Get it?
+
+485
+00:35:05,483 --> 00:35:06,943
+What operation?
+
+486
+00:35:12,573 --> 00:35:14,158
+Those are a good idea.
+
+487
+00:35:18,329 --> 00:35:22,041
+PARCHER: This factory is in Berlin,
+we seized it at the end of the war.
+
+488
+00:35:22,124 --> 00:35:25,670
+<i>Nazi engineers were attempting to build</i>
+<i>a portable atomic bomb. </i>
+
+489
+00:35:26,170 --> 00:35:30,592
+The Soviets reached this facility
+before we did, and we lost the damn thing.
+
+490
+00:35:33,011 --> 00:35:35,347
+The routing orders at the Pentagon.
+
+491
+00:35:36,265 --> 00:35:38,642
+They were about this, weren't they?
+
+492
+00:35:38,725 --> 00:35:41,186
+The Soviets aren't as unified
+as people believe.
+
+493
+00:35:41,270 --> 00:35:44,481
+PARCHER: A faction of the Red Army
+calling itself <i>Novaya Svoboda</i>...
+
+494
+00:35:44,564 --> 00:35:47,150
+...the "New Freedom,"
+has control of the bomb...
+
+495
+00:35:47,234 --> 00:35:49,861
+...and intends to detonate it on U.S. soil.
+
+496
+00:35:50,862 --> 00:35:54,199
+Their plan is to incur
+maximum civilian casualties.
+
+497
+00:35:58,579 --> 00:36:02,541
+PARCHER: Man is capable of as much atrocity
+as he has imagination.
+
+498
+00:36:04,459 --> 00:36:07,754
+<i>New Freedom has sleeper agents</i>
+<i>here in the U.S. </i>
+
+499
+00:36:09,131 --> 00:36:12,593
+McCarthy is an idiot, but, unfortunately,
+that doesn't make him wrong.
+
+500
+00:36:14,428 --> 00:36:16,555
+<i>New Freedom communicates</i>
+<i>to its agents... </i>
+
+501
+00:36:16,638 --> 00:36:19,808
+...through codes imbedded in newspapers
+and magazines...
+
+502
+00:36:19,891 --> 00:36:21,602
+...and that's where you come in.
+
+503
+00:36:21,685 --> 00:36:25,147
+<i>You see, John, what distinguishes you... </i>
+
+504
+00:36:26,023 --> 00:36:28,734
+...is that you are, quite simply...
+
+505
+00:36:29,318 --> 00:36:32,654
+...the best natural code-breaker
+I have ever seen.
+
+506
+00:36:38,785 --> 00:36:41,622
+What exactly is it
+that you would like me to do?
+
+507
+00:36:47,045 --> 00:36:50,089
+Commit this list of periodicals to memory.
+
+508
+00:36:51,424 --> 00:36:55,261
+PARCHER: Scan each new issue,
+find any hidden codes, decipher them.
+
+509
+00:36:58,598 --> 00:37:00,892
+DOCTOR: Place your chin on the chin rest.
+
+510
+00:37:00,975 --> 00:37:04,395
+DOCTOR: Stare into the light.
+TECHNICIAN: Pulse 88, regular.
+
+511
+00:37:07,732 --> 00:37:10,234
+DOCTOR: Okay, this may be
+a little uncomfortable.
+
+512
+00:37:10,318 --> 00:37:12,278
+[Groans]
+
+513
+00:37:12,403 --> 00:37:14,948
+PARCHER: It's got a little zap to it,
+doesn't it?
+
+514
+00:37:15,365 --> 00:37:18,076
+He just implanted a radium diode.
+
+515
+00:37:18,284 --> 00:37:19,994
+Don't worry, it's safe.
+
+516
+00:37:20,620 --> 00:37:22,664
+<i>The isotope decays predictably. </i>
+
+517
+00:37:22,956 --> 00:37:26,125
+<i>As a result, </i>
+<i>these numbers change over time. </i>
+
+518
+00:37:26,542 --> 00:37:29,254
+They're the access codes to your drop spot.
+
+519
+00:37:31,214 --> 00:37:33,967
+So what am I now, a spy?
+
+520
+00:37:46,229 --> 00:37:47,438
+[Knock at door]
+
+521
+00:37:47,522 --> 00:37:48,564
+JOHN: Come.
+
+522
+00:37:52,568 --> 00:37:55,238
+Boy, you must be really important.
+
+523
+00:38:03,163 --> 00:38:05,332
+It's all right, Mike.
+
+524
+00:38:14,883 --> 00:38:16,594
+What are you working on?
+
+525
+00:38:18,637 --> 00:38:19,972
+Classified.
+
+526
+00:38:21,599 --> 00:38:23,559
+Everyone waited half an hour.
+
+527
+00:38:23,642 --> 00:38:26,395
+JOHN: For?
+ALICIA: Class.
+
+528
+00:38:27,313 --> 00:38:28,897
+<i>You missed class today. </i>
+
+529
+00:38:29,898 --> 00:38:32,776
+Oh. I suspect that...
+
+530
+00:38:34,069 --> 00:38:36,614
+...nobody missed me.
+
+531
+00:38:36,697 --> 00:38:39,241
+ALICIA: The problem
+that you left on the board...
+
+532
+00:38:40,868 --> 00:38:42,036
+...I solved it.
+
+533
+00:38:42,995 --> 00:38:45,831
+- No, you didn't.
+- You didn't even look.
+
+534
+00:38:46,957 --> 00:38:50,419
+I never said that the vector fields
+were rational functions.
+
+535
+00:38:54,798 --> 00:38:56,550
+Your solution is elegant.
+
+536
+00:38:59,053 --> 00:39:01,388
+Though on this particular occasion...
+
+537
+00:39:02,848 --> 00:39:04,558
+...ultimately incorrect.
+
+538
+00:39:26,206 --> 00:39:29,251
+- You're still here.
+- I'm still here.
+
+539
+00:39:30,627 --> 00:39:31,586
+Why?
+
+540
+00:39:32,629 --> 00:39:35,382
+ALICIA: I'm wondering, Professor Nash...
+
+541
+00:39:37,175 --> 00:39:39,177
+...if I can ask you to dinner.
+
+542
+00:39:43,390 --> 00:39:45,267
+You do eat, don't you?
+
+543
+00:39:45,517 --> 00:39:47,852
+On occasion, yeah.
+
+544
+00:39:47,936 --> 00:39:50,647
+Table for one.
+Prometheus alone chained to the rock...
+
+545
+00:39:50,730 --> 00:39:53,441
+...with the bird circling overhead,
+you know how it is.
+
+546
+00:39:53,525 --> 00:39:54,484
+[Chuckles]
+
+547
+00:39:56,278 --> 00:39:59,447
+No, I expect that you wouldn't know...
+
+548
+00:40:02,367 --> 00:40:06,621
+Leave your address with my office.
+I'll pick you up Friday...
+
+549
+00:40:07,205 --> 00:40:09,749
+...at 8:00 and we'll eat.
+
+550
+00:40:17,966 --> 00:40:22,304
+One more thing. Do you have a name,
+or should I just keep calling you "miss"?
+
+551
+00:40:24,973 --> 00:40:26,141
+JOHN: Governor...
+
+552
+00:40:26,266 --> 00:40:28,768
+...may I present...
+- Miss Alicia Larde.
+
+553
+00:40:30,729 --> 00:40:33,481
+PHOTOGRAPHER:
+Professor, please. You and the governor.
+
+554
+00:40:35,817 --> 00:40:37,945
+Wait, one second. I'm sorry.
+
+555
+00:40:39,030 --> 00:40:42,408
+ALICIA: I want a copy of this.
+First big date and all, you know.
+
+556
+00:40:43,034 --> 00:40:45,745
+<i>So, you boys need to look good... </i>
+
+557
+00:40:47,038 --> 00:40:51,375
+...which is not a state
+you find yourselves in altogether naturally.
+
+558
+00:40:55,171 --> 00:40:58,132
+There. Better.
+
+559
+00:40:58,966 --> 00:41:02,053
+- I'm surprising him.
+- You just keep on surprising him.
+
+560
+00:41:02,136 --> 00:41:03,512
+Professor.
+
+561
+00:41:10,269 --> 00:41:12,355
+[Ambient party noises]
+
+562
+00:41:20,696 --> 00:41:22,573
+God must be a painter.
+
+563
+00:41:23,616 --> 00:41:25,993
+<i>Why else would we have so many colors? </i>
+
+564
+00:41:28,996 --> 00:41:30,539
+So you're a painter?
+
+565
+00:41:31,999 --> 00:41:34,377
+That's not actually what I said...
+
+566
+00:41:35,002 --> 00:41:38,464
+...but, yes, I am.
+
+567
+00:41:47,974 --> 00:41:49,100
+ALICIA: Here.
+
+568
+00:41:50,559 --> 00:41:51,560
+Me.
+
+569
+00:41:52,061 --> 00:41:53,146
+Your date.
+
+570
+00:41:55,649 --> 00:41:58,235
+Practice human interaction
+and social comportment.
+
+571
+00:41:58,318 --> 00:42:00,404
+ALICIA: [Laughing] That's a plan.
+
+572
+00:42:03,824 --> 00:42:05,951
+Champagne would be lovely.
+
+573
+00:42:07,995 --> 00:42:09,413
+<i>I'll be outside. </i>
+
+574
+00:42:10,122 --> 00:42:12,249
+I will get the champagne.
+
+575
+00:42:20,799 --> 00:42:22,175
+ALICIA: Oh, thank you.
+
+576
+00:42:23,719 --> 00:42:25,220
+Thank you for that.
+
+577
+00:42:25,304 --> 00:42:26,763
+No, keep it.
+
+578
+00:42:27,431 --> 00:42:30,434
+I believe in deciding things
+will be good luck.
+
+579
+00:42:31,268 --> 00:42:33,729
+- Do you?
+- No.
+
+580
+00:42:34,855 --> 00:42:36,857
+I don't believe in luck.
+
+581
+00:42:41,153 --> 00:42:43,864
+But I do believe
+in assigning value to things.
+
+582
+00:42:45,198 --> 00:42:47,034
+Oh.
+
+583
+00:42:54,458 --> 00:42:56,501
+ALICIA: I once tried to count them all.
+
+584
+00:42:58,003 --> 00:43:02,174
+I actually made it to 4,348.
+
+585
+00:43:04,259 --> 00:43:06,094
+You are exceptionally odd.
+
+586
+00:43:06,678 --> 00:43:09,556
+I bet you're very popular with the girls.
+
+587
+00:43:15,396 --> 00:43:17,273
+A pair of odd ducks, then.
+
+588
+00:43:17,690 --> 00:43:20,276
+Mmm.
+
+589
+00:43:23,071 --> 00:43:24,489
+Pick a shape.
+
+590
+00:43:26,574 --> 00:43:27,742
+What?
+
+591
+00:43:28,868 --> 00:43:31,788
+Pick a shape, an animal, anything.
+
+592
+00:43:33,873 --> 00:43:34,916
+Okay.
+
+593
+00:43:36,376 --> 00:43:37,669
+An umbrella.
+
+594
+00:44:02,026 --> 00:44:04,112
+[Poignant instrumental music]
+
+595
+00:44:15,790 --> 00:44:17,500
+Do it again.
+
+596
+00:44:18,543 --> 00:44:19,544
+Do it again.
+
+597
+00:44:19,627 --> 00:44:23,214
+JOHN: All right. What would you like?
+ALICIA: Do an octopus.
+
+598
+00:45:11,263 --> 00:45:14,892
+[Dramatic instrumental music]
+
+599
+00:46:47,527 --> 00:46:50,238
+[Dog barks]
+
+600
+00:47:12,678 --> 00:47:14,305
+[Alicia chuckles]
+
+601
+00:47:14,388 --> 00:47:16,557
+ALICIA: You don't talk much, do you?
+
+602
+00:47:16,682 --> 00:47:19,226
+JOHN: I can't talk to you
+about my work, Alicia.
+
+603
+00:47:20,311 --> 00:47:21,938
+I don't mean work.
+
+604
+00:47:26,651 --> 00:47:28,736
+I find that polishing my interactions...
+
+605
+00:47:28,819 --> 00:47:32,406
+...in order to make them sociable
+requires a tremendous effort.
+
+606
+00:47:33,950 --> 00:47:36,827
+I have a tendency
+to expedite information flow...
+
+607
+00:47:38,955 --> 00:47:40,456
+...by being direct.
+
+608
+00:47:42,291 --> 00:47:45,461
+- I often don't get a pleasant result.
+- Try me.
+
+609
+00:47:47,838 --> 00:47:48,965
+All right.
+
+610
+00:47:53,511 --> 00:47:55,137
+I find you attractive.
+
+611
+00:47:56,639 --> 00:48:00,559
+Your aggressive moves towards me
+indicate that you feel the same way.
+
+612
+00:48:01,102 --> 00:48:05,940
+But still, ritual requires that we continue
+with a number of platonic activities...
+
+613
+00:48:06,148 --> 00:48:08,025
+...before we have sex.
+
+614
+00:48:08,734 --> 00:48:11,237
+I am proceeding with those activities...
+
+615
+00:48:11,654 --> 00:48:13,698
+...but in point of actual fact...
+
+616
+00:48:13,781 --> 00:48:18,035
+...all I really want to do is have intercourse
+with you as soon as possible.
+
+617
+00:48:20,122 --> 00:48:22,249
+Are you going to slap me now?
+
+618
+00:48:46,940 --> 00:48:48,692
+How was that result?
+
+619
+00:49:06,043 --> 00:49:07,586
+MARCEE: What are you doing?
+
+620
+00:49:11,924 --> 00:49:16,053
+Trying to isolate patterned reoccurrences
+within periodicals over time.
+
+621
+00:49:16,219 --> 00:49:17,304
+And you?
+
+622
+00:49:17,512 --> 00:49:19,348
+You talk funny, Mr. Nash.
+
+623
+00:49:24,269 --> 00:49:25,604
+Do I know you?
+
+624
+00:49:26,104 --> 00:49:29,399
+My uncle says you're very smart
+but not very nice...
+
+625
+00:49:29,608 --> 00:49:32,319
+...so I shouldn't pay no mind
+if you're mean to me.
+
+626
+00:49:32,402 --> 00:49:34,363
+And who might your uncle be?
+
+627
+00:49:34,446 --> 00:49:36,157
+CHARLES: The prodigal roommate...
+
+628
+00:49:37,116 --> 00:49:38,284
+...returns.
+
+629
+00:49:38,868 --> 00:49:40,536
+[Chuckles]
+
+630
+00:49:42,747 --> 00:49:44,791
+JOHN: Come here, Charles.
+
+631
+00:49:50,588 --> 00:49:54,008
+My sister got herself killed in a car crash.
+
+632
+00:49:55,718 --> 00:49:57,387
+Not too far now, Marcee!
+
+633
+00:49:58,221 --> 00:50:02,725
+<i>Her cowboy husband was too drunk</i>
+<i>to know that he was too drunk to drive. </i>
+
+634
+00:50:02,809 --> 00:50:04,852
+So, I took her in.
+
+635
+00:50:06,729 --> 00:50:10,066
+- She's so small.
+- She's young. That's how they come.
+
+636
+00:50:12,610 --> 00:50:14,070
+I'm at Harvard...
+
+637
+00:50:14,696 --> 00:50:17,031
+...doing the great author's workshop.
+
+638
+00:50:17,323 --> 00:50:19,200
+D.H. bloody Lawrence.
+
+639
+00:50:19,450 --> 00:50:22,120
+I really do think
+you should buy yourself a new book.
+
+640
+00:50:22,203 --> 00:50:23,871
+[Chuckles]
+
+641
+00:50:24,414 --> 00:50:26,916
+CHARLES: Well, I've been reading
+a lot about you.
+
+642
+00:50:28,209 --> 00:50:29,669
+How are you, John?
+
+643
+00:50:30,670 --> 00:50:33,339
+At first, all my work here was trivial...
+
+644
+00:50:33,756 --> 00:50:36,092
+...but a new assignment came up and...
+
+645
+00:50:36,926 --> 00:50:38,928
+I can't really tell you any details.
+
+646
+00:50:39,012 --> 00:50:41,306
+Top secret? Black bag? Black ops?
+
+647
+00:50:41,806 --> 00:50:43,391
+Something like that.
+
+648
+00:50:43,808 --> 00:50:46,394
+- And...
+- Yes?
+
+649
+00:50:47,812 --> 00:50:49,731
+Well, I met a girl.
+
+650
+00:50:49,939 --> 00:50:51,733
+- No! A human girl?
+- Homo sapien.
+
+651
+00:50:51,816 --> 00:50:54,612
+- A biped?
+- Yep. And contrary to all probabilities...
+
+652
+00:50:54,695 --> 00:50:57,656
+...she finds me attractive
+on a number of different levels.
+
+653
+00:50:58,198 --> 00:51:00,159
+God, that's wonderful.
+
+654
+00:51:00,868 --> 00:51:03,704
+There's no accounting for taste, is there?
+
+655
+00:51:06,957 --> 00:51:09,835
+- Should I marry her?
+- Oh, God. Right.
+
+656
+00:51:11,545 --> 00:51:15,341
+I mean, everything's going well.
+The job is fine. I have enough money.
+
+657
+00:51:15,424 --> 00:51:17,092
+It all seems to add up.
+
+658
+00:51:18,636 --> 00:51:20,763
+But how do you know for sure?
+
+659
+00:51:22,598 --> 00:51:24,558
+Nothing's ever for sure, John.
+
+660
+00:51:25,893 --> 00:51:28,228
+That's the only sure thing I do know.
+
+661
+00:51:34,818 --> 00:51:36,320
+WAITER: Good evening.
+
+662
+00:51:43,285 --> 00:51:47,081
+JOHN: Alicia, please don't be angry.
+I just lost track of time at work...
+
+663
+00:51:48,624 --> 00:51:50,292
+JOHN: . . Again.
+ALICIA: Mm-hmm.
+
+664
+00:51:51,835 --> 00:51:53,003
+I'm sorry.
+
+665
+00:51:53,712 --> 00:51:55,714
+I didn't have time to wrap it.
+
+666
+00:51:56,882 --> 00:51:58,634
+Happy birthday.
+
+667
+00:52:02,346 --> 00:52:06,725
+JOHN: The refractive faces of the glass
+create a full wavelength dispersal...
+
+668
+00:52:06,809 --> 00:52:08,686
+<i>... so if you look inside, you can see... </i>
+
+669
+00:52:08,769 --> 00:52:11,523
+ALICIA: Every possible color.
+JOHN: Every possible color.
+
+670
+00:52:11,606 --> 00:52:12,691
+Yeah.
+
+671
+00:52:12,774 --> 00:52:16,778
+Remember you said that time, God must
+be a painter because of all the colors?
+
+672
+00:52:16,861 --> 00:52:19,239
+At the governor's house you said that.
+
+673
+00:52:20,740 --> 00:52:22,909
+I didn't think you were listening.
+
+674
+00:52:25,161 --> 00:52:26,788
+I was listening.
+
+675
+00:52:33,628 --> 00:52:35,589
+It's beautiful.
+
+676
+00:52:40,677 --> 00:52:42,429
+[Both chuckle]
+
+677
+00:52:51,813 --> 00:52:55,025
+Alicia, does our relationship
+warrant long-term commitment?
+
+678
+00:52:55,108 --> 00:52:59,279
+Because I need some kind of proof,
+some kind of verifiable, empirical data.
+
+679
+00:53:02,991 --> 00:53:04,701
+[Nervous laughter]
+
+680
+00:53:05,493 --> 00:53:08,163
+I'm sorry, just give me a moment...
+
+681
+00:53:09,122 --> 00:53:12,125
+...to redefine my girlish notions
+of romance.
+
+682
+00:53:15,879 --> 00:53:17,172
+A proof?
+
+683
+00:53:17,797 --> 00:53:19,382
+Verifiable data.
+
+684
+00:53:21,051 --> 00:53:22,260
+Okay.
+
+685
+00:53:25,764 --> 00:53:27,725
+Well, how big is the universe?
+
+686
+00:53:28,017 --> 00:53:29,101
+Infinite.
+
+687
+00:53:29,435 --> 00:53:30,603
+ALICIA: How do you know?
+
+688
+00:53:30,686 --> 00:53:34,065
+- Because all the data indicates it.
+- But it hasn't been proven yet?
+
+689
+00:53:34,148 --> 00:53:36,859
+You haven't seen it.
+How do you know for sure?
+
+690
+00:53:37,902 --> 00:53:39,946
+I don't, I just believe it.
+
+691
+00:53:42,865 --> 00:53:45,034
+It's the same with love, I guess.
+
+692
+00:53:52,667 --> 00:53:53,793
+Now...
+
+693
+00:53:54,502 --> 00:53:56,671
+...the part that you don't know...
+
+694
+00:53:58,673 --> 00:54:00,633
+...is if I want to marry you.
+
+695
+00:54:06,222 --> 00:54:10,017
+[Indistinct chatter and laughter]
+
+696
+00:54:15,606 --> 00:54:18,234
+[Applause]
+
+697
+00:54:22,196 --> 00:54:24,031
+Smile for the camera!
+
+698
+00:54:29,120 --> 00:54:30,621
+Well done!
+
+699
+00:54:32,790 --> 00:54:34,458
+Congratulations.
+
+700
+00:54:35,001 --> 00:54:36,669
+WOMAN: You look beautiful.
+
+701
+00:54:37,962 --> 00:54:39,338
+SOL: Hi, how are you?
+
+702
+00:54:46,221 --> 00:54:48,181
+WOMAN: Bye-bye.
+MAN: 'Bye, now.
+
+703
+00:54:50,684 --> 00:54:51,852
+<i>Be safe! </i>
+
+704
+00:54:59,818 --> 00:55:01,903
+[Gate opens]
+
+705
+00:55:02,321 --> 00:55:04,239
+CAMBRIDGE, MA - OCTOBER 1954
+
+706
+00:55:21,465 --> 00:55:23,300
+Get in. Hurry.
+
+707
+00:55:26,929 --> 00:55:28,764
+They're following us.
+
+708
+00:55:33,101 --> 00:55:36,480
+- Who is following us?
+- The drop has been compromised.
+
+709
+00:55:37,189 --> 00:55:38,732
+PARCHER: Get down!
+
+710
+00:55:39,399 --> 00:55:41,234
+Stay down.
+
+711
+00:55:46,281 --> 00:55:49,493
+[Horns honking]
+
+712
+00:55:49,576 --> 00:55:51,954
+[Tires screeching]
+
+713
+00:56:01,297 --> 00:56:03,925
+[Gunfire]
+
+714
+00:56:09,097 --> 00:56:11,474
+PARCHER: Take this.
+JOHN: I ain't shooting anybody.
+
+715
+00:56:11,557 --> 00:56:14,227
+- Take the goddamn gun!
+- No!
+
+716
+00:56:16,354 --> 00:56:18,189
+[Screams]
+
+717
+00:56:32,870 --> 00:56:34,998
+PARCHER: You stay back. Don't move.
+
+718
+00:56:40,420 --> 00:56:42,171
+[Screams]
+
+719
+00:56:45,049 --> 00:56:46,843
+[Tires screech]
+
+720
+00:57:21,795 --> 00:57:22,922
+ALICIA: John?
+
+721
+00:57:30,137 --> 00:57:31,221
+Hi.
+
+722
+00:57:34,308 --> 00:57:35,976
+Where were you?
+
+723
+00:57:38,854 --> 00:57:41,190
+JOHN: Sol...
+ALICIA: Yeah, I talked to Sol.
+
+724
+00:57:41,690 --> 00:57:44,068
+<i>He said you left the office hours ago. </i>
+
+725
+00:57:47,279 --> 00:57:49,031
+Why didn't you call me?
+
+726
+00:57:53,953 --> 00:57:55,412
+Are you all right?
+
+727
+00:58:04,588 --> 00:58:05,714
+ALICIA: Honey?
+
+728
+00:58:06,215 --> 00:58:07,967
+[Bolt locks]
+
+729
+00:58:08,050 --> 00:58:09,301
+ALICIA: John...
+
+730
+00:58:10,010 --> 00:58:12,680
+...please, talk to me.
+Tell me what happened.
+
+731
+00:58:14,056 --> 00:58:15,849
+<i>John, open the door. </i>
+
+732
+00:58:17,601 --> 00:58:19,853
+Come on, open the door! Let me in!
+
+733
+00:58:20,646 --> 00:58:22,022
+Talk to me!
+
+734
+00:58:23,899 --> 00:58:25,484
+John!
+
+735
+00:58:26,193 --> 00:58:28,028
+ALICIA: [Shouts] Open this door!
+
+736
+00:58:30,781 --> 00:58:33,200
+[Panting]
+
+737
+00:58:45,130 --> 00:58:47,048
+WOMAN: Watch for cars, kids.
+
+738
+00:59:07,569 --> 00:59:09,821
+[Door bangs shut]
+
+739
+00:59:29,174 --> 00:59:30,258
+PARCHER: John.
+
+740
+00:59:32,052 --> 00:59:33,136
+William.
+
+741
+00:59:33,762 --> 00:59:36,056
+<i>This is not what I signed up for. </i>
+
+742
+00:59:36,181 --> 00:59:38,433
+Every time a car backfires or a door slams...
+
+743
+00:59:38,516 --> 00:59:41,561
+I understand better
+than you could possibly imagine.
+
+744
+00:59:51,905 --> 00:59:53,824
+You need to calm down, John.
+
+745
+00:59:54,742 --> 00:59:57,203
+PARCHER: Now listen.
+We're closing in on the bomb...
+
+746
+00:59:57,286 --> 00:59:59,497
+<i>... in large part due to your work. </i>
+
+747
+00:59:59,580 --> 01:00:02,708
+Now don't you think your fear
+is a small price to pay?
+
+748
+01:00:02,875 --> 01:00:05,211
+William, my circumstance has changed.
+
+749
+01:00:06,003 --> 01:00:07,463
+Alicia's pregnant.
+
+750
+01:00:16,097 --> 01:00:18,474
+I told you attachments were dangerous.
+
+751
+01:00:19,183 --> 01:00:21,102
+<i>You chose to marry the girl. </i>
+
+752
+01:00:22,311 --> 01:00:24,230
+<i>I did nothing to prevent it. </i>
+
+753
+01:00:27,108 --> 01:00:29,610
+The best way to ensure
+everybody's safety...
+
+754
+01:00:30,319 --> 01:00:32,196
+...is for you to continue your work.
+
+755
+01:00:33,364 --> 01:00:34,657
+Well, I'll just quit.
+
+756
+01:00:35,283 --> 01:00:36,284
+You won't.
+
+757
+01:00:36,951 --> 01:00:38,077
+Why would I not?
+
+758
+01:00:38,244 --> 01:00:41,372
+Because I keep the Russians
+from knowing you work for us.
+
+759
+01:00:42,081 --> 01:00:43,833
+<i>You quit working for me... </i>
+
+760
+01:00:44,750 --> 01:00:46,210
+...I quit working for you.
+
+761
+01:00:59,890 --> 01:01:02,059
+Parcher!
+
+762
+01:01:07,398 --> 01:01:08,858
+SOL: John, you all right?
+
+763
+01:01:30,255 --> 01:01:31,298
+ALICIA: John?
+
+764
+01:01:31,465 --> 01:01:33,967
+JOHN: [Angrily]
+Turn it off! Turn off the light!
+
+765
+01:01:37,054 --> 01:01:38,472
+Why would you do that?
+
+766
+01:01:39,139 --> 01:01:42,100
+- Why would you turn the light on?
+- What is wrong with you?
+
+767
+01:01:42,225 --> 01:01:44,102
+You have to go to your sister's.
+
+768
+01:01:44,937 --> 01:01:48,231
+JOHN: I left the car out in back.
+Take Commonwealth, no side streets.
+
+769
+01:01:48,315 --> 01:01:49,608
+Stay where it's crowded.
+
+770
+01:01:49,691 --> 01:01:51,318
+ALICIA: John, I'm not going anywhere!
+
+771
+01:01:51,401 --> 01:01:53,904
+JOHN: When you get to your sister's,
+wait for my call.
+
+772
+01:01:53,987 --> 01:01:55,739
+- Get your things.
+- I'm not leaving!
+
+773
+01:01:55,822 --> 01:01:57,491
+Stop! Stop it!
+
+774
+01:01:58,408 --> 01:01:59,660
+JOHN: Please, Alicia.
+
+775
+01:02:02,412 --> 01:02:03,789
+I'll explain when I can.
+
+776
+01:02:24,309 --> 01:02:27,438
+[Dramatic instrumental music]
+
+777
+01:02:42,787 --> 01:02:45,373
+HARVARD UNIVERSITY
+NATIONAL MATHEMATICS CONFERENCE
+
+778
+01:02:51,296 --> 01:02:52,630
+MARCEE: Uncle John!
+
+779
+01:02:53,131 --> 01:02:54,215
+<i>Uncle John! </i>
+
+780
+01:02:55,174 --> 01:02:57,260
+[Roars]
+
+781
+01:02:58,386 --> 01:03:00,179
+Hey, baby girl! [Marcee giggles]
+
+782
+01:03:00,805 --> 01:03:02,807
+Wow, someone needed a hug!
+
+783
+01:03:03,600 --> 01:03:05,977
+I saw you on the slate,
+and I thought to myself:
+
+784
+01:03:06,060 --> 01:03:10,356
+"How can I miss seeing a guest lecture
+by the inimitable John Nash?"
+
+785
+01:03:13,318 --> 01:03:14,611
+CHARLES: What's wrong?
+
+786
+01:03:17,530 --> 01:03:20,533
+I got myself into something.
+I think I might need some help.
+
+787
+01:03:20,992 --> 01:03:22,994
+Now you tell me, what is it?
+
+788
+01:03:23,161 --> 01:03:24,871
+WOMAN: Professor Nash!
+
+789
+01:03:25,246 --> 01:03:26,372
+Welcome!
+
+790
+01:03:28,791 --> 01:03:29,792
+After?
+
+791
+01:03:37,967 --> 01:03:42,972
+JOHN: So, we see that the zeroes
+of the Riemann Zeta function...
+
+792
+01:03:43,556 --> 01:03:45,809
+...correspond to singularities...
+
+793
+01:03:46,101 --> 01:03:48,312
+<i>... in space-time... </i>
+
+794
+01:03:49,063 --> 01:03:51,440
+Singularities in space-time then...
+
+795
+01:03:55,152 --> 01:03:57,196
+And conventional number theory...
+
+796
+01:03:59,657 --> 01:04:03,911
+It breaks down
+in the face of relativistic exploration.
+
+797
+01:04:12,962 --> 01:04:16,590
+[Ominous instrumental music]
+
+798
+01:04:20,219 --> 01:04:23,222
+Sometimes our expectations
+are betrayed by the numbers.
+
+799
+01:04:25,099 --> 01:04:29,770
+Variables are impossible
+to assign any rational value.
+
+800
+01:04:50,416 --> 01:04:52,001
+MAN: Professor Nash!
+
+801
+01:05:02,304 --> 01:05:04,806
+MAN: Hold it!
+ROSEN: Professor Nash?
+
+802
+01:05:06,600 --> 01:05:11,771
+ROSEN: Professor Nash,
+let's avoid a scene, shall we?
+
+803
+01:05:12,981 --> 01:05:14,107
+What do you want?
+
+804
+01:05:15,025 --> 01:05:16,526
+My name is Rosen.
+
+805
+01:05:16,943 --> 01:05:18,945
+Dr. Rosen. I'm a psychiatrist.
+
+806
+01:05:19,529 --> 01:05:21,698
+Forgive me if I don't seem persuaded.
+
+807
+01:05:22,365 --> 01:05:24,576
+ROSEN: I'd like you
+to come with me, John.
+
+808
+01:05:26,077 --> 01:05:27,579
+Just for a chat.
+
+809
+01:05:29,414 --> 01:05:31,333
+It appears I have no choice.
+
+810
+01:05:34,127 --> 01:05:35,587
+[Rosen groans]
+
+811
+01:05:42,510 --> 01:05:44,220
+Help me! Somebody!
+
+812
+01:05:48,683 --> 01:05:49,935
+JOHN: [Screams] Somebody!
+
+813
+01:05:50,018 --> 01:05:52,646
+<i>Help me! Get off me! </i>
+
+814
+01:05:53,188 --> 01:05:54,731
+<i>I know who you are! </i>
+
+815
+01:05:55,106 --> 01:05:56,566
+MAN: No, no, don't!
+
+816
+01:05:56,650 --> 01:05:59,319
+Charles, they're Russians!
+They're Russians!
+
+817
+01:05:59,486 --> 01:06:00,987
+<i>Call somebody! Call somebody! </i>
+
+818
+01:06:01,071 --> 01:06:03,114
+JOHN: They're Russians!
+ROSEN: Steady the leg.
+
+819
+01:06:03,198 --> 01:06:04,741
+Get away from me.
+
+820
+01:06:04,824 --> 01:06:07,035
+JOHN: Stay away from me!
+
+821
+01:06:12,290 --> 01:06:13,458
+ROSEN: There, now.
+
+822
+01:06:14,709 --> 01:06:16,044
+All better.
+
+823
+01:06:19,799 --> 01:06:21,717
+ROSEN: Everything's all right here.
+
+824
+01:06:23,719 --> 01:06:25,471
+Watch your head.
+
+825
+01:06:54,875 --> 01:06:57,211
+ROSEN: [Faintly] <i>John? </i>
+
+826
+01:06:59,839 --> 01:07:01,215
+<i>Can you hear me? </i>
+
+827
+01:07:15,396 --> 01:07:16,856
+Go easy now.
+
+828
+01:07:17,565 --> 01:07:19,942
+<i>Thorazine takes a little while to wear off. </i>
+
+829
+01:07:23,446 --> 01:07:25,031
+<i>Sorry about the restraints. </i>
+
+830
+01:07:26,032 --> 01:07:28,159
+You've got one hell of a right hook.
+
+831
+01:07:29,952 --> 01:07:31,537
+JOHN: [Weakly] Where am I?
+
+832
+01:07:31,912 --> 01:07:32,830
+[Clears his throat]
+
+833
+01:07:33,623 --> 01:07:35,459
+MacArthur Psychiatric Hospital.
+
+834
+01:07:38,629 --> 01:07:40,672
+I find that highly unlikely.
+
+835
+01:07:41,673 --> 01:07:43,175
+JOHN: You made a mistake.
+
+836
+01:07:44,593 --> 01:07:46,678
+My work is non-military in application.
+
+837
+01:07:47,721 --> 01:07:49,431
+Which work is that, John?
+
+838
+01:07:52,142 --> 01:07:53,560
+I don't know anything.
+
+839
+01:07:54,519 --> 01:07:56,980
+There's no good in keeping secrets,
+you know.
+
+840
+01:07:58,815 --> 01:08:00,943
+[Groans]
+
+841
+01:08:04,738 --> 01:08:06,949
+[Buzzer]
+
+842
+01:08:12,871 --> 01:08:13,830
+Charles?
+
+843
+01:08:16,124 --> 01:08:17,251
+JOHN: Charles?
+
+844
+01:08:19,544 --> 01:08:21,964
+I didn't mean to get you involved in this.
+
+845
+01:08:23,173 --> 01:08:24,633
+JOHN: I'm sorry.
+
+846
+01:08:30,389 --> 01:08:31,765
+Charles?
+
+847
+01:08:39,690 --> 01:08:41,858
+The prodigal roommate revealed.
+
+848
+01:08:44,444 --> 01:08:46,405
+"Saw my name on the lecture slate"?
+
+849
+01:08:47,406 --> 01:08:49,533
+You lying son of a bitch!
+
+850
+01:08:49,825 --> 01:08:52,160
+Who are you talking to?
+Tell me who you see.
+
+851
+01:08:52,495 --> 01:08:54,789
+How do you say
+"Charles Herman" in Russian?
+
+852
+01:08:55,039 --> 01:08:57,208
+How do you say it in Russian?
+
+853
+01:08:57,500 --> 01:09:00,336
+ROSEN: There's no one there, John.
+There's no one there.
+
+854
+01:09:00,420 --> 01:09:03,590
+He's right there. He's right there.
+
+855
+01:09:04,465 --> 01:09:06,301
+JOHN: Stop! I don't know anything!
+
+856
+01:09:06,467 --> 01:09:09,137
+Stop! I don't know anything!
+
+857
+01:09:11,097 --> 01:09:12,807
+My name is John Nash.
+
+858
+01:09:12,932 --> 01:09:14,934
+I'm being held against my will.
+
+859
+01:09:15,184 --> 01:09:17,478
+Somebody call the Department of Defense.
+
+860
+01:09:17,729 --> 01:09:19,689
+My name is John Nash.
+
+861
+01:09:19,897 --> 01:09:21,733
+I'm being held against my will!
+
+862
+01:09:27,697 --> 01:09:29,490
+ALICIA: What's wrong with him?
+
+863
+01:09:32,243 --> 01:09:33,995
+John has schizophrenia.
+
+864
+01:09:35,455 --> 01:09:38,166
+People with this disorder
+are often paranoid.
+
+865
+01:09:41,961 --> 01:09:43,463
+But his work.
+
+866
+01:09:43,922 --> 01:09:45,882
+He deals with conspiracy.
+
+867
+01:09:46,966 --> 01:09:49,218
+Yes, I know.
+
+868
+01:09:50,094 --> 01:09:53,473
+ROSEN: In John's world,
+these behaviors are accepted...
+
+869
+01:09:53,723 --> 01:09:54,807
+...encouraged.
+
+870
+01:09:55,600 --> 01:09:58,686
+As such,
+his illness may have gone untreated...
+
+871
+01:09:58,770 --> 01:10:00,521
+...far longer than is typical.
+
+872
+01:10:01,731 --> 01:10:03,316
+What do you mean? How long?
+
+873
+01:10:03,399 --> 01:10:05,151
+Possibly since graduate school.
+
+874
+01:10:05,318 --> 01:10:08,404
+At least that's when his hallucinations
+seem to have begun.
+
+875
+01:10:08,488 --> 01:10:10,908
+What are you talking about?
+What hallucinations?
+
+876
+01:10:10,991 --> 01:10:13,202
+One, so far, that I am aware of.
+
+877
+01:10:13,911 --> 01:10:16,914
+An imaginary roommate
+named Charles Herman.
+
+878
+01:10:18,207 --> 01:10:20,251
+Charles isn't imaginary.
+
+879
+01:10:20,334 --> 01:10:22,544
+They have been best friends
+since Princeton.
+
+880
+01:10:22,628 --> 01:10:25,714
+Have you ever met Charles?
+Has he ever come to dinner?
+
+881
+01:10:26,423 --> 01:10:29,176
+He's always in town
+for so little time, lecturing.
+
+882
+01:10:29,301 --> 01:10:31,887
+- Was he at your wedding?
+- He had to teach.
+
+883
+01:10:31,971 --> 01:10:34,765
+Have you seen a picture,
+or talked to him on the phone?
+
+884
+01:10:34,848 --> 01:10:36,100
+This is ridiculous.
+
+885
+01:10:36,642 --> 01:10:37,893
+I phoned Princeton.
+
+886
+01:10:39,103 --> 01:10:42,106
+According to their housing records,
+John lived alone.
+
+887
+01:10:45,943 --> 01:10:48,779
+Now, which is more likely?
+That your husband...
+
+888
+01:10:48,862 --> 01:10:51,282
+...a mathematician
+with no military training...
+
+889
+01:10:51,407 --> 01:10:55,202
+...is a spy fleeing the Russians...
+- You're making him sound crazy.
+
+890
+01:10:55,286 --> 01:10:58,205
+Or, that he has lost his grip on reality?
+
+891
+01:11:01,208 --> 01:11:04,378
+The only way I can help him,
+is to show him the difference...
+
+892
+01:11:04,712 --> 01:11:07,965
+...between what is real
+and what is in his mind.
+
+893
+01:11:12,094 --> 01:11:13,387
+Come on.
+
+894
+01:11:15,764 --> 01:11:17,516
+What's he been working on?
+
+895
+01:11:19,310 --> 01:11:20,853
+His work is classified.
+
+896
+01:11:21,061 --> 01:11:23,105
+He mentioned a supervisor...
+
+897
+01:11:23,522 --> 01:11:25,482
+...by the name of William Parcher.
+
+898
+01:11:25,941 --> 01:11:28,320
+Maybe Mr. Parcher
+can clarify things for us.
+
+899
+01:11:28,612 --> 01:11:31,031
+<i>But I can't get to him without clearances. </i>
+
+900
+01:11:32,824 --> 01:11:35,994
+You want me to help you get the details
+of my husband's work?
+
+901
+01:11:37,579 --> 01:11:39,748
+John thinks I'm a Russian spy.
+
+902
+01:11:40,123 --> 01:11:41,625
+Is that what you think?
+
+903
+01:11:46,421 --> 01:11:48,798
+- What did the doctor say?
+- Is he sick?
+
+904
+01:11:48,882 --> 01:11:49,966
+I don't know.
+
+905
+01:11:50,050 --> 01:11:52,177
+I want to see
+what John's been working on.
+
+906
+01:11:52,344 --> 01:11:55,138
+- You can't go in his office.
+- It's classified, Alicia.
+
+907
+01:11:55,263 --> 01:11:56,431
+Stop.
+
+908
+01:12:05,148 --> 01:12:07,734
+[Dramatic instrumental music]
+
+909
+01:12:10,987 --> 01:12:12,113
+Oh, my God.
+
+910
+01:12:16,618 --> 01:12:18,244
+Oh, my God.
+
+911
+01:12:26,211 --> 01:12:28,088
+Why didn't you say something?
+
+912
+01:12:28,797 --> 01:12:31,216
+Alicia, John has always been...
+
+913
+01:12:31,466 --> 01:12:33,468
+...a little weird.
+
+914
+01:12:33,802 --> 01:12:36,221
+He said he was doing code-breaking.
+
+915
+01:12:36,304 --> 01:12:39,307
+- It was eyes-only.
+- Top-secret, part of the military effort.
+
+916
+01:12:39,391 --> 01:12:40,558
+Was he?
+
+917
+01:12:42,310 --> 01:12:43,604
+It was possible.
+
+918
+01:12:43,688 --> 01:12:46,816
+Directives come down all the time
+that some aren't cleared for.
+
+919
+01:12:46,899 --> 01:12:50,528
+- It was possible.
+- Possible, but not likely.
+
+920
+01:12:53,114 --> 01:12:57,660
+Lately, he'd become much more agitated,
+and then when you called...
+
+921
+01:12:57,827 --> 01:13:00,496
+So, is this all he's been doing every day?
+
+922
+01:13:01,580 --> 01:13:03,457
+Cutting up magazines?
+
+923
+01:13:05,334 --> 01:13:07,086
+Well, not all.
+
+924
+01:13:17,597 --> 01:13:20,725
+[Dramatic instrumental music continues]
+
+925
+01:14:08,690 --> 01:14:11,068
+[Door opens]
+
+926
+01:14:29,127 --> 01:14:31,380
+ALICIA: [Sobs] I'm so sorry.
+JOHN: It's okay.
+
+927
+01:14:35,300 --> 01:14:36,551
+I missed you.
+
+928
+01:14:40,138 --> 01:14:41,556
+I have to talk to you.
+
+929
+01:14:42,349 --> 01:14:43,517
+ALICIA: Okay.
+
+930
+01:14:48,855 --> 01:14:51,024
+Alicia, I've been thinking about it...
+
+931
+01:14:51,441 --> 01:14:54,403
+...and I do realize that my behavior...
+
+932
+01:14:54,653 --> 01:14:57,864
+...and my inability
+to discuss the situation with you...
+
+933
+01:14:58,407 --> 01:15:00,450
+...must have appeared insane.
+
+934
+01:15:00,909 --> 01:15:02,828
+I left you with no other choice.
+
+935
+01:15:03,578 --> 01:15:05,247
+I do understand...
+
+936
+01:15:05,622 --> 01:15:08,292
+...and I'm truly sorry.
+- That's okay.
+
+937
+01:15:09,626 --> 01:15:11,420
+Everything will be all right.
+
+938
+01:15:13,380 --> 01:15:15,048
+Everything will be all right.
+
+939
+01:15:16,341 --> 01:15:18,469
+[Whispers] We just have to talk quietly.
+
+940
+01:15:19,679 --> 01:15:23,099
+They may be listening.
+There may be microphones.
+
+941
+01:15:24,475 --> 01:15:26,102
+I'll tell you everything now.
+
+942
+01:15:27,186 --> 01:15:30,773
+It's breaking with protocol,
+but you need to know...
+
+943
+01:15:31,441 --> 01:15:34,611
+...because you have to help me
+get out of here.
+
+944
+01:15:36,571 --> 01:15:39,407
+I've been doing top-secret work
+for the government.
+
+945
+01:15:39,657 --> 01:15:41,367
+There's a threat that exists...
+
+946
+01:15:41,951 --> 01:15:43,870
+...of catastrophic proportions.
+
+947
+01:15:44,996 --> 01:15:47,874
+I think the Russians
+feel my profile is too high.
+
+948
+01:15:47,957 --> 01:15:50,001
+That's why they won't do away with me.
+
+949
+01:15:50,293 --> 01:15:53,463
+They're keeping me here
+to try to stop me from doing my work.
+
+950
+01:15:53,588 --> 01:15:55,089
+You have to get to Wheeler.
+
+951
+01:15:55,298 --> 01:15:58,176
+JOHN: You have to find William Parcher.
+ALICIA: Stop.
+
+952
+01:15:58,259 --> 01:15:59,427
+Stop!
+
+953
+01:16:04,974 --> 01:16:06,309
+I went to Wheeler.
+
+954
+01:16:07,060 --> 01:16:08,269
+Good, good.
+
+955
+01:16:08,394 --> 01:16:10,396
+There is no William Parcher.
+
+956
+01:16:11,606 --> 01:16:13,900
+Of course there is.
+I've been working for him.
+
+957
+01:16:13,983 --> 01:16:16,694
+ALICIA: Doing what? Breaking codes?
+
+958
+01:16:17,153 --> 01:16:21,366
+Dropping packages in a secret mailbox
+for the government to pick up?
+
+959
+01:16:22,992 --> 01:16:24,410
+How could you know that?
+
+960
+01:16:24,619 --> 01:16:25,954
+Sol followed you.
+
+961
+01:16:27,914 --> 01:16:30,833
+ALICIA: He thought it was harmless.
+JOHN: Sol followed me?
+
+962
+01:16:39,677 --> 01:16:41,512
+ALICIA: They've never been opened.
+
+963
+01:16:44,640 --> 01:16:46,433
+It isn't real.
+
+964
+01:16:47,768 --> 01:16:49,812
+<i>There is no conspiracy, John. </i>
+
+965
+01:16:53,148 --> 01:16:55,276
+<i>There is no William Parcher. </i>
+
+966
+01:16:56,694 --> 01:16:58,237
+<i>It's in your mind. </i>
+
+967
+01:17:00,948 --> 01:17:03,492
+Do you understand, baby?
+
+968
+01:17:05,327 --> 01:17:06,578
+You're sick.
+
+969
+01:17:10,374 --> 01:17:11,792
+<i>You're sick, John. </i>
+
+970
+01:17:12,418 --> 01:17:13,627
+ALICIA: John?
+
+971
+01:17:14,378 --> 01:17:16,255
+ALICIA: [Sobs] John!
+
+972
+01:17:24,555 --> 01:17:25,639
+Code red.
+
+973
+01:17:25,806 --> 01:17:28,517
+[Over P.A.] <i>Dr. Rosen, code red. </i>
+<i>Observation Room 2.</i>
+
+974
+01:17:29,143 --> 01:17:32,062
+<i>Dr. Rosen, code red. Observation Room 2.</i>
+
+975
+01:17:39,695 --> 01:17:41,530
+[Door opens]
+
+976
+01:17:43,616 --> 01:17:44,658
+John?
+
+977
+01:17:47,620 --> 01:17:48,829
+John?
+
+978
+01:17:51,248 --> 01:17:52,500
+The implant is gone.
+
+979
+01:17:54,502 --> 01:17:55,921
+I can't find it.
+
+980
+01:18:00,467 --> 01:18:01,593
+It's gone.
+
+981
+01:18:17,901 --> 01:18:19,986
+[Dramatic instrumental music]
+
+982
+01:18:33,375 --> 01:18:36,127
+ROSEN: You see,
+the nightmare of schizophrenia...
+
+983
+01:18:36,586 --> 01:18:38,672
+<i>... is not knowing what's true. </i>
+
+984
+01:18:40,048 --> 01:18:41,508
+<i>Imagine... </i>
+
+985
+01:18:41,758 --> 01:18:44,886
+<i>... if you had suddenly learned</i>
+<i>that the people and the places... </i>
+
+986
+01:18:45,011 --> 01:18:50,392
+<i>... and the moments most important to you</i>
+<i>were not gone, not dead... </i>
+
+987
+01:18:50,850 --> 01:18:54,020
+<i>... but worse, had never been. </i>
+
+988
+01:18:57,774 --> 01:18:59,693
+What kind of hell would that be?
+
+989
+01:19:05,907 --> 01:19:07,742
+NURSE 1: Administering insulin.
+
+990
+01:19:08,576 --> 01:19:10,246
+NURSE 2: 8:42 a.m.
+
+991
+01:19:47,116 --> 01:19:49,201
+[Dramatic instrumental music continues]
+
+992
+01:20:08,763 --> 01:20:10,014
+ALICIA: How often?
+
+993
+01:20:12,266 --> 01:20:14,852
+ROSEN: Five times a week for 10 weeks.
+
+994
+01:20:36,458 --> 01:20:38,210
+PRINCETON UNIVERSITY - 1 YEAR LATER
+
+995
+01:20:38,293 --> 01:20:41,421
+ALICIA: John always spoke so fondly
+of being here at Princeton.
+
+996
+01:20:42,130 --> 01:20:44,132
+<i>Hansen is running the department now. </i>
+
+997
+01:20:44,383 --> 01:20:47,052
+SOL: So he keeps reminding us,
+and reminding us.
+
+998
+01:20:48,262 --> 01:20:49,554
+ALICIA: [Chuckling] Yeah.
+
+999
+01:20:49,638 --> 01:20:53,350
+John won't come near the campus, though.
+I think he's ashamed.
+
+1000
+01:20:53,433 --> 01:20:54,476
+[Baby cries]
+
+1001
+01:20:55,477 --> 01:20:57,437
+ALICIA: Hey. Hey.
+
+1002
+01:20:58,021 --> 01:20:59,356
+<i>Want this? </i>
+
+1003
+01:21:00,983 --> 01:21:03,568
+SOL: So, Alicia, how are you holding up?
+
+1004
+01:21:05,195 --> 01:21:06,655
+The delusions have passed.
+
+1005
+01:21:07,072 --> 01:21:10,867
+They're saying with the medication
+and low stress environment...
+
+1006
+01:21:12,494 --> 01:21:13,996
+I mean, how are you?
+
+1007
+01:21:21,503 --> 01:21:23,088
+I think often what I feel...
+
+1008
+01:21:24,464 --> 01:21:26,216
+...is obligation.
+
+1009
+01:21:28,802 --> 01:21:31,263
+Or guilt over wanting to leave.
+
+1010
+01:21:33,682 --> 01:21:37,060
+Rage against John, against God, and...
+
+1011
+01:21:40,022 --> 01:21:41,356
+But...
+
+1012
+01:21:44,360 --> 01:21:45,903
+...then I look at him...
+
+1013
+01:21:47,530 --> 01:21:50,450
+...and I force myself to see the man
+that I married.
+
+1014
+01:21:52,785 --> 01:21:54,329
+And he becomes that man.
+
+1015
+01:21:54,912 --> 01:21:58,583
+He's transformed into someone that I love.
+
+1016
+01:22:01,961 --> 01:22:04,422
+And I'm transformed into someone
+who loves him.
+
+1017
+01:22:08,301 --> 01:22:10,136
+It's not all the time, but...
+
+1018
+01:22:12,680 --> 01:22:14,098
+...it's enough.
+
+1019
+01:22:15,475 --> 01:22:19,062
+I think John is a very lucky man, Alicia.
+
+1020
+01:22:24,567 --> 01:22:26,277
+So unlucky.
+
+1021
+01:22:29,822 --> 01:22:31,616
+ALICIA: This is us.
+SOL: This is it?
+
+1022
+01:22:31,699 --> 01:22:33,534
+ALICIA: It's near where I work.
+
+1023
+01:22:34,118 --> 01:22:36,621
+ALICIA: [Brightly] John?
+You have a visitor.
+
+1024
+01:22:40,041 --> 01:22:40,917
+Hi.
+
+1025
+01:22:43,962 --> 01:22:45,922
+ALICIA: [Softly] I hope it's okay.
+
+1026
+01:22:53,137 --> 01:22:54,264
+Hey, chief.
+
+1027
+01:22:56,182 --> 01:22:58,226
+- Cigarette?
+- No, thanks.
+
+1028
+01:22:58,476 --> 01:22:59,936
+I quit, actually.
+
+1029
+01:23:04,400 --> 01:23:05,776
+- Hello.
+- Hey, John.
+
+1030
+01:23:08,696 --> 01:23:10,197
+Have you met Harvey?
+
+1031
+01:23:10,281 --> 01:23:12,533
+[Sol stammers in embarrassment]
+
+1032
+01:23:13,617 --> 01:23:15,327
+- There's no...
+- Relax, it's okay.
+
+1033
+01:23:15,411 --> 01:23:18,330
+There's no point being nuts
+if you can't have a little fun.
+
+1034
+01:23:18,414 --> 01:23:21,166
+SOL: [Laughs nervously] Jesus Christ.
+I should have known.
+
+1035
+01:23:23,544 --> 01:23:24,545
+Here you go.
+
+1036
+01:23:26,755 --> 01:23:30,259
+- I can take those later.
+- You're supposed to take them now.
+
+1037
+01:23:31,635 --> 01:23:33,721
+- Can I bring you something?
+- I'm okay.
+
+1038
+01:23:35,139 --> 01:23:36,181
+ALICIA: Okay.
+
+1039
+01:23:39,685 --> 01:23:43,814
+So, I was in town giving a workshop.
+
+1040
+01:23:43,897 --> 01:23:45,858
+<i>I go back tonight. </i>
+
+1041
+01:23:46,233 --> 01:23:49,403
+Bender really wanted to stop by...
+
+1042
+01:23:50,029 --> 01:23:52,906
+<i>... you know, see you. Say hi. </i>
+
+1043
+01:23:53,198 --> 01:23:54,325
+Squeamish?
+
+1044
+01:23:55,075 --> 01:23:56,076
+Yeah.
+
+1045
+01:23:57,661 --> 01:23:59,246
+I suppose I would be, too.
+
+1046
+01:23:59,788 --> 01:24:01,790
+But, alas, I'm stuck with me.
+
+1047
+01:24:05,336 --> 01:24:07,796
+I'm trying to solve the Riemann hypothesis.
+
+1048
+01:24:07,880 --> 01:24:09,006
+Uh-huh.
+
+1049
+01:24:10,007 --> 01:24:11,425
+Oh, yeah?
+
+1050
+01:24:12,259 --> 01:24:15,387
+JOHN: I figured if I dazzle them...
+
+1051
+01:24:15,596 --> 01:24:17,389
+...they will have to reinstate me.
+
+1052
+01:24:19,351 --> 01:24:22,354
+But it's difficult with the medication...
+
+1053
+01:24:22,562 --> 01:24:25,523
+...because it's hard...
+
+1054
+01:24:28,652 --> 01:24:30,862
+...to see the solution.
+
+1055
+01:24:31,363 --> 01:24:33,657
+[Poignant instrumental music]
+
+1056
+01:24:38,745 --> 01:24:40,789
+SOL: You know, John, you should go easy.
+
+1057
+01:24:41,748 --> 01:24:45,627
+There are other things besides work.
+
+1058
+01:24:48,463 --> 01:24:49,714
+What are they?
+
+1059
+01:24:52,884 --> 01:24:55,845
+[Baby cries]
+
+1060
+01:25:08,441 --> 01:25:10,443
+[Alicia coos maternally]
+
+1061
+01:25:18,660 --> 01:25:20,453
+[Door closes]
+
+1062
+01:25:26,001 --> 01:25:28,003
+What are you thinking about?
+
+1063
+01:25:31,715 --> 01:25:33,550
+What do people do?
+
+1064
+01:25:33,758 --> 01:25:35,761
+It's life, John.
+
+1065
+01:25:36,137 --> 01:25:39,265
+Activities available, just add meaning.
+
+1066
+01:25:48,232 --> 01:25:50,067
+You could try leaving the house.
+
+1067
+01:25:50,818 --> 01:25:52,403
+You know, maybe...
+
+1068
+01:25:53,821 --> 01:25:55,489
+...talk to people.
+
+1069
+01:26:00,369 --> 01:26:02,413
+You could try taking out the garbage.
+
+1070
+01:26:19,805 --> 01:26:22,099
+[Indistinct, muffled voice]
+
+1071
+01:26:24,810 --> 01:26:28,147
+JOHN: [Muffled] And there's some more,
+there's some more in...
+
+1072
+01:26:39,992 --> 01:26:42,286
+Who were you talking to?
+
+1073
+01:26:43,537 --> 01:26:44,872
+Garbage man.
+
+1074
+01:26:53,966 --> 01:26:55,717
+Garbage men don't come at night.
+
+1075
+01:26:59,263 --> 01:27:01,098
+I guess around here they do.
+
+1076
+01:27:04,184 --> 01:27:06,019
+[Man whistles]
+
+1077
+01:27:06,311 --> 01:27:09,314
+[Truck approaching]
+
+1078
+01:27:21,285 --> 01:27:23,287
+[John giggles]
+
+1079
+01:27:27,374 --> 01:27:28,500
+Sorry.
+
+1080
+01:28:35,735 --> 01:28:37,320
+ALICIA: Is it the medication?
+
+1081
+01:28:49,499 --> 01:28:51,960
+[Door bangs shut]
+
+1082
+01:29:09,269 --> 01:29:11,813
+[Alicia screams]
+
+1083
+01:29:18,903 --> 01:29:20,989
+ALICIA: [Sobs] I don't know what to do.
+
+1084
+01:29:26,453 --> 01:29:29,123
+[Sobbing continues]
+
+1085
+01:29:36,505 --> 01:29:37,548
+[Car door opens]
+
+1086
+01:29:38,966 --> 01:29:42,303
+ALICIA: My mother's going to
+keep the baby a little longer tonight.
+
+1087
+01:29:43,095 --> 01:29:45,347
+<i>I can get three hours of overtime. </i>
+
+1088
+01:30:01,238 --> 01:30:03,073
+[Classical music plays on radio]
+
+1089
+01:30:11,582 --> 01:30:12,958
+I'm going to bed.
+
+1090
+01:30:20,341 --> 01:30:22,051
+- Good night.
+- Good night.
+
+1091
+01:30:50,956 --> 01:30:54,584
+[Ominous instrumental music]
+
+1092
+01:31:06,012 --> 01:31:08,265
+[Clattering]
+
+1093
+01:31:38,295 --> 01:31:39,963
+[Gun cocks]
+
+1094
+01:31:40,130 --> 01:31:41,589
+[Second gun cocks]
+
+1095
+01:31:41,673 --> 01:31:43,383
+PARCHER: It's good to see you, John.
+
+1096
+01:31:45,010 --> 01:31:46,344
+<i>It's been a while. </i>
+
+1097
+01:31:47,596 --> 01:31:48,638
+Parcher?
+
+1098
+01:31:49,723 --> 01:31:50,807
+Yes, sir.
+
+1099
+01:31:54,227 --> 01:31:55,395
+You're not real!
+
+1100
+01:31:55,937 --> 01:31:58,481
+Of course I am. Don't be ridiculous.
+
+1101
+01:32:01,819 --> 01:32:02,903
+[Rifles cocking]
+
+1102
+01:32:03,321 --> 01:32:05,656
+I don't think that I would go that way.
+
+1103
+01:32:07,074 --> 01:32:09,619
+PARCHER: It's time for you
+to get back to work.
+
+1104
+01:32:10,119 --> 01:32:13,247
+<i>The bomb is in its final position</i>
+<i>here in the U.S. </i>
+
+1105
+01:32:15,374 --> 01:32:19,754
+<i>Knowing your situation requires you keep</i>
+<i>a low profile, "Mohammed"...</i>
+
+1106
+01:32:21,255 --> 01:32:23,633
+...we've brought the mountain to you.
+
+1107
+01:32:31,724 --> 01:32:34,560
+[Generator whirs]
+
+1108
+01:32:34,644 --> 01:32:36,812
+[Radio signals]
+
+1109
+01:32:42,193 --> 01:32:46,989
+We've narrowed the bomb's location
+to somewhere on the eastern seaboard.
+
+1110
+01:32:48,407 --> 01:32:51,661
+<i>But we haven't been able to pinpoint</i>
+<i>its exact position. </i>
+
+1111
+01:32:51,744 --> 01:32:53,537
+[Man speaking Russian over radio]
+
+1112
+01:32:53,913 --> 01:32:57,083
+PARCHER: Their codes have grown
+increasingly complex.
+
+1113
+01:32:59,752 --> 01:33:01,170
+Look at this, John.
+
+1114
+01:33:04,131 --> 01:33:04,924
+What?
+
+1115
+01:33:06,509 --> 01:33:07,677
+What?
+
+1116
+01:33:10,179 --> 01:33:12,974
+- Dr. Rosen said...
+- Rosen! That quack!
+
+1117
+01:33:14,058 --> 01:33:17,688
+"Schizophrenic break from reality," right?
+Psychological bullshit!
+
+1118
+01:33:18,021 --> 01:33:19,398
+PARCHER: Look at me, John.
+
+1119
+01:33:20,524 --> 01:33:22,192
+<i>John, look at me. </i>
+
+1120
+01:33:24,194 --> 01:33:26,071
+Do I look like I'm imagined?
+
+1121
+01:33:28,448 --> 01:33:30,284
+Wheeler has no record of you.
+
+1122
+01:33:30,534 --> 01:33:32,744
+Do you think we list our personnel?
+
+1123
+01:33:35,163 --> 01:33:37,958
+PARCHER: I'm sorry you had to
+go through all this.
+
+1124
+01:33:38,959 --> 01:33:41,878
+<i>I've gone to a great deal of trouble</i>
+<i>to get you back. </i>
+
+1125
+01:33:42,004 --> 01:33:44,172
+I can restore your status at Wheeler.
+
+1126
+01:33:44,381 --> 01:33:47,050
+I can let the world know what you did.
+
+1127
+01:33:47,593 --> 01:33:49,261
+But I need you now, soldier.
+
+1128
+01:33:56,101 --> 01:33:58,186
+I was so scared you weren't real.
+
+1129
+01:33:59,730 --> 01:34:01,815
+Princeton, New Jersey - April 1956
+
+1130
+01:34:06,486 --> 01:34:08,196
+ALICIA: There's a storm coming.
+
+1131
+01:34:08,488 --> 01:34:10,699
+I'm just going to grab the laundry.
+
+1132
+01:34:11,241 --> 01:34:12,826
+JOHN: I'll draw his bath.
+
+1133
+01:34:16,538 --> 01:34:17,623
+It's okay.
+
+1134
+01:34:19,333 --> 01:34:20,292
+Okay.
+
+1135
+01:34:33,639 --> 01:34:37,185
+[Faint radio feedback]
+
+1136
+01:34:38,269 --> 01:34:41,272
+[Indistinct voices over radio]
+
+1137
+01:34:52,700 --> 01:34:55,620
+[Radio feedback and voices continue]
+
+1138
+01:35:20,353 --> 01:35:23,147
+[Radio feedback and voices continue]
+
+1139
+01:35:39,163 --> 01:35:40,707
+[Baby whimpers]
+
+1140
+01:35:46,087 --> 01:35:47,630
+[Gasps]
+
+1141
+01:35:50,758 --> 01:35:52,177
+[Baby cries]
+
+1142
+01:35:59,685 --> 01:36:01,061
+ALICIA: [Shouts] John!
+
+1143
+01:36:07,651 --> 01:36:10,738
+JOHN: I've almost got it!
+Charles, you just watch the baby.
+
+1144
+01:36:11,405 --> 01:36:12,740
+No!
+
+1145
+01:36:19,079 --> 01:36:21,790
+ALICIA: [Sobs] I need a towel.
+
+1146
+01:36:21,874 --> 01:36:24,209
+[Baby cries]
+
+1147
+01:36:24,376 --> 01:36:27,504
+- Charles was watching him. He was okay.
+- There is no one here.
+
+1148
+01:36:29,298 --> 01:36:30,633
+There is no one here!
+
+1149
+01:36:30,716 --> 01:36:32,843
+He's been injected with a cloaking serum.
+
+1150
+01:36:32,927 --> 01:36:36,764
+<i>I can see him because of a chemical</i>
+<i>that was released into my bloodstream... </i>
+
+1151
+01:36:36,931 --> 01:36:38,432
+...when my implant dissolved.
+
+1152
+01:36:40,476 --> 01:36:43,520
+I couldn't tell you,
+it was for your own protection!
+
+1153
+01:36:44,521 --> 01:36:46,315
+JOHN: Alicia!
+
+1154
+01:36:51,236 --> 01:36:54,448
+- No!
+- Hello, I need Dr. Rosen's office, please.
+
+1155
+01:36:54,531 --> 01:36:56,492
+PARCHER: You've got to stop her, John.
+
+1156
+01:36:58,035 --> 01:37:00,287
+You leave her out of this.
+
+1157
+01:37:01,705 --> 01:37:04,416
+- Who are you talking to?
+- It's not her fault.
+
+1158
+01:37:04,917 --> 01:37:07,378
+PARCHER: She'll compromise us again.
+NASH: She won't.
+
+1159
+01:37:07,461 --> 01:37:09,214
+PARCHER: You'll go back to the hospital.
+
+1160
+01:37:09,297 --> 01:37:11,383
+- Answer me!
+- Countless people will die.
+
+1161
+01:37:11,466 --> 01:37:13,259
+Alicia, please put the phone down.
+
+1162
+01:37:13,343 --> 01:37:15,720
+- I can't let that happen.
+- Yes, hello?
+
+1163
+01:37:15,804 --> 01:37:18,056
+Hi, I need Dr. Rosen. Is he in?
+
+1164
+01:37:18,974 --> 01:37:21,434
+I'm sorry, John.
+
+1165
+01:37:22,143 --> 01:37:23,353
+JOHN: No!
+
+1166
+01:37:27,107 --> 01:37:29,985
+PARCHER: You know what you must do.
+ALICIA: Get away from me.
+
+1167
+01:37:30,068 --> 01:37:32,696
+- She's too great a risk.
+- Get away!
+
+1168
+01:37:33,446 --> 01:37:35,490
+I didn't mean to hurt you!
+
+1169
+01:37:37,158 --> 01:37:40,078
+Finish her. She knows too much now.
+
+1170
+01:37:43,623 --> 01:37:45,333
+MARCEE: Uncle John?
+
+1171
+01:37:45,417 --> 01:37:49,421
+PARCHER: Take care of her, you pathetic
+piece of shit, or I'll take care of you.
+
+1172
+01:37:50,255 --> 01:37:52,882
+CHARLES: Christ, John,
+please do what he says.
+
+1173
+01:37:53,133 --> 01:37:55,677
+Move, soldier.
+
+1174
+01:37:55,844 --> 01:37:57,095
+<i>Now. </i>
+
+1175
+01:37:57,178 --> 01:37:58,388
+MARCEE: Uncle John?
+
+1176
+01:37:59,306 --> 01:38:01,308
+CHARLES: John, please!
+
+1177
+01:38:02,392 --> 01:38:03,977
+Now!
+
+1178
+01:38:04,102 --> 01:38:08,189
+JOHN: [Voiceover] <i>Alicia and Charles never</i>
+<i>coexist in the same interactive field. </i>
+
+1179
+01:38:08,273 --> 01:38:09,649
+<i>Parcher and Charles... </i>
+
+1180
+01:38:09,733 --> 01:38:11,443
+[Murmuring, confused voices]
+
+1181
+01:38:11,818 --> 01:38:14,904
+<i>Charles and Marcee</i>
+<i>cannot coexist with Alicia. </i>
+
+1182
+01:38:15,363 --> 01:38:17,824
+[Voices grow stronger, more insistent]
+
+1183
+01:38:20,327 --> 01:38:21,369
+<i>I understand. </i>
+
+1184
+01:38:23,038 --> 01:38:25,290
+[Engine revs]
+
+1185
+01:38:26,042 --> 01:38:27,918
+[Tires screech, Alicia screams]
+
+1186
+01:38:38,763 --> 01:38:40,765
+She never gets old.
+
+1187
+01:38:43,768 --> 01:38:46,479
+Marcee can't be real. She never gets old.
+
+1188
+01:39:20,054 --> 01:39:21,681
+You see them now?
+
+1189
+01:39:30,898 --> 01:39:32,608
+Yes.
+
+1190
+01:39:34,360 --> 01:39:36,404
+Why did you stop your meds?
+
+1191
+01:39:39,156 --> 01:39:41,450
+Because I couldn't do my work.
+
+1192
+01:39:41,534 --> 01:39:43,453
+I couldn't help with the baby.
+
+1193
+01:39:43,537 --> 01:39:45,289
+I couldn't...
+
+1194
+01:39:46,790 --> 01:39:49,042
+I couldn't respond to my wife.
+
+1195
+01:39:51,795 --> 01:39:54,089
+You think that's better than being crazy?
+
+1196
+01:39:54,172 --> 01:39:58,593
+We'll need to start you on a higher run
+of insulin shocks and a new medication.
+
+1197
+01:39:58,677 --> 01:40:00,345
+No.
+
+1198
+01:40:01,138 --> 01:40:04,683
+JOHN: There has to be another way.
+ROSEN: Schizophrenia is degenerative.
+
+1199
+01:40:04,766 --> 01:40:08,562
+Some days may be symptom-free,
+but over time, you are getting worse.
+
+1200
+01:40:08,645 --> 01:40:11,690
+It's a problem. That's all it is.
+
+1201
+01:40:12,316 --> 01:40:16,528
+It's a problem with no solution.
+And that's what I do, I solve problems.
+
+1202
+01:40:16,612 --> 01:40:18,280
+ROSEN: This isn't math.
+
+1203
+01:40:18,322 --> 01:40:21,450
+<i>You can't come up with a formula to</i>
+<i>change the way you experience the world. </i>
+
+1204
+01:40:21,533 --> 01:40:24,911
+- All I have to do is apply my mind.
+<i>-There's no theorem, no proof. </i>
+
+1205
+01:40:24,995 --> 01:40:27,372
+- You can't reason your way out of this.
+- Why not?
+
+1206
+01:40:27,456 --> 01:40:30,626
+Because your mind is where the problem is
+in the first place.
+
+1207
+01:40:32,461 --> 01:40:34,671
+I can do this.
+
+1208
+01:40:35,339 --> 01:40:38,133
+I can work it out. All I need is time.
+
+1209
+01:40:42,012 --> 01:40:43,847
+Is that the baby?
+
+1210
+01:40:45,849 --> 01:40:47,935
+The baby is at my mother's, John.
+
+1211
+01:40:55,859 --> 01:40:58,195
+[Marcee hums]
+
+1212
+01:41:01,741 --> 01:41:03,868
+ROSEN: Without treatment, John...
+
+1213
+01:41:04,827 --> 01:41:06,996
+<i>... the fantasies may take over... </i>
+
+1214
+01:41:07,789 --> 01:41:09,332
+...entirely.
+
+1215
+01:41:27,225 --> 01:41:29,060
+ALICIA: You almost ready?
+
+1216
+01:41:31,437 --> 01:41:33,773
+Rosen's waiting outside.
+
+1217
+01:41:34,440 --> 01:41:37,151
+I can't go back to that hospital.
+
+1218
+01:41:40,655 --> 01:41:42,740
+I won't come home.
+
+1219
+01:41:46,452 --> 01:41:48,663
+He said that if you said that...
+
+1220
+01:41:49,497 --> 01:41:52,583
+...he has commitment papers
+for me to sign.
+
+1221
+01:41:55,336 --> 01:41:57,422
+Well, maybe you won't sign them.
+
+1222
+01:41:58,798 --> 01:42:01,050
+<i>Maybe you'll just give me some time. </i>
+
+1223
+01:42:03,845 --> 01:42:05,847
+I will try to figure this out.
+
+1224
+01:42:08,141 --> 01:42:10,018
+<i>Whatever you do... </i>
+
+1225
+01:42:10,768 --> 01:42:13,021
+<i>... Rosen is right about one thing. </i>
+
+1226
+01:42:14,105 --> 01:42:16,649
+You shouldn't be here.
+
+1227
+01:42:18,569 --> 01:42:20,446
+I'm not safe anymore.
+
+1228
+01:42:26,076 --> 01:42:28,078
+Would you have hurt me, John?
+
+1229
+01:42:37,588 --> 01:42:39,256
+I don't know.
+
+1230
+01:42:40,090 --> 01:42:43,427
+<i>Maybe you should let Dr. Rosen</i>
+<i>drive you to your mother's. </i>
+
+1231
+01:43:04,031 --> 01:43:06,033
+ALICIA: He told me to leave.
+
+1232
+01:43:06,450 --> 01:43:08,327
+[Rosen responds, indistinct]
+
+1233
+01:43:13,207 --> 01:43:14,375
+ALICIA: I understand.
+
+1234
+01:43:14,667 --> 01:43:16,126
+[Car doors close]
+
+1235
+01:43:18,462 --> 01:43:20,381
+[Engine revs]
+
+1236
+01:43:24,927 --> 01:43:27,388
+[Car departs]
+
+1237
+01:43:35,897 --> 01:43:37,983
+[Footsteps approaching]
+
+1238
+01:43:49,911 --> 01:43:53,415
+Rosen said to call if you try and kill me,
+or anything.
+
+1239
+01:44:10,390 --> 01:44:12,684
+You want to know what's real?
+
+1240
+01:44:17,564 --> 01:44:19,482
+<i>This. </i>
+
+1241
+01:44:26,823 --> 01:44:28,408
+This.
+
+1242
+01:44:33,872 --> 01:44:35,332
+This.
+
+1243
+01:44:37,626 --> 01:44:39,419
+This is real.
+
+1244
+01:44:42,756 --> 01:44:44,507
+Maybe the part...
+
+1245
+01:44:44,924 --> 01:44:47,510
+...that knows the waking from the dream...
+
+1246
+01:44:48,678 --> 01:44:50,597
+...maybe it isn't here.
+
+1247
+01:44:54,518 --> 01:44:56,979
+Maybe it's here.
+
+1248
+01:45:02,193 --> 01:45:04,362
+I need to believe...
+
+1249
+01:45:04,445 --> 01:45:07,490
+...that something extraordinary is possible.
+
+1250
+01:45:20,795 --> 01:45:23,089
+[Poignant instrumental music]
+
+1251
+01:45:54,078 --> 01:45:59,542
+Princeton University - Two Months Later
+
+1252
+01:46:08,593 --> 01:46:09,636
+[Knock at door]
+
+1253
+01:46:10,595 --> 01:46:12,347
+MARTIN: Come.
+
+1254
+01:46:21,148 --> 01:46:22,983
+Hello, Martin.
+
+1255
+01:46:28,113 --> 01:46:29,364
+Jesus Christ.
+
+1256
+01:46:31,074 --> 01:46:32,701
+No. I...
+
+1257
+01:46:33,744 --> 01:46:38,206
+I don't have that one. My savior complex
+takes on a completely different form.
+
+1258
+01:46:38,290 --> 01:46:39,541
+[Nash chuckles]
+
+1259
+01:46:39,666 --> 01:46:41,877
+I heard what happened and...
+
+1260
+01:46:41,960 --> 01:46:44,713
+...I wanted to write,
+and I tried you at MacArthur's...
+
+1261
+01:46:44,796 --> 01:46:46,965
+...but you'd left, and I just...
+
+1262
+01:46:59,186 --> 01:47:00,979
+This is Helinger's old office.
+
+1263
+01:47:01,355 --> 01:47:02,940
+Yeah.
+
+1264
+01:47:03,065 --> 01:47:05,567
+Yeah, I stole it from him.
+
+1265
+01:47:07,986 --> 01:47:10,489
+Seems that you won after all, Martin.
+
+1266
+01:47:11,949 --> 01:47:14,534
+They were wrong, John. No one wins.
+
+1267
+01:47:14,993 --> 01:47:17,120
+Please, have a seat.
+
+1268
+01:47:18,038 --> 01:47:20,290
+MARTIN: God, it's so good to see you.
+
+1269
+01:47:23,001 --> 01:47:25,128
+<i>What brings you back to Princeton? </i>
+
+1270
+01:47:25,463 --> 01:47:26,839
+CHARLES: John?
+
+1271
+01:47:27,006 --> 01:47:29,342
+John, I'm sorry, but you have to tell him.
+
+1272
+01:47:29,425 --> 01:47:31,678
+<i>Tell him you're a genius. You're a genius! </i>
+
+1273
+01:47:31,761 --> 01:47:34,430
+Tell him your work is critical.
+John, please!
+
+1274
+01:47:49,445 --> 01:47:52,782
+Is there any chance
+that you could ignore what I just did?
+
+1275
+01:47:54,659 --> 01:47:56,995
+Of course, what are old friends for?
+
+1276
+01:47:58,871 --> 01:48:01,249
+Is that what we are, Martin? Friends?
+
+1277
+01:48:01,541 --> 01:48:03,626
+John, of course.
+
+1278
+01:48:04,210 --> 01:48:06,587
+Of course. We always have been.
+
+1279
+01:48:11,467 --> 01:48:13,386
+Alicia and I think...
+
+1280
+01:48:14,053 --> 01:48:16,848
+...that fitting in,
+being part of a community...
+
+1281
+01:48:20,101 --> 01:48:21,644
+...might do me some good.
+
+1282
+01:48:21,728 --> 01:48:25,732
+That a certain level of attachment,
+familiar places, familiar people...
+
+1283
+01:48:26,816 --> 01:48:28,568
+...might help me...
+
+1284
+01:48:29,277 --> 01:48:31,779
+...elbow out...
+
+1285
+01:48:34,282 --> 01:48:36,993
+...these certain delusions that I have.
+
+1286
+01:48:42,541 --> 01:48:45,169
+It's a lot to ask, and now that I'm here...
+
+1287
+01:48:47,254 --> 01:48:50,007
+...I'm quite certain
+that you will just say no.
+
+1288
+01:48:52,968 --> 01:48:55,763
+But I was wondering if I could hang around.
+
+1289
+01:48:56,722 --> 01:48:58,641
+[Sighs]
+
+1290
+01:49:04,480 --> 01:49:05,940
+Huh.
+
+1291
+01:49:09,944 --> 01:49:12,112
+Will you be needing an office?
+
+1292
+01:49:16,450 --> 01:49:17,785
+No.
+
+1293
+01:49:20,871 --> 01:49:23,123
+No, I could just work out of the library.
+
+1294
+01:49:23,707 --> 01:49:26,085
+MAN: This guy tries to wander into
+the library...
+
+1295
+01:49:26,168 --> 01:49:29,171
+MAN: . . But he has no ID.
+MARTIN: Why can't people read memos?
+
+1296
+01:49:29,254 --> 01:49:31,048
+Then he goes totally nuts.
+
+1297
+01:49:31,131 --> 01:49:34,051
+JOHN: [Shouting outside]
+You're not real! You're not real.
+
+1298
+01:49:34,134 --> 01:49:35,302
+<i>There's no mission. </i>
+
+1299
+01:49:36,345 --> 01:49:38,013
+Oh, shit. Shit.
+
+1300
+01:49:39,098 --> 01:49:41,558
+JOHN: You're not real! You are not real!
+
+1301
+01:49:41,850 --> 01:49:44,895
+Is this what you are, soldier?
+Some useless ghoul?
+
+1302
+01:49:45,062 --> 01:49:46,981
+The local madman?
+
+1303
+01:49:47,064 --> 01:49:49,817
+JOHN: I'm not a soldier.
+PARCHER: You'll end up in a cell!
+
+1304
+01:49:49,900 --> 01:49:51,819
+Old, worthless, discarded.
+
+1305
+01:49:51,902 --> 01:49:53,112
+JOHN: There's no mission.
+
+1306
+01:49:53,195 --> 01:49:56,532
+PARCHER: While you rock and drool,
+the world will burn to ashes!
+
+1307
+01:49:56,615 --> 01:49:58,951
+You are not real! You are not real!
+
+1308
+01:49:59,034 --> 01:50:01,079
+You're still talking to me, soldier.
+
+1309
+01:50:01,162 --> 01:50:04,332
+JOHN: There's no mission!
+I'm not a soldier!
+
+1310
+01:50:04,457 --> 01:50:06,126
+MARTIN: John? John?
+
+1311
+01:50:09,462 --> 01:50:11,298
+John! It's okay.
+
+1312
+01:50:11,381 --> 01:50:13,341
+I just heard what happened, I'm sorry.
+
+1313
+01:50:13,425 --> 01:50:15,343
+- I'm not a soldier.
+- John. Hey, Nash.
+
+1314
+01:50:15,427 --> 01:50:17,929
+Nash, hey. You're all right.
+
+1315
+01:50:21,016 --> 01:50:22,642
+Nash, hey.
+
+1316
+01:50:26,730 --> 01:50:29,399
+Ladies and gentlemen,
+the great John Nash!
+
+1317
+01:50:29,482 --> 01:50:30,734
+John?
+
+1318
+01:50:33,194 --> 01:50:35,071
+JOHN: <i>You should've seen their faces. </i>
+
+1319
+01:50:36,364 --> 01:50:38,325
+Everybody was just staring at me.
+
+1320
+01:50:38,408 --> 01:50:42,704
+John, you know that stress
+triggers the delusions.
+
+1321
+01:50:43,872 --> 01:50:45,540
+I know.
+
+1322
+01:50:48,043 --> 01:50:50,128
+But then, on the way home...
+
+1323
+01:50:50,670 --> 01:50:53,048
+<i>... Charles was there. </i>
+
+1324
+01:50:56,926 --> 01:50:59,429
+Sometimes, I really miss talking to him.
+
+1325
+01:51:02,974 --> 01:51:04,643
+<i>Maybe Rosen's right. </i>
+
+1326
+01:51:05,936 --> 01:51:09,481
+Maybe I have to think about going back
+into the hospital again.
+
+1327
+01:51:09,564 --> 01:51:11,983
+ALICIA: No. Come here.
+
+1328
+01:51:16,864 --> 01:51:18,658
+Maybe try again tomorrow.
+
+1329
+01:51:43,474 --> 01:51:46,269
+John, now you can't ignore me forever.
+
+1330
+01:51:52,233 --> 01:51:54,944
+You've been a very good friend to me.
+
+1331
+01:51:55,111 --> 01:51:56,362
+<i>The best. </i>
+
+1332
+01:51:58,406 --> 01:52:00,408
+But I won't talk to you again.
+
+1333
+01:52:04,120 --> 01:52:05,454
+I just can't.
+
+1334
+01:52:11,794 --> 01:52:13,754
+Same goes for you, baby girl.
+
+1335
+01:52:14,422 --> 01:52:16,507
+[Sniffles]
+
+1336
+01:52:22,179 --> 01:52:23,222
+Good-bye.
+
+1337
+01:52:30,521 --> 01:52:31,772
+Good-bye.
+
+1338
+01:52:46,580 --> 01:52:49,249
+I was wondering
+if I might audit your course.
+
+1339
+01:52:50,584 --> 01:52:53,045
+It's an honor, Professor Nash.
+
+1340
+01:52:56,465 --> 01:52:57,966
+Is something wrong?
+
+1341
+01:53:00,052 --> 01:53:01,970
+This will be my first class.
+
+1342
+01:53:05,682 --> 01:53:07,017
+Good morning...
+
+1343
+01:53:08,143 --> 01:53:09,728
+...eager young minds.
+
+1344
+01:53:17,653 --> 01:53:19,780
+[John mutters]
+
+1345
+01:53:30,332 --> 01:53:32,250
+It's never going to work, John.
+
+1346
+01:53:33,001 --> 01:53:35,170
+You're just humiliating yourself.
+
+1347
+01:53:37,714 --> 01:53:38,966
+It's pathetic!
+
+1348
+01:53:39,967 --> 01:53:41,635
+You are being pathetic.
+
+1349
+01:53:42,094 --> 01:53:43,679
+I'm ashamed of you!
+
+1350
+01:53:58,861 --> 01:54:01,447
+[Snickering]
+
+1351
+01:54:11,457 --> 01:54:13,167
+STUDENT: [Laughing] Oh, man!
+
+1352
+01:54:17,213 --> 01:54:19,882
+ALICIA: Are you coming?
+You're going to be late.
+
+1353
+01:54:22,844 --> 01:54:24,887
+- Dad, you've got my book.
+- What?
+
+1354
+01:54:25,263 --> 01:54:28,266
+- You've got my book.
+- Oh, right.
+
+1355
+01:54:28,850 --> 01:54:29,892
+Thanks.
+
+1356
+01:54:31,269 --> 01:54:32,604
+- Good-bye.
+- 'Bye.
+
+1357
+01:54:33,021 --> 01:54:34,397
+See you tonight.
+
+1358
+01:54:35,273 --> 01:54:36,482
+ALICIA: 'Bye, honey.
+
+1359
+01:54:43,781 --> 01:54:45,867
+[Poignant music]
+
+1360
+01:55:56,814 --> 01:55:59,400
+Princeton University - October 1978
+
+1361
+01:56:09,702 --> 01:56:11,328
+Did you just solve Riemann?
+
+1362
+01:56:11,412 --> 01:56:13,330
+Well, what do you think?
+
+1363
+01:56:14,665 --> 01:56:18,335
+TOBY: That's an analog to Frobenius
+for noncommutative extensions.
+
+1364
+01:56:19,712 --> 01:56:21,046
+Yes, it is.
+
+1365
+01:56:22,298 --> 01:56:25,050
+JOHN: But it only appears
+to work sporadically, so, no.
+
+1366
+01:56:25,093 --> 01:56:26,261
+But...
+
+1367
+01:56:26,803 --> 01:56:29,014
+...I believe I'm making progress.
+
+1368
+01:56:31,057 --> 01:56:33,018
+You're...
+
+1369
+01:56:33,184 --> 01:56:35,562
+You're John Nash, right?
+
+1370
+01:56:38,356 --> 01:56:40,025
+- Toby Kelly.
+- Hello.
+
+1371
+01:56:40,191 --> 01:56:43,778
+I've been studying your equilibrium
+that you wrote here at Princeton.
+
+1372
+01:56:43,862 --> 01:56:46,948
+<i>To come up with something</i>
+<i>totally original, the way you did... </i>
+
+1373
+01:56:47,032 --> 01:56:48,700
+You know, I was young.
+
+1374
+01:56:50,118 --> 01:56:52,245
+I've been developing a theory.
+
+1375
+01:57:06,885 --> 01:57:08,595
+I believe I can prove...
+
+1376
+01:57:08,928 --> 01:57:11,514
+...that Galois extensions
+are covering spaces.
+
+1377
+01:57:11,598 --> 01:57:16,269
+That everything is connected.
+That it's all part of the same subject.
+
+1378
+01:57:17,729 --> 01:57:19,773
+When was the last time you ate?
+
+1379
+01:57:19,856 --> 01:57:22,400
+- Excuse me?
+- You know, food.
+
+1380
+01:57:22,525 --> 01:57:24,486
+Oh, uh...
+
+1381
+01:57:24,653 --> 01:57:25,820
+My wife...
+
+1382
+01:57:26,655 --> 01:57:28,365
+...she loves mayonnaise.
+
+1383
+01:57:30,867 --> 01:57:32,035
+Thank you.
+
+1384
+01:57:34,245 --> 01:57:35,330
+Go on.
+
+1385
+01:57:35,956 --> 01:57:37,332
+The functor...
+
+1386
+01:57:38,333 --> 01:57:40,251
+...is in the two categories.
+
+1387
+01:57:44,882 --> 01:57:45,925
+MARTIN: Alicia!
+
+1388
+01:57:47,301 --> 01:57:48,344
+Alicia!
+
+1389
+01:57:48,886 --> 01:57:51,263
+JOHN: Coming together
+at a maximum speed of...
+
+1390
+01:57:52,264 --> 01:57:54,183
+<i>... let us say, 10 miles per hour. </i>
+
+1391
+01:57:54,266 --> 01:57:56,978
+<i>So you have a fly</i>
+<i>on the tire of bicycle "B"...</i>
+
+1392
+01:57:57,353 --> 01:58:00,398
+<i>... and the fly, </i>
+<i>who can travel at 20 miles an hour... </i>
+
+1393
+01:58:00,481 --> 01:58:03,651
+...leaves the tire of "B"
+and flies to the tire of bicycle "A"...
+
+1394
+01:58:03,734 --> 01:58:06,946
+...and backwards and forwards
+until the two bikes collide...
+
+1395
+01:58:07,029 --> 01:58:09,448
+...and the poor little fly is squashed.
+
+1396
+01:58:09,824 --> 01:58:13,619
+<i>This is the important thing about</i>
+<i>actually focusing in and comprehending... </i>
+
+1397
+01:58:13,703 --> 01:58:16,831
+<i>... the area you're dealing with. </i>
+<i>Mathematics is very specific... </i>
+
+1398
+01:58:16,914 --> 01:58:20,376
+...and it is an art form,
+no matter what people here will tell you...
+
+1399
+01:58:20,459 --> 01:58:23,796
+...especially people from biology.
+Don't listen to those people.
+
+1400
+01:58:23,879 --> 01:58:27,216
+<i>Let me go back to what you were doing. </i>
+<i>I might want to steal this... </i>
+
+1401
+01:58:27,300 --> 01:58:29,135
+<i>... write a book and get famous. </i>
+
+1402
+01:58:30,469 --> 01:58:32,638
+I was thinking that I might teach.
+
+1403
+01:58:34,515 --> 01:58:37,935
+A classroom with 50 students
+can be daunting for anyone.
+
+1404
+01:58:39,186 --> 01:58:42,023
+John, besides, you're a terrible teacher.
+
+1405
+01:58:43,524 --> 01:58:45,526
+I'm an acquired taste, Martin.
+
+1406
+01:58:46,736 --> 01:58:49,989
+I was hoping there still might be
+something I could contribute.
+
+1407
+01:58:50,072 --> 01:58:51,532
+What about the...
+
+1408
+01:58:52,241 --> 01:58:53,576
+Well, you know.
+
+1409
+01:58:54,076 --> 01:58:55,453
+Are they gone?
+
+1410
+01:59:02,294 --> 01:59:04,421
+No, they're not gone.
+
+1411
+01:59:04,880 --> 01:59:06,715
+And maybe they never will be.
+
+1412
+01:59:06,798 --> 01:59:10,969
+But I've gotten used to ignoring them,
+and I think they've given up on me.
+
+1413
+01:59:12,512 --> 01:59:17,184
+You think that's what it's like with
+all our dreams and our nightmares, Martin?
+
+1414
+01:59:17,976 --> 01:59:21,146
+You've got to keep feeding them
+for them to stay alive?
+
+1415
+01:59:21,271 --> 01:59:23,523
+MARTIN: John, they haunt you though.
+
+1416
+01:59:25,108 --> 01:59:28,487
+They're my past, Martin.
+Everybody is haunted by their past.
+
+1417
+01:59:32,366 --> 01:59:33,867
+JOHN: Well, good-bye.
+
+1418
+01:59:34,242 --> 01:59:36,411
+MARTIN: John, I'll talk to the department.
+
+1419
+01:59:38,664 --> 01:59:40,248
+Maybe in the spring.
+
+1420
+01:59:46,046 --> 01:59:47,214
+Hey, Nash.
+
+1421
+01:59:49,633 --> 01:59:51,927
+You, uh...
+
+1422
+01:59:52,302 --> 01:59:53,512
+You scared?
+
+1423
+01:59:56,181 --> 01:59:57,349
+Terrified.
+
+1424
+01:59:58,058 --> 02:00:00,435
+Mortified. Petrified.
+
+1425
+02:00:00,644 --> 02:00:02,312
+Stupefied by you.
+
+1426
+02:00:02,896 --> 02:00:05,774
+Now you ought best ring Alicia,
+or you'll get me...
+
+1427
+02:00:05,857 --> 02:00:07,943
+- I'll ring her.
+...in a lot of trouble.
+
+1428
+02:00:12,072 --> 02:00:13,615
+- Thanks, Professor.
+- Good-bye.
+
+1429
+02:00:13,699 --> 02:00:15,033
+- Have a nice day.
+- Good-bye.
+
+1430
+02:00:15,117 --> 02:00:16,661
+Princeton University - March 1994
+
+1431
+02:00:16,744 --> 02:00:18,538
+Papers in hand, Mr. Bayer.
+
+1432
+02:00:18,830 --> 02:00:20,164
+Professor Nash?
+
+1433
+02:00:23,960 --> 02:00:26,713
+- Can you see him?
+- Yeah.
+
+1434
+02:00:26,796 --> 02:00:28,131
+- You sure?
+- [Giggles] Yes.
+
+1435
+02:00:28,214 --> 02:00:30,425
+Positive? He's within your vision?
+
+1436
+02:00:31,009 --> 02:00:32,385
+[Laughing] Okay. Good.
+
+1437
+02:00:32,510 --> 02:00:35,305
+Forgive me,
+I'm just always suspicious of new people.
+
+1438
+02:00:35,388 --> 02:00:38,224
+- See you next week, Professor.
+- See you next week.
+
+1439
+02:00:39,017 --> 02:00:43,271
+So now that I know that you're real,
+who are you, and what can I do for you?
+
+1440
+02:00:43,938 --> 02:00:46,441
+Professor, my name is Thomas King.
+
+1441
+02:00:46,524 --> 02:00:47,650
+Thomas King?
+
+1442
+02:00:47,734 --> 02:00:52,071
+I'm here to tell you that you're being
+considered for the Nobel Prize.
+
+1443
+02:01:00,455 --> 02:01:02,665
+JOHN: Forgive me,
+but I'm just a little stunned.
+
+1444
+02:01:02,749 --> 02:01:06,169
+KING: Over the past years, your
+equilibrium has become a cornerstone...
+
+1445
+02:01:06,252 --> 02:01:07,920
+...of modern economics.
+
+1446
+02:01:08,004 --> 02:01:10,173
+Suddenly everybody likes that one.
+
+1447
+02:01:10,256 --> 02:01:14,510
+What about my work on other some
+such projects like manifold embedding?
+
+1448
+02:01:14,844 --> 02:01:18,181
+The application
+of your bargaining problem...
+
+1449
+02:01:18,431 --> 02:01:22,352
+...to FCC bandwidth auctions
+or to antitrust cases...
+
+1450
+02:01:22,435 --> 02:01:23,895
+- Antitrust cases?
+- Yes.
+
+1451
+02:01:23,978 --> 02:01:26,230
+I never would have considered that.
+
+1452
+02:01:26,731 --> 02:01:31,194
+Have I just reached some level of honesty
+that borders on stupidity?
+
+1453
+02:01:31,486 --> 02:01:35,074
+KING: [Laughs] No, you haven't.
+JOHN: I wouldn't have thought of that.
+
+1454
+02:01:40,454 --> 02:01:41,956
+Shall we have tea?
+
+1455
+02:01:44,083 --> 02:01:48,170
+I don't go in there.
+I usually take my sandwich in the library.
+
+1456
+02:01:49,338 --> 02:01:52,383
+Come on, John. Let's have some tea.
+It's a big day.
+
+1457
+02:01:53,092 --> 02:01:58,555
+Most commercially available brands of tea
+are not suitable to my palate.
+
+1458
+02:01:58,639 --> 02:01:59,807
+I'm not...
+
+1459
+02:02:00,182 --> 02:02:03,686
+There are some Northern Indian teas
+which are dense enough...
+
+1460
+02:02:03,769 --> 02:02:07,648
+I enjoy the flavor that they have.
+I have not been in this room...
+
+1461
+02:02:07,731 --> 02:02:10,818
+...for quite some many years.
+I wonder what tea they serve.
+
+1462
+02:02:12,903 --> 02:02:14,697
+JOHN: Why, thank you, young lady.
+
+1463
+02:02:16,573 --> 02:02:20,452
+Things have certainly changed around here.
+I have a son that age.
+
+1464
+02:02:22,246 --> 02:02:23,330
+Harvard.
+
+1465
+02:02:28,419 --> 02:02:29,253
+JOHN: Hmm.
+
+1466
+02:02:29,336 --> 02:02:34,550
+I would have thought the nominations
+for the Nobel Prize would've been secret.
+
+1467
+02:02:35,050 --> 02:02:38,512
+I would have thought you'd only find out
+if you won or lost.
+
+1468
+02:02:38,762 --> 02:02:42,683
+That is generally the case, yes,
+but these are special circumstances.
+
+1469
+02:02:44,310 --> 02:02:46,103
+The awards are substantial.
+
+1470
+02:02:46,729 --> 02:02:49,815
+They require private funding as such...
+
+1471
+02:02:51,234 --> 02:02:53,361
+...the image of the Nobel is...
+
+1472
+02:02:55,614 --> 02:02:58,450
+I see, you came here
+to find out if I was crazy?
+
+1473
+02:02:59,826 --> 02:03:03,496
+Find out if I would screw everything up
+if I actually won?
+
+1474
+02:03:05,498 --> 02:03:09,669
+Dance around the podium,
+strip naked and squawk like a chicken?
+
+1475
+02:03:10,295 --> 02:03:12,047
+Something like that, yes.
+
+1476
+02:03:13,673 --> 02:03:15,342
+Would I embarrass you?
+
+1477
+02:03:19,429 --> 02:03:21,014
+Yes, it is possible.
+
+1478
+02:03:24,392 --> 02:03:25,602
+You see, I...
+
+1479
+02:03:27,437 --> 02:03:28,939
+I am crazy.
+
+1480
+02:03:31,232 --> 02:03:33,360
+I take the newer medications...
+
+1481
+02:03:37,030 --> 02:03:39,658
+...but I still see things that are not here.
+
+1482
+02:03:42,243 --> 02:03:44,621
+I just choose not to acknowledge them.
+
+1483
+02:03:46,581 --> 02:03:50,627
+Like a diet of the mind,
+I choose not to indulge certain appetites.
+
+1484
+02:03:53,463 --> 02:03:55,757
+Like my appetite for patterns.
+
+1485
+02:03:57,717 --> 02:04:01,012
+Perhaps my appetite to imagine
+and to dream.
+
+1486
+02:04:02,472 --> 02:04:04,015
+MAN: Professor Nash.
+
+1487
+02:04:09,146 --> 02:04:11,649
+<i>It's good to have you here, John. </i>
+
+1488
+02:04:12,441 --> 02:04:13,526
+Thank you.
+
+1489
+02:04:18,239 --> 02:04:21,701
+- It's an honor, sir.
+- Thank you very much.
+
+1490
+02:04:22,785 --> 02:04:24,495
+A privilege, Professor.
+
+1491
+02:04:28,916 --> 02:04:30,167
+Professor.
+
+1492
+02:04:30,251 --> 02:04:32,420
+[Poignant instrumental music]
+
+1493
+02:04:35,589 --> 02:04:38,342
+- Nicely done, John.
+- Thank you, Tom.
+
+1494
+02:04:40,011 --> 02:04:41,095
+Thank you.
+
+1495
+02:04:42,596 --> 02:04:43,764
+Thank you.
+
+1496
+02:04:52,857 --> 02:04:54,191
+Thank you, Ed.
+
+1497
+02:05:02,575 --> 02:05:04,744
+That was certainly most unexpected.
+
+1498
+02:05:05,536 --> 02:05:08,539
+[Applause]
+
+1499
+02:05:16,339 --> 02:05:18,466
+Nobel Prize Ceremony - Stockholm, Sweden
+
+1500
+02:05:18,716 --> 02:05:21,093
+December 1994
+
+1501
+02:05:26,725 --> 02:05:27,809
+JOHN: <i>Thank you. </i>
+
+1502
+02:05:32,648 --> 02:05:34,733
+<i>I've always believed in numbers. </i>
+
+1503
+02:05:35,943 --> 02:05:39,112
+<i>In the equations and logics</i>
+<i>that lead to reason. </i>
+
+1504
+02:05:40,280 --> 02:05:42,783
+<i>But after a lifetime of such pursuits... </i>
+
+1505
+02:05:43,617 --> 02:05:46,995
+<i>... I ask, what truly is logic? </i>
+
+1506
+02:05:48,747 --> 02:05:50,457
+<i>Who decides reason? </i>
+
+1507
+02:05:52,292 --> 02:05:55,379
+<i>My quest has taken me</i>
+<i>through the physical... </i>
+
+1508
+02:05:56,296 --> 02:05:57,923
+<i>... the metaphysical... </i>
+
+1509
+02:05:59,174 --> 02:06:00,717
+<i>... the delusional... </i>
+
+1510
+02:06:02,886 --> 02:06:04,096
+<i>... and back. </i>
+
+1511
+02:06:05,973 --> 02:06:09,309
+<i>And I have made the most important</i>
+<i>discovery of my career. </i>
+
+1512
+02:06:11,561 --> 02:06:14,064
+<i>The most important discovery of my life. </i>
+
+1513
+02:06:17,359 --> 02:06:20,404
+<i>It is only in the mysterious equations</i>
+<i>of love... </i>
+
+1514
+02:06:21,196 --> 02:06:23,824
+<i>... that any logical reasons can be found. </i>
+
+1515
+02:06:27,369 --> 02:06:29,913
+<i>I'm only here tonight because of you. </i>
+
+1516
+02:06:31,873 --> 02:06:33,792
+<i>You are the reason I am. </i>
+
+1517
+02:06:38,797 --> 02:06:40,674
+<i>You are all my reasons. </i>
+
+1518
+02:06:45,263 --> 02:06:46,597
+<i>Thank you. </i>
+
+1519
+02:07:41,069 --> 02:07:42,779
+JOHN: So nice to have met you.
+
+1520
+02:07:45,865 --> 02:07:47,492
+I'll call for the car, Dad.
+
+1521
+02:07:47,575 --> 02:07:49,786
+- Bye-bye.
+- Bye-bye.
+
+1522
+02:07:51,162 --> 02:07:53,748
+- Are you ready to go now?
+- Yes, I am.
+
+1523
+02:07:53,998 --> 02:07:56,084
+Yes, indeed, and yes, please.
+
+1524
+02:07:56,542 --> 02:07:58,169
+Thank you so much.
+
+1525
+02:07:59,546 --> 02:08:00,714
+Thank you.
+
+1526
+02:08:03,425 --> 02:08:05,386
+What is it? What's wrong?
+
+1527
+02:08:10,099 --> 02:08:11,266
+Nothing.
+
+1528
+02:08:12,351 --> 02:08:13,602
+Nothing at all.
+
+1529
+02:08:16,188 --> 02:08:18,565
+- Come with me, young lady.
+- Oh.
+
+1530
+02:08:19,483 --> 02:08:23,654
+JOHN: I have a car outside.
+Are you interested in a ride?
+
+1531
+02:08:25,239 --> 02:08:26,740
+ALICIA: Where's it going to?
+
+1532
+02:08:26,824 --> 02:08:29,660
+Nash's theories have influenced
+global trade negotiations,
+
+1533
+02:08:29,743 --> 02:08:33,372
+national labor relations and
+even breakthroughs in evolutionary biology.
+
+1534
+02:08:33,455 --> 02:08:35,124
+John and Alicia Nash live in Princeton, NJ.
+John keeps regular office hours
+
+1535
+02:08:35,165 --> 02:08:37,084
+[Poignant instrumental music]
+
+1536
+02:08:37,543 --> 02:08:39,378
+in the Mathematics Department.
+He still walks to campus every day.
+

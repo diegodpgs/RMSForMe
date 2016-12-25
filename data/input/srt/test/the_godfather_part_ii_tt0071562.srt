@@ -1,0 +1,5505 @@
+﻿1
+00:05:23,240 --> 00:05:24,199
+Vito, run!
+
+2
+00:08:45,859 --> 00:08:47,611
+Nurse.
+
+3
+00:09:13,595 --> 00:09:15,347
+Money?
+
+4
+00:09:16,640 --> 00:09:18,642
+Interpreter!
+
+5
+00:09:24,940 --> 00:09:27,359
+Where are you from?
+
+6
+00:09:27,693 --> 00:09:29,820
+-What is your name?
+-Maria.
+
+7
+00:09:34,157 --> 00:09:36,368
+What is your name?
+
+8
+00:09:37,661 --> 00:09:40,789
+Come on, son. What is your name?
+
+9
+00:09:43,917 --> 00:09:46,879
+Vito Andolini from Corleone.
+
+10
+00:09:47,671 --> 00:09:50,299
+Corleone. Vito Corleone.
+
+11
+00:09:50,799 --> 00:09:53,427
+Okay, over there.
+
+12
+00:09:54,344 --> 00:09:55,554
+Next.
+
+13
+00:10:04,938 --> 00:10:09,318
+Tell him he has smallpox.
+Quarantine three months.
+
+14
+00:10:18,368 --> 00:10:20,829
+Vito Corleone!
+
+15
+00:10:21,455 --> 00:10:23,707
+Vito Corleone!
+
+16
+00:10:25,417 --> 00:10:27,920
+Here he is. This is him.
+
+17
+00:12:14,484 --> 00:12:16,653
+Did you bring the car keys?
+
+18
+00:12:18,906 --> 00:12:21,491
+Laurie! Laurie!
+
+19
+00:12:41,762 --> 00:12:43,847
+Mama!
+
+20
+00:12:44,848 --> 00:12:46,642
+Mama!
+
+21
+00:12:48,894 --> 00:12:51,563
+-Look who's here.
+-Father Carmelo.
+
+22
+00:12:51,647 --> 00:12:54,900
+-This is Father Carmelo.
+-I'm Merle Johnson.
+
+23
+00:12:56,693 --> 00:12:58,403
+Mama!
+
+24
+00:12:59,321 --> 00:13:03,575
+-Here I am.
+-Constanzia, after one week?
+
+25
+00:13:03,659 --> 00:13:07,704
+I sent the car to the airport last week
+to pick you up.
+
+26
+00:13:07,788 --> 00:13:13,752
+It was chaos. Anyway, here I am, just
+one week late. This is for my mama!
+
+27
+00:13:13,836 --> 00:13:17,047
+-What is this?
+-You remember Merle?
+
+28
+00:13:17,214 --> 00:13:19,883
+Hello. How are you? Thank you.
+
+29
+00:13:20,050 --> 00:13:25,514
+Where's Michael? I've got to talk to him
+and I can't wait on line.
+
+30
+00:13:25,597 --> 00:13:27,975
+You go see your children first.
+
+31
+00:13:28,100 --> 00:13:33,730
+Then you worry about waiting on line to
+see your brother. Like everybody else.
+
+32
+00:13:38,569 --> 00:13:41,071
+<i>Ladies and gentlemen...</i>
+
+33
+00:13:41,822 --> 00:13:45,450
+<i>A most distinguished guest
+would like to say a few words.</i>
+
+34
+00:13:45,534 --> 00:13:49,621
+<i>Please welcome Senator Pat Geary
+of the State of Nevada.</i>
+
+35
+00:13:49,705 --> 00:13:52,499
+<i>And there is Mrs. Geary.</i>
+
+36
+00:14:02,885 --> 00:14:05,095
+<i>Thank you very much.</i>
+
+37
+00:14:05,262 --> 00:14:11,977
+<i>This is a very, very happy day
+for me and my wife Mrs. Geary.</i>
+
+38
+00:14:12,561 --> 00:14:15,689
+<i>We see Nevada far too seldom.</i>
+
+39
+00:14:15,772 --> 00:14:20,694
+<i>But today we can join with old friends,
+we can make new friends</i>
+
+40
+00:14:20,944 --> 00:14:24,740
+<i>and we help celebrate
+a young man's first Communion.</i>
+
+41
+00:14:25,365 --> 00:14:32,289
+<i>And also to thank that boy's family for
+a magnificent contribution to the State.</i>
+
+42
+00:14:32,372 --> 00:14:38,170
+<i>I have here in my hand a check
+made out to the university</i>
+
+43
+00:14:38,253 --> 00:14:43,091
+<i>and it is a magnificent endowment
+in the name of</i>
+
+44
+00:14:44,510 --> 00:14:47,262
+<i>Anthony Vito Corleone.</i>
+
+45
+00:14:48,305 --> 00:14:51,433
+<i>The check is signed by
+that young man's parents</i>
+
+46
+00:14:51,600 --> 00:14:54,353
+<i>whom I think we should recognize.</i>
+
+47
+00:14:54,436 --> 00:14:58,899
+<i>Mike, Pat, Kay, stand up, please.
+Let the folks see you!</i>
+
+48
+00:14:58,982 --> 00:15:01,026
+<i>Folks, I want you to join me</i>
+
+49
+00:15:01,109 --> 00:15:06,865
+<i>in giving a real Nevada thank you
+to Mr. and Mrs. Michael Corleone!</i>
+
+50
+00:15:12,746 --> 00:15:18,085
+<i>We also have, as a special added
+attraction, the Sierra Boys Choir</i>
+
+51
+00:15:18,252 --> 00:15:24,591
+<i>who have chosen a certain special song
+and a special arrangement</i>
+
+52
+00:15:24,675 --> 00:15:28,679
+<i>to honor their host,
+Mr. Michael Corleone.</i>
+
+53
+00:15:28,846 --> 00:15:30,347
+<i>Boys.</i>
+
+54
+00:15:46,864 --> 00:15:49,032
+The plaque.
+
+55
+00:15:49,199 --> 00:15:51,743
+Okay, fellows, did you get that one?
+
+56
+00:15:52,578 --> 00:15:54,705
+Okay, that's good.
+
+57
+00:15:54,872 --> 00:15:58,917
+Now, Senator,
+just you and Mrs. Corleone.
+
+58
+00:16:20,397 --> 00:16:23,400
+My lawyer Tom Hagen. Senator Geary.
+
+59
+00:16:23,483 --> 00:16:26,612
+He arranged everything
+through your man Turnbull.
+
+60
+00:16:26,737 --> 00:16:29,865
+-Yes, yes.
+-Sit down.
+
+61
+00:16:33,035 --> 00:16:36,497
+I thought that you and
+I would talk alone.
+
+62
+00:16:37,915 --> 00:16:43,754
+I trust these men with my life, Senator.
+To ask them to leave would be an insult.
+
+63
+00:16:43,879 --> 00:16:46,840
+Well, it's perfectly all right with me
+
+64
+00:16:46,924 --> 00:16:51,595
+but I am a blunt man and I intend
+to speak very frankly to you.
+
+65
+00:16:51,720 --> 00:16:53,764
+Maybe more frankly
+
+66
+00:16:53,847 --> 00:16:57,184
+than anyone in my position
+has ever talked to you before.
+
+67
+00:16:57,351 --> 00:17:00,354
+The Corleone family
+has done well in Nevada.
+
+68
+00:17:00,521 --> 00:17:05,651
+You own, or control,
+two major hotels in Vegas
+
+69
+00:17:05,734 --> 00:17:10,280
+and one in Reno.
+The licenses were grandfathered in
+
+70
+00:17:10,364 --> 00:17:13,784
+so there was no problem
+with the Gaming Commission.
+
+71
+00:17:15,786 --> 00:17:18,747
+Now my sources tell me
+
+72
+00:17:18,831 --> 00:17:22,918
+that you plan to make a move
+against the Tropigala.
+
+73
+00:17:23,001 --> 00:17:28,048
+They tell me that within a week,
+you're going to move Klingman out.
+
+74
+00:17:28,173 --> 00:17:33,929
+Quite an expansion. However, it will
+leave you with a little technical problem.
+
+75
+00:17:36,473 --> 00:17:39,309
+The license will still be
+in Klingman's name.
+
+76
+00:17:40,602 --> 00:17:45,148
+-Turnbull is a good man.
+-Yeah, well, let's cut out the bullshit.
+
+77
+00:17:45,232 --> 00:17:48,402
+I don't want to spend
+more time here than I have to.
+
+78
+00:17:48,485 --> 00:17:50,946
+You can have the license.
+
+79
+00:17:51,029 --> 00:17:53,907
+The price is 250,000 dollars.
+
+80
+00:17:53,991 --> 00:17:56,660
+Plus five per cent of the gross monthly
+
+81
+00:17:56,743 --> 00:18:01,248
+of all four hotels, Mr. Corleone.
+
+82
+00:18:04,835 --> 00:18:09,756
+The price for the license
+is less than 20,000 dollars, right?
+
+83
+00:18:09,840 --> 00:18:12,259
+That's right.
+
+84
+00:18:12,342 --> 00:18:17,890
+-Why would I pay more than that?
+-Because I intend to squeeze you.
+
+85
+00:18:17,973 --> 00:18:20,601
+I don't like your kind of people.
+
+86
+00:18:20,684 --> 00:18:26,231
+I don't like to see you come out
+to this clean country in oily hair
+
+87
+00:18:26,315 --> 00:18:28,692
+dressed up in those silk suits
+
+88
+00:18:28,775 --> 00:18:32,696
+and try to pass yourselves off
+as decent Americans.
+
+89
+00:18:32,821 --> 00:18:38,452
+I'll do business with you, but the fact is
+that I despise your masquerade,
+
+90
+00:18:38,535 --> 00:18:44,041
+the dishonest way you pose yourself
+and your whole fucking family.
+
+91
+00:18:51,548 --> 00:18:53,383
+Senator,
+
+92
+00:18:54,468 --> 00:18:57,554
+we're both part of the same hypocrisy.
+
+93
+00:18:59,056 --> 00:19:02,559
+But never think it applies to my family.
+
+94
+00:19:03,185 --> 00:19:05,687
+All right, all right.
+
+95
+00:19:06,522 --> 00:19:11,652
+Some people have to play little games.
+You play yours.
+
+96
+00:19:13,737 --> 00:19:17,824
+Let's say that you'll pay me
+because it's in your interest.
+
+97
+00:19:18,575 --> 00:19:22,996
+I want your answer and the money
+by noon tomorrow. One more thing.
+
+98
+00:19:23,080 --> 00:19:26,667
+Don't you contact me again, ever.
+
+99
+00:19:26,750 --> 00:19:30,587
+From now on you deal with Turnbull.
+Open that door, son.
+
+100
+00:19:31,088 --> 00:19:34,925
+Senator, you can have my answer now
+if you like.
+
+101
+00:19:37,511 --> 00:19:40,347
+My offer is this...
+
+102
+00:19:40,514 --> 00:19:42,099
+Nothing.
+
+103
+00:19:43,767 --> 00:19:49,439
+Not even the fee for the gaming license,
+which I would like you to put up.
+
+104
+00:19:54,695 --> 00:19:57,155
+Good afternoon, gentlemen.
+
+105
+00:19:59,825 --> 00:20:02,536
+Ladies! I didn't know you were out here.
+
+106
+00:20:02,619 --> 00:20:05,706
+-Honey, we have to go.
+-Really? I'm sorry.
+
+107
+00:20:05,873 --> 00:20:09,209
+-It's been delightful.
+-It was our pleasure.
+
+108
+00:20:09,376 --> 00:20:11,962
+It was wonderful talking to you.
+
+109
+00:20:56,507 --> 00:21:01,678
+Fredo! Fredo, you son-of-a-bitch,
+you look great!
+
+110
+00:21:01,762 --> 00:21:03,764
+Frank Pentangeli!
+
+111
+00:21:03,847 --> 00:21:06,975
+I thought you was
+never coming out west, you big bum!
+
+112
+00:21:07,976 --> 00:21:10,729
+I've got to check on my boys.
+
+113
+00:21:11,897 --> 00:21:13,857
+-What's with the food here?
+-What's the matter?
+
+114
+00:21:13,982 --> 00:21:19,821
+A kid gives me a Ritz cracker
+with chopped liver and says, "canapés".
+
+115
+00:21:19,988 --> 00:21:25,202
+I said, "Can of peas, my ass. That's
+a Ritz cracker and chopped liver!"
+
+116
+00:21:28,497 --> 00:21:31,625
+Bring out the peppers and sardines!
+
+117
+00:21:32,251 --> 00:21:35,546
+Seeing you reminds me of New York
+in the old days!
+
+118
+00:21:36,713 --> 00:21:42,219
+You remember Willi Cicci, who was
+with old man Clemenza in Brooklyn?
+
+119
+00:21:44,555 --> 00:21:47,975
+We were all upset about that.
+Heart attack, huh?
+
+120
+00:21:48,058 --> 00:21:51,144
+No, that was no heart attack.
+
+121
+00:21:51,478 --> 00:21:55,482
+That's what I'm here to see
+your brother Mike about.
+
+122
+00:21:55,566 --> 00:21:58,569
+-But what's with him?
+-What do you mean?
+
+123
+00:21:58,694 --> 00:22:04,074
+Do I have to get a letter of introduction
+to get a sit-down?
+
+124
+00:22:04,241 --> 00:22:08,787
+-You can't get in to see Mike?
+-He's got me waiting in a lobby!
+
+125
+00:22:12,457 --> 00:22:15,544
+-Johnny Ola.
+-Al Neri.
+
+126
+00:22:20,841 --> 00:22:26,388
+-Do you know my lawyer Tom Hagen?
+-I remember Tom from the old days.
+
+127
+00:22:26,471 --> 00:22:28,056
+Rocco.
+
+128
+00:22:28,140 --> 00:22:32,102
+-What's this?
+-It's an orange from Miami.
+
+129
+00:22:32,186 --> 00:22:35,230
+Take care of Johnny's men.
+They look like they might be hungry.
+
+130
+00:22:35,314 --> 00:22:36,315
+Johnny?
+
+131
+00:22:39,443 --> 00:22:43,614
+Tom won't stay. He only handles
+specific areas of the business.
+
+132
+00:22:44,448 --> 00:22:46,575
+Sure, Mike.
+
+133
+00:22:50,537 --> 00:22:53,874
+-What are you drinking, Johnny?
+-Anisette.
+
+134
+00:22:59,254 --> 00:23:04,468
+-If you need anything, I'll be outside.
+-Just tell Rocco we're waiting, Tom.
+
+135
+00:23:09,556 --> 00:23:13,810
+-I just left Mr. Roth in Miami.
+-How is his health?
+
+136
+00:23:13,894 --> 00:23:15,812
+It's not good.
+
+137
+00:23:17,022 --> 00:23:19,525
+Can I do anything or send anything?
+
+138
+00:23:19,608 --> 00:23:24,488
+He appreciates your concern, Michael,
+and your respect.
+
+139
+00:23:24,780 --> 00:23:26,490
+That casino...
+
+140
+00:23:26,573 --> 00:23:31,245
+Registered owners. Jacob Lawrence,
+Allan Barclay. Beverly Hills attorneys.
+
+141
+00:23:31,995 --> 00:23:34,915
+The real owners are
+the old Lakeville Road group
+
+142
+00:23:34,998 --> 00:23:37,292
+and our friend in Miami.
+
+143
+00:23:37,668 --> 00:23:43,757
+Klingman runs it and owns a piece of
+it too, but I've been instructed to tell you
+
+144
+00:23:43,841 --> 00:23:47,886
+that if you move him out,
+our friend in Miami will go along.
+
+145
+00:23:50,180 --> 00:23:54,852
+It's very kind of him.
+Tell him it's greatly appreciated.
+
+146
+00:23:56,019 --> 00:23:59,898
+Hyman Roth always makes money
+for his partners.
+
+147
+00:24:01,441 --> 00:24:05,028
+One by one, our old friends are gone.
+
+148
+00:24:05,529 --> 00:24:08,866
+Death, natural or not,
+
+149
+00:24:08,949 --> 00:24:11,702
+prison, deported...
+
+150
+00:24:12,953 --> 00:24:18,208
+Only Hyman Roth is left, because he
+always made money for his partners.
+
+151
+00:24:20,127 --> 00:24:25,799
+I can't believe it! Out of 30 professional
+musicians there isn't one Italian!
+
+152
+00:24:25,883 --> 00:24:28,594
+Let's have a tarantella!
+
+153
+00:24:34,057 --> 00:24:36,351
+You! Up, up, up!
+
+154
+00:24:45,986 --> 00:24:47,487
+<i>Questa mano!</i>
+
+155
+00:24:48,697 --> 00:24:50,657
+<i>Questa mano!</i>
+
+156
+00:24:56,288 --> 00:24:59,416
+What the hell have we here?
+
+157
+00:25:10,385 --> 00:25:16,099
+-I'll see my sister alone.
+-It concerns me too. May I stay?
+
+158
+00:25:16,183 --> 00:25:20,354
+How are you, honey? You've met
+Merle, he was with me in Vegas.
+
+159
+00:25:20,437 --> 00:25:23,607
+-I saw him with you.
+-Could I have a drink?
+
+160
+00:25:28,195 --> 00:25:30,531
+Al, please get him a drink!
+
+161
+00:25:32,825 --> 00:25:36,620
+We're going to Europe. I'd like to book
+passage on The Queen.
+
+162
+00:25:36,703 --> 00:25:39,540
+Why don't you go to a travel agent?
+
+163
+00:25:39,623 --> 00:25:42,626
+We're getting married first.
+
+164
+00:25:50,342 --> 00:25:54,513
+The ink on your divorce isn't dry yet,
+and you're getting married?
+
+165
+00:25:56,640 --> 00:25:59,142
+You see your children on weekends.
+
+166
+00:25:59,476 --> 00:26:04,398
+Your oldest boy was picked up in Reno
+for a theft you don't even know about.
+
+167
+00:26:04,481 --> 00:26:07,860
+You fly around the world
+with men who use you!
+
+168
+00:26:07,943 --> 00:26:10,487
+-You're not my father!
+-So why come to me?
+
+169
+00:26:10,571 --> 00:26:11,989
+I need money.
+
+170
+00:26:25,419 --> 00:26:28,172
+Connie, Connie, Connie...
+
+171
+00:26:34,595 --> 00:26:37,181
+I want to be reasonable with you.
+
+172
+00:26:38,432 --> 00:26:41,185
+Why don't you stay with the family?
+
+173
+00:26:42,352 --> 00:26:44,980
+You can live on the estate
+with your kids.
+
+174
+00:26:45,063 --> 00:26:48,734
+You won't be deprived of anything.
+
+175
+00:26:53,197 --> 00:26:58,660
+I don't know this Merle. I don't know
+what he does or what he lives on.
+
+176
+00:27:00,204 --> 00:27:05,209
+Tell him marriage is out of the question
+and you don't want to see him anymore.
+
+177
+00:27:05,334 --> 00:27:07,503
+He'll understand, believe me.
+
+178
+00:27:15,552 --> 00:27:17,596
+Connie.
+
+179
+00:27:19,556 --> 00:27:23,227
+If you don't listen to me
+and marry this man,
+
+180
+00:27:28,106 --> 00:27:30,442
+you'll disappoint me.
+
+181
+00:28:02,015 --> 00:28:06,228
+<i>-Famiglia!
+-Cent' anni!</i>
+
+182
+00:28:06,937 --> 00:28:09,022
+What's "Chen dannay"?
+
+183
+00:28:09,106 --> 00:28:12,025
+"Cent' anni". It means 100 years.
+
+184
+00:28:12,109 --> 00:28:16,446
+It means we should all live happily
+for 100 years. The family.
+
+185
+00:28:16,530 --> 00:28:20,576
+-It would be true if my father were alive.
+-Connie.
+
+186
+00:28:20,659 --> 00:28:22,286
+Hey...
+
+187
+00:28:22,369 --> 00:28:26,165
+Merle, you've met my sister-in-law,
+Deanna.
+
+188
+00:28:26,248 --> 00:28:27,916
+-Fredo's wife.
+-My pleasure.
+
+189
+00:29:15,088 --> 00:29:20,177
+-I just want to dance!
+-You're falling all over the floor.
+
+190
+00:29:20,344 --> 00:29:24,097
+You're justjealous
+because he's a real man!
+
+191
+00:29:24,264 --> 00:29:28,977
+-I'm going to belt you right in the teeth.
+-You couldn't belt your mama!
+
+192
+00:29:30,854 --> 00:29:33,023
+These Dagos are crazy
+when it comes to their wives.
+
+193
+00:29:33,106 --> 00:29:38,028
+Michael says that if you can't
+take care of this, I have to.
+
+194
+00:29:38,195 --> 00:29:41,031
+-I think you'd better.
+-Never marry a Wop.
+
+195
+00:29:41,198 --> 00:29:46,703
+They treat their wives like shit!
+I didn't mean to say Wop. Don't!
+
+196
+00:29:47,704 --> 00:29:53,001
+What are you doing to me,
+you big slob? Help!
+
+197
+00:29:53,085 --> 00:29:54,294
+Fredo!
+
+198
+00:29:54,378 --> 00:29:59,216
+-I can't control her, Mikey.
+-You're my brother, don't apologize.
+
+199
+00:30:03,136 --> 00:30:07,224
+Clemenza promised the Rosato
+brothers three territories after he died.
+
+200
+00:30:07,307 --> 00:30:08,809
+You took over and didn't give it to them.
+
+201
+00:30:08,892 --> 00:30:10,143
+I welched.
+
+202
+00:30:10,227 --> 00:30:14,690
+Clemenza promised them lu cazzo.
+He promised them nothing.
+
+203
+00:30:15,232 --> 00:30:20,404
+-He hated them more than I do.
+-Frankie, they feel cheated.
+
+204
+00:30:21,238 --> 00:30:25,492
+You're sitting up in the Sierra Mountains
+and you're drinking...
+
+205
+00:30:25,576 --> 00:30:27,911
+-What's he drinking?
+-Champagne.
+
+206
+00:30:27,995 --> 00:30:33,041
+Champagne cocktails, and passing
+judgment on how I run my family.
+
+207
+00:30:56,106 --> 00:31:00,652
+You're a good old man and I like you.
+
+208
+00:31:00,736 --> 00:31:03,155
+You were loyal to my father for years.
+
+209
+00:31:04,781 --> 00:31:08,785
+The Rosato brothers
+are taking hostages.
+
+210
+00:31:10,037 --> 00:31:15,876
+They spit right in my face, all because
+they're backed up by that Jew in Miami.
+
+211
+00:31:15,959 --> 00:31:18,837
+I know. That's why
+I don't want them touched.
+
+212
+00:31:19,004 --> 00:31:22,758
+-Not touched?
+-No, I want you to be fair with them.
+
+213
+00:31:22,841 --> 00:31:27,888
+You want me to be fair with them?
+How can you be fair to animals?
+
+214
+00:31:28,055 --> 00:31:34,186
+Tom, listen. They recruit spics,
+they recruit niggers.
+
+215
+00:31:34,311 --> 00:31:38,065
+They do violence in their grandmothers'
+neighborhoods!
+
+216
+00:31:38,148 --> 00:31:44,655
+And everything with them is whores!
+Andjunk, dope!
+
+217
+00:31:44,738 --> 00:31:47,366
+And they leave the gambling to last.
+
+218
+00:31:47,491 --> 00:31:52,704
+I want to run my family without you
+on my back. I want those Rosatos dead!
+
+219
+00:31:52,788 --> 00:31:55,624
+<i>-No.
+-Morte.</i>
+
+220
+00:32:01,129 --> 00:32:05,968
+I have business that's important with
+Hyman Roth. I don't want it disturbed.
+
+221
+00:32:07,845 --> 00:32:12,140
+Then you give your loyalty to a Jew
+before your own blood.
+
+222
+00:32:15,060 --> 00:32:19,189
+You know my father did business
+with Hyman Roth. He respected him.
+
+223
+00:32:19,398 --> 00:32:24,069
+Your father did business with
+Hyman Roth, he respected Hyman Roth,
+
+224
+00:32:24,236 --> 00:32:27,406
+but he never trusted Hyman Roth
+
+225
+00:32:27,531 --> 00:32:31,034
+or his Sicilian messenger boy,
+Johnny Ola.
+
+226
+00:32:38,667 --> 00:32:43,797
+I want everybody here to know, there's
+not going to be no trouble from me!
+
+227
+00:32:44,256 --> 00:32:46,091
+Don Corleone.
+
+228
+00:32:56,768 --> 00:32:58,854
+You want him to leave now?
+
+229
+00:33:01,398 --> 00:33:05,903
+Let him go back to New York.
+I've already made my plans.
+
+230
+00:33:06,904 --> 00:33:09,573
+The old man had too much wine.
+
+231
+00:33:13,785 --> 00:33:16,079
+It's late.
+
+232
+00:33:27,674 --> 00:33:29,760
+How's the baby?
+
+233
+00:33:29,843 --> 00:33:34,223
+-Sleeping inside me.
+-Does it feel like a boy?
+
+234
+00:33:34,306 --> 00:33:37,476
+Yes, it does, Michael.
+
+235
+00:33:39,853 --> 00:33:41,522
+Kay?
+
+236
+00:33:41,605 --> 00:33:46,193
+I'm sorry about all the people today.
+Bad timing.
+
+237
+00:33:46,276 --> 00:33:48,654
+It couldn't be helped, though.
+
+238
+00:33:48,737 --> 00:33:51,949
+It made me think
+of what you once told me.
+
+239
+00:33:53,992 --> 00:33:58,038
+" In five years the Corleone family
+will be completely legitimate. "
+
+240
+00:33:58,121 --> 00:34:01,041
+That was seven years ago.
+
+241
+00:34:03,627 --> 00:34:07,297
+I know. I'm trying, darling.
+
+242
+00:35:11,278 --> 00:35:14,031
+Did you see this?
+
+243
+00:35:27,711 --> 00:35:29,755
+Why are the drapes open?
+
+244
+00:35:57,491 --> 00:35:59,326
+Kay, are you all right?
+
+245
+00:35:59,409 --> 00:36:02,079
+-Are you hit?
+-No.
+
+246
+00:36:04,414 --> 00:36:06,708
+It's all right.
+
+247
+00:36:08,210 --> 00:36:10,504
+Stop! Stop!
+
+248
+00:36:12,130 --> 00:36:13,799
+Halt!
+
+249
+00:36:24,768 --> 00:36:28,564
+They're still on the property.
+Please stay inside.
+
+250
+00:36:28,647 --> 00:36:30,816
+-Keep them alive.
+-We'll try.
+
+251
+00:36:30,899 --> 00:36:32,442
+Alive!
+
+252
+00:36:33,569 --> 00:36:35,654
+Stay by the door.
+
+253
+00:37:55,025 --> 00:37:57,069
+Yeah, come in.
+
+254
+00:38:04,201 --> 00:38:07,037
+-Mike, are you all right?
+-Yeah.
+
+255
+00:38:11,333 --> 00:38:14,169
+There's a lot I can't tell you, Tom.
+
+256
+00:38:15,879 --> 00:38:19,299
+And I know that's upset you in the past.
+
+257
+00:38:20,425 --> 00:38:24,596
+You felt it was because of
+some lack of trust or confidence.
+
+258
+00:38:25,806 --> 00:38:30,686
+But it's because I admire you
+and love you
+
+259
+00:38:30,769 --> 00:38:33,605
+that I kept things secret from you.
+
+260
+00:38:35,315 --> 00:38:38,235
+Now you're the only one I can trust.
+
+261
+00:38:41,071 --> 00:38:42,948
+Fredo?
+
+262
+00:38:43,031 --> 00:38:45,576
+Well, he's got a good heart.
+
+263
+00:38:45,659 --> 00:38:50,247
+But he's weak and he's stupid,
+and this is life and death.
+
+264
+00:38:51,081 --> 00:38:54,293
+Tom, you're my brother.
+
+265
+00:38:59,882 --> 00:39:05,179
+I always wanted to be thought of as
+a brother by you, Mikey. A real brother.
+
+266
+00:39:07,556 --> 00:39:09,641
+I know that.
+
+267
+00:39:15,939 --> 00:39:18,025
+You're going to take over.
+
+268
+00:39:19,067 --> 00:39:21,320
+You're going to be the Don.
+
+269
+00:39:24,239 --> 00:39:29,745
+If what I think has happened,
+has happened, I'm leaving here tonight.
+
+270
+00:39:30,579 --> 00:39:36,668
+I give you complete power. Over Fredo
+and his men. Rocco, Neri, everyone.
+
+271
+00:39:38,420 --> 00:39:42,049
+I'm trusting you
+with the lives of my wife
+
+272
+00:39:42,132 --> 00:39:45,135
+and my children,
+the future of this family.
+
+273
+00:39:48,639 --> 00:39:53,477
+-If we catch them, will we find out...
+-We won't catch them.
+
+274
+00:39:55,646 --> 00:39:58,982
+Unless I'm very wrong,
+they're dead already.
+
+275
+00:40:00,484 --> 00:40:03,779
+They were killed by somebody
+close to us.
+
+276
+00:40:03,946 --> 00:40:08,492
+Inside. Very, very frightened
+that they botched it.
+
+277
+00:40:08,867 --> 00:40:13,163
+You don't think that Rocco and Neri
+had something to do with this?
+
+278
+00:40:16,333 --> 00:40:20,712
+See... All our people are businessmen.
+
+279
+00:40:22,381 --> 00:40:25,509
+Their loyalty is based on that.
+
+280
+00:40:27,845 --> 00:40:30,514
+One thing I learned from Pop
+
+281
+00:40:31,807 --> 00:40:35,352
+was to try to think
+as people around you think.
+
+282
+00:40:37,396 --> 00:40:40,315
+On that basis, anything is possible.
+
+283
+00:40:42,234 --> 00:40:46,029
+Mike, they're dead!
+Right outside my window!
+
+284
+00:40:46,196 --> 00:40:49,366
+I want to get out of here.
+They're lying there dead!
+
+285
+00:41:00,460 --> 00:41:03,213
+Over here! There's two of them.
+
+286
+00:41:03,380 --> 00:41:07,551
+Looks like they were hired
+out of New York. I don't recognize them.
+
+287
+00:41:07,968 --> 00:41:10,971
+Won't get anything out of them now.
+
+288
+00:41:11,054 --> 00:41:13,223
+Fish them out.
+
+289
+00:41:37,748 --> 00:41:40,042
+Get rid of the bodies.
+
+290
+00:41:40,125 --> 00:41:43,086
+-Where's Mike?
+-Rocco.
+
+291
+00:42:13,242 --> 00:42:18,580
+Anthony, everything is going to be
+all right. Try to sleep.
+
+292
+00:42:34,638 --> 00:42:39,268
+-Did you like your party?
+-I got lots of presents.
+
+293
+00:42:39,434 --> 00:42:42,771
+I know. Did you like them?
+
+294
+00:42:42,938 --> 00:42:46,233
+Yeah. I didn't know the people
+who gave them to me.
+
+295
+00:42:46,733 --> 00:42:49,570
+Well, they were friends.
+
+296
+00:42:51,321 --> 00:42:55,826
+-Did you see my present for you?
+-It was on my pillow.
+
+297
+00:42:58,328 --> 00:43:01,498
+I'm going to be leaving
+very early tomorrow.
+
+298
+00:43:02,332 --> 00:43:06,670
+-Will you take me?
+-No, I can't, Anthony.
+
+299
+00:43:06,837 --> 00:43:11,675
+-Why do you have to go?
+-I have to do business.
+
+300
+00:43:12,342 --> 00:43:15,470
+I could help you.
+
+301
+00:43:17,806 --> 00:43:20,934
+I know. Some day you will.
+
+302
+00:43:22,186 --> 00:43:24,313
+Get some sleep.
+
+303
+00:48:59,022 --> 00:49:01,358
+Vito, come on.
+
+304
+00:50:42,918 --> 00:50:45,921
+Hey, you speak Italian?
+
+305
+00:53:51,899 --> 00:53:53,817
+Vito!
+
+306
+00:53:58,113 --> 00:53:59,740
+Oh, no!
+
+307
+00:56:00,652 --> 00:56:02,529
+Yeah, sure.
+
+308
+00:56:55,499 --> 00:56:56,875
+Come on in.
+
+309
+00:56:57,918 --> 00:57:01,088
+Hey, Vito, come on in!
+
+310
+01:02:08,479 --> 01:02:09,980
+Come on in.
+
+311
+01:02:12,483 --> 01:02:15,360
+It's all right. Hyman's in there.
+
+312
+01:02:15,444 --> 01:02:20,324
+-Would you like a tuna sandwich?
+-No, thank you.
+
+313
+01:02:26,872 --> 01:02:30,375
+<i>...pick up of two by Holden.
+Second and eight for S.C...</i>
+
+314
+01:02:31,543 --> 01:02:35,214
+-Mr. Roth?
+-Come in, Michael.
+
+315
+01:02:37,132 --> 01:02:39,718
+Sit down, make yourself comfortable.
+
+316
+01:02:41,553 --> 01:02:43,639
+It's almost over.
+
+317
+01:02:45,432 --> 01:02:50,270
+-Do you follow the football game?
+-Not for a while I haven't.
+
+318
+01:02:50,813 --> 01:02:53,941
+I enjoy watching football
+in the afternoon.
+
+319
+01:02:54,024 --> 01:02:59,112
+One of the things I love
+about this country. Baseball too.
+
+320
+01:03:01,198 --> 01:03:06,453
+Ever since Arnold Rothstein
+fixed the World Series in 1919.
+
+321
+01:03:11,041 --> 01:03:13,377
+I heard you had some trouble.
+
+322
+01:03:16,129 --> 01:03:17,923
+Stupid.
+
+323
+01:03:19,007 --> 01:03:22,052
+People behaving like that with guns.
+
+324
+01:03:23,929 --> 01:03:26,723
+The important thing is you're all right.
+
+325
+01:03:26,807 --> 01:03:29,935
+Good health is the most important thing.
+
+326
+01:03:30,894 --> 01:03:33,814
+More than success, more than money.
+
+327
+01:03:35,357 --> 01:03:37,025
+More than power.
+
+328
+01:03:51,540 --> 01:03:55,377
+I came here because
+there's going to be more bloodshed.
+
+329
+01:03:55,544 --> 01:03:59,548
+I wanted you to know,
+so another war won't start.
+
+330
+01:04:00,757 --> 01:04:03,719
+Nobody wants another war.
+
+331
+01:04:03,802 --> 01:04:09,641
+Frank Pentangeli asked my permission
+to get rid of the Rosato brothers.
+
+332
+01:04:09,725 --> 01:04:13,520
+When I refused he tried to have me
+killed. He was stupid, I was lucky.
+
+333
+01:04:13,604 --> 01:04:15,606
+I'll visit him soon.
+
+334
+01:04:15,731 --> 01:04:20,527
+The important thing is that nothing
+interferes with our plans for the future.
+
+335
+01:04:21,612 --> 01:04:24,114
+Nothing is more important.
+
+336
+01:04:25,949 --> 01:04:31,079
+-You're a wise and considerate man.
+-And you're a great man, Mr. Roth.
+
+337
+01:04:31,997 --> 01:04:37,002
+-There's much I can learn from you.
+-Whatever I can do to help, Michael.
+
+338
+01:04:39,213 --> 01:04:41,924
+-Excuse me. Lunch.
+-Come in.
+
+339
+01:04:42,049 --> 01:04:46,845
+-Thank you, my dear.
+-You're going to break your eardrums.
+
+340
+01:04:47,888 --> 01:04:50,349
+-Enjoy it.
+-Thank you.
+
+341
+01:04:55,979 --> 01:04:58,732
+You're young, I'm old and sick.
+
+342
+01:04:59,817 --> 01:05:03,821
+What we'll do in the next few months
+will make history.
+
+343
+01:05:05,989 --> 01:05:07,991
+It's never been done before.
+
+344
+01:05:08,075 --> 01:05:12,746
+Not even your father would dream
+that such a thing could be possible.
+
+345
+01:05:14,706 --> 01:05:19,294
+Frank Pentangeli is a dead man.
+You don't object?
+
+346
+01:05:20,671 --> 01:05:23,674
+He's small potatoes.
+
+347
+01:05:33,392 --> 01:05:35,853
+What's up?
+
+348
+01:05:38,230 --> 01:05:40,607
+We got company?
+
+349
+01:05:54,413 --> 01:05:55,706
+What's going on?
+
+350
+01:06:00,294 --> 01:06:01,295
+Where is he?
+
+351
+01:06:21,190 --> 01:06:23,233
+I wish you would have let me know
+you were coming.
+
+352
+01:06:23,317 --> 01:06:27,237
+-I could have prepared something.
+-I didn't want you to know.
+
+353
+01:06:34,912 --> 01:06:38,832
+-You heard what happened?
+-I almost died. We were so relieved...
+
+354
+01:06:38,957 --> 01:06:41,084
+In my home!
+
+355
+01:06:43,921 --> 01:06:47,007
+In my bedroom where my wife sleeps!
+
+356
+01:06:49,801 --> 01:06:52,137
+Where my children come to play.
+
+357
+01:06:53,806 --> 01:06:55,849
+In my home.
+
+358
+01:07:12,908 --> 01:07:15,828
+I want you to help me take my revenge.
+
+359
+01:07:15,911 --> 01:07:19,581
+Michael, anything. What can I do?
+
+360
+01:07:22,793 --> 01:07:26,046
+Settle these troubles
+with the Rosato brothers.
+
+361
+01:07:26,129 --> 01:07:28,715
+I don't understand. I don't...
+
+362
+01:07:28,799 --> 01:07:33,804
+I don't have your brain for big deals.
+But this is a street thing.
+
+363
+01:07:33,887 --> 01:07:38,684
+That Hyman Roth in Miami.
+He's backing up those sons-of-bitches.
+
+364
+01:07:38,767 --> 01:07:43,564
+-I know he is.
+-So why ask me to lay down to them?
+
+365
+01:07:49,653 --> 01:07:52,781
+It was Hyman Roth
+that tried to have me killed.
+
+366
+01:07:54,533 --> 01:07:57,077
+I know it was him.
+
+367
+01:07:58,078 --> 01:08:00,205
+Jesus Christ, Mike.
+
+368
+01:08:00,289 --> 01:08:05,085
+Jesus Christ, let's get them all.
+Now while we've got the muscle.
+
+369
+01:08:10,174 --> 01:08:13,051
+This used to be my father's old study.
+
+370
+01:08:14,219 --> 01:08:16,513
+It's changed.
+
+371
+01:08:17,514 --> 01:08:21,685
+I remember there used to be
+a big desk here.
+
+372
+01:08:24,855 --> 01:08:30,068
+I remember when I was a kid. We had
+to be quiet when we played near here.
+
+373
+01:08:37,868 --> 01:08:41,371
+I was very happy that this house
+never went to strangers.
+
+374
+01:08:42,748 --> 01:08:46,460
+First Clemenza took it over. Now you.
+
+375
+01:08:48,378 --> 01:08:52,799
+My father taught me many things here.
+He taught me in this room.
+
+376
+01:08:57,137 --> 01:09:03,227
+He taught me, "Keep your friends close,
+but your enemies closer. "
+
+377
+01:09:03,310 --> 01:09:09,483
+If Hyman Roth sees that I interceded
+in this, in the Rosato brothers' favor,
+
+378
+01:09:09,566 --> 01:09:13,028
+he'll think his relationship with me
+is still good.
+
+379
+01:09:15,906 --> 01:09:18,283
+That's what I want him to think.
+
+380
+01:09:19,201 --> 01:09:23,121
+I want him relaxed and confident
+in our friendship.
+
+381
+01:09:23,747 --> 01:09:27,751
+Then I'll be able to find out
+who the traitor in my family was.
+
+382
+01:09:55,279 --> 01:09:58,740
+<i>-Yeah?
+-Fredo, this is Johnny Ola.</i>
+
+383
+01:09:59,491 --> 01:10:03,287
+<i>-We need some more help.
+-Johnny?</i>
+
+384
+01:10:04,413 --> 01:10:07,249
+Jesus Christ, what the hell time is it?
+
+385
+01:10:07,332 --> 01:10:10,127
+<i>-Who's that, honey?
+-Listen good, Fredo.</i>
+
+386
+01:10:10,294 --> 01:10:13,505
+Why are you calling me?
+I don't want to talk to you.
+
+387
+01:10:13,672 --> 01:10:17,050
+<i>Pentangeli is going to accept
+the Rosato brothers' deal.</i>
+
+388
+01:10:17,217 --> 01:10:19,303
+<i>-Oh, God.
+-Will he come alone?</i>
+
+389
+01:10:19,469 --> 01:10:22,639
+I don't know. You've got me in
+deep enough already.
+
+390
+01:10:22,806 --> 01:10:27,978
+<i>Everything will be all right. Pentangeli
+says he's willing to make a deal.</i>
+
+391
+01:10:28,145 --> 01:10:32,566
+<i>All we want to know is if he's on
+the level, or if he'll bring his boys.</i>
+
+392
+01:10:32,733 --> 01:10:35,861
+You lied to me. I don't want you
+to call me anymore.
+
+393
+01:10:36,028 --> 01:10:40,908
+<i>-Your brother won't find out we talked.
+-I don't know what you're talking about.</i>
+
+394
+01:10:51,460 --> 01:10:55,339
+-Who was that?
+-Wrong number.
+
+395
+01:11:02,513 --> 01:11:06,725
+-Frankie, I've got nobody here.
+-Wait in the car, Cicc'.
+
+396
+01:11:06,809 --> 01:11:09,520
+-Frankie.
+-That's okay, Cicc'.
+
+397
+01:11:16,527 --> 01:11:20,823
+-What's this?
+-A lucky C note for our new deal.
+
+398
+01:11:23,492 --> 01:11:26,328
+Ritchie. Give us a taste.
+
+399
+01:11:31,124 --> 01:11:34,503
+We were all real happy
+about your decision, Frankie.
+
+400
+01:11:34,586 --> 01:11:38,882
+-You won't regret it.
+-I don't like the C note, Rosato.
+
+401
+01:11:38,966 --> 01:11:41,635
+I take that as an insult.
+
+402
+01:11:41,718 --> 01:11:44,721
+Michael Corleone says hello!
+
+403
+01:12:01,905 --> 01:12:04,241
+Close the door!
+
+404
+01:12:04,324 --> 01:12:06,368
+Your friend the cop...
+
+405
+01:12:06,451 --> 01:12:11,039
+Hey, Ritch. It's dark in here.
+Are you open or closed?
+
+406
+01:12:11,123 --> 01:12:14,960
+I just came in to clean up a little,
+you know?
+
+407
+01:12:17,337 --> 01:12:19,381
+What's the matter?
+
+408
+01:12:19,464 --> 01:12:22,551
+-Is that something on the floor?
+-Carmine, not here!
+
+409
+01:12:22,634 --> 01:12:24,136
+Anthony!
+
+410
+01:12:27,389 --> 01:12:31,101
+You open this bar
+and I'll blow your head in!
+
+411
+01:13:16,814 --> 01:13:19,274
+Freddy, it's good to see you.
+
+412
+01:13:21,652 --> 01:13:26,448
+-How is he?
+-He's okay. He's in the back.
+
+413
+01:13:30,160 --> 01:13:32,663
+Girls, take a hike.
+
+414
+01:13:35,582 --> 01:13:37,835
+In this room here.
+
+415
+01:13:40,546 --> 01:13:44,216
+-I want to talk to him alone first.
+-Come on.
+
+416
+01:13:52,933 --> 01:13:55,686
+I thought I could help you, Senator.
+
+417
+01:13:59,523 --> 01:14:01,358
+Hagen?
+
+418
+01:14:02,484 --> 01:14:06,697
+-Listen, I did not...
+-It's all right.
+
+419
+01:14:06,864 --> 01:14:11,618
+-I didn't do anything.
+-It's okay. You're very lucky.
+
+420
+01:14:12,411 --> 01:14:17,082
+My brother Fredo operates this place.
+He was called before anyone.
+
+421
+01:14:18,375 --> 01:14:22,212
+Had this happened some place else,
+we couldn't have helped you.
+
+422
+01:14:25,090 --> 01:14:28,468
+When I woke up, I was on the floor.
+
+423
+01:14:29,386 --> 01:14:33,807
+-And I don't know how it happened.
+-You can't remember?
+
+424
+01:14:37,060 --> 01:14:39,229
+I passed out.
+
+425
+01:14:55,329 --> 01:14:58,457
+Just a game. Jesus.
+
+426
+01:15:09,092 --> 01:15:11,470
+Jesus, Jesus!
+
+427
+01:15:16,016 --> 01:15:18,185
+Jesus God!
+
+428
+01:15:18,268 --> 01:15:19,895
+God!
+
+429
+01:15:22,898 --> 01:15:26,527
+I don't know, and I don't understand
+why I can't remember.
+
+430
+01:15:26,610 --> 01:15:29,822
+Doesn't matter, just do as I say.
+
+431
+01:15:29,905 --> 01:15:35,410
+Put in a call to your office.
+Explain that you'll be there tomorrow.
+
+432
+01:15:36,453 --> 01:15:41,166
+You decided to spend the night at
+Michael Corleone's house in Tahoe.
+
+433
+01:15:41,291 --> 01:15:45,879
+-As his guest.
+-I do remember that she was laughing.
+
+434
+01:15:48,131 --> 01:15:53,637
+We'd done it before, and I know
+that I could not have hurt that girl.
+
+435
+01:15:54,471 --> 01:15:58,559
+This girl has no family.
+Nobody knows that she worked here.
+
+436
+01:15:58,642 --> 01:16:01,645
+It'll be as though she never existed.
+
+437
+01:16:03,981 --> 01:16:06,942
+All that's left is our friendship.
+
+438
+01:16:21,999 --> 01:16:25,210
+-Yes?
+-Sorry, but we're not to let you through.
+
+439
+01:16:26,503 --> 01:16:30,591
+-I'm just going to the market.
+-We'll pick up anything you want.
+
+440
+01:16:30,674 --> 01:16:33,760
+-Whose orders are these?
+-Mr. Hagen's. He's coming.
+
+441
+01:16:33,844 --> 01:16:36,305
+I'll speak to him.
+
+442
+01:16:42,102 --> 01:16:45,689
+I wanted to explain,
+but I had business in Carson City.
+
+443
+01:16:45,856 --> 01:16:50,194
+It's Michael's request for your safety.
+We'll get anything you need.
+
+444
+01:16:50,319 --> 01:16:55,616
+-So I'm supposed to stay in my house?
+-No, within the compound will be fine.
+
+445
+01:16:55,699 --> 01:16:58,660
+-We were going to New England.
+-That's off.
+
+446
+01:16:59,620 --> 01:17:02,623
+-Am I a prisoner?
+-That's not how we see it, Kay.
+
+447
+01:17:03,582 --> 01:17:06,835
+Come on, kids.
+We're going back to the house.
+
+448
+01:17:08,295 --> 01:17:10,214
+Joe.
+
+449
+01:17:55,926 --> 01:17:57,719
+Cuba, Cuba!
+
+450
+01:18:38,802 --> 01:18:41,847
+Most respected gentlemen.
+
+451
+01:18:41,930 --> 01:18:44,141
+Welcome to Havana.
+
+452
+01:18:46,226 --> 01:18:51,440
+I want to thank this distinguished group
+of American industrialists
+
+453
+01:18:53,150 --> 01:18:56,111
+for continuing to work with Cuba
+
+454
+01:18:56,820 --> 01:18:59,990
+for the greatest period of prosperity
+
+455
+01:19:00,866 --> 01:19:03,660
+in her entire history.
+
+456
+01:19:04,036 --> 01:19:06,079
+Mr. William Shaw,
+
+457
+01:19:06,163 --> 01:19:08,999
+representing
+the General Fruit Company.
+
+458
+01:19:09,917 --> 01:19:12,002
+Messrs. Corngold and Dant,
+
+459
+01:19:12,878 --> 01:19:15,839
+of United Telephone
+and Telegraph Company.
+
+460
+01:19:17,174 --> 01:19:18,634
+Mr. Petty,
+
+461
+01:19:18,717 --> 01:19:22,679
+Regional Vice President of
+the Pan American Mining Corporation.
+
+462
+01:19:24,515 --> 01:19:27,351
+Mr. Robert Allen
+of South American Sugar.
+
+463
+01:19:29,228 --> 01:19:31,563
+Mr. Michael Corleone of Nevada,
+
+464
+01:19:33,190 --> 01:19:37,736
+representing our associates
+in tourism and leisure activities.
+
+465
+01:19:37,820 --> 01:19:41,448
+And my old friend and associate
+from Florida,
+
+466
+01:19:43,075 --> 01:19:44,910
+Mr. Hyman Roth.
+
+467
+01:19:45,202 --> 01:19:50,374
+I would like to thank United Telephone
+and Telegraph for their Christmas gift.
+
+468
+01:19:55,629 --> 01:19:57,881
+A solid gold telephone.
+
+469
+01:20:00,259 --> 01:20:03,762
+Perhaps you gentlemen
+would like to look at it.
+
+470
+01:20:04,555 --> 01:20:06,390
+-Mr. President?
+-Yes?
+
+471
+01:20:06,473 --> 01:20:12,146
+Could you discuss the rebel activity and
+what this can mean to our businesses?
+
+472
+01:20:12,604 --> 01:20:13,856
+-Of course.
+-Heavy stuff.
+
+473
+01:20:13,939 --> 01:20:19,611
+I assure you that, although the rebels
+have started a campaign in Las Villas,
+
+474
+01:20:26,285 --> 01:20:32,040
+my staff indicates, with assurance,
+that we'll drive them out of Santa Clara
+
+475
+01:20:32,124 --> 01:20:34,168
+before the New Year.
+
+476
+01:20:35,961 --> 01:20:37,963
+I want to put you all at ease.
+
+477
+01:20:38,839 --> 01:20:43,051
+We will tolerate no guerrillas
+in the casinos or the swimming pools.
+
+478
+01:21:01,278 --> 01:21:03,530
+He said that they're making an arrest,
+
+479
+01:21:03,614 --> 01:21:06,366
+and in a few minutes
+he'll let us through.
+
+480
+01:21:06,450 --> 01:21:07,534
+Johnny...
+
+481
+01:21:07,618 --> 01:21:08,660
+It's nothing.
+
+482
+01:21:15,292 --> 01:21:16,668
+<i>Viva Fidel!</i>
+
+483
+01:21:32,392 --> 01:21:37,356
+I hope my age is correct.
+I'm always accurate about my age.
+
+484
+01:21:38,524 --> 01:21:42,361
+Make sure that everybody
+sees the cake before we cut it.
+
+485
+01:21:45,405 --> 01:21:48,033
+I'm very pleased
+
+486
+01:21:48,116 --> 01:21:52,746
+you're all able to come from
+such distances to be with me today.
+
+487
+01:21:54,289 --> 01:21:57,167
+When a man comes
+to this point in his life,
+
+488
+01:21:58,544 --> 01:22:01,922
+he wants to turn over
+the things he's been blessed with.
+
+489
+01:22:02,005 --> 01:22:07,136
+Turn them over to friends,
+as a reward for the friends he's had
+
+490
+01:22:08,387 --> 01:22:13,642
+and to make sure that everything
+goes well after he's gone.
+
+491
+01:22:13,725 --> 01:22:16,395
+-Not for years.
+-Hear, hear!
+
+492
+01:22:16,520 --> 01:22:20,691
+We'll see. The doctors would disagree,
+but what do they know?
+
+493
+01:22:22,025 --> 01:22:26,947
+These are wonderful things
+that we've achieved in Havana
+
+494
+01:22:27,030 --> 01:22:30,117
+and there's no limit
+to where we can go from here.
+
+495
+01:22:30,200 --> 01:22:34,955
+This kind of government knows
+how to help business, to encourage it.
+
+496
+01:22:35,038 --> 01:22:39,084
+The hotels here are bigger
+and swankier
+
+497
+01:22:39,168 --> 01:22:41,545
+than any of the joints in Vegas.
+
+498
+01:22:42,171 --> 01:22:45,132
+We can thank our friends
+in the Cuban government
+
+499
+01:22:45,215 --> 01:22:49,970
+which has put up half the cash with the
+Teamsters, on a dollar for dollar basis
+
+500
+01:22:50,053 --> 01:22:52,890
+and has relaxed restrictions on imports.
+
+501
+01:22:52,973 --> 01:22:57,436
+What I'm saying is that we have now
+what we have always needed...
+
+502
+01:22:57,519 --> 01:23:00,314
+Real partnership with a government.
+
+503
+01:23:00,397 --> 01:23:02,399
+Smaller piece.
+
+504
+01:23:03,192 --> 01:23:08,030
+You all know Michael Corleone
+and we all remember his father.
+
+505
+01:23:08,113 --> 01:23:11,825
+At the time of my retirement, or death,
+
+506
+01:23:11,909 --> 01:23:17,831
+I turn over all my interests
+in the Havana operation to his control.
+
+507
+01:23:17,915 --> 01:23:21,752
+But, all of you will share.
+
+508
+01:23:21,835 --> 01:23:25,714
+The Nacionale will go
+to the Lakeville Road Boys,
+
+509
+01:23:25,797 --> 01:23:29,176
+the Capri to the Corleone family,
+
+510
+01:23:29,259 --> 01:23:31,678
+the Sevilla Biltmore also,
+
+511
+01:23:31,762 --> 01:23:35,349
+but Eddie Levine will bring in the
+Pennino brothers,
+
+512
+01:23:35,432 --> 01:23:37,684
+Dino and Eddie, for a piece
+
+513
+01:23:37,768 --> 01:23:40,521
+and to handle the casino operations.
+
+514
+01:23:40,604 --> 01:23:44,066
+We've saved a piece
+for some friends in Nevada
+
+515
+01:23:44,149 --> 01:23:47,903
+to make sure that things go smoothly
+back home.
+
+516
+01:23:50,113 --> 01:23:55,035
+I want all of you to enjoy your cake.
+So, enjoy!
+
+517
+01:23:55,118 --> 01:23:57,579
+<i>-Happy birthday!
+-L'chaim!</i>
+
+518
+01:23:58,789 --> 01:24:01,542
+I saw an interesting thing happen today.
+
+519
+01:24:02,835 --> 01:24:06,004
+A rebel was being arrested
+by the military police.
+
+520
+01:24:06,129 --> 01:24:10,551
+Rather than be taken alive, he exploded
+a grenade he had in his jacket.
+
+521
+01:24:10,634 --> 01:24:14,221
+He killed himself and took a captain
+of the command with him.
+
+522
+01:24:14,304 --> 01:24:18,142
+-Those rebels are lunatics.
+-Maybe so.
+
+523
+01:24:19,810 --> 01:24:24,731
+But it occurred to me, that the soldiers
+are paid to fight, the rebels aren't.
+
+524
+01:24:24,815 --> 01:24:28,610
+-What does that tell you?
+-They can win.
+
+525
+01:24:30,946 --> 01:24:34,658
+This country has had rebels
+for 50 years. It's in their blood.
+
+526
+01:24:34,741 --> 01:24:38,537
+I know, I've been coming here
+since the Twenties.
+
+527
+01:24:38,620 --> 01:24:42,416
+We were running molasses
+from Havana when you were a baby.
+
+528
+01:24:42,499 --> 01:24:45,085
+The trucks were owned by your father.
+
+529
+01:24:46,170 --> 01:24:47,796
+Michael.
+
+530
+01:24:54,845 --> 01:24:59,016
+I'd rather we talked about this
+when we're alone.
+
+531
+01:25:00,684 --> 01:25:03,770
+The two million never got to the island.
+
+532
+01:25:09,359 --> 01:25:12,529
+It mustn't be known
+that you held back the money
+
+533
+01:25:12,613 --> 01:25:15,115
+because you worried about the rebels.
+
+534
+01:25:21,872 --> 01:25:25,209
+Sit down, Michael. Sit down.
+
+535
+01:25:32,800 --> 01:25:36,678
+If I could only live to see it,
+to be there with you.
+
+536
+01:25:39,181 --> 01:25:43,393
+What I wouldn't give for 20 more years.
+
+537
+01:25:45,229 --> 01:25:49,483
+Here we are, protected. Free to make
+our profits without Kefauver,
+
+538
+01:25:49,566 --> 01:25:53,320
+the goddamn Justice Department
+and the FBI.
+
+539
+01:25:54,029 --> 01:25:57,574
+90 miles away, in partnership
+with a friendly government.
+
+540
+01:25:58,742 --> 01:26:02,204
+90 miles. It's nothing.
+
+541
+01:26:03,330 --> 01:26:08,418
+Just one small step for a man looking
+to be President of the United States
+
+542
+01:26:09,169 --> 01:26:12,089
+and having the cash
+to make it possible.
+
+543
+01:26:12,506 --> 01:26:14,049
+Michael,
+
+544
+01:26:15,926 --> 01:26:18,345
+we're bigger than U.S. Steel.
+
+545
+01:26:45,122 --> 01:26:48,125
+Mikey, how are you? Okay?
+
+546
+01:26:49,418 --> 01:26:54,131
+<i>-Hi! Freddy Corleone.
+-Mio frati.</i>
+
+547
+01:26:55,382 --> 01:26:57,426
+Jesus Christ, what a trip!
+
+548
+01:26:57,885 --> 01:27:01,138
+I thought, "What if somebody knows
+what I've got in here".
+
+549
+01:27:01,555 --> 01:27:06,059
+Can you imagine that? Two million
+dollars on the seat next to me.
+
+550
+01:27:09,938 --> 01:27:12,107
+-Excuse me.
+-It's okay.
+
+551
+01:27:14,151 --> 01:27:15,944
+You want to count it?
+
+552
+01:27:19,990 --> 01:27:23,952
+What's going on? I'm totally in the dark.
+
+553
+01:27:24,077 --> 01:27:28,832
+The family is making an investment in
+Havana. This is a gift for the President.
+
+554
+01:27:29,791 --> 01:27:33,337
+That's great! Havana's great.
+
+555
+01:27:34,880 --> 01:27:37,007
+It's my kind of town.
+
+556
+01:27:38,300 --> 01:27:43,055
+-Anybody I know in Havana?
+-Don't know. Hyman Roth, Johnny Ola?
+
+557
+01:27:45,974 --> 01:27:48,644
+No. I've never met them.
+
+558
+01:27:52,231 --> 01:27:56,276
+Listen, Mikey, I'm kind of...
+
+559
+01:28:00,322 --> 01:28:04,701
+Kind of nervous from the trip.
+Can I get a drink or something?
+
+560
+01:28:05,369 --> 01:28:08,038
+I thought maybe we'd go out together.
+
+561
+01:28:08,789 --> 01:28:12,251
+I know a place where
+we can spend some time together.
+
+562
+01:28:14,294 --> 01:28:18,882
+Sometimes I think I should have
+married a woman like you did. Like Kay.
+
+563
+01:28:19,925 --> 01:28:22,803
+Have kids. Have a family.
+
+564
+01:28:25,013 --> 01:28:28,892
+For once in my life, be more like
+
+565
+01:28:29,726 --> 01:28:31,436
+Pop.
+
+566
+01:28:33,772 --> 01:28:38,360
+It's not easy to be a son, Fredo.
+It's not easy.
+
+567
+01:28:38,527 --> 01:28:41,655
+Mama used to say,
+"You don't belong to me. "
+
+568
+01:28:41,738 --> 01:28:45,284
+"You were left on the doorstep
+by gypsies. "
+
+569
+01:28:45,367 --> 01:28:47,494
+Sometimes I think it's true.
+
+570
+01:28:48,412 --> 01:28:50,581
+You're no gypsy, Fredo.
+
+571
+01:28:51,915 --> 01:28:55,752
+Mikey, I was mad at you.
+
+572
+01:29:03,427 --> 01:29:07,014
+Why didn't we spend time
+like this before?
+
+573
+01:29:07,181 --> 01:29:09,766
+You want a drink, right? Waiter!
+
+574
+01:29:13,896 --> 01:29:16,023
+<i>Por favor...</i>
+
+575
+01:29:17,399 --> 01:29:20,277
+-How do you say Banana Daiquiri?
+-Banana Daiquiri.
+
+576
+01:29:20,444 --> 01:29:22,738
+-That's it?
+-That's it.
+
+577
+01:29:22,821 --> 01:29:24,907
+Uno Banana Daiquiri
+
+578
+01:29:25,532 --> 01:29:28,202
+and a club soda.
+
+579
+01:29:35,959 --> 01:29:38,712
+Senator Geary flies in from Washington
+tomorrow
+
+580
+01:29:38,795 --> 01:29:41,340
+with some government people.
+
+581
+01:29:41,423 --> 01:29:45,093
+I want you to show them
+a good time in Havana.
+
+582
+01:29:46,970 --> 01:29:51,099
+-That's my specialty, right?
+-Can I trust you with something?
+
+583
+01:29:51,809 --> 01:29:54,311
+Of course, Mike.
+
+584
+01:29:56,480 --> 01:30:00,234
+Later in the evening we're all invited
+to the Presidential Palace
+
+585
+01:30:00,317 --> 01:30:02,069
+to bring in the New Year.
+
+586
+01:30:02,528 --> 01:30:08,242
+After it's over they'll take me home
+in a military car, alone.
+
+587
+01:30:08,325 --> 01:30:10,077
+For my protection.
+
+588
+01:30:11,078 --> 01:30:14,706
+Before I reach my hotel,
+I'll be assassinated.
+
+589
+01:30:32,766 --> 01:30:35,644
+-Who?
+-Roth.
+
+590
+01:30:41,525 --> 01:30:44,361
+It was Roth who tried to kill me
+in my home.
+
+591
+01:30:46,280 --> 01:30:48,615
+It was Roth all along.
+
+592
+01:30:48,699 --> 01:30:52,703
+He acts like I'm his son, his successor.
+
+593
+01:30:53,745 --> 01:30:56,915
+But he thinks he'll live forever
+and wants me out.
+
+594
+01:31:01,795 --> 01:31:06,425
+-How can I help?
+-Just go along, as if you know nothing.
+
+595
+01:31:06,508 --> 01:31:09,219
+-I've already made my move.
+-What move?
+
+596
+01:31:10,512 --> 01:31:12,890
+Hyman Roth won't see the New Year.
+
+597
+01:31:30,407 --> 01:31:34,328
+You're to take it easy,
+he'll be back tomorrow.
+
+598
+01:31:34,411 --> 01:31:36,788
+Fly in my own doctor from Miami.
+
+599
+01:31:36,872 --> 01:31:39,291
+I don't trust a doctor
+who can't speak English.
+
+600
+01:31:40,792 --> 01:31:43,670
+<i>-Gracias, señor.
+-Buenas noches.</i>
+
+601
+01:31:45,506 --> 01:31:49,218
+-Honey, go to the casino.
+-If you're feeling better.
+
+602
+01:31:49,384 --> 01:31:51,053
+Feel fine.
+
+603
+01:31:52,888 --> 01:31:57,059
+-Play the bingo game.
+-Okay. Nice to see you, Mr. Paul.
+
+604
+01:31:59,561 --> 01:32:04,566
+My sixth sense tells me Fredo brought
+a bag full of money. Where is it?
+
+605
+01:32:07,027 --> 01:32:13,617
+-You're pulling out?
+-Just want to... Just want to wait.
+
+606
+01:32:17,204 --> 01:32:20,707
+-How do you feel?
+-Terrible.
+
+607
+01:32:20,874 --> 01:32:24,461
+I'd give four million to be able to take
+a painless piss.
+
+608
+01:32:25,087 --> 01:32:30,843
+-Who had Frank Pentangeli killed?
+-The Rosato brothers.
+
+609
+01:32:31,009 --> 01:32:34,179
+I know, but who gave the go-ahead?
+
+610
+01:32:35,139 --> 01:32:36,723
+I know I didn't.
+
+611
+01:32:44,648 --> 01:32:49,736
+There was this kid I grew up with.
+He was younger than me.
+
+612
+01:32:49,820 --> 01:32:56,368
+Sort of looked up to me, you know.
+We did our first work together.
+
+613
+01:32:56,451 --> 01:33:00,289
+Worked our way out of the street.
+Things were good.
+
+614
+01:33:01,540 --> 01:33:06,170
+During Prohibition
+we ran molasses into Canada.
+
+615
+01:33:06,253 --> 01:33:09,339
+Made a fortune. Your father, too.
+
+616
+01:33:11,008 --> 01:33:17,014
+As much as anyone,
+I loved him and trusted him.
+
+617
+01:33:19,725 --> 01:33:25,647
+Later on he had an idea to build a city
+
+618
+01:33:25,731 --> 01:33:29,526
+out of a desert stop-over
+for G. I.s going to the West Coast.
+
+619
+01:33:31,403 --> 01:33:35,157
+That kid's name was Moe Greene
+
+620
+01:33:35,240 --> 01:33:38,911
+and the city he invented was Las Vegas.
+
+621
+01:33:40,329 --> 01:33:42,789
+This was a great man.
+
+622
+01:33:42,873 --> 01:33:45,292
+A man of vision and guts.
+
+623
+01:33:45,417 --> 01:33:51,632
+And there isn't even a plaque,
+signpost or statue of him in that town.
+
+624
+01:33:53,634 --> 01:33:57,262
+Someone put a bullet through his eye.
+
+625
+01:33:58,472 --> 01:34:00,808
+No one knows who gave the order.
+
+626
+01:34:01,809 --> 01:34:05,103
+When I heard it, I wasn't angry.
+
+627
+01:34:05,229 --> 01:34:11,151
+I knew Moe, I knew he was headstrong.
+Talking loud, saying stupid things.
+
+628
+01:34:11,235 --> 01:34:16,073
+So when he turned up dead, I let it go.
+
+629
+01:34:17,825 --> 01:34:20,994
+And I said to myself,
+
+630
+01:34:21,078 --> 01:34:25,082
+"This is the business we've chosen. "
+
+631
+01:34:25,165 --> 01:34:27,417
+I didn't ask
+
+632
+01:34:27,960 --> 01:34:33,173
+who gave the order, because it had
+nothing to do with business.
+
+633
+01:34:41,723 --> 01:34:46,228
+That two million in a bag in your room...
+
+634
+01:34:48,480 --> 01:34:52,151
+I'm going in to take a nap.
+
+635
+01:34:52,776 --> 01:34:58,073
+When I wake, if the money
+is on the table, I know I have a partner.
+
+636
+01:34:58,657 --> 01:35:01,785
+If it isn't, I know I don't.
+
+637
+01:35:56,799 --> 01:36:00,969
+Does everybody know everybody?
+You know Senator Geary.
+
+638
+01:36:01,136 --> 01:36:04,306
+Good to see you, Mike.
+I'm glad we spend this time together.
+
+639
+01:36:04,389 --> 01:36:07,351
+Senator Payton from Florida...
+
+640
+01:36:07,643 --> 01:36:10,813
+Judge DeMalco from New York...
+
+641
+01:36:10,979 --> 01:36:13,816
+Senator Ream from Maryland...
+
+642
+01:36:13,941 --> 01:36:16,443
+Fred Corngold from UTT.
+
+643
+01:36:16,527 --> 01:36:20,447
+-That Fred does a mean cha-cha-cha!
+-He does?
+
+644
+01:36:20,531 --> 01:36:22,908
+Gentlemen, it's refill time!
+
+645
+01:36:22,991 --> 01:36:27,454
+You might try some of the local drinks.
+Cuba Libre, Piña Colada...
+
+646
+01:36:27,538 --> 01:36:31,416
+I think I'll try
+one of those redheaded Yolandas.
+
+647
+01:36:31,500 --> 01:36:34,336
+-That you got! Con gusto...
+-Johnny!
+
+648
+01:36:35,504 --> 01:36:39,091
+You don't know my brother Fredo.
+Johnny Ola, Fredo.
+
+649
+01:36:39,258 --> 01:36:42,886
+-We never met. Johnny Ola.
+-Pleasure.
+
+650
+01:36:44,096 --> 01:36:46,557
+Gentlemen, to a night in Havana!
+
+651
+01:36:46,723 --> 01:36:48,350
+-Happy New Year!
+-Happy New Year!
+
+652
+01:36:48,517 --> 01:36:51,436
+<i>-Feliz Año Nuevo!
+-Happy New Year.</i>
+
+653
+01:37:03,115 --> 01:37:07,244
+-Hey, Freddy, why are we standing?
+-Everybody stands.
+
+654
+01:37:07,411 --> 01:37:11,999
+-It's worth it. You won't believe this.
+-I don't believe it already.
+
+655
+01:37:12,082 --> 01:37:15,252
+-50 dollars, right?
+-You've got a bet, mister.
+
+656
+01:37:23,427 --> 01:37:24,928
+That's Superman.
+
+657
+01:37:58,921 --> 01:38:01,173
+Did I tell you or did I tell you?
+
+658
+01:38:02,883 --> 01:38:05,511
+-I don't believe it!
+-It's got to be fake.
+
+659
+01:38:05,677 --> 01:38:08,972
+It's real. That's why
+he's called Superman.
+
+660
+01:38:09,473 --> 01:38:13,519
+Hey, Freddy, where did you find
+this place?
+
+661
+01:38:13,602 --> 01:38:18,023
+Johnny Ola brought me here. I didn't
+believe it, but seeing is believing!
+
+662
+01:38:18,106 --> 01:38:21,568
+-I see it, but still don't believe it!
+-50 bucks, Pat.
+
+663
+01:38:21,652 --> 01:38:25,239
+Roth won't go here,
+but Johnny knows these places!
+
+664
+01:38:26,156 --> 01:38:31,119
+-Watch, he'll break a cracker with it.
+-I want to see him break a brick!
+
+665
+01:39:53,076 --> 01:39:56,455
+Relax, we're taking you to the hospital.
+
+666
+01:40:45,587 --> 01:40:48,006
+...and you'll continue to get those.
+
+667
+01:40:48,173 --> 01:40:52,594
+I don't believe that President
+Eisenhower would ever pull out of Cuba
+
+668
+01:40:52,678 --> 01:40:56,390
+as we have over one billion dollars
+invested in this country.
+
+669
+01:40:59,893 --> 01:41:03,188
+The American public
+believe in non-intervention...
+
+670
+01:41:03,272 --> 01:41:06,191
+Fredo! Where are you going?
+
+671
+01:41:06,275 --> 01:41:09,903
+I'm getting a real drink,
+because I can't...
+
+672
+01:42:05,459 --> 01:42:09,004
+What kept Mr. Roth?
+I understood he was coming.
+
+673
+01:42:09,087 --> 01:42:12,633
+Reeves, what's the protocol?
+How long should we stay?
+
+674
+01:42:14,051 --> 01:42:18,972
+I think a half hour ought to do it. Just
+long enough to bring in the New Year.
+
+675
+01:43:52,649 --> 01:43:56,820
+There's a plane waiting to take us
+to Miami in an hour.
+
+676
+01:43:56,987 --> 01:43:59,615
+Don't make a big thing about it.
+
+677
+01:44:02,993 --> 01:44:06,830
+I know it was you, Fredo.
+You broke my heart.
+
+678
+01:44:08,332 --> 01:44:10,125
+You broke my heart!
+
+679
+01:45:23,198 --> 01:45:26,243
+<i>Salud!</i>
+
+680
+01:45:27,452 --> 01:45:30,873
+<i>Viva la revolución! Viva Fidel!</i>
+
+681
+01:45:52,728 --> 01:45:54,271
+Fredo!
+
+682
+01:45:54,938 --> 01:45:58,901
+Come on. Come with me.
+It's the only way out of here tonight.
+
+683
+01:45:59,485 --> 01:46:01,445
+Roth is dead.
+
+684
+01:46:02,237 --> 01:46:06,450
+Fredo, come with me!
+You're still my brother.
+
+685
+01:46:07,576 --> 01:46:09,077
+Fredo!
+
+686
+01:46:33,685 --> 01:46:36,522
+I'm Pat Geary, United States Senator.
+
+687
+01:47:07,553 --> 01:47:09,513
+Fidel! Fidel! Fidel!
+
+688
+01:47:49,803 --> 01:47:53,390
+Al. Get me a wet towel.
+
+689
+01:47:59,855 --> 01:48:02,733
+Does Kay know I'm back?
+
+690
+01:48:06,820 --> 01:48:09,907
+My boy? Did you get him
+something for Christmas?
+
+691
+01:48:09,990 --> 01:48:13,410
+-I took care of it.
+-What was it, so I'll know.
+
+692
+01:48:13,577 --> 01:48:18,624
+It was a little car with an electric motor
+that he can ride in. It's nice.
+
+693
+01:48:21,126 --> 01:48:23,253
+Thank you, Al.
+
+694
+01:48:24,338 --> 01:48:27,883
+Fellows, could you step outside
+for a minute?
+
+695
+01:48:44,942 --> 01:48:46,693
+Where's my brother?
+
+696
+01:48:47,611 --> 01:48:50,823
+Roth got out on a private boat.
+He's in a hospital in Miami.
+
+697
+01:48:50,906 --> 01:48:55,577
+He had a stroke, but recovered okay.
+Your bodyguard is dead.
+
+698
+01:48:55,661 --> 01:48:57,579
+I asked about Fredo.
+
+699
+01:48:58,580 --> 01:49:01,959
+I think he got out.
+He must be somewhere in New York.
+
+700
+01:49:04,962 --> 01:49:06,380
+All right.
+
+701
+01:49:07,631 --> 01:49:10,425
+I want you to get in touch with him.
+
+702
+01:49:10,509 --> 01:49:13,345
+I know he's scared.
+Tell him everything is all right.
+
+703
+01:49:13,470 --> 01:49:18,809
+Tell him I know Roth misled him. That
+he didn't know they would try to kill me.
+
+704
+01:49:19,726 --> 01:49:23,981
+-They can come in now.
+-There was something else.
+
+705
+01:49:24,982 --> 01:49:26,483
+What?
+
+706
+01:49:33,490 --> 01:49:35,284
+What? Come on.
+
+707
+01:49:37,327 --> 01:49:39,621
+Kay had a miscarriage.
+
+708
+01:49:52,551 --> 01:49:54,928
+-Was it a boy?
+-At three and a half months...
+
+709
+01:49:55,012 --> 01:49:57,931
+Can't you give me a straight answer?
+Was it a boy?
+
+710
+01:50:02,060 --> 01:50:04,646
+I really don't know.
+
+711
+01:53:30,227 --> 01:53:31,770
+Who?
+
+712
+01:53:32,146 --> 01:53:36,150
+Joe The Greek and Frank Pignattaro.
+
+713
+01:54:34,166 --> 01:54:36,251
+I'll take care of everything.
+
+714
+01:55:18,502 --> 01:55:19,503
+Yes.
+
+715
+01:56:17,352 --> 01:56:21,064
+<i>Vito, here's my 50 dollars.
+Buona fortuna.</i>
+
+716
+01:56:38,123 --> 01:56:42,419
+I'll make an offer he don't refuse.
+Don't worry.
+
+717
+02:09:34,024 --> 02:09:37,653
+<i>Mr. Cicci, from the year 1942
+to the present time,</i>
+
+718
+02:09:37,736 --> 02:09:41,240
+<i>you were an employee
+of the Genco Olive Oil Company?</i>
+
+719
+02:09:41,698 --> 02:09:43,325
+<i>That's right.</i>
+
+720
+02:09:44,201 --> 02:09:48,413
+<i>But in actuality you were a member
+of the Corleone crime organization.</i>
+
+721
+02:09:51,375 --> 02:09:55,212
+<i>No, we called it
+the Corleone family, Senator.</i>
+
+722
+02:09:55,587 --> 02:09:58,090
+<i>What was your position?</i>
+
+723
+02:09:59,007 --> 02:10:02,261
+<i>At first, like everybody else,
+I was a soldier.</i>
+
+724
+02:10:02,344 --> 02:10:05,264
+<i>-What is that?
+-A button, you know, Senator.</i>
+
+725
+02:10:05,347 --> 02:10:07,766
+<i>No, I don't know. Tell me.</i>
+
+726
+02:10:09,309 --> 02:10:14,898
+<i>When the boss says "push a button" on
+a guy, I push a button. See, Senator?</i>
+
+727
+02:10:14,982 --> 02:10:16,358
+<i>Mr. Questadt.</i>
+
+728
+02:10:16,900 --> 02:10:19,069
+<i>-You mean you kill people?
+-What?</i>
+
+729
+02:10:19,153 --> 02:10:24,283
+<i>You kill people at
+the behest of your superiors.</i>
+
+730
+02:10:28,078 --> 02:10:29,580
+<i>Yeah, that's right.</i>
+
+731
+02:10:29,663 --> 02:10:35,002
+<i>And the head of your family
+is Michael Corleone?</i>
+
+732
+02:10:35,085 --> 02:10:38,213
+<i>Yeah, Counselor. Michael Corleone.</i>
+
+733
+02:10:38,297 --> 02:10:42,134
+<i>Did you ever get such an order
+directly from Michael Corleone?</i>
+
+734
+02:10:42,926 --> 02:10:45,012
+<i>No, I never talked to him.</i>
+
+735
+02:10:45,095 --> 02:10:49,016
+<i>Mr. Cicci, could you amplify
+your answer a bit?</i>
+
+736
+02:10:49,099 --> 02:10:52,436
+<i>-Do what?
+-Could you expand on your answer?</i>
+
+737
+02:10:52,519 --> 02:10:58,317
+<i>I'm particularly interested in knowing,
+was there always a buffer involved?</i>
+
+738
+02:10:58,442 --> 02:11:02,988
+<i>Someone in between you
+and your superiors who gave the order.</i>
+
+739
+02:11:03,071 --> 02:11:07,534
+<i>Right, a buffer.
+The family had a lot of buffers!</i>
+
+740
+02:11:09,411 --> 02:11:13,582
+<i>You may find this very amusing, but
+the members of this committee do not.</i>
+
+741
+02:13:32,971 --> 02:13:37,142
+If there's something I can do for you,
+you come, we talk.
+
+742
+02:16:17,302 --> 02:16:18,929
+Impossible.
+
+743
+02:18:33,438 --> 02:18:39,194
+Un, due, three, four, five, six, tutt'!
+
+744
+02:19:02,259 --> 02:19:05,262
+The rent stays like before!
+
+745
+02:20:35,185 --> 02:20:40,023
+-Vito, what do you think?
+-We'll make a big business!
+
+746
+02:20:47,030 --> 02:20:50,200
+<i>-New York City.
+-Would you speak up, please?</i>
+
+747
+02:20:50,909 --> 02:20:52,578
+<i>New York City.</i>
+
+748
+02:20:52,661 --> 02:20:56,290
+<i>-Are you the son of Vito CorIeone?
+-Yes, I am.</i>
+
+749
+02:20:56,373 --> 02:21:00,043
+<i>-Where was he born?
+-CorIeone, SiciIy.</i>
+
+750
+02:21:00,210 --> 02:21:06,133
+<i>Did he at times use an aIias that was
+known in certain circIes as Godfather?</i>
+
+751
+02:21:06,925 --> 02:21:13,098
+<i>Godfather is a term used by his friends.
+One of affection and respect.</i>
+
+752
+02:21:13,932 --> 02:21:18,395
+<i>Mr. Chairman, I wouId Iike to verify
+the witness' statement.</i>
+
+753
+02:21:18,479 --> 02:21:23,567
+<i>For years many of my constituents
+have been of ItaIian descent.</i>
+
+754
+02:21:23,901 --> 02:21:26,320
+<i>I've come to know them weII.</i>
+
+755
+02:21:26,445 --> 02:21:30,657
+<i>They have honored me
+with their support and their friendship.</i>
+
+756
+02:21:30,783 --> 02:21:35,996
+<i>I can proudly say that some of my
+very best friends are ItaIian-Americans.</i>
+
+757
+02:21:37,247 --> 02:21:42,252
+<i>However, Mr. Chairman, unfortunateIy
+I have to Ieave these proceedings</i>
+
+758
+02:21:42,419 --> 02:21:46,632
+<i>in order to preside over a very important
+meeting of my own committee.</i>
+
+759
+02:21:47,758 --> 02:21:50,761
+<i>Before I Ieave, I do want to say this,</i>
+
+760
+02:21:50,844 --> 02:21:55,140
+<i>that these hearings on the Mafia
+are in no way whatsoever</i>
+
+761
+02:21:55,224 --> 02:21:57,851
+<i>a sIur upon the great ItaIian peopIe.</i>
+
+762
+02:21:57,935 --> 02:22:01,104
+<i>I can state from my own knowIedge
+and experience</i>
+
+763
+02:22:01,188 --> 02:22:06,360
+<i>that ItaIian-Americans are among
+the most IoyaI, most Iaw-abiding,</i>
+
+764
+02:22:06,443 --> 02:22:09,947
+<i>patriotic, hard-working
+American citizens in this Iand.</i>
+
+765
+02:22:11,031 --> 02:22:16,036
+<i>It wouId be a shame, Mr. Chairman,
+if we aIIowed a few rotten appIes</i>
+
+766
+02:22:16,120 --> 02:22:18,372
+<i>to give a bad name to the whoIe barreI.</i>
+
+767
+02:22:18,455 --> 02:22:24,044
+<i>Because from the time of Christopher
+CoIumbus to the time of Enrico Fermi</i>
+
+768
+02:22:24,128 --> 02:22:26,255
+<i>to the present day,</i>
+
+769
+02:22:26,421 --> 02:22:30,676
+<i>ItaIian-Americans have been pioneers
+in buiIding and defending our nation.</i>
+
+770
+02:22:31,135 --> 02:22:36,348
+<i>They are the saIt of the earth, and
+one of the backbones of this country.</i>
+
+771
+02:22:42,437 --> 02:22:46,233
+<i>I'm sure we aII agree
+with our esteemed coIIeague.</i>
+
+772
+02:22:46,316 --> 02:22:50,612
+<i>Mr. CorIeone, you have been advised
+as to your IegaI rights.</i>
+
+773
+02:22:50,696 --> 02:22:56,160
+<i>We have testimony from
+a previous witness, one WiIIi Cicci.</i>
+
+774
+02:22:57,161 --> 02:23:01,582
+<i>He stated that you are head of the most
+powerfuI Mafia famiIy in the country.</i>
+
+775
+02:23:01,665 --> 02:23:03,959
+<i>-Are you?
+-No, I'm not.</i>
+
+776
+02:23:04,042 --> 02:23:07,337
+<i>He testified that you are
+personaIIy responsibIe</i>
+
+777
+02:23:07,421 --> 02:23:11,425
+<i>for the murder of a New York
+poIice captain in 1947</i>
+
+778
+02:23:11,508 --> 02:23:15,095
+<i>and with him a man
+named VirgiI SoIIozzo.</i>
+
+779
+02:23:15,262 --> 02:23:17,764
+<i>-Do you deny this?
+-Yes, I do.</i>
+
+780
+02:23:17,931 --> 02:23:21,018
+<i>Is it true that in the year 1950</i>
+
+781
+02:23:21,101 --> 02:23:26,482
+<i>you devised the murder of the heads
+of "the Five FamiIies" in New York</i>
+
+782
+02:23:26,565 --> 02:23:30,152
+<i>to assume and consoIidate
+your nefarious power?</i>
+
+783
+02:23:30,235 --> 02:23:33,572
+<i>-It's a compIete faIsehood.
+-Mr. Questadt.</i>
+
+784
+02:23:33,697 --> 02:23:38,410
+<i>Is it true you have a controIIing interest
+in three major hoteIs in Las Vegas?</i>
+
+785
+02:23:39,536 --> 02:23:44,708
+<i>No, it's not true. I own some stock in
+some of the hoteIs there, but very IittIe.</i>
+
+786
+02:23:47,336 --> 02:23:51,590
+<i>I aIso have stock in IBM and IT&T.</i>
+
+787
+02:23:52,674 --> 02:23:58,931
+<i>Do you have any controI over gambIing
+and narcotics in New York State?</i>
+
+788
+02:23:59,014 --> 02:24:00,557
+<i>No, I do not.</i>
+
+789
+02:24:00,641 --> 02:24:04,228
+<i>Senator, my cIient
+wouId Iike to read a statement.</i>
+
+790
+02:24:04,311 --> 02:24:09,900
+<i>Mr. Chairman, I think this statement
+is totaIIy out of order at this time.</i>
+
+791
+02:24:10,067 --> 02:24:15,906
+<i>Sir, my cIient has answered this
+committee's questions with sincerity.</i>
+
+792
+02:24:16,073 --> 02:24:21,954
+<i>He hasn't taken the Fifth Amendment,
+so this statement shouId be heard!</i>
+
+793
+02:24:23,914 --> 02:24:28,877
+<i>No, I'll allow Mr. Corleone to read
+his statement. I'II put it in the record.</i>
+
+794
+02:24:30,712 --> 02:24:33,841
+<i>In the hopes of cIearing
+my famiIy name</i>
+
+795
+02:24:33,924 --> 02:24:37,886
+<i>to give my chiIdren their share
+of the American way of Iife</i>
+
+796
+02:24:37,970 --> 02:24:41,014
+<i>without a bIemish on their name
+and background,</i>
+
+797
+02:24:41,140 --> 02:24:46,353
+<i>I have appeared before this committee
+and given it aII my cooperation.</i>
+
+798
+02:24:47,688 --> 02:24:53,235
+<i>I consider it a great personaI dishonor
+to have to deny that I am a criminaI.</i>
+
+799
+02:24:54,278 --> 02:24:57,614
+<i>I wish to have the foIIowing noted
+for the record...</i>
+
+800
+02:24:57,781 --> 02:25:01,827
+<i>That I served my country faithfully
+in WorId War Two</i>
+
+801
+02:25:01,910 --> 02:25:07,124
+<i>and was awarded the Navy Cross
+for actions in defense of my country.</i>
+
+802
+02:25:07,958 --> 02:25:12,254
+<i>That I have never been arrested
+or indicted for any crime.</i>
+
+803
+02:25:12,421 --> 02:25:16,383
+<i>That no proof Iinking me to any
+criminaI conspiracy</i>
+
+804
+02:25:16,467 --> 02:25:21,346
+<i>whether it is caIIed Mafia
+or Cosa Nostra or any other name</i>
+
+805
+02:25:21,430 --> 02:25:23,765
+<i>has ever been made pubIic.</i>
+
+806
+02:25:23,932 --> 02:25:25,893
+<i>I have not taken refuge
+behind the Fifth Amendment,</i>
+
+807
+02:25:25,976 --> 02:25:29,146
+<i>aIthough it's my right to do so.</i>
+
+808
+02:25:31,982 --> 02:25:37,571
+<i>I chaIIenge this committee to produce
+any witness or evidence against me</i>
+
+809
+02:25:37,696 --> 02:25:43,619
+<i>and if they do not, I hope they wiII have
+the decency to cIear my name</i>
+
+810
+02:25:43,702 --> 02:25:47,331
+<i>with the same pubIicity
+with which they have besmirched it.</i>
+
+811
+02:25:48,707 --> 02:25:54,254
+<i>I'm sure we're impressed. ParticuIarIy
+with your Iove for our country.</i>
+
+812
+02:25:54,421 --> 02:25:57,174
+<i>We'II be in recess
+untiI 10:00 a.m. Monday</i>
+
+813
+02:25:57,341 --> 02:26:02,095
+<i>when we wiII produce a witness who'II
+corroborate the charges against you.</i>
+
+814
+02:26:02,262 --> 02:26:07,267
+<i>At which time you may very well
+be subject to indictment for perjury.</i>
+
+815
+02:26:07,351 --> 02:26:11,855
+<i>I remind you that you're stiII
+under subpoena. Adjourned!</i>
+
+816
+02:26:16,944 --> 02:26:18,654
+Ten-to-one shot, you said.
+
+817
+02:26:18,737 --> 02:26:23,492
+A ten-to-one shot
+he would take the Fifth, and I'd lose!
+
+818
+02:26:23,575 --> 02:26:28,247
+You sound like my bookie.
+I owe that monkey my life.
+
+819
+02:26:29,289 --> 02:26:32,835
+-Well, just get a good night's sleep.
+-Yeah.
+
+820
+02:26:32,918 --> 02:26:35,087
+You've got a big day tomorrow.
+
+821
+02:26:35,170 --> 02:26:38,799
+I've got you a new suit,
+new shirt, new tie.
+
+822
+02:26:39,466 --> 02:26:42,761
+I'll shave you myself in the morning.
+
+823
+02:26:42,928 --> 02:26:46,974
+You'll look respectable for 50 million
+of your fellow Americans.
+
+824
+02:26:47,057 --> 02:26:52,271
+Tomorrow... My life won't be worth
+a nickel after tomorrow.
+
+825
+02:26:53,272 --> 02:26:56,900
+Come on! I saw this 19 times.
+
+826
+02:26:57,985 --> 02:27:01,780
+You've got a great home here,
+for the rest of your life.
+
+827
+02:27:01,947 --> 02:27:05,075
+Nobody gets near you,
+you're not going anywhere.
+
+828
+02:27:05,242 --> 02:27:10,164
+That's great. Beautiful.
+Some deal I made.
+
+829
+02:27:10,247 --> 02:27:13,083
+You'll live like a king. You'll be a hero.
+
+830
+02:27:13,167 --> 02:27:15,961
+You'll live better here
+than most people outside.
+
+831
+02:27:16,128 --> 02:27:18,422
+Some deal!
+
+832
+02:27:21,008 --> 02:27:24,887
+Alive. Pentangeli is alive.
+
+833
+02:27:26,638 --> 02:27:31,935
+-How did they get their hands on him?
+-Roth. He engineered it, Michael.
+
+834
+02:27:32,811 --> 02:27:35,189
+When Frankie went to make a deal with
+the Rosato brothers
+
+835
+02:27:35,272 --> 02:27:37,316
+they tried to kill him.
+
+836
+02:27:37,399 --> 02:27:39,651
+He thought you double-crossed him.
+
+837
+02:27:40,694 --> 02:27:44,031
+Our people with the detectives
+said he was half dead, scared
+
+838
+02:27:44,114 --> 02:27:46,825
+and shouted that you'd turned on him.
+
+839
+02:27:47,117 --> 02:27:51,288
+They already had him on possession,
+bookmaking, murder one and more.
+
+840
+02:27:53,123 --> 02:27:58,837
+The FBI has him airtight.
+He's on an army base, 24 hour guards.
+
+841
+02:27:59,004 --> 02:28:01,632
+We can't get to him. You've opened
+yourself to five counts of perjury.
+
+842
+02:28:06,386 --> 02:28:09,389
+What about Fredo?
+What does he know?
+
+843
+02:28:09,473 --> 02:28:13,143
+He says he doesn't know anything,
+and I believe him.
+
+844
+02:28:13,310 --> 02:28:17,606
+Roth, he played this one beautifully.
+
+845
+02:28:24,905 --> 02:28:27,699
+I'm going to talk to Fredo.
+
+846
+02:29:06,947 --> 02:29:09,658
+I haven't got a lot to say, Mike.
+
+847
+02:29:11,201 --> 02:29:13,704
+We have time.
+
+848
+02:29:13,871 --> 02:29:17,040
+I was kept pretty much in the dark.
+
+849
+02:29:18,375 --> 02:29:20,502
+I didn't know all that much.
+
+850
+02:29:21,420 --> 02:29:26,258
+What about now? Is there anything
+you can help me out with?
+
+851
+02:29:26,884 --> 02:29:29,094
+Anything you can tell me now?
+
+852
+02:29:31,054 --> 02:29:33,724
+They've got Pentangeli.
+
+853
+02:29:48,363 --> 02:29:52,075
+I didn't know
+it was going to be a hit, Mike.
+
+854
+02:29:52,242 --> 02:29:54,536
+I swear to God I didn't know.
+
+855
+02:29:57,289 --> 02:30:01,627
+Johnny Ola bumped into me
+in Beverly Hills.
+
+856
+02:30:03,462 --> 02:30:06,548
+He said that he wanted to talk.
+
+857
+02:30:08,091 --> 02:30:14,264
+He said that you and Roth
+were in on a big deal together.
+
+858
+02:30:16,809 --> 02:30:21,146
+And that there was something in it
+for me if I could help him out.
+
+859
+02:30:21,230 --> 02:30:25,150
+He said that you were being tough
+on the negotiations
+
+860
+02:30:25,234 --> 02:30:29,613
+but if they could get a little help
+and close the deal fast,
+
+861
+02:30:31,156 --> 02:30:33,742
+it would be good for the family.
+
+862
+02:30:35,285 --> 02:30:39,790
+And you believed that story?
+You believed that?
+
+863
+02:30:39,957 --> 02:30:44,044
+He said there was something in it
+for me, on my own!
+
+864
+02:30:44,128 --> 02:30:48,257
+-I've always taken care of you, Fredo.
+-Taken care of me?
+
+865
+02:30:49,591 --> 02:30:52,386
+You're my kid brother!
+You take care of me?
+
+866
+02:30:53,387 --> 02:30:57,474
+Did you ever think about that?
+Did you ever once think about that?
+
+867
+02:30:58,559 --> 02:31:02,729
+"Send Fredo off to do this,
+send Fredo off to do that!"
+
+868
+02:31:03,355 --> 02:31:07,901
+"Let Fredo take care of some
+Mickey Mouse nightclub somewhere. "
+
+869
+02:31:07,985 --> 02:31:11,071
+"Let Fredo fetch somebody
+at the airport!"
+
+870
+02:31:11,155 --> 02:31:14,241
+I'm your older brother,
+but was stepped over!
+
+871
+02:31:14,408 --> 02:31:18,162
+-It's the way Pop wanted it.
+-It's not the way I wanted it!
+
+872
+02:31:18,954 --> 02:31:23,834
+I can handle things, I'm smart!
+Not like everybody says.
+
+873
+02:31:24,001 --> 02:31:27,921
+Like dumb. I'm smart
+and I want respect!
+
+874
+02:31:35,596 --> 02:31:40,809
+Is there anything you can tell me about
+this investigation? Anything more?
+
+875
+02:31:48,817 --> 02:31:54,865
+The Senate lawyer, Questadt.
+He belongs to Roth.
+
+876
+02:32:04,541 --> 02:32:06,293
+Fredo,
+
+877
+02:32:08,754 --> 02:32:11,381
+you're nothing to me now.
+
+878
+02:32:13,217 --> 02:32:15,677
+Not a brother, not a friend.
+
+879
+02:32:17,471 --> 02:32:20,474
+I don't want to know you,
+or what you do.
+
+880
+02:32:21,558 --> 02:32:24,561
+I don't want to see you at the hotels.
+
+881
+02:32:24,645 --> 02:32:27,231
+I don't want you near my house.
+
+882
+02:32:29,191 --> 02:32:33,862
+When you see our mother, I want
+to know in advance, so I won't be there.
+
+883
+02:32:35,447 --> 02:32:37,074
+You understand?
+
+884
+02:32:46,875 --> 02:32:48,836
+Mikey.
+
+885
+02:32:55,425 --> 02:32:59,263
+I don't want anything to happen to him
+while my mother's alive.
+
+886
+02:33:49,146 --> 02:33:52,649
+There's more people
+than at a ballgame in here.
+
+887
+02:33:52,816 --> 02:33:56,987
+-Hey, there's Willi Cicci!
+-Frankie Five-Angels...
+
+888
+02:34:16,381 --> 02:34:18,967
+<i>This committee wiII come to order!</i>
+
+889
+02:34:21,720 --> 02:34:24,515
+<i>-State your name, pIease.
+-Frank PentangeIi.</i>
+
+890
+02:34:24,598 --> 02:34:28,352
+<i>-Where were you born?
+-Partinico, it's outside of Palermo.</i>
+
+891
+02:34:28,519 --> 02:34:30,562
+<i>Where do you Iive now?</i>
+
+892
+02:34:30,729 --> 02:34:35,943
+<i>I Iive in an army barracks
+with the FBI guys.</i>
+
+893
+02:34:36,985 --> 02:34:41,448
+<i>We have here a witness
+that wiII further testify</i>
+
+894
+02:34:41,573 --> 02:34:47,955
+<i>to MichaeI CorIeone's ruIe of a criminaI
+empire that controIs aII gambIing.</i>
+
+895
+02:34:48,205 --> 02:34:53,127
+<i>This witness has had no buffer
+between himseIf and MichaeI CorIeone.</i>
+
+896
+02:34:53,210 --> 02:34:56,421
+<i>He can corroborate enough charges</i>
+
+897
+02:34:56,505 --> 02:35:01,176
+<i>for us to recommend a charge
+of perjury against MichaeI CorIeone.</i>
+
+898
+02:35:01,343 --> 02:35:03,303
+-Senator.
+-Thank you, Chairman.
+
+899
+02:35:04,680 --> 02:35:06,223
+<i>Mr. PentangeIi.</i>
+
+900
+02:35:07,432 --> 02:35:13,105
+<i>Mr. PentangeIi. Were you a member
+of the CorIeone famiIy?</i>
+
+901
+02:35:13,272 --> 02:35:18,318
+<i>Did you serve under Caporegime,
+Peter Clemenza,</i>
+
+902
+02:35:18,402 --> 02:35:22,948
+<i>and under Vito Corleone,
+aIso known as the Godfather?</i>
+
+903
+02:35:28,662 --> 02:35:31,290
+<i>I never knew any Godfather.</i>
+
+904
+02:35:33,834 --> 02:35:35,961
+<i>I have my own famiIy.</i>
+
+905
+02:35:39,381 --> 02:35:41,925
+<i>Mr. PentangeIi, you...</i>
+
+906
+02:35:42,092 --> 02:35:46,472
+<i>You are contradicting
+your own sworn statement.</i>
+
+907
+02:35:46,597 --> 02:35:50,350
+<i>I ask you again, sir,
+here and now under oath...</i>
+
+908
+02:35:50,434 --> 02:35:54,688
+<i>were you at any time a member of
+a crime organization</i>
+
+909
+02:35:54,772 --> 02:35:56,648
+<i>Ied by MichaeI CorIeone?</i>
+
+910
+02:35:56,732 --> 02:35:59,735
+I don't know nothing about that!
+
+911
+02:36:02,738 --> 02:36:06,700
+I was in the olive oil business
+with his father
+
+912
+02:36:06,784 --> 02:36:09,453
+but that was a long time ago.
+
+913
+02:36:10,496 --> 02:36:13,582
+<i>We have a sworn affidavit.</i>
+
+914
+02:36:15,250 --> 02:36:19,963
+<i>Your sworn affidavit, that you murdered
+on the orders of MichaeI CorIeone.</i>
+
+915
+02:36:20,088 --> 02:36:24,593
+<i>Do you deny this confession, and do
+you reaIize what wiII happen if you do?</i>
+
+916
+02:36:24,676 --> 02:36:27,846
+<i>The FBI guys promised me a deaI</i>
+
+917
+02:36:27,971 --> 02:36:33,644
+<i>so I made up a Iot of stuff about
+MichaeI CorIeone, just to pIease them.</i>
+
+918
+02:36:33,811 --> 02:36:37,815
+<i>But it was aII Iies. Everything!</i>
+
+919
+02:36:38,482 --> 02:36:40,651
+<i>They kept saying,</i>
+
+920
+02:36:40,734 --> 02:36:45,781
+<i>"MichaeI CorIeone did this"
+and "MichaeI CorIeone did that".</i>
+
+921
+02:36:47,324 --> 02:36:51,328
+<i>So I said, "Yeah, sure. Why not?"</i>
+
+922
+02:36:51,495 --> 02:36:57,709
+<i>Mr. Corleone, would you kindly identify
+the gentIeman sitting to your left?</i>
+
+923
+02:36:57,793 --> 02:37:00,003
+I can answer that.
+
+924
+02:37:00,170 --> 02:37:02,548
+His name is Vincenzo Pentangeli.
+
+925
+02:37:03,549 --> 02:37:07,886
+<i>-Is he reIated to the witness?
+-He is, I believe, his brother.</i>
+
+926
+02:37:08,220 --> 02:37:12,850
+<i>-WiII he come forward and be sworn?
+-He doesn't understand EngIish.</i>
+
+927
+02:37:13,016 --> 02:37:16,061
+He came at his own expense
+to aid his brother.
+
+928
+02:37:16,895 --> 02:37:20,607
+He's not under subpoena
+and has an impeccable reputation.
+
+929
+02:37:20,691 --> 02:37:24,486
+<i>-He knows nothing about this?
+-To my knowledge, nothing.</i>
+
+930
+02:37:24,570 --> 02:37:28,824
+<i>I'm going to find out what happened!
+This committee is now adjourned.</i>
+
+931
+02:37:29,533 --> 02:37:31,618
+<i>-The witness is excused.
+-Senator!</i>
+
+932
+02:37:32,703 --> 02:37:36,373
+Senator! This committee
+owes an apology!
+
+933
+02:37:36,874 --> 02:37:40,878
+This committee owes an apology.
+Apology, Senator!
+
+934
+02:38:08,489 --> 02:38:12,493
+-Michael, excuse me.
+-Hello, darling.
+
+935
+02:38:12,910 --> 02:38:16,413
+The children are outside. We're going.
+
+936
+02:38:17,748 --> 02:38:20,417
+What do you mean?
+We're leaving tomorrow.
+
+937
+02:38:21,251 --> 02:38:23,670
+Rocco?
+
+938
+02:38:24,713 --> 02:38:27,299
+I'll be in my room, Mike.
+
+939
+02:38:30,052 --> 02:38:33,138
+Michael, I'm not going back to Nevada.
+
+940
+02:38:33,222 --> 02:38:36,642
+I brought the children
+to say goodbye to you.
+
+941
+02:38:39,728 --> 02:38:42,272
+I'm very happy for you.
+
+942
+02:38:42,439 --> 02:38:46,944
+I always knew you were too smart
+to let any of them beat you.
+
+943
+02:38:48,403 --> 02:38:52,991
+-Why don't you sit down?
+-No, I'm not going to stay long.
+
+944
+02:38:53,158 --> 02:38:56,912
+There are some things
+I'd like to talk to you about.
+
+945
+02:38:57,079 --> 02:39:02,126
+Things that have been on my mind,
+changes I want to make.
+
+946
+02:39:02,292 --> 02:39:05,337
+I think it's too late for changes, Michael.
+
+947
+02:39:06,505 --> 02:39:11,218
+-I wasn't going to say anything...
+-What do you mean, "too late"?
+
+948
+02:39:16,640 --> 02:39:19,309
+What really happened with Pentangeli?
+
+949
+02:39:25,107 --> 02:39:30,320
+-His brother came and helped him.
+-I didn't even know he had a brother.
+
+950
+02:39:30,487 --> 02:39:32,281
+Where is he now?
+
+951
+02:39:33,615 --> 02:39:36,285
+He's on a plane, back to Sicily.
+
+952
+02:39:36,952 --> 02:39:39,496
+All he had to do was show his face.
+
+953
+02:39:41,165 --> 02:39:46,003
+It was between the brothers, Kay.
+I had nothing to do with it.
+
+954
+02:39:53,844 --> 02:39:57,723
+I don't want you going!
+Not you, not the kids. No.
+
+955
+02:39:58,849 --> 02:40:02,853
+You're my wife and my children.
+I love you and won't allow it.
+
+956
+02:40:04,146 --> 02:40:07,983
+You say you love me,
+but talk about allowing me to leave!
+
+957
+02:40:08,150 --> 02:40:11,862
+Things between men and women
+will not change.
+
+958
+02:40:12,029 --> 02:40:15,908
+You've become blind!
+Look what's happened to us.
+
+959
+02:40:16,074 --> 02:40:21,246
+-Look what's happened to our son!
+-Nothing's happened to him. He's fine!
+
+960
+02:40:21,413 --> 02:40:24,625
+-Anthony is not fine!
+-I don't want to hear about it.
+
+961
+02:40:24,792 --> 02:40:28,712
+-Anthony is...
+-I don't want to hear about it!
+
+962
+02:40:30,047 --> 02:40:32,090
+Over!
+
+963
+02:40:44,103 --> 02:40:47,731
+At this moment
+I feel no love for you at all.
+
+964
+02:40:48,816 --> 02:40:53,821
+I never thought that would ever happen,
+but it has.
+
+965
+02:41:08,168 --> 02:41:10,254
+Kay...
+
+966
+02:41:13,090 --> 02:41:15,259
+We're leaving tomorrow.
+
+967
+02:41:15,968 --> 02:41:19,138
+Why don't you take the kids
+back to their room?
+
+968
+02:41:19,221 --> 02:41:25,060
+-Michael, you haven't heard me.
+-Kay, what do you want from me?
+
+969
+02:41:25,310 --> 02:41:31,692
+Do you expect me to let you go,
+to let you take my children from me?
+
+970
+02:41:32,484 --> 02:41:38,073
+Don't you know me? Don't you know
+that that's an impossibility?
+
+971
+02:41:38,157 --> 02:41:42,077
+That I'd use all my power
+to keep that from happening?
+
+972
+02:41:42,911 --> 02:41:45,289
+Don't you know that?
+
+973
+02:41:46,957 --> 02:41:48,834
+Kay...
+
+974
+02:41:51,712 --> 02:41:56,341
+In time, you'll feel differently.
+
+975
+02:41:57,926 --> 02:42:00,846
+You'll be glad I stopped you now.
+
+976
+02:42:02,764 --> 02:42:04,767
+I know that.
+
+977
+02:42:06,769 --> 02:42:10,189
+I know you blame me
+for losing the baby.
+
+978
+02:42:12,024 --> 02:42:13,108
+Yes.
+
+979
+02:42:14,359 --> 02:42:17,112
+I know what that meant to you.
+
+980
+02:42:19,156 --> 02:42:21,283
+I'll make it up to you, Kay.
+
+981
+02:42:22,159 --> 02:42:24,995
+I swear I'll make it up to you. I'll...
+
+982
+02:42:26,288 --> 02:42:28,207
+I'm going to change.
+
+983
+02:42:29,666 --> 02:42:33,837
+I'll change. I've learned that I have
+the strength to change.
+
+984
+02:42:36,006 --> 02:42:39,009
+Then you'll forget about
+this miscarriage
+
+985
+02:42:39,843 --> 02:42:44,723
+and we'll have another child.
+And we'll go on, you and I.
+
+986
+02:42:46,058 --> 02:42:50,229
+-We'll go on.
+-Oh, Michael!
+
+987
+02:42:51,355 --> 02:42:53,732
+Michael, you are blind.
+
+988
+02:42:55,567 --> 02:42:57,903
+It wasn't a miscarriage.
+
+989
+02:42:59,947 --> 02:43:01,490
+It was an abortion.
+
+990
+02:43:03,367 --> 02:43:08,539
+An abortion, Michael.
+Just like our marriage is an abortion.
+
+991
+02:43:09,456 --> 02:43:12,918
+Something that's unholy and evil!
+
+992
+02:43:14,545 --> 02:43:16,880
+I didn't want your son, Michael!
+
+993
+02:43:17,714 --> 02:43:21,552
+I wouldn't bring another one
+of your sons into this world!
+
+994
+02:43:23,470 --> 02:43:25,973
+It was an abortion, Michael.
+
+995
+02:43:26,056 --> 02:43:31,728
+It was a son and I had it killed
+because this must all end!
+
+996
+02:43:33,313 --> 02:43:37,401
+I know now that it's over. I knew it then.
+
+997
+02:43:38,819 --> 02:43:43,782
+There would be no way, Michael,
+no way you could ever forgive me.
+
+998
+02:43:44,241 --> 02:43:48,912
+Not with this Sicilian thing
+that's been going on for 2,000...
+
+999
+02:43:56,837 --> 02:43:59,715
+-You won't take my children.
+-I will.
+
+1000
+02:43:59,798 --> 02:44:04,178
+-You won't take my children!
+-They're my children too.
+
+1001
+02:45:33,976 --> 02:45:37,521
+Fredo, give this to Grandmother.
+
+1002
+02:50:58,884 --> 02:51:01,512
+Michael, say goodbye.
+
+1003
+02:52:04,741 --> 02:52:06,160
+Hi, Al.
+
+1004
+02:52:18,213 --> 02:52:21,216
+Can I speak with you
+for a second, Tom?
+
+1005
+02:52:29,141 --> 02:52:30,851
+Tom, where's Mike?
+
+1006
+02:52:32,102 --> 02:52:34,146
+Waiting for you to leave.
+
+1007
+02:52:36,732 --> 02:52:41,278
+-Can I talk with him?
+-Sorry, Fredo. No chance.
+
+1008
+02:52:41,862 --> 02:52:45,157
+-Can I see him?
+-He's in the boathouse.
+
+1009
+02:52:58,253 --> 02:53:00,631
+Michael, it's Connie.
+
+1010
+02:53:21,902 --> 02:53:23,487
+Michael...
+
+1011
+02:53:26,490 --> 02:53:29,993
+I'd like to stay close to home now,
+if it's all right.
+
+1012
+02:53:38,502 --> 02:53:40,754
+Is Kay coming?
+
+1013
+02:53:43,215 --> 02:53:44,883
+No.
+
+1014
+02:53:53,016 --> 02:53:55,853
+Fredo's in the house with Mama.
+
+1015
+02:53:55,936 --> 02:53:59,857
+He asked for you
+and Tom said you wouldn't see him.
+
+1016
+02:54:03,527 --> 02:54:05,362
+That's right.
+
+1017
+02:54:08,198 --> 02:54:11,577
+Kids, why don't you go outside
+for a while?
+
+1018
+02:54:15,164 --> 02:54:17,541
+Please, I want to talk to you.
+
+1019
+02:54:29,052 --> 02:54:33,056
+Michael, I hated you for so many years.
+
+1020
+02:54:33,515 --> 02:54:38,854
+I think I did things to myself,
+to hurt myself, so that you'd know
+
+1021
+02:54:42,065 --> 02:54:44,193
+that I could hurt you.
+
+1022
+02:54:50,282 --> 02:54:54,703
+You were just being strong for all of us,
+the way Papa was.
+
+1023
+02:54:55,287 --> 02:54:57,164
+And I forgive you.
+
+1024
+02:55:01,835 --> 02:55:03,796
+Can't you forgive Fredo?
+
+1025
+02:55:04,838 --> 02:55:09,468
+He's so sweet,
+and helpless without you.
+
+1026
+02:55:15,808 --> 02:55:19,645
+You need me.
+I want to take care of you now.
+
+1027
+02:55:29,488 --> 02:55:31,031
+Connie.
+
+1028
+02:57:13,258 --> 02:57:15,886
+Tom, sit down.
+
+1029
+02:57:27,606 --> 02:57:31,360
+Our friend and business partner,
+Hyman Roth, is in the news.
+
+1030
+02:57:32,736 --> 02:57:37,366
+-Did you hear about it?
+-I hear that he's in Israel.
+
+1031
+02:57:37,908 --> 02:57:42,538
+The High Court in Israel
+turned down his request to live there.
+
+1032
+02:57:42,704 --> 02:57:46,291
+His passport's been invalidated,
+except to return here.
+
+1033
+02:57:46,375 --> 02:57:49,128
+He landed in Buenos Aires yesterday.
+
+1034
+02:57:49,419 --> 02:57:53,340
+He offered them a million dollars
+if they'd let him live there.
+
+1035
+02:57:54,299 --> 02:57:58,303
+-They turned him down.
+-He's going to try Panama.
+
+1036
+02:57:58,429 --> 02:58:03,100
+Panama won't take him.
+Not for a million, not for ten million.
+
+1037
+02:58:03,475 --> 02:58:08,188
+His condition is reported as terminal.
+He's only got six months left.
+
+1038
+02:58:08,355 --> 02:58:11,358
+He's had the same heart attack
+for 20 years.
+
+1039
+02:58:11,525 --> 02:58:15,696
+-That plane goes to Miami.
+-That's right. That's where I want it met.
+
+1040
+02:58:16,822 --> 02:58:22,202
+Impossible. They'll turn him over to the
+Internal Revenue, Customs and FBI.
+
+1041
+02:58:22,369 --> 02:58:25,581
+It's not impossible.
+Nothing's impossible.
+
+1042
+02:58:25,664 --> 02:58:27,124
+It would be
+like trying to kill the President.
+
+1043
+02:58:27,207 --> 02:58:31,712
+-There's no way we can get to him!
+-Tom, you surprise me.
+
+1044
+02:58:34,506 --> 02:58:38,135
+If anything in this life is certain,
+
+1045
+02:58:38,218 --> 02:58:41,430
+if history has taught us anything,
+
+1046
+02:58:41,513 --> 02:58:44,141
+it's that you can kill anyone.
+
+1047
+02:58:49,480 --> 02:58:54,401
+-Rocco?
+-Difficult. Not impossible.
+
+1048
+02:58:54,735 --> 02:58:56,445
+Good.
+
+1049
+02:58:58,906 --> 02:59:02,493
+Why did you ask me if something
+was wrong when I came in?
+
+1050
+02:59:06,163 --> 02:59:12,085
+I thought you were going to tell me that
+you were moving your family to Vegas
+
+1051
+02:59:13,462 --> 02:59:17,341
+and that you'd been offered the Vice
+Presidency of the Houstan hotels there.
+
+1052
+02:59:19,468 --> 02:59:24,306
+-I thought you'd tell me that.
+-Must I tell you every offer I turn down?
+
+1053
+02:59:28,519 --> 02:59:31,313
+-Let's do business.
+-All right.
+
+1054
+02:59:33,190 --> 02:59:36,193
+Just consider this, Michael.
+Just consider it.
+
+1055
+02:59:37,444 --> 02:59:39,571
+Roth and the Rosatos are on the run.
+
+1056
+02:59:39,655 --> 02:59:42,199
+Are they worth it,
+are they strong enough?
+
+1057
+02:59:42,699 --> 02:59:47,579
+Is it worth it? You've won.
+Do you want to wipe everybody out?
+
+1058
+02:59:47,663 --> 02:59:53,001
+I don't feel I have to wipe everybody
+out, Tom. Just my enemies, that's all.
+
+1059
+03:00:00,717 --> 03:00:03,387
+Are you with me in these things,
+or what?
+
+1060
+03:00:05,514 --> 03:00:10,936
+Because if not, you can take your wife,
+your family and your mistress
+
+1061
+03:00:11,103 --> 03:00:14,231
+and move them all to Las Vegas.
+
+1062
+03:00:17,359 --> 03:00:22,406
+Why do you hurt me, Michael? I've
+always been loyal to you. What is this?
+
+1063
+03:00:35,627 --> 03:00:37,754
+What do you want me to do?
+
+1064
+03:00:38,255 --> 03:00:40,257
+Hey, Anthony.
+
+1065
+03:00:40,799 --> 03:00:45,429
+How would you like it if I taught you
+how to catch the really big fish?
+
+1066
+03:00:45,512 --> 03:00:48,015
+-Would you like that?
+-Okay.
+
+1067
+03:00:48,182 --> 03:00:50,809
+You know, when I was your age,
+
+1068
+03:00:51,268 --> 03:00:58,150
+I went out fishing with all my brothers
+and my father. Everybody.
+
+1069
+03:00:59,318 --> 03:01:02,821
+I was the only one that caught a fish.
+
+1070
+03:01:04,823 --> 03:01:07,868
+Nobody else could catch one.
+Do you know how I did it?
+
+1071
+03:01:09,453 --> 03:01:13,248
+Every time I put the line in the water
+I said a Hail Mary
+
+1072
+03:01:13,415 --> 03:01:17,044
+and every time I said a Hail Mary,
+I caught a fish.
+
+1073
+03:01:19,463 --> 03:01:23,634
+Do you believe that? It's true.
+That's the secret.
+
+1074
+03:01:25,719 --> 03:01:29,556
+-Do you want to try it out on the lake?
+-Okay.
+
+1075
+03:01:31,350 --> 03:01:32,684
+What else have you got?
+
+1076
+03:01:59,253 --> 03:02:01,839
+Everything will be okay.
+
+1077
+03:02:02,005 --> 03:02:05,926
+-Did my brother go back?
+-Yeah, don't worry.
+
+1078
+03:02:06,093 --> 03:02:11,014
+He's ten times tougher than me,
+my brother. He's old-fashioned.
+
+1079
+03:02:12,057 --> 03:02:15,352
+He didn't want dinner,
+just wanted to go home.
+
+1080
+03:02:15,436 --> 03:02:20,482
+That's my brother! Nothing could get
+him away from that two-mule town.
+
+1081
+03:02:20,649 --> 03:02:24,486
+He could have been big here.
+He could have had his own family.
+
+1082
+03:02:29,700 --> 03:02:31,660
+Tom,
+
+1083
+03:02:32,369 --> 03:02:34,955
+what do I do now?
+
+1084
+03:02:35,664 --> 03:02:37,666
+Frankie.
+
+1085
+03:02:42,212 --> 03:02:46,216
+You were always interested
+in politics and history.
+
+1086
+03:02:47,718 --> 03:02:51,180
+I remember you talking about Hitler
+back in '33.
+
+1087
+03:02:51,346 --> 03:02:54,975
+Yeah, I still read a lot.
+I get good stuff in there.
+
+1088
+03:02:57,519 --> 03:03:03,275
+You were around the old-timers, who
+built the organization of the families,
+
+1089
+03:03:03,400 --> 03:03:08,822
+basing them on the old Roman legions,
+with "regimes," "capos" and "soldiers".
+
+1090
+03:03:10,073 --> 03:03:14,077
+-And it worked.
+-Yeah, it worked.
+
+1091
+03:03:14,870 --> 03:03:18,373
+Those were the great old days,
+you know.
+
+1092
+03:03:18,540 --> 03:03:21,668
+We was like the Roman Empire.
+
+1093
+03:03:21,752 --> 03:03:25,255
+The Corleone family
+was like the Roman Empire.
+
+1094
+03:03:27,633 --> 03:03:29,593
+Yeah,
+
+1095
+03:03:29,760 --> 03:03:32,137
+it was once.
+
+1096
+03:03:36,558 --> 03:03:38,102
+Frankie.
+
+1097
+03:03:48,570 --> 03:03:52,116
+When a plot
+against the Emperor failed
+
+1098
+03:03:53,367 --> 03:03:56,829
+the plotters were always
+given a chance
+
+1099
+03:03:58,789 --> 03:04:02,376
+to let their families keep their fortunes.
+Right?
+
+1100
+03:04:02,459 --> 03:04:04,586
+Only the rich guys.
+
+1101
+03:04:04,670 --> 03:04:09,675
+The little guys got knocked off and all
+their estates went to the Emperors.
+
+1102
+03:04:09,842 --> 03:04:15,055
+Unless they went home and killed
+themselves, then nothing happened.
+
+1103
+03:04:16,223 --> 03:04:20,519
+And their families were taken care of.
+
+1104
+03:04:22,146 --> 03:04:25,524
+That was a good break, a nice deal.
+
+1105
+03:04:26,150 --> 03:04:27,609
+Yeah.
+
+1106
+03:04:28,569 --> 03:04:30,654
+They went home
+
+1107
+03:04:31,864 --> 03:04:34,825
+and sat in a hot bath
+
+1108
+03:04:34,992 --> 03:04:37,536
+opened up their veins
+
+1109
+03:04:37,703 --> 03:04:40,414
+and bled to death.
+
+1110
+03:04:41,582 --> 03:04:45,752
+And sometimes they had a little party
+before they did it.
+
+1111
+03:04:51,091 --> 03:04:53,427
+Don't worry about anything,
+Frankie Five-Angels.
+
+1112
+03:04:54,887 --> 03:04:58,182
+Thanks, Tom. Thanks.
+
+1113
+03:05:16,658 --> 03:05:19,787
+-See you, Tom.
+-Addio, Frankie.
+
+1114
+03:05:30,714 --> 03:05:33,842
+Kay. You have to go.
+
+1115
+03:05:35,636 --> 03:05:38,972
+-So pretty...
+-Kay, please hurry. He's coming.
+
+1116
+03:05:47,773 --> 03:05:51,568
+Anthony. Kiss Mama goodbye.
+
+1117
+03:05:54,196 --> 03:05:56,990
+Anthony, kiss your mother goodbye!
+
+1118
+03:05:57,157 --> 03:06:02,246
+Anthony, say goodbye to Mama.
+Anthony. I love you, Anthony.
+
+1119
+03:06:03,372 --> 03:06:05,749
+Kay, please.
+
+1120
+03:06:08,669 --> 03:06:10,629
+All right.
+
+1121
+03:06:23,892 --> 03:06:26,270
+Mary, come here.
+
+1122
+03:06:33,444 --> 03:06:35,028
+Anthony.
+
+1123
+03:06:35,112 --> 03:06:38,115
+Anthony, please. Kiss me once.
+
+1124
+03:08:17,214 --> 03:08:19,299
+Easy.
+
+1125
+03:08:25,013 --> 03:08:28,100
+Anthony! Anthony!
+
+1126
+03:08:28,225 --> 03:08:31,270
+-He's here, we're going fishing.
+-No!
+
+1127
+03:08:31,437 --> 03:08:34,773
+Michael wants to take him to Reno now.
+
+1128
+03:08:34,857 --> 03:08:36,859
+Shit!
+
+1129
+03:08:38,068 --> 03:08:41,530
+Okay, kid, you have to go to Reno
+with your pop.
+
+1130
+03:08:42,489 --> 03:08:46,452
+-I'll take you fishing tomorrow, okay?
+-Okay.
+
+1131
+03:08:50,080 --> 03:08:51,665
+Hey, Anthony.
+
+1132
+03:08:51,748 --> 03:08:56,086
+Listen, I'll catch one for you in secret.
+
+1133
+03:09:00,132 --> 03:09:01,508
+Let's go.
+
+1134
+03:09:40,672 --> 03:09:44,843
+-Mr. Roth, I must take you into custody.
+-I understand.
+
+1135
+03:09:45,010 --> 03:09:48,138
+What's your reaction
+to the Israeli High Court ruling?
+
+1136
+03:09:48,305 --> 03:09:51,100
+I'm a retired investor on a pension.
+
+1137
+03:09:51,266 --> 03:09:56,146
+I went to Israel to live there as a Jew,
+in the twilight of my life.
+
+1138
+03:10:02,486 --> 03:10:06,115
+Hey, Frankie! Come on out,
+let's play some Hearts.
+
+1139
+03:10:14,289 --> 03:10:15,999
+Frankie!
+
+1140
+03:10:31,890 --> 03:10:34,768
+Is it true you're worth
+over 300 million dollars?
+
+1141
+03:10:34,935 --> 03:10:38,564
+I'm a retired investor,
+living on a pension.
+
+1142
+03:10:38,730 --> 03:10:42,276
+I came home to vote
+in the presidential election
+
+1143
+03:10:42,443 --> 03:10:45,863
+because they wouldn't give me
+an absentee ballot.
+
+1144
+03:10:58,208 --> 03:11:00,627
+Jesus Christ.
+
+1145
+03:11:01,670 --> 03:11:06,300
+Hail Mary, full of grace.
+The Lord is with thee.
+
+1146
+03:11:07,760 --> 03:11:10,387
+Blessed art thou amongst women.
+
+1147
+03:11:11,180 --> 03:11:14,308
+Blessed is the fruit of thy womb, Jesus.
+
+1148
+03:11:15,517 --> 03:11:19,730
+Holy Mary, Mother of God,
+pray for us sinners.
+
+1149
+03:12:01,605 --> 03:12:06,777
+Hey! Everybody, pay attention.
+This is my friend Carlo Rizzi.
+
+1150
+03:12:07,569 --> 03:12:10,322
+-You know my brother Fredo.
+-Sure.
+
+1151
+03:12:10,489 --> 03:12:15,244
+This is my stepbrother Tom,
+and that's his girl Theresa.
+
+1152
+03:12:15,327 --> 03:12:18,664
+This cute little thing is my sister Connie.
+
+1153
+03:12:18,747 --> 03:12:21,583
+Say hello to Carlo.
+He's good-looking, isn't he?
+
+1154
+03:12:21,667 --> 03:12:23,252
+Yes.
+
+1155
+03:12:23,418 --> 03:12:27,464
+The droopy thing is Mike.
+We call him Joe College.
+
+1156
+03:12:27,965 --> 03:12:31,844
+Sit down. Talk to each other.
+
+1157
+03:12:32,010 --> 03:12:34,263
+Hey, Mr. Einstein...
+
+1158
+03:12:37,599 --> 03:12:40,102
+-The cake.
+-Sally, get in here!
+
+1159
+03:12:40,269 --> 03:12:42,396
+-I was scared.
+-Come on.
+
+1160
+03:12:43,063 --> 03:12:46,400
+-Where's your father?
+-Christmas shopping.
+
+1161
+03:12:46,567 --> 03:12:48,944
+Let's see that thing.
+
+1162
+03:12:50,654 --> 03:12:52,573
+That's nice!
+
+1163
+03:12:52,656 --> 03:12:56,493
+-Should I put the candles on now?
+-Yeah. You help her, Carlo.
+
+1164
+03:12:57,619 --> 03:13:00,747
+-What is that? Rum?
+-Yeah.
+
+1165
+03:13:05,753 --> 03:13:09,006
+Don't touch the antipasto
+until Pop sees it.
+
+1166
+03:13:09,173 --> 03:13:11,842
+He's not ugly...
+
+1167
+03:13:17,347 --> 03:13:23,604
+What do you think of the nerve of those
+Japs? Bombing us on Pop's birthday.
+
+1168
+03:13:23,687 --> 03:13:27,107
+They didn't know it was Pop's birthday.
+
+1169
+03:13:27,191 --> 03:13:29,860
+Not surprising after the oil embargo.
+
+1170
+03:13:30,027 --> 03:13:34,490
+They've got no right dropping bombs!
+Are you a Jap-lover?
+
+1171
+03:13:34,698 --> 03:13:38,368
+-30,000 enlisted this morning.
+-Bunch of saps...
+
+1172
+03:13:38,535 --> 03:13:42,039
+-Why are they saps?
+-Let's not talk about the war.
+
+1173
+03:13:43,165 --> 03:13:45,000
+You talk to Carlo.
+
+1174
+03:13:46,960 --> 03:13:50,547
+Only saps risk their lives for strangers.
+
+1175
+03:13:50,631 --> 03:13:54,093
+-That's Pop talking.
+-You're right, that's Pop talking!
+
+1176
+03:13:54,218 --> 03:13:58,013
+-They risk their lives for their country.
+-Country isn't your blood.
+
+1177
+03:13:58,097 --> 03:14:04,019
+-I don't feel that way.
+-Then quit college andjoin the army!
+
+1178
+03:14:04,103 --> 03:14:05,604
+I did.
+
+1179
+03:14:06,563 --> 03:14:09,525
+I've enlisted in the Marines.
+
+1180
+03:14:11,735 --> 03:14:14,988
+-Why didn't you come to us?
+-What do you mean?
+
+1181
+03:14:15,072 --> 03:14:19,326
+-Pop managed to get you a deferment.
+-I didn't ask for it.
+
+1182
+03:14:20,077 --> 03:14:22,162
+I didn't want it.
+
+1183
+03:14:23,330 --> 03:14:25,749
+Come on! Knock it off!
+
+1184
+03:14:25,916 --> 03:14:29,670
+-Punk!
+-Sonny, sit down.
+
+1185
+03:14:32,673 --> 03:14:36,176
+Mommy, Daddy's fighting again!
+
+1186
+03:14:39,263 --> 03:14:42,015
+Go and show Carlo the tree.
+
+1187
+03:14:52,317 --> 03:14:53,944
+Nice.
+
+1188
+03:14:55,779 --> 03:14:57,322
+Nice.
+
+1189
+03:14:57,948 --> 03:15:00,617
+Break your father's heart
+on his birthday.
+
+1190
+03:15:01,743 --> 03:15:04,496
+That's swell, Mike. Congratulations.
+
+1191
+03:15:04,580 --> 03:15:06,707
+Don't encourage him!
+
+1192
+03:15:06,790 --> 03:15:09,460
+Get me a drink. Go on!
+
+1193
+03:15:13,338 --> 03:15:16,800
+You don't understand.
+Your father has plans for you.
+
+1194
+03:15:16,967 --> 03:15:21,180
+Many times he and I have talked
+about your future.
+
+1195
+03:15:22,973 --> 03:15:26,810
+You've talked to my father
+about my future?
+
+1196
+03:15:28,103 --> 03:15:32,399
+-My future.
+-Mikey, he has high hopes for you.
+
+1197
+03:15:32,483 --> 03:15:38,030
+-I have my own plans for my future.
+-Did you go to college to get stupid?
+
+1198
+03:15:38,113 --> 03:15:39,990
+He's here!
+
+1199
+03:15:41,950 --> 03:15:43,911
+Come on.
+
+1200
+03:15:46,163 --> 03:15:48,123
+Stupid!
+
+1201
+03:16:05,390 --> 03:16:07,768
+Surprise!
+
+1202
+03:16:10,854 --> 03:16:16,527
+<i>For he's a joIIy good feIIow
+For he's a joIIy good feIIow</i>
+
+1203
+03:16:16,735 --> 03:16:20,531
+<i>That nobody can deny
+Nobody can deny...</i>
+

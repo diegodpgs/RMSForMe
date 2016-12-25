@@ -1,0 +1,5818 @@
+1
+00:00:26,800 --> 00:00:29,837
+Ho-ho-ho!
+Merry Christmas!
+
+2
+00:00:29,920 --> 00:00:31,797
+Hey, guys!
+
+3
+00:00:49,160 --> 00:00:52,550
+- Ho! Merry Christmas.
+- Thanks.
+- Hey!
+
+4
+00:00:52,640 --> 00:00:55,598
+<i>Ladies and gentlemen,</i>
+<i>can I have your attention?</i>
+
+5
+00:00:55,680 --> 00:00:59,116
+<i>This has been our best year ever</i>
+<i>thanks to Do-It-All-For-You-Dolly.</i>
+
+6
+00:01:00,800 --> 00:01:03,872
+<i>A- And I think we should give</i>
+<i>a special thanks to the people...</i>
+
+7
+00:01:03,960 --> 00:01:06,520
+<i>responsible for our</i>
+<i>record-breaking sales,</i>
+
+8
+00:01:06,600 --> 00:01:10,229
+<i>our Midwest marketing</i>
+<i>and distribution team,</i>
+
+9
+00:01:10,320 --> 00:01:12,754
+- <i>Scott Calvin and Susan Perry!</i>
+- Yeah!
+
+10
+00:01:12,840 --> 00:01:16,958
+<i>Let's hear it for 'em!</i>
+<i>Come on!</i>
+
+11
+00:01:17,040 --> 00:01:20,555
+<i>Susan, darling, come on up here.</i>
+<i>Aren't they adorable?</i>
+
+12
+00:01:20,600 --> 00:01:22,989
+<i>Say a few words.</i>
+
+13
+00:01:23,080 --> 00:01:25,674
+<i>Thank you very much.</i>
+<i>This was really a team effort,</i>
+
+14
+00:01:25,720 --> 00:01:28,314
+<i>and I would just want to thank</i>
+<i>every one of you individually...</i>
+
+15
+00:01:28,400 --> 00:01:31,039
+<i>But we don't have time</i>
+<i>for that, do we?</i>
+
+16
+00:01:31,120 --> 00:01:33,236
+<i>In all seriousness,</i>
+<i>um, here at B&R Toys,</i>
+
+17
+00:01:33,280 --> 00:01:36,397
+<i>we're not just about makin'</i>
+<i>a profit in quality toys.</i>
+
+18
+00:01:36,440 --> 00:01:38,954
+<i>We're also about families.</i>
+
+19
+00:01:39,000 --> 00:01:41,355
+<i>But our families aren't</i>
+<i>here with us right now.</i>
+
+20
+00:01:41,400 --> 00:01:44,995
+<i>Which is probably why Johnson's</i>
+<i>secretary is sittin' in his lap.</i>
+
+21
+00:01:45,080 --> 00:01:47,548
+<i>You guys have a great party,</i>
+<i>have a great year.</i>
+
+22
+00:01:47,640 --> 00:01:50,359
+<i>Drive safe.</i>
+<i>Thanks very much.</i>
+
+23
+00:01:52,680 --> 00:01:54,910
+<i>Aren't they wonderful?</i>
+
+24
+00:01:58,000 --> 00:02:00,195
+Laura, I was hopin' to catch you
+before you'd left your house.
+
+25
+00:02:00,280 --> 00:02:05,070
+I ran real late today. You wouldn't
+believe the traffic out here.
+
+26
+00:02:05,120 --> 00:02:09,875
+Yeah, same to you!
+And that's not very ladylike!
+
+27
+00:02:09,920 --> 00:02:12,115
+Anyway, I'll try to get
+to my house as soon as I can.
+
+28
+00:02:12,160 --> 00:02:14,754
+Oh, there's the problem right there.
+
+29
+00:02:14,800 --> 00:02:17,155
+Three car pile-up.
+I'm really gonna be late.
+
+30
+00:02:17,200 --> 00:02:21,034
+<i>Hark, carol bells, sweet silver bells</i>
+<i>All seem to sing throw cares away</i>
+
+31
+00:02:21,080 --> 00:02:25,312
+<i>Christmas is here bringing good cheer</i>
+<i>To young and old, meek and the bold</i>
+
+32
+00:02:25,400 --> 00:02:29,234
+<i>Ding dong and dong, balance in song</i>
+<i>Ring joyful ring, all caroling</i>
+
+33
+00:02:29,320 --> 00:02:33,233
+<i>One seems to hear words of good cheer</i>
+<i>from everywhere filling the air</i>
+
+34
+00:02:33,320 --> 00:02:37,233
+<i>Oh, how they pound, raising the sound</i>
+<i>go hand in hand calling in the town</i>
+
+35
+00:02:37,280 --> 00:02:41,478
+<i>Gaily they ring while people sing</i>
+<i>songs of good cheer, Christmas is here</i>
+
+36
+00:02:41,560 --> 00:02:43,471
+<i>Merry, merry, merry</i>
+<i>merry Christmas</i>
+
+37
+00:02:43,520 --> 00:02:45,397
+<i>Merry, merry, merry</i>
+<i>merry Christmas</i>
+
+38
+00:02:45,440 --> 00:02:49,228
+<i>On we will sing, dawn with a hymn</i>
+<i>Angel will come to every home</i>
+
+39
+00:02:49,280 --> 00:02:53,398
+<i>Hark, carol bells, sweet silver bells</i>
+<i>All seem to sing throw cares away</i>
+
+40
+00:02:53,480 --> 00:02:56,995
+<i>Hark, carol bells, sweet silver bells</i>
+<i>one seems to hear words of good cheer</i>
+
+41
+00:02:57,080 --> 00:03:00,868
+<i>From everywhere, filling the air</i>
+<i>Oh, how they pound, raising the sound</i>
+
+42
+00:03:00,920 --> 00:03:02,831
+<i>Go hand in hand</i>
+<i>Calling in the town</i>
+
+43
+00:03:02,920 --> 00:03:06,754
+<i>Gaily they ring while people sing</i>
+<i>songs of good cheer, Christmas is here</i>
+
+44
+00:03:06,840 --> 00:03:08,751
+<i>Merry, merry, merry</i>
+<i>merry Christmas</i>
+
+45
+00:03:08,800 --> 00:03:10,870
+<i>Merry, merry, merry</i>
+<i>merry Christmas</i>
+
+46
+00:03:10,960 --> 00:03:14,589
+<i>On we will sing, dawn with a hymn</i>
+<i>Angel will come to every home</i>
+
+47
+00:03:14,680 --> 00:03:19,879
+<i>On we will sing, dawn with a hymn</i>
+<i>Angel will come to every home</i>
+
+48
+00:03:21,240 --> 00:03:24,516
+<i>Ding dong ding</i>
+
+49
+00:03:24,600 --> 00:03:27,478
+<i>Dong</i>
+
+50
+00:03:32,760 --> 00:03:34,910
+All right. Let's go.
+
+51
+00:03:35,000 --> 00:03:37,673
+- Bye, Charlie.
+- Bye, Neal.
+
+52
+00:03:41,040 --> 00:03:44,112
+- Oh, sorry I'm late. Hi.
+- Hi.
+
+53
+00:03:44,160 --> 00:03:46,993
+- Did you want to come in for a minute?
+- Neal's waiting in the car, so...
+
+54
+00:03:47,080 --> 00:03:50,914
+- Why doesn't he come in?
+- 'Cause, Daddy, he says you'll
+just end up saying something snotty.
+
+55
+00:03:51,000 --> 00:03:54,754
+Not necessarily. Could be rude
+or sarcastic. Whatever it takes.
+
+56
+00:03:54,840 --> 00:03:56,751
+- See? I gotta go. Here.
+- Oh, come on. Come on.
+
+57
+00:03:56,800 --> 00:03:59,473
+Christmas Eve.
+Just for a minute.
+
+58
+00:04:01,760 --> 00:04:04,354
+Watch those steps.
+They're real slippery.
+
+59
+00:04:04,440 --> 00:04:06,874
+- Ooh!
+- Told ya.
+
+60
+00:04:11,720 --> 00:04:15,998
+- So...
+- Well...
+
+61
+00:04:16,080 --> 00:04:18,958
+- You goin' to your mom's for dinner?
+- Actually, we're gonna be
+with Neal's family.
+
+62
+00:04:19,000 --> 00:04:20,911
+Ah, Christmas at the pound.
+
+63
+00:04:23,920 --> 00:04:25,956
+There aren't that many
+presents over there.
+
+64
+00:04:26,040 --> 00:04:28,076
+Well, that's because
+Santa isn't here yet.
+
+65
+00:04:28,120 --> 00:04:30,315
+Neal doesn't believe
+in Santa.
+
+66
+00:04:30,360 --> 00:04:32,555
+Well, Neal's head
+comes to a point.
+
+67
+00:04:32,600 --> 00:04:36,513
+- He's smart. He's a doctor.
+- He's not a doctor. He's a psychiatrist.
+
+68
+00:04:36,600 --> 00:04:38,511
+Take your coat off.
+You're stickin' around, aren't ya?
+
+69
+00:04:41,240 --> 00:04:44,630
+I'll be right there.
+Just a sec.
+
+70
+00:04:44,720 --> 00:04:48,076
+- I just want to...
+- Did that jerk tell Charlie
+there was no Santa Claus?
+
+71
+00:04:48,120 --> 00:04:52,750
+What? No. Oh, Charlie came home
+from school the other day in tears,
+
+72
+00:04:52,800 --> 00:04:56,156
+because some big kid told him
+there was no such thing as Santa.
+
+73
+00:04:56,240 --> 00:04:58,356
+And, you know Neal.
+Well, he sat him down and...
+
+74
+00:04:58,440 --> 00:05:00,271
+He told him that
+there was a Santa Claus.
+
+75
+00:05:00,360 --> 00:05:03,318
+Well, all he said was that
+Santa was more like a feeling.
+
+76
+00:05:03,400 --> 00:05:05,834
+You know, more like
+a state of mind than a person.
+
+77
+00:05:05,880 --> 00:05:10,954
+Kind of like Neal.
+And who gave you permission
+to tell Charlie there's no Santa Claus?
+
+78
+00:05:11,000 --> 00:05:14,436
+I think if we're gonna destroy our son's
+illusions, I should be a part of it.
+
+79
+00:05:14,520 --> 00:05:16,829
+- Yeah, but you're never around,
+are you, Scott?
+- Oh, oh, please.
+
+80
+00:05:16,920 --> 00:05:20,959
+Listen, all we are trying to do is
+give Charlie a firm grasp on reality.
+
+81
+00:05:21,040 --> 00:05:24,430
+That's a good idea. You don't want kids
+runnin' around usin' their imaginations.
+
+82
+00:05:24,520 --> 00:05:27,353
+Oh, yeah. This from the guy responsible
+for the Do-It-All-For-You-Dolly.
+
+83
+00:05:27,440 --> 00:05:29,795
+- Leave her out of this.
+- <i>Don't you burp me, don't you change me</i>
+
+84
+00:05:29,880 --> 00:05:33,111
+- <i>I'm the dolly...</i>
+- Why do you guys always have to fight?
+
+85
+00:05:33,200 --> 00:05:35,270
+I, uh, swear we're not fighting.
+It's your mom's singing.
+
+86
+00:05:35,320 --> 00:05:38,710
+It sounds a lot like fighting,
+doesn't it? Cats even.
+
+87
+00:05:38,800 --> 00:05:42,998
+The trouble is, Neal and your mom,
+they don't believe in Santa
+because they were real naughty.
+
+88
+00:05:43,040 --> 00:05:45,554
+Which is why they'll probably get
+lumps of coal in their stockings.
+
+89
+00:05:45,640 --> 00:05:50,395
+I don't know. It seems kind of babyish
+to believe in that kind of stuff.
+
+90
+00:05:50,480 --> 00:05:53,631
+What are you talkin' about? I believe
+in Santa Claus. I'm not a baby.
+
+91
+00:05:53,720 --> 00:05:55,676
+- Well...
+- Maybe it's time you left.
+
+92
+00:05:55,760 --> 00:05:59,230
+We don't want to keep
+Dr Pinhead waiting.
+
+93
+00:06:01,360 --> 00:06:03,828
+Come here.
+
+94
+00:06:05,200 --> 00:06:08,272
+Do I gotta stay?
+
+95
+00:06:08,360 --> 00:06:13,878
+Listen, you and your daddy are
+gonna have a great Christmas, okay?
+
+96
+00:06:13,920 --> 00:06:16,514
+- Will you pick me up tomorrow?
+- Of course.
+
+97
+00:06:16,600 --> 00:06:18,431
+- Early?
+- Yes.
+
+98
+00:06:18,520 --> 00:06:20,670
+We're talking sunup?
+You're here?
+
+99
+00:06:22,200 --> 00:06:26,352
+You'll be fine. Ah, merry
+Christmas, Charlie. I love you.
+
+100
+00:06:26,440 --> 00:06:28,510
+I love you too, Mom.
+
+101
+00:06:30,040 --> 00:06:34,318
+- You be a good boy, okay?
+- Bye, Mom.
+
+102
+00:06:34,880 --> 00:06:36,996
+Four hours?
+
+103
+00:06:44,040 --> 00:06:50,991
+<i>I'm dreamin'</i>
+<i>of a white Christmas</i>
+
+104
+00:06:51,080 --> 00:06:55,312
+- <i>Your Christmas will be perfect...</i>
+- <i>Just like the ones I used to know</i>
+
+105
+00:06:55,400 --> 00:06:57,834
+<i>... with its own</i>
+<i>built-in turkey timer.</i>
+
+106
+00:06:57,880 --> 00:07:01,555
+<i>Where those treetops</i>
+<i>glisten</i>
+
+107
+00:07:01,640 --> 00:07:05,155
+<i>- And now, we return to the most</i>
+<i>cherished of Christmas stories,</i>
+<i>- And children listen</i>
+
+108
+00:07:05,200 --> 00:07:09,716
+- Miracle On 34th Street,
+<i>starring Natalie Wood and...</i>
+<i>- To hear sleigh bells in the snow...</i>
+
+109
+00:07:24,120 --> 00:07:28,716
+That is exactly why you want
+a high-quality fire extinguisher
+right in the kitchen.
+
+110
+00:07:28,800 --> 00:07:31,155
+Those flames
+were really big, Dad.
+
+111
+00:07:31,240 --> 00:07:34,198
+- Yeah, turkey's funny that way.
+- Dad!
+
+112
+00:07:35,040 --> 00:07:37,270
+'Ey!
+
+113
+00:07:45,640 --> 00:07:47,232
+It's done.
+
+114
+00:07:49,440 --> 00:07:53,877
+You like osso buco, Charlie?
+They're closed.
+
+115
+00:07:53,960 --> 00:07:56,918
+You know, Neal's
+a real good cook.
+
+116
+00:07:57,000 --> 00:08:00,117
+Yeah, and you should see him
+walk on water.
+
+117
+00:08:00,200 --> 00:08:02,839
+- You don't like him
+very much, do ya, Dad?
+- Charlie, yeah...
+
+118
+00:08:02,880 --> 00:08:04,996
+I was joking, okay? I'm sorry.
+I was just kiddin' around.
+
+119
+00:08:05,080 --> 00:08:08,436
+I like him a lo... Yeah, sure,
+I like him. You know, there...
+
+120
+00:08:08,480 --> 00:08:11,472
+There's just something
+about him that makes me wanna...
+
+121
+00:08:11,560 --> 00:08:13,676
+Lash out irrationally?
+
+122
+00:08:13,720 --> 00:08:16,951
+- Where did you hear that?
+- From Neal.
+
+123
+00:08:17,040 --> 00:08:19,395
+I learn a lot from him.
+He listens to me.
+
+124
+00:08:19,480 --> 00:08:21,914
+Yeah. Then he
+charges ya for it.
+
+125
+00:08:29,400 --> 00:08:32,676
+<i>I'm dreaming</i>
+
+126
+00:08:32,760 --> 00:08:37,231
+- <i>Of a white Christmas</i>
+- All right. Denny's.
+
+127
+00:08:37,320 --> 00:08:42,189
+<i>- Just like the ones I used to know</i>
+- It's always open.
+- I don't wanna eat here.
+
+128
+00:08:42,280 --> 00:08:44,430
+- What are you talkin' about?
+Everybody likes Denny's.
+- <i>Where those treetops</i>
+
+129
+00:08:44,480 --> 00:08:46,357
+- It's an American institution.
+- <i>Glisten</i>
+
+130
+00:08:55,000 --> 00:08:57,230
+- Are you with Hatsutashi?
+- No!
+
+131
+00:08:57,280 --> 00:09:00,511
+- Dad burnt the turkey.
+- Oh, yeah. This way. Come on.
+
+132
+00:09:05,000 --> 00:09:07,150
+- Right over there.
+- Thank you.
+
+133
+00:09:16,920 --> 00:09:19,559
+- Here we go.
+- Burn the turkey?
+
+134
+00:09:22,440 --> 00:09:27,389
+- Coffee?
+- No, thank you, Judy.
+
+135
+00:09:27,480 --> 00:09:31,712
+What do you say we start out
+with cold glasses...
+
+136
+00:09:31,800 --> 00:09:35,634
+of delicious seasonal
+favourite eggnog?
+
+137
+00:09:35,720 --> 00:09:38,359
+- I don't like eggnog.
+- We're out.
+
+138
+00:09:38,440 --> 00:09:40,749
+- Coffee. Decaf.
+- Mm-hmm.
+
+139
+00:09:40,800 --> 00:09:44,349
+- I'll have chocolate milk, please.
+- We're out.
+
+140
+00:09:44,440 --> 00:09:47,637
+- Plain milk's fine.
+- Okay.
+
+141
+00:09:47,720 --> 00:09:50,678
+- At least we know
+they got hot apple pie.
+- We did.
+
+142
+00:09:50,760 --> 00:09:52,990
+Mm-hmm!
+
+143
+00:10:01,000 --> 00:10:03,389
+This is nice.
+
+144
+00:10:06,840 --> 00:10:09,832
+"And Mama in her kerchief
+and I in my cap...
+
+145
+00:10:09,880 --> 00:10:12,474
+- <i>I'm dreaming</i>
+- "had just settled down
+for a long winter's nap.
+
+146
+00:10:12,560 --> 00:10:14,994
+- <i>Of a white</i>
+- "When out on the lawn,
+there arose such a clatter,
+
+147
+00:10:15,080 --> 00:10:17,548
+- <i>Christmas</i>
+- "I sprang from my bed
+to see what was the matter.
+
+148
+00:10:17,600 --> 00:10:21,070
+"Away to the window
+I flew like a flash.
+
+149
+00:10:21,120 --> 00:10:26,513
+"With a miniature sleigh and St.
+Nich... and Prancer and Dancer...
+
+150
+00:10:26,600 --> 00:10:28,955
+...and to all a good night."
+
+151
+00:10:36,280 --> 00:10:39,670
+- What's that?
+- What's what?
+
+152
+00:10:39,760 --> 00:10:41,751
+"A Rose Suchak ladder"?
+
+153
+00:10:41,840 --> 00:10:45,435
+It's not a ladder.
+I said, "arose such a clatter."
+
+154
+00:10:45,520 --> 00:10:47,636
+It means, eh,
+"came a big noise."
+
+155
+00:10:47,680 --> 00:10:49,557
+What?
+
+156
+00:10:50,840 --> 00:10:54,958
+Charlie, "arose" is a word
+that means "it came,"
+
+157
+00:10:55,000 --> 00:10:56,911
+and "clatter"
+is a big noise.
+
+158
+00:10:56,960 --> 00:10:58,837
+Now, please, go to sleep.
+Shut your eyes.
+
+159
+00:11:00,680 --> 00:11:03,638
+How do reindeer fly?
+They don't have any wings.
+
+160
+00:11:03,720 --> 00:11:07,076
+- Fairy dust?
+- That's from <i>Peter Pan,</i> Dad.
+
+161
+00:11:07,160 --> 00:11:09,720
+- Horns.
+- Antlers.
+
+162
+00:11:09,800 --> 00:11:13,429
+Whatever.
+Their, uh, antlers give them...
+
+163
+00:11:13,520 --> 00:11:16,478
+You know, ther... ther... there's
+a slipstream effect... The air go...
+
+164
+00:11:16,560 --> 00:11:18,391
+T-They move fa...
+They're weightless.
+
+165
+00:11:18,480 --> 00:11:22,996
+- But if Santa's so fat, how
+did he get down the chimneys?
+- He sucks it in like Grandpa.
+
+166
+00:11:23,040 --> 00:11:26,271
+But what about people
+who don't have fireplaces?
+How does he get into their house?
+
+167
+00:11:26,360 --> 00:11:30,797
+Charlie, sometimes believing
+in something means you...
+
+168
+00:11:32,960 --> 00:11:34,871
+means you just
+believe in it.
+
+169
+00:11:34,960 --> 00:11:38,714
+Santa uses reindeer to fly because
+that's how he has to get around.
+
+170
+00:11:38,800 --> 00:11:41,712
+But you do believe
+in Santa, right, Dad?
+
+171
+00:11:43,280 --> 00:11:47,159
+Of course I believe in Santa.
+Now, please, go to sleep.
+
+172
+00:11:54,320 --> 00:11:57,392
+- Dad?
+- What is it, Charlie?
+
+173
+00:11:57,440 --> 00:12:01,718
+Maybe you better leave some cookies
+and milk out, just in case, okay?
+
+174
+00:12:01,760 --> 00:12:05,673
+Great. I'll just go
+preheat the oven.
+
+175
+00:12:05,720 --> 00:12:09,235
+And don't forget
+the fire extinguisher.
+
+176
+00:12:09,320 --> 00:12:11,675
+Good night, Charlie.
+
+177
+00:12:25,840 --> 00:12:28,274
+Ho!
+
+178
+00:12:30,120 --> 00:12:32,350
+Now, settle down there.
+
+179
+00:12:42,880 --> 00:12:46,190
+Dad! Dad!
+
+180
+00:12:46,240 --> 00:12:49,869
+- W-What?
+- I heard a clatter.
+
+181
+00:12:49,920 --> 00:12:52,434
+- What, Charlie?
+- There! A clatter!
+
+182
+00:12:52,520 --> 00:12:56,274
+- Charlie, what are you talkin' about?
+- You know, "it came a big noise."
+
+183
+00:12:56,360 --> 00:12:58,237
+It's coming from outside.
+
+184
+00:12:58,320 --> 00:13:00,436
+Charlie, it's just
+the wind or somethin'.
+
+185
+00:13:00,520 --> 00:13:03,080
+Come on.
+Let's go back to bed.
+
+186
+00:13:06,040 --> 00:13:08,508
+- Somebody's on the roof.
+- Maybe it's Santa.
+
+187
+00:13:08,600 --> 00:13:12,434
+Not now, Charlie.
+I want you to sit here,
+and I want you to stay right there.
+
+188
+00:13:14,240 --> 00:13:18,756
+- Charlie, do you know how to call 911?
+- Sure. 911.
+
+189
+00:13:18,840 --> 00:13:21,229
+Yeah. Great. Stay there.
+
+190
+00:13:35,000 --> 00:13:37,719
+- Hey, you!
+- What's that...
+
+191
+00:13:37,760 --> 00:13:41,150
+Whoa! Whoa! Wh-Whoa!
+
+192
+00:13:57,560 --> 00:14:01,758
+Whoo-hoo!
+Hey, buddy.
+
+193
+00:14:01,840 --> 00:14:07,312
+All right, you should
+just stay still. Perfect.
+
+194
+00:14:09,960 --> 00:14:11,996
+- You got him!
+- Charlie, stay where you are.
+
+195
+00:14:12,080 --> 00:14:14,992
+Charlie, would you listen to me?
+Stay up there!
+
+196
+00:14:15,080 --> 00:14:18,629
+It is Santa!
+You killed him.
+
+197
+00:14:18,680 --> 00:14:21,274
+Did not.
+And he's not Santa.
+
+198
+00:14:21,360 --> 00:14:23,794
+Well, he was.
+
+199
+00:14:25,280 --> 00:14:27,157
+He's got some I.D.
+On him, I bet.
+
+200
+00:14:27,200 --> 00:14:30,351
+Fella, if you can hear me, I'm just
+lookin' for your identification.
+
+201
+00:14:30,440 --> 00:14:35,673
+Once I figure out who ya are, I'll...
+I'll give you a lift back to the mall.
+
+202
+00:14:35,760 --> 00:14:39,150
+"If something should
+happen to me, put on my suit.
+The reindeer will know what to do."
+
+203
+00:14:39,240 --> 00:14:42,471
+Yeah, right.
+
+204
+00:14:54,200 --> 00:14:56,270
+Whoa.
+
+205
+00:15:23,600 --> 00:15:26,512
+- Dad!
+- Hey.
+
+206
+00:15:26,600 --> 00:15:28,511
+He disappeared.
+
+207
+00:15:28,600 --> 00:15:33,549
+- Whoa!
+- He's naked somewhere.
+
+208
+00:15:33,600 --> 00:15:36,353
+- You gonna put on the suit
+like the card said? Are you?
+- No. No.
+
+209
+00:15:36,440 --> 00:15:39,716
+- Come on, Dad. I wanna go too.
+- Stop it, Charlie.
+We're not goin' anywhere.
+
+210
+00:15:39,800 --> 00:15:44,112
+- You never do what I wanna do!
+- Would you please be quiet for a minute
+so I can figure this out?
+
+211
+00:15:46,360 --> 00:15:50,353
+Reindeer up on the roof.
+Santa suit layin' on the ground.
+
+212
+00:15:50,440 --> 00:15:54,228
+Guy fell. Not my fault.
+
+213
+00:15:54,320 --> 00:15:57,995
+Reindeer on the roof.
+That is hard to explain.
+
+214
+00:15:58,040 --> 00:16:01,749
+It's the ladder.
+
+215
+00:16:03,400 --> 00:16:06,597
+Where the hell'd
+this come from?
+
+216
+00:16:06,680 --> 00:16:10,116
+Look here, Dad.
+"The Rose Suchak Ladder Company."
+
+217
+00:16:10,200 --> 00:16:14,716
+- Huh?
+- "Out by the roof
+there's a Rose Suchak ladder."
+
+218
+00:16:14,800 --> 00:16:18,839
+- Just like the poem.
+- Just like the poem?
+
+219
+00:16:18,920 --> 00:16:21,673
+Charlie, come on down from there.
+Charlie, get down from there!
+
+220
+00:16:21,720 --> 00:16:25,349
+Dad! You gotta see this!
+
+221
+00:16:25,400 --> 00:16:27,516
+- Don't touch anything!
+- It's great!
+
+222
+00:16:27,600 --> 00:16:31,309
+I'm just gonna call the police.
+I'll carry this stuff up there.
+Let them deal with it, okay?
+
+223
+00:16:34,040 --> 00:16:38,033
+Whoa! This guy was huge.
+
+224
+00:16:38,200 --> 00:16:40,111
+Dad, isn't this neat?
+
+225
+00:16:40,160 --> 00:16:43,869
+Charlie. Charlie!
+Stay away from those things.
+
+226
+00:16:43,960 --> 00:16:46,190
+They're reindeer.
+You don't know where they've been.
+
+227
+00:16:46,280 --> 00:16:49,955
+They all look like
+they've got key lime disease.
+
+228
+00:16:53,680 --> 00:16:55,796
+Easy, Rudolph.
+
+229
+00:16:58,120 --> 00:17:00,156
+Excuse me, Comet.
+
+230
+00:17:00,240 --> 00:17:02,993
+Dad! Check out Santa's sleigh.
+
+231
+00:17:03,080 --> 00:17:05,594
+There's no such thing
+as Santa's sleigh.
+
+232
+00:17:05,680 --> 00:17:10,754
+- Sure there is. You said
+you believed in Santa, right?
+- I did? I do.
+
+233
+00:17:10,840 --> 00:17:15,311
+What about the reindeer?
+These are Santa's reindeer, aren't they?
+
+234
+00:17:15,360 --> 00:17:18,511
+I hope not.
+These are, uh,
+
+235
+00:17:21,280 --> 00:17:23,635
+a gift.
+
+236
+00:17:23,680 --> 00:17:26,831
+Probably from
+the cable company.
+
+237
+00:17:26,880 --> 00:17:29,872
+We're getting the Disney Channel now.
+Merry Christmas.
+
+238
+00:17:29,960 --> 00:17:33,077
+- Now, hop out of there, please.
+- I don't wanna go.
+
+239
+00:17:33,120 --> 00:17:36,590
+Listen, Charlie.
+I'm not kidding. Let's go!
+
+240
+00:17:37,840 --> 00:17:41,389
+- Whoa! Whoa!
+- Yeah! Let's go! Whoa!
+
+241
+00:17:47,520 --> 00:17:51,877
+Charlie! Hold on, Charlie!
+
+242
+00:17:55,800 --> 00:17:57,392
+Whoa!
+
+243
+00:18:00,200 --> 00:18:03,749
+Giddyap, Comet!
+Whoa, let's go!
+
+244
+00:18:06,960 --> 00:18:09,394
+Dad! Climb up here!
+
+245
+00:18:10,440 --> 00:18:11,839
+There we go!
+
+246
+00:18:11,920 --> 00:18:15,629
+So, uh, if we go straight
+on this road, and we hit I-94...
+
+247
+00:18:34,280 --> 00:18:37,795
+Well, we made good time.
+Now what do we do?
+
+248
+00:18:37,880 --> 00:18:40,348
+- Get the bag of toys.
+- And do what?
+
+249
+00:18:40,440 --> 00:18:43,477
+- Go down the chimney.
+- Down the chimney?
+
+250
+00:18:43,560 --> 00:18:46,199
+You want me to take
+the toys down the chimney...
+
+251
+00:18:46,280 --> 00:18:49,238
+into a strange house
+in my underwear?
+
+252
+00:18:49,320 --> 00:18:52,278
+No. You gotta
+put the suit on first.
+
+253
+00:18:52,360 --> 00:18:55,636
+You know what we're gonna do
+is we're gonna get outta here,
+
+254
+00:18:55,720 --> 00:18:59,235
+because this whole thing
+is stupid.
+
+255
+00:18:59,320 --> 00:19:02,357
+How come everything
+I wanna do is stupid?
+
+256
+00:19:06,280 --> 00:19:08,271
+I didn't say that.
+
+257
+00:19:23,320 --> 00:19:28,030
+Freezing my nubs off out here, and you
+want me to get into a Santa costume.
+
+258
+00:19:28,120 --> 00:19:30,350
+This is great.
+A Santa costume.
+
+259
+00:19:30,400 --> 00:19:34,518
+Oh, this thing.
+You never know where it's been.
+
+260
+00:19:34,600 --> 00:19:36,636
+A thousand malls.
+
+261
+00:19:36,720 --> 00:19:41,157
+Well, I hope you're happy, Comet.
+Hope you're happy. But most of all,
+
+262
+00:19:41,240 --> 00:19:44,516
+I hope the guy that
+lives here is a tailor!
+
+263
+00:19:44,600 --> 00:19:46,989
+Nice coat.
+
+264
+00:19:47,920 --> 00:19:51,549
+Well, how do I look? Nice?
+
+265
+00:19:51,640 --> 00:19:54,200
+- You forgot the sash.
+- You're right.
+
+266
+00:19:54,280 --> 00:19:56,271
+This completes the ensemble.
+
+267
+00:19:58,400 --> 00:20:00,914
+All right. Got my boots.
+
+268
+00:20:00,960 --> 00:20:03,952
+Now I've got the suit on. How
+am I supposed to know what to leave?
+
+269
+00:20:04,000 --> 00:20:06,833
+- Maybe there's a list.
+- A list. How silly of me.
+
+270
+00:20:06,880 --> 00:20:09,599
+Of course there's a list.
+
+271
+00:20:12,440 --> 00:20:15,159
+Careful, Dad!
+
+272
+00:20:15,240 --> 00:20:18,915
+- I'm okay. I'm okay. I'm okay!
+- Look! You're flying!
+
+273
+00:20:19,000 --> 00:20:21,560
+It's okay. I'm used to it.
+I lived through the '60s.
+
+274
+00:20:21,600 --> 00:20:22,874
+Whoa, whoa, whoa!
+
+275
+00:21:08,040 --> 00:21:09,917
+Nice teeth.
+
+276
+00:21:12,680 --> 00:21:14,830
+Who's down there?
+
+277
+00:21:17,280 --> 00:21:18,918
+It's the holidays.
+Come on. Come on.
+
+278
+00:21:22,640 --> 00:21:26,269
+Charlie, I need
+a little help down here!
+
+279
+00:21:29,280 --> 00:21:33,478
+Whoa! How'd you do that?
+What'd it feel like, Dad?
+
+280
+00:21:33,560 --> 00:21:36,597
+It felt like
+<i>America's Most Wanted.</i>
+
+281
+00:21:36,680 --> 00:21:40,798
+Now, pull me in, quick.
+We gotta get outta here.
+
+282
+00:21:40,880 --> 00:21:43,792
+Thanks. We gotta go home.
+How do you start this thing?
+
+283
+00:21:43,840 --> 00:21:46,832
+Just like that!
+
+284
+00:21:51,680 --> 00:21:54,478
+Whoa!
+
+285
+00:21:54,520 --> 00:21:57,830
+This could be
+a really long night.
+
+286
+00:21:57,880 --> 00:22:01,873
+Do it again, Dad. Please.
+
+287
+00:22:01,960 --> 00:22:05,077
+I can't. That thing's empty.
+
+288
+00:22:06,760 --> 00:22:09,228
+There's nothin' in the bag.
+
+289
+00:22:09,280 --> 00:22:11,953
+Even if there was, d-didn't
+you notice there's no chimney?
+
+290
+00:22:12,000 --> 00:22:14,355
+Where there's no chimney,
+there's no fireplace.
+
+291
+00:22:15,520 --> 00:22:17,397
+Are you growling at me?
+
+292
+00:22:19,040 --> 00:22:21,315
+Look, Comet, like I said,
+
+293
+00:22:21,400 --> 00:22:24,358
+there is nothing left...
+
+294
+00:22:24,440 --> 00:22:27,637
+That's so weird, 'cause
+I know when I did... that...
+
+295
+00:22:27,680 --> 00:22:30,353
+No, no, no, no, no!
+Hold it!
+
+296
+00:22:30,440 --> 00:22:34,035
+There's no chimney here. Can you
+hear me? No chimney, all right?
+
+297
+00:22:34,080 --> 00:22:36,640
+Lookin' good, Dad.
+
+298
+00:22:36,720 --> 00:22:39,518
+You have got to be kidding!
+Come on!
+
+299
+00:22:39,600 --> 00:22:42,114
+Look at the size
+of this thing.
+
+300
+00:22:53,800 --> 00:22:55,916
+Weird! Ow!
+
+301
+00:23:00,640 --> 00:23:02,039
+Ouch! Oh!
+
+302
+00:23:08,000 --> 00:23:10,833
+- Santa?
+- Scott Calvin.
+
+303
+00:23:10,920 --> 00:23:13,559
+How come your clothes
+are so baggy?
+
+304
+00:23:13,640 --> 00:23:18,191
+Because Santa is watchin'
+his saturated fats.
+
+305
+00:23:18,280 --> 00:23:22,671
+- How come you don't have a beard?
+- Because I shaved!
+
+306
+00:23:22,720 --> 00:23:26,998
+Do you want this doll or not?
+Go back to sleep.
+
+307
+00:23:32,200 --> 00:23:34,430
+You're supposed
+to drink the milk.
+
+308
+00:23:34,520 --> 00:23:37,080
+Look, I am
+lactose intolerant.
+
+309
+00:23:37,160 --> 00:23:41,870
+And I am just about this close
+to taking all those presents
+back up the chimney with me.
+
+310
+00:23:43,640 --> 00:23:46,234
+"Supposed to drink the milk."
+
+311
+00:23:47,880 --> 00:23:49,313
+Shut your eyes.
+
+312
+00:23:50,560 --> 00:23:52,915
+Yo!
+
+313
+00:23:56,240 --> 00:23:58,151
+How do you get in
+without a fireplace?
+
+314
+00:23:58,200 --> 00:24:00,589
+I don't know.
+One just kind of appeared.
+
+315
+00:24:00,640 --> 00:24:03,473
+Awesome!
+
+316
+00:24:10,600 --> 00:24:12,830
+Oh, boy!
+
+317
+00:24:50,240 --> 00:24:53,789
+Charlie, look at the clouds over here.
+Aren't they pret...
+
+318
+00:24:53,880 --> 00:24:55,836
+Charlie!
+
+319
+00:25:20,720 --> 00:25:23,553
+All right.
+Mornin', fellas.
+
+320
+00:25:23,640 --> 00:25:27,155
+Mornin', sport.
+We're done, Comet. Ho-ho-ho.
+
+321
+00:25:27,200 --> 00:25:29,270
+Back to the house.
+
+322
+00:25:29,360 --> 00:25:32,670
+Merry Christmas to all
+and to all a good night.
+
+323
+00:25:32,760 --> 00:25:35,558
+When I wake up,
+I'm gettin' a CAT scan!
+
+324
+00:25:55,440 --> 00:25:59,911
+- Is this okay, Dad?
+- No, it's not okay!
+
+325
+00:25:59,960 --> 00:26:04,112
+Hey, does this look like home
+to you guys?
+
+326
+00:26:05,400 --> 00:26:07,960
+No, no, no, no, no!
+Hey, hey, hey!
+
+327
+00:26:08,040 --> 00:26:11,350
+Where you goin'?
+Come back here! Aww!
+
+328
+00:26:18,520 --> 00:26:23,150
+<i>In the silence of the night</i>
+
+329
+00:26:23,240 --> 00:26:25,708
+- <i>When the snow</i>
+- Hey, hey!
+
+330
+00:26:25,760 --> 00:26:28,399
+- <i>Lies soft and still</i>
+- Hey, buddy!
+
+331
+00:26:28,440 --> 00:26:32,991
+- You, sir! Hey!
+- <i>You can see a magic light</i>
+
+332
+00:26:33,080 --> 00:26:37,232
+<i>And hear the ring</i>
+<i>of Christmas bells</i>
+
+333
+00:26:37,320 --> 00:26:42,917
+- Can you hear me?
+- <i>Though the night seems long and dark</i>
+
+334
+00:26:43,000 --> 00:26:45,753
+- <i>It is the earth</i>
+- What's that?
+
+335
+00:26:45,840 --> 00:26:47,876
+- <i>Just gone to sleep</i>
+- I don't know.
+
+336
+00:26:47,960 --> 00:26:50,394
+- I think it's the North Pole.
+- <i>The stars that dot</i>
+
+337
+00:26:50,480 --> 00:26:52,596
+- That's the North Pole?
+- <i>The sky above</i>
+
+338
+00:26:52,640 --> 00:26:55,074
+- Hey, buddy, we need some help.
+- <i>Hold you in</i>
+
+339
+00:26:55,160 --> 00:26:57,469
+- Hello!
+- <i>Their precious keep</i>
+
+340
+00:26:57,560 --> 00:27:02,873
+- What are you doing?
+- <i>So close your eyes and come with me</i>
+
+341
+00:27:04,160 --> 00:27:10,190
+<i>The Christmas bells</i>
+<i>will bring you home</i>
+
+342
+00:27:29,280 --> 00:27:31,794
+Hey, look!
+Here comes the new Santa!
+
+343
+00:27:31,840 --> 00:27:35,071
+<i>And now with song</i>
+<i>we fill the night</i>
+
+344
+00:27:35,160 --> 00:27:38,232
+<i>While magic dances</i>
+<i>in the light</i>
+
+345
+00:27:38,320 --> 00:27:41,392
+<i>To wish you now</i>
+<i>and all the year</i>
+
+346
+00:27:41,480 --> 00:27:43,710
+<i>Thejoy that comes</i>
+<i>with Christmas cheer</i>
+
+347
+00:27:43,800 --> 00:27:47,509
+- Sit back.
+- <i>Hear our voices fill the air</i>
+
+348
+00:27:47,600 --> 00:27:50,717
+<i>To drive the</i>
+<i>winter's cold away</i>
+
+349
+00:27:50,800 --> 00:27:53,917
+<i>And so our hearts</i>
+<i>with all will share</i>
+
+350
+00:27:54,000 --> 00:27:57,072
+<i>The love that comes</i>
+<i>with Christmas day</i>
+
+351
+00:27:57,120 --> 00:28:00,317
+<i>The love that comes</i>
+<i>with Christmas day</i>
+
+352
+00:28:00,400 --> 00:28:05,758
+<i>The Christmas bells</i>
+<i>will bring you home</i>
+
+353
+00:28:12,960 --> 00:28:16,589
+- Where are all the grown-ups?
+- This is so cool.
+
+354
+00:28:16,640 --> 00:28:18,517
+Stay here.
+
+355
+00:28:18,560 --> 00:28:21,916
+Hey, kid, kid.
+Kid, who's in charge here?
+
+356
+00:28:22,000 --> 00:28:26,357
+You are. And I'm not a kid. I've
+pointy shoes that are older than you.
+
+357
+00:28:26,440 --> 00:28:28,271
+I'm an elf.
+
+358
+00:28:28,360 --> 00:28:31,796
+Uh, you guys, or you girls...
+Who gives the orders? Who's your boss?
+
+359
+00:28:31,880 --> 00:28:33,711
+- You are.
+- No, no, no. Uh...
+
+360
+00:28:33,800 --> 00:28:35,950
+- W-Who's the head elf?
+- You are.
+
+361
+00:28:36,000 --> 00:28:38,355
+Hey! Who's causin' all
+the trouble around here?
+
+362
+00:28:38,440 --> 00:28:39,793
+- He is.
+- She is.
+
+363
+00:28:39,840 --> 00:28:42,070
+Excuse me. Are we
+on a coffee break?
+
+364
+00:28:42,160 --> 00:28:45,550
+- We don't drink coffee.
+- Then I guess the break is over!
+
+365
+00:28:45,600 --> 00:28:47,909
+Back to work. Thanks.
+
+366
+00:28:47,960 --> 00:28:50,679
+Take it easy on her, will ya?
+Who are you?
+
+367
+00:28:50,720 --> 00:28:53,712
+I'm Bernard.
+Nice to meet ya, Santa.
+
+368
+00:28:53,760 --> 00:28:58,151
+I'm not Santa! I've had a rough night.
+There's been dogs barkin',
+guns goin' off.
+
+369
+00:28:58,200 --> 00:29:01,397
+Look, my back's killin' me.
+Have you ever tried to shove
+a sea kayak down a chimney?
+
+370
+00:29:01,480 --> 00:29:03,789
+- I'm tired of this small talk.
+- Hmm.
+
+371
+00:29:03,840 --> 00:29:07,833
+The other Santa
+disappeared, right?
+
+372
+00:29:07,920 --> 00:29:11,469
+Wait a minute.
+Hey, I know where this is goin'.
+
+373
+00:29:11,520 --> 00:29:14,432
+It wasn't my fault.
+The other guy fell. It was an accident.
+
+374
+00:29:14,520 --> 00:29:17,512
+I've got homeowner's insurance
+and a good attorney.
+
+375
+00:29:17,560 --> 00:29:20,518
+Not as good as my wife's,
+but let's not open up that wound.
+
+376
+00:29:20,600 --> 00:29:23,478
+Hold it a minute.
+Wh-Whoa, whoa, whoa.
+
+377
+00:29:23,520 --> 00:29:25,556
+How did you know
+the other guy was gone?
+
+378
+00:29:25,640 --> 00:29:28,108
+- Can I get you a drink?
+- No, I don't want a drink.
+
+379
+00:29:28,200 --> 00:29:30,555
+I'm thirsty and hungry too.
+
+380
+00:29:30,640 --> 00:29:33,074
+Charlie, I thought I told you
+to stay in the sleigh.
+
+381
+00:29:33,120 --> 00:29:37,398
+- Who's this?
+- This... This is my son, Charlie.
+
+382
+00:29:37,440 --> 00:29:39,556
+I'm sorry. Charlie,
+this is Buh, Beh, Beh...
+
+383
+00:29:39,640 --> 00:29:41,153
+- Bernard.
+- Bernard.
+
+384
+00:29:41,240 --> 00:29:44,073
+- Hi, Bernard.
+- Hiya, sport.
+
+385
+00:29:44,120 --> 00:29:47,078
+- Hey, Dad, he called me "sport"
+just like you.
+- Wonderful.
+
+386
+00:29:47,160 --> 00:29:49,720
+Hey, you know what.
+I got somethin' for you.
+
+387
+00:29:49,800 --> 00:29:52,758
+Okay, now hold out
+your hand, all right?
+
+388
+00:29:52,800 --> 00:29:56,918
+Now, be very careful.
+This is very old, just like me.
+
+389
+00:29:59,960 --> 00:30:02,428
+Shake it up, Charlie.
+
+390
+00:30:12,680 --> 00:30:14,113
+Wow.
+
+391
+00:30:14,200 --> 00:30:16,668
+Why don't you, uh, hold onto it
+for me for a while.
+
+392
+00:30:16,760 --> 00:30:22,392
+- It might come in handy.
+- Thanks. Thanks a lot.
+
+393
+00:30:22,480 --> 00:30:24,914
+I promise I'll take
+real good care of it.
+
+394
+00:30:24,960 --> 00:30:29,988
+- Make sure you do.
+- I will.
+
+395
+00:30:30,040 --> 00:30:32,838
+Hey, Dad, look!
+
+396
+00:30:32,920 --> 00:30:35,309
+Huh. Fabulous ball.
+
+397
+00:30:35,400 --> 00:30:37,709
+- Hey, Barabbas.
+- Bernard!
+
+398
+00:30:37,800 --> 00:30:42,112
+Bernard. Can we take a direct
+flight back to reality, or do we
+have to change planes in Denver?
+
+399
+00:30:42,200 --> 00:30:44,111
+Uh, Larry, take Charlie here
+and get him some chow.
+
+400
+00:30:44,160 --> 00:30:46,435
+- No, Larry, don't do that. Charlie!
+- He'll be okay.
+
+401
+00:30:46,520 --> 00:30:48,351
+Follow me. You'll want to
+get out of those clothes.
+
+402
+00:30:48,440 --> 00:30:51,432
+I... Uh... No, look, Barnaby,
+I just wanna go home.
+
+403
+00:31:14,760 --> 00:31:19,515
+Look, I am not Santa Claus!
+Ahh!
+
+404
+00:31:19,600 --> 00:31:21,591
+Did you or did you not
+read the card?
+
+405
+00:31:21,680 --> 00:31:23,955
+- Yeah, I read the card.
+- Then you're the new Santa.
+
+406
+00:31:24,000 --> 00:31:26,355
+In putting on the hat and jacket
+you accepted the contract.
+
+407
+00:31:26,440 --> 00:31:30,513
+- What contract?
+- The card in the Santa suit.
+You said you read it, right?
+
+408
+00:31:30,600 --> 00:31:33,398
+So when you put on the suit,
+you fell subject to the Santa Clause.
+
+409
+00:31:33,480 --> 00:31:34,993
+- Here.
+- The Santa Claus?
+
+410
+00:31:35,080 --> 00:31:37,071
+Oh, you mean the guy
+that fell off my roof?
+
+411
+00:31:37,120 --> 00:31:40,430
+No, no, no, not Santa Claus, the person.
+Santa Clause, the clause.
+
+412
+00:31:40,480 --> 00:31:42,550
+What?
+
+413
+00:31:42,640 --> 00:31:44,358
+- Look, you're...
+you're a businessman, right?
+- Yeah.
+
+414
+00:31:44,440 --> 00:31:47,955
+Okay. A clause,
+as in the last line of a contract.
+
+415
+00:31:49,960 --> 00:31:52,155
+- You got the card?
+- Oh!
+
+416
+00:31:52,240 --> 00:31:54,390
+Okay, look.
+
+417
+00:31:54,480 --> 00:31:57,392
+The Santa Clause:
+"In putting on this suit
+and entering the sleigh...
+
+418
+00:31:57,480 --> 00:32:00,995
+"the wearer waives any and all rights to
+any previous identity, real or implied,
+
+419
+00:32:01,080 --> 00:32:04,277
+"and fully accepts the duties
+and responsibilities of Santa Claus...
+
+420
+00:32:04,360 --> 00:32:08,114
+"in perpetuity until such time
+that wearer becomes unable to do so...
+
+421
+00:32:08,200 --> 00:32:10,589
+by either accident or design."
+
+422
+00:32:10,680 --> 00:32:13,752
+- What does that mean?
+- It means you put on the suit,
+you're the big guy.
+
+423
+00:32:13,840 --> 00:32:17,071
+- That's ridiculous.
+I didn't put on the suit just to...
+- Try to understand this!
+
+424
+00:32:17,160 --> 00:32:19,993
+Oo-oo-ooh!
+
+425
+00:32:20,080 --> 00:32:22,196
+Let me explain
+something to you, okay?
+
+426
+00:32:22,240 --> 00:32:26,199
+Toys have to be delivered. I'm not gonna
+do it. It's not my job. I'm just an elf.
+
+427
+00:32:26,240 --> 00:32:29,391
+It's Santa's job, but Santa
+fell off a roof, your roof.
+
+428
+00:32:29,440 --> 00:32:32,796
+You read the card, you put on the suit.
+That clearly falls under
+the Santa Clause.
+
+429
+00:32:32,880 --> 00:32:35,030
+- So now you're Santa, okay?
+- A question.
+
+430
+00:32:35,120 --> 00:32:36,758
+- What?
+- When can I get outta here?
+
+431
+00:32:36,840 --> 00:32:40,150
+- Dad, you gotta see this place.
+- You leave tomorrow morning.
+
+432
+00:32:40,240 --> 00:32:43,676
+You have 11 months
+to get your affairs in order,
+and you're due back here Thanksgiving.
+
+433
+00:32:43,760 --> 00:32:47,309
+- I'm not comin' back here
+on Thanksgiving.
+- I'll ship the list to your house.
+
+434
+00:32:47,360 --> 00:32:50,352
+- What list?
+- Come on, now. The list.
+
+435
+00:32:54,360 --> 00:32:57,591
+<i>- He's makin'a list</i>
+<i>- Checkin'it twice</i>
+
+436
+00:32:57,680 --> 00:33:01,673
+<i>Gonna find out</i>
+<i>who's naughty or nice</i>
+
+437
+00:33:01,720 --> 00:33:05,076
+Look, you put a "P"
+next to the kids who are nice
+and a "C" next to the naughty ones.
+
+438
+00:33:05,160 --> 00:33:09,312
+- "P" and "C"?
+- Yeah. "P" for present,
+"C" for coal, right, Bernard?
+
+439
+00:33:09,400 --> 00:33:11,960
+- Right.
+- Wait a minute.
+How do I know who's good and bad?
+
+440
+00:33:12,000 --> 00:33:15,675
+- You'll know.
+- What if I don't want to do this?
+
+441
+00:33:15,760 --> 00:33:18,274
+- Don't even kid about a thing like that.
+- Why not?
+
+442
+00:33:18,360 --> 00:33:23,229
+What if I don't
+buy into this Santa Clause thing?
+What if I choose not to believe it?
+
+443
+00:33:34,360 --> 00:33:38,911
+Then there would be millions of
+disappointed children around the world.
+
+444
+00:33:39,000 --> 00:33:43,152
+You see, children hold the spirit
+of Christmas within their hearts.
+
+445
+00:33:44,800 --> 00:33:47,837
+You wouldn't want to be responsible
+for killing the spirit of Christmas,
+
+446
+00:33:47,920 --> 00:33:50,878
+now, would you, Santa?
+
+447
+00:33:53,200 --> 00:33:56,749
+Judy will take you to your room. Get out
+of the suit. It needs to be cleaned.
+
+448
+00:33:56,800 --> 00:33:59,189
+- And taken in.
+- Then get some sleep.
+
+449
+00:33:59,280 --> 00:34:02,477
+We've got a lot of work to do
+and only a year in which to do it.
+
+450
+00:34:10,240 --> 00:34:13,073
+- Judy.
+- Santa.
+
+451
+00:34:13,120 --> 00:34:17,875
+- Scott Calvin.
+- Follow me.
+
+452
+00:34:17,920 --> 00:34:20,912
+- I'll just take the next train.
+- Dad, come on!
+
+453
+00:34:20,960 --> 00:34:23,872
+Charlie!
+
+454
+00:34:23,960 --> 00:34:26,872
+- Come on, Dad!
+- Charlie, wait up!
+
+455
+00:34:29,720 --> 00:34:32,917
+- That's funny. I like that.
+- I like that too. But I don't like...
+
+456
+00:34:46,600 --> 00:34:49,114
+Wow!
+
+457
+00:34:54,600 --> 00:34:58,195
+Can I get you anything?
+The kitchen's always open.
+
+458
+00:34:58,240 --> 00:35:00,117
+How about a stiff drink?
+
+459
+00:35:01,760 --> 00:35:03,876
+You should get some sleep.
+
+460
+00:35:05,760 --> 00:35:08,672
+Here are your pyjamas.
+I'll be right back.
+
+461
+00:35:15,400 --> 00:35:17,391
+Oh, oh, look, Judy.
+Look. Look over there.
+
+462
+00:35:17,440 --> 00:35:20,238
+There's a...
+
+463
+00:35:20,280 --> 00:35:23,113
+Look. Look over there.
+I know.
+
+464
+00:35:23,160 --> 00:35:27,915
+Look. Look over there.
+There's a canoe. Aha, it's true.
+
+465
+00:35:28,920 --> 00:35:30,911
+Oh, look, there's an emu.
+
+466
+00:35:36,040 --> 00:35:38,190
+- Look at him.
+- Shoo.
+
+467
+00:35:41,400 --> 00:35:43,994
+- Santa?
+- Scott Calvin.
+
+468
+00:35:51,160 --> 00:35:54,835
+- I brought you some cocoa.
+- No, thanks.
+
+469
+00:35:54,920 --> 00:35:58,993
+My own recipe. Took me
+1200 years to get it right.
+
+470
+00:36:01,080 --> 00:36:04,117
+- 1200 years?
+- That's right.
+
+471
+00:36:06,520 --> 00:36:10,718
+You know, I must say, you look
+pretty good for your age.
+
+472
+00:36:10,800 --> 00:36:13,712
+Thanks, but I'm seeing
+someone in wrapping.
+
+473
+00:36:22,160 --> 00:36:24,594
+This is good.
+
+474
+00:36:24,680 --> 00:36:26,511
+This is really good.
+
+475
+00:36:26,600 --> 00:36:31,515
+Not too hot, extra chocolate,
+shaken, not stirred.
+
+476
+00:36:34,440 --> 00:36:36,510
+You look distressed.
+
+477
+00:36:36,600 --> 00:36:39,068
+Distressed?
+I'm way past distressed.
+
+478
+00:36:39,160 --> 00:36:43,312
+- Why's that?
+- I'm talking to an elf.
+
+479
+00:36:43,360 --> 00:36:45,749
+And I stopped believing
+in Santa Claus a long time ago.
+
+480
+00:36:45,840 --> 00:36:49,628
+That's not surprising.
+Most grown-ups can't believe in magic.
+
+481
+00:36:49,720 --> 00:36:53,713
+It just... sort of
+grows out of them.
+
+482
+00:36:53,800 --> 00:36:56,678
+Look, you're
+a nice little elf.
+
+483
+00:36:56,760 --> 00:36:59,069
+- Thanks.
+- But this is a dream.
+
+484
+00:36:59,160 --> 00:37:01,071
+I mean, this is fabulous.
+
+485
+00:37:01,160 --> 00:37:04,596
+Is that a polar bear
+directin' traffic down there?
+
+486
+00:37:04,640 --> 00:37:09,236
+I... I see it,
+but I don't believe it.
+
+487
+00:37:09,280 --> 00:37:12,113
+- You're missing the point.
+- What is the point?
+
+488
+00:37:12,200 --> 00:37:14,839
+Seeing isn't believing;
+believing is seeing.
+
+489
+00:37:14,880 --> 00:37:18,668
+Kids don't have to see this place
+to know that it's here.
+
+490
+00:37:18,720 --> 00:37:21,598
+They just... know.
+
+491
+00:37:23,640 --> 00:37:27,599
+Well, you should get some rest.
+Good night, sir.
+
+492
+00:38:01,320 --> 00:38:03,959
+Dad!
+
+493
+00:38:04,040 --> 00:38:05,678
+Dad!
+
+494
+00:38:07,880 --> 00:38:09,950
+Wake up, sleepy!
+
+495
+00:38:10,040 --> 00:38:11,871
+Come on, get up!
+
+496
+00:38:13,560 --> 00:38:15,630
+Dad!
+
+497
+00:38:15,680 --> 00:38:17,557
+Dad!
+
+498
+00:38:17,600 --> 00:38:20,239
+Dad!
+
+499
+00:38:20,280 --> 00:38:23,477
+Come on, Dad! Come on!
+
+500
+00:38:23,560 --> 00:38:25,437
+You should see
+all the neat toys.
+
+501
+00:38:25,520 --> 00:38:27,636
+- Stop shakin' me, Charlie.
+- Come on. Get up. Get up!
+
+502
+00:38:27,720 --> 00:38:30,029
+- Okay!
+- Come on. It's Christmas morning.
+
+503
+00:38:30,120 --> 00:38:33,192
+- Great! G-Go and make some coffee.
+- Come on, Dad. Let's go!
+
+504
+00:38:33,240 --> 00:38:35,310
+Okay. Okay.
+
+505
+00:39:53,080 --> 00:39:56,197
+- Are you okay, Dad?
+- Yeah. Just fine. Just fine.
+
+506
+00:39:56,280 --> 00:39:59,078
+Are you having a heart attack?
+I know CPR.
+
+507
+00:39:59,160 --> 00:40:00,991
+No, I was just...
+
+508
+00:40:02,360 --> 00:40:05,511
+- S. C?
+- Yeah, Santa Claus.
+
+509
+00:40:05,560 --> 00:40:09,394
+Hey. Same initials
+as your name, Dad.
+
+510
+00:40:09,440 --> 00:40:11,954
+Scott Calvin.
+
+511
+00:40:12,040 --> 00:40:14,349
+What?
+
+512
+00:40:17,800 --> 00:40:21,076
+Oh, Charlie! Oh,
+merry Christmas, honey!
+
+513
+00:40:21,120 --> 00:40:23,918
+- Did you have a good time?
+- Great time! The best!
+
+514
+00:40:23,960 --> 00:40:28,636
+Great... Oh, ho, Scott.
+Nice P.J.s. Very festive.
+
+515
+00:40:28,720 --> 00:40:32,030
+- Where'd you get them?
+- I don't know.
+
+516
+00:40:32,120 --> 00:40:35,590
+- Judy gave them to you.
+- Judy. Really.
+
+517
+00:40:35,640 --> 00:40:37,551
+- Who?
+- Up in the North Pole.
+
+518
+00:40:37,640 --> 00:40:39,790
+Ah, one of Santa's
+little helpers.
+
+519
+00:40:39,840 --> 00:40:43,753
+Last night, Dad and me
+went with the flying reindeer.
+
+520
+00:40:43,800 --> 00:40:48,749
+It was really neat, Mom. Dad was Santa,
+and Larry showed me the workshop.
+
+521
+00:40:48,800 --> 00:40:51,473
+- You know, where they make all the toys?
+- Gee, thanks for...
+
+522
+00:40:51,520 --> 00:40:54,353
+- keeping his feet on the ground.
+- You bet.
+
+523
+00:40:54,400 --> 00:40:58,871
+Honey, you go wait in the car
+for a minute, okay? I'll be right there.
+
+524
+00:40:58,960 --> 00:41:02,191
+- Merry Christmas.
+- Bye, Dad. Thanks for a great night
+at the North Pole.
+
+525
+00:41:05,120 --> 00:41:08,795
+So, uh, what have you
+been telling him?
+
+526
+00:41:08,880 --> 00:41:13,715
+Nothing. It's just...
+I had this really strange dream.
+
+527
+00:41:13,760 --> 00:41:17,275
+And I... I must have
+told him all about it.
+
+528
+00:41:17,360 --> 00:41:19,476
+Wait!
+
+529
+00:41:21,240 --> 00:41:23,151
+- Charlie.
+- Scott.
+- Hi, Dad.
+
+530
+00:41:23,200 --> 00:41:26,431
+- Nice jammies.
+- Thanks. About what you said
+in the house.
+
+531
+00:41:26,520 --> 00:41:28,351
+- Who showed you the workshop?
+- The elf.
+
+532
+00:41:28,440 --> 00:41:31,512
+- How'd I get the pyjamas?
+- I told you. Judy.
+
+533
+00:41:31,600 --> 00:41:36,594
+Oh, wait. Wait. Judy was the name of the
+waitress at the restaurant last night.
+
+534
+00:41:36,640 --> 00:41:40,189
+- Some waitress gave you pyjamas?
+- What's this all about?
+
+535
+00:41:40,280 --> 00:41:43,317
+Dad took me to the North Pole,
+and Larry showed me the workshop.
+
+536
+00:41:43,400 --> 00:41:47,188
+- The North Pole.
+- Yeah. Dad's the new Santa.
+
+537
+00:41:47,280 --> 00:41:50,113
+The regular Santa fell off the roof,
+and Dad put on the suit.
+
+538
+00:41:50,200 --> 00:41:53,158
+Charlie, we'll discuss this at home.
+
+539
+00:41:59,640 --> 00:42:03,792
+The clause.
+The Santa Clause.
+
+540
+00:42:03,840 --> 00:42:06,991
+It's just a dream.
+Stuff like that doesn't happen.
+
+541
+00:42:07,080 --> 00:42:10,834
+It was a dream. Come on!
+
+542
+00:42:10,880 --> 00:42:14,998
+I don't even wear pyjamas!
+Normally I sleep naked. Buck naked.
+
+543
+00:42:15,080 --> 00:42:17,196
+Ha! Morning, Mrs McGloin.
+Mary Catherine.
+
+544
+00:42:17,240 --> 00:42:19,117
+Eyes front,
+Mary Catherine.
+
+545
+00:42:19,160 --> 00:42:21,469
+Sometimes boxer shorts.
+You know.
+
+546
+00:42:21,640 --> 00:42:27,033
+So, remember, kids, there is nothing
+more painful than third degree burns.
+
+547
+00:42:29,920 --> 00:42:33,071
+Well, thank you,
+Fireman O'Hara.
+
+548
+00:42:33,160 --> 00:42:36,197
+And I think the whole class
+will join me in saying...
+
+549
+00:42:36,280 --> 00:42:38,111
+sorry about your partner.
+
+550
+00:42:41,240 --> 00:42:44,949
+Well, perhaps this is a good time
+to bring up the psychiatrist.
+
+551
+00:42:45,040 --> 00:42:49,238
+Charlie, would you like
+to introduce your, um...
+
+552
+00:42:50,400 --> 00:42:52,595
+Dr Miller?
+
+553
+00:42:52,680 --> 00:42:55,274
+Can I ask Dad to go first?
+
+554
+00:42:55,320 --> 00:42:58,039
+Well, if that's how
+you feel, Charlie.
+
+555
+00:42:58,120 --> 00:43:02,272
+That's how he feels, Neal.
+Come on. Nice sweater, buddy.
+
+556
+00:43:04,960 --> 00:43:08,794
+This is my dad, Scott Calvin.
+He's got a really neat job.
+
+557
+00:43:08,880 --> 00:43:12,270
+- Thank you, Charlie.
+- My dad is Santa Claus.
+
+558
+00:43:13,880 --> 00:43:18,908
+Oh, boy! I think what he means is,
+I'm like Santa Claus.
+
+559
+00:43:19,000 --> 00:43:22,197
+We're both giving.
+We're both jolly.
+
+560
+00:43:22,240 --> 00:43:26,028
+And we both work very hard
+one day a year.
+
+561
+00:43:26,120 --> 00:43:29,351
+- Oh, boy.
+- That's not what I mean, Dad.
+
+562
+00:43:29,400 --> 00:43:32,597
+Look, on Christmas Eve,
+my dad pushed Santa off the roof.
+
+563
+00:43:32,680 --> 00:43:35,433
+- No, Charlie... Ch... Charlie.
+- Santa disappeared
+and my dad took his place.
+
+564
+00:43:35,480 --> 00:43:38,677
+- Charlie!
+- Then I went with him
+to deliver all the presents.
+
+565
+00:43:38,720 --> 00:43:41,439
+Then the reindeer flew us to the
+North Pole where the head elf,
+
+566
+00:43:41,520 --> 00:43:44,751
+- Charlie.
+- Bernard, gave me this.
+
+567
+00:43:44,800 --> 00:43:48,952
+Look, I work for a toy company.
+I deliver toys all over the country.
+
+568
+00:43:49,040 --> 00:43:53,158
+So, in a way,
+I'm like Santa Claus.
+
+569
+00:43:53,240 --> 00:43:55,834
+- Yes, sweetheart?
+- Do you make the toys?
+
+570
+00:43:55,920 --> 00:43:58,195
+No, stupid, the elves do!
+
+571
+00:43:58,280 --> 00:44:03,798
+Bobby, we don't say "stupid,"
+and we don't say "elves."
+They're little people.
+
+572
+00:44:03,840 --> 00:44:07,674
+- No, but they really are elves.
+- Whatever, honey.
+
+573
+00:44:07,760 --> 00:44:11,036
+- Which one's your favourite reindeer?
+- Comet.
+
+574
+00:44:11,120 --> 00:44:13,839
+Uh, I, I, I don't have a favourite.
+
+575
+00:44:13,880 --> 00:44:16,599
+So, let me get this
+straight, Santa.
+
+576
+00:44:16,680 --> 00:44:19,592
+You mean, when I grow up,
+if I wanna be Santa Claus,
+
+577
+00:44:19,640 --> 00:44:21,756
+all I gotta do is
+push you off a roof?
+
+578
+00:44:21,840 --> 00:44:24,274
+All right, he said that. He said that
+it was the best Christmas he ever had.
+
+579
+00:44:24,320 --> 00:44:27,073
+- Oh, big surprise. What do you think?
+- It's just nice to hear it from him.
+
+580
+00:44:27,160 --> 00:44:30,914
+- Is that a problem with you?
+- That's my responsibility, isn't it?
+- All right. So?
+
+581
+00:44:31,000 --> 00:44:34,037
+May I speak, please?
+I am a doctor.
+
+582
+00:44:34,120 --> 00:44:36,680
+No, he's not.
+He's a psychiatrist.
+
+583
+00:44:36,760 --> 00:44:39,399
+Please. Go ahead, Dr Miller.
+
+584
+00:44:39,480 --> 00:44:41,914
+I guess we know
+who's the teacher's pet.
+
+585
+00:44:42,000 --> 00:44:44,355
+Scott! Oh, grow up.
+
+586
+00:44:44,440 --> 00:44:47,716
+The reason we're here is that
+this is far more serious...
+
+587
+00:44:47,800 --> 00:44:50,837
+than a boy believing
+or not believing in Santa Claus.
+
+588
+00:44:50,880 --> 00:44:54,475
+That's right, because Charlie thinks
+that this whole thing actually happened.
+
+589
+00:44:54,520 --> 00:44:58,354
+Scott, what was the last thing
+you and Charlie did...
+
+590
+00:44:58,400 --> 00:45:00,550
+before you went to bed
+Christmas Eve?
+
+591
+00:45:00,600 --> 00:45:04,275
+We shared a bowl of sugar;
+did some shots of brown liquor;
+
+592
+00:45:04,360 --> 00:45:06,999
+played with my shotguns;
+field dressed a cat;
+
+593
+00:45:08,040 --> 00:45:10,554
+looked for women.
+
+594
+00:45:10,640 --> 00:45:13,473
+- I read him a book.
+- What book?
+
+595
+00:45:13,560 --> 00:45:15,516
+Uh, <i>Hollywood Wives.</i>
+
+596
+00:45:15,600 --> 00:45:17,795
+<i>The Night Before Christmas,</i> folks.
+Come on!
+
+597
+00:45:17,840 --> 00:45:20,115
+And did you
+go to the North Pole?
+
+598
+00:45:20,200 --> 00:45:22,031
+T-This is ridiculous.
+I don't have time for this.
+
+599
+00:45:22,120 --> 00:45:26,352
+Ridiculous or not, Scott,
+for Charlie, this isn't some dream.
+
+600
+00:45:26,440 --> 00:45:28,032
+It is real.
+
+601
+00:45:28,120 --> 00:45:30,509
+You need to sit down
+with Charlie. Explain to him...
+
+602
+00:45:30,560 --> 00:45:33,597
+you are not Santa Claus.
+
+603
+00:45:33,680 --> 00:45:36,592
+They're like the bears
+at the North Pole, Dad.
+
+604
+00:45:36,680 --> 00:45:40,275
+Charlie, I already told ya.
+We did not go to the North Pole.
+
+605
+00:45:40,360 --> 00:45:42,669
+- That was a dream.
+- You're in denial, Dad.
+
+606
+00:45:42,720 --> 00:45:44,597
+Denial. You don't
+even know what that means.
+
+607
+00:45:44,680 --> 00:45:47,797
+Well, you are.
+I know what happened.
+
+608
+00:45:47,840 --> 00:45:52,118
+How do you know that?
+How? You don't have any proof.
+
+609
+00:45:52,200 --> 00:45:56,113
+- Proof?
+- Why can't we both think of it as just
+a great dream and forget about it?
+
+610
+00:45:56,200 --> 00:45:59,829
+What about this? Remember
+all the neat stuff inside?
+
+611
+00:45:59,920 --> 00:46:03,833
+Charlie, this is a toy.
+
+612
+00:46:03,920 --> 00:46:07,549
+We used to make things like this
+at work, but no one bought 'em.
+
+613
+00:46:07,640 --> 00:46:11,315
+Here. I don't wanna
+talk about this any more.
+
+614
+00:46:11,400 --> 00:46:15,359
+I know who you are, Dad.
+You'll figure it out soon enough.
+
+615
+00:46:15,440 --> 00:46:19,991
+There are a lot of kids that believe
+in you. You can't let them down.
+
+616
+00:46:20,080 --> 00:46:22,355
+Charlie, you're wrong.
+
+617
+00:46:28,960 --> 00:46:31,838
+- What's so funny?
+- Nothing.
+
+618
+00:46:38,520 --> 00:46:40,988
+<i>He sees you</i>
+<i>when you're sleeping</i>
+
+619
+00:46:41,080 --> 00:46:43,640
+<i>He knows when you're awake</i>
+
+620
+00:46:43,720 --> 00:46:46,314
+<i>He knows if you've</i>
+<i>been bad or good</i>
+
+621
+00:46:46,360 --> 00:46:48,316
+<i>Rollin'</i>
+<i>Keep those reindeer rollin'</i>
+
+622
+00:46:48,400 --> 00:46:51,870
+<i>Okay, you better watch out</i>
+<i>You better not cry</i>
+
+623
+00:46:51,960 --> 00:46:54,520
+<i>- You better not pout I'm tellin' you why</i>
+- Come on, Dancer. Come on, Prancer.
+
+624
+00:46:54,560 --> 00:46:56,949
+- <i>Santa Claus is coming</i>
+- Whoa! We can't stop.
+
+625
+00:46:57,040 --> 00:46:59,793
+- <i>To town</i>
+- But I have to go to the bathroom.
+
+626
+00:46:59,880 --> 00:47:03,316
+I told you, you should've gone
+before we left the North Pole.
+
+627
+00:47:03,360 --> 00:47:06,033
+<i>And rummy tum-tums</i>
+
+628
+00:47:06,120 --> 00:47:10,398
+Whoa! Right here.
+Turn over here.
+
+629
+00:47:10,480 --> 00:47:12,835
+<i>Curly-haired dolls</i>
+<i>that toddle and coo</i>
+
+630
+00:47:12,920 --> 00:47:15,480
+<i>Elephant spokes</i>
+<i>and kiddie cars too</i>
+
+631
+00:47:22,600 --> 00:47:25,398
+- Where is he?
+- Well, he could be in his room,
+
+632
+00:47:25,480 --> 00:47:28,517
+jumping up and down on his bed
+wearing a red hat and galoshes.
+
+633
+00:47:28,600 --> 00:47:31,034
+I don't care what Neal's doing.
+Where's Charlie?
+
+634
+00:47:31,120 --> 00:47:33,554
+Oh, ho, ho.
+Oh, I see, I see.
+
+635
+00:47:33,600 --> 00:47:36,478
+Well, if you can't be father of the
+year, why not be Father Christmas, huh?
+
+636
+00:47:36,640 --> 00:47:39,313
+Charlie,
+it's just not logical.
+
+637
+00:47:39,360 --> 00:47:43,638
+How can one man
+in one night...
+
+638
+00:47:43,680 --> 00:47:45,557
+visit all the children
+of the world?
+
+639
+00:47:45,640 --> 00:47:47,551
+Not everyone
+celebrates Christmas.
+
+640
+00:47:47,640 --> 00:47:52,760
+And I think there's some sort
+of time continuum that breaks down
+once Santa's in his sleigh.
+
+641
+00:47:52,800 --> 00:47:58,352
+What about fireplaces?
+A lot of people don't have them.
+
+642
+00:47:58,440 --> 00:48:00,749
+How does Santa
+visit those people?
+
+643
+00:48:00,840 --> 00:48:03,479
+He turns into Jell-O and...
+
+644
+00:48:03,520 --> 00:48:07,069
+The fireplace kind of appears,
+and he goes through it like this.
+
+645
+00:48:07,160 --> 00:48:11,278
+What about the reindeer?
+
+646
+00:48:11,320 --> 00:48:15,791
+- Have you ever seen a reindeer fly?
+- Yes.
+
+647
+00:48:15,840 --> 00:48:19,628
+- Well, I haven't.
+- Have you ever seen a million dollars?
+
+648
+00:48:19,680 --> 00:48:21,591
+No!
+
+649
+00:48:21,680 --> 00:48:25,719
+Just because you haven't seen it
+doesn't mean it doesn't exist.
+
+650
+00:48:25,760 --> 00:48:28,069
+Hey, Neal.
+Howdy, sport.
+
+651
+00:48:28,120 --> 00:48:30,509
+- Hi, Dad.
+- You wanna take a walk?
+I wanna talk to you.
+
+652
+00:48:30,560 --> 00:48:33,791
+- Sure. I'll get my coat.
+- Okay. Hustle up.
+
+653
+00:48:33,880 --> 00:48:36,792
+Scott? Can I have a minute?
+
+654
+00:48:36,880 --> 00:48:39,519
+Sure.
+
+655
+00:48:39,600 --> 00:48:43,115
+I think Charlie is conflicted
+at the moment.
+
+656
+00:48:43,160 --> 00:48:45,628
+Wow. Really?
+
+657
+00:48:45,720 --> 00:48:49,679
+Boy. Hmm. Appreciate
+your analysis. I really do.
+
+658
+00:48:49,720 --> 00:48:53,429
+But, boy, you got more important things
+to worry about, you know.
+
+659
+00:48:53,520 --> 00:48:57,877
+Like, where are you gonna
+get more sweaters after
+the circus pulls outta town?
+
+660
+00:48:57,920 --> 00:49:01,435
+Scott! I mean,
+you're not listening.
+
+661
+00:49:01,520 --> 00:49:03,829
+We are very concerned about this.
+
+662
+00:49:03,920 --> 00:49:06,115
+Concerned about what?
+
+663
+00:49:06,200 --> 00:49:07,792
+This...
+
+664
+00:49:07,880 --> 00:49:10,838
+If Charlie spending time with you
+is the best thing for him.
+
+665
+00:49:19,840 --> 00:49:22,638
+You were right
+about the sweater, okay?
+
+666
+00:49:25,080 --> 00:49:28,152
+Do you think by next year
+I'll be big enough to drive
+the sleigh all by myself?
+
+667
+00:49:28,240 --> 00:49:31,198
+- No!
+- But I've been practising.
+
+668
+00:49:31,280 --> 00:49:33,555
+No, that's not what I'm talkin' about.
+Charlie, hold on a second.
+
+669
+00:49:33,600 --> 00:49:36,672
+We've got to talk about
+this Santa Claus thing.
+
+670
+00:49:40,640 --> 00:49:42,710
+Charlie, there...
+there is no...
+
+671
+00:49:44,880 --> 00:49:47,235
+No what, Dad?
+
+672
+00:49:49,960 --> 00:49:54,909
+There's no reason why we have to
+tell anybody about the North Pole.
+
+673
+00:49:54,960 --> 00:49:59,988
+- Why not?
+- Well, sometimes some things,
+big things,
+
+674
+00:50:00,040 --> 00:50:04,670
+should remain un... unsaid,
+like between two people...
+
+675
+00:50:04,720 --> 00:50:09,510
+- Oh, you mean like a secret.
+- Yes. Like a secret.
+Let's keep it a secret.
+
+676
+00:50:09,600 --> 00:50:12,273
+How come?
+
+677
+00:50:12,360 --> 00:50:15,352
+Because of Mom and Neal.
+
+678
+00:50:15,400 --> 00:50:18,039
+Not just because of them.
+There's school.
+
+679
+00:50:18,120 --> 00:50:20,839
+Everybody thinks... Well,
+it's not important what they think.
+
+680
+00:50:20,920 --> 00:50:23,992
+It...
+
+681
+00:50:24,040 --> 00:50:27,396
+How does five bucks sound to ya?
+
+682
+00:50:27,480 --> 00:50:31,473
+This is something I really
+want you to do for me, sport.
+
+683
+00:50:31,560 --> 00:50:36,350
+I want to keep this secret.
+Will ya do that, please?
+
+684
+00:50:36,440 --> 00:50:39,557
+- Okay, Dad.
+- All right.
+
+685
+00:50:39,600 --> 00:50:42,068
+Great.
+
+686
+00:50:42,120 --> 00:50:46,636
+You don't have to worry about
+the Santa Claus thing any more.
+
+687
+00:50:46,720 --> 00:50:49,109
+So when do I get the five bucks?
+
+688
+00:50:49,160 --> 00:50:52,516
+<i>... 15 in the morning.</i>
+<i>It's gonna be a beautiful day.</i>
+
+689
+00:50:55,680 --> 00:50:58,877
+<i>Spend the day with me,</i>
+<i>Larry B.</i>
+
+690
+00:51:12,480 --> 00:51:14,357
+Huh?
+
+691
+00:51:21,120 --> 00:51:24,112
+Something's wrong with the mirror.
+
+692
+00:51:26,960 --> 00:51:30,270
+What? Something's wrong
+with the scale.
+
+693
+00:51:35,080 --> 00:51:36,911
+Excuse me. Excuse me. Uh...
+
+694
+00:51:37,000 --> 00:51:41,391
+Hmm. I'll have a field green
+salad and... Oh, my God.
+
+695
+00:51:42,760 --> 00:51:45,069
+- What the...
+- What? Scott?
+
+696
+00:51:46,600 --> 00:51:48,989
+Calvin?
+
+697
+00:51:51,560 --> 00:51:55,951
+Sorry, um, the dry cleaner
+in my neighbourhood went up in smoke.
+
+698
+00:51:56,040 --> 00:51:59,476
+Some big chemical fire.
+All my clothes, poof, gone.
+
+699
+00:51:59,560 --> 00:52:02,836
+God. Your... Your weight.
+
+700
+00:52:02,920 --> 00:52:05,832
+What happened?
+
+701
+00:52:05,920 --> 00:52:09,674
+Bee sting.
+Evidently I'm allergic.
+
+702
+00:52:09,760 --> 00:52:13,799
+Almost killed me. But the guy
+at the emergency room says...
+
+703
+00:52:13,880 --> 00:52:16,155
+the swelling will go down.
+
+704
+00:52:16,200 --> 00:52:19,715
+I hope. So,
+did I miss anything?
+
+705
+00:52:19,800 --> 00:52:21,916
+No, we were, uh,
+just about to order lunch.
+
+706
+00:52:21,960 --> 00:52:23,916
+Great! I'm starving.
+
+707
+00:52:24,000 --> 00:52:27,675
+I'll have a salad and iced tea
+and dressing on the side.
+
+708
+00:52:27,720 --> 00:52:31,793
+Uh, pasta and tomatoes, uh, and
+very light on the oil. Can you do that?
+
+709
+00:52:31,880 --> 00:52:34,792
+And I'll have a Caesar.
+No dressing.
+
+710
+00:52:34,880 --> 00:52:37,314
+And one of those home-made cookies,
+the warm chocolate chip. No nuts.
+
+711
+00:52:37,400 --> 00:52:40,039
+And, uh, a little slice of cheesecake.
+Uh, creme brulee...
+
+712
+00:52:40,080 --> 00:52:44,437
+and, um, hot fudge sundae,
+extra hot fudge.
+
+713
+00:52:46,240 --> 00:52:48,356
+On the side.
+
+714
+00:52:48,400 --> 00:52:52,712
+- Anything to drink?
+- Ice-cold milk.
+
+715
+00:52:52,800 --> 00:52:57,237
+- Stung by a bee, Scott?
+- A big bee.
+
+716
+00:53:13,800 --> 00:53:15,153
+Finished?
+
+717
+00:53:20,760 --> 00:53:25,197
+Okay, now, remember.
+This is just a storyboard.
+
+718
+00:53:25,280 --> 00:53:28,317
+But here is
+our preliminary...
+
+719
+00:53:28,360 --> 00:53:31,113
+Total Tank TV spot.
+
+720
+00:53:31,200 --> 00:53:33,714
+Okay, now, we've got Santa.
+He's up in the North Pole.
+
+721
+00:53:33,800 --> 00:53:37,634
+He's gettin' ready
+for... Christmas!
+
+722
+00:53:37,720 --> 00:53:41,076
+- Oh, no.
+- Problem?
+
+723
+00:53:41,160 --> 00:53:44,596
+It's just a little thing.
+The elves.
+
+724
+00:53:44,680 --> 00:53:47,990
+- What about the elves?
+- They look so funny.
+
+725
+00:53:48,040 --> 00:53:51,350
+They're supposed to look funny.
+They're elves.
+
+726
+00:53:51,400 --> 00:53:54,756
+Just my opinion.
+Can't they look a little younger...
+
+727
+00:53:54,840 --> 00:53:57,354
+with silver specks
+on their cheeks?
+
+728
+00:53:57,440 --> 00:54:00,512
+- Can we continue here?
+- Okay.
+
+729
+00:54:00,560 --> 00:54:03,632
+Now, this year Santa's
+not goin' out in a sleigh.
+
+730
+00:54:03,720 --> 00:54:07,759
+This time he's goin'
+Total Tank.
+
+731
+00:54:07,840 --> 00:54:11,549
+Wait a minute! No way! No way Santa's
+goin' anywhere without his sleigh.
+
+732
+00:54:11,640 --> 00:54:14,029
+He would if he's tryin'
+to sell the Total Tank.
+
+733
+00:54:14,120 --> 00:54:16,315
+Well, isn't that a pretty picture.
+
+734
+00:54:16,360 --> 00:54:18,874
+Santa's rollin' down the block
+in a panzer.
+
+735
+00:54:18,920 --> 00:54:22,071
+Well, kids, I... I certainly hope
+you've been good this year.
+
+736
+00:54:22,120 --> 00:54:24,680
+'Cause it looks like Santa
+just took out the Pearson home.
+
+737
+00:54:24,760 --> 00:54:26,352
+- Incoming!
+- Oh, please.
+
+738
+00:54:26,440 --> 00:54:28,874
+And another thing.
+What about the reindeer?
+
+739
+00:54:28,960 --> 00:54:32,509
+Reindeer and Santa. Santa and reindeer.
+I-It's kind of a package deal.
+
+740
+00:54:32,600 --> 00:54:35,512
+- Calvin.
+- You don't believe in Santa, do ya?
+
+741
+00:54:35,560 --> 00:54:38,358
+Calvin, can we get
+back to the presentation?
+
+742
+00:54:38,440 --> 00:54:40,476
+I'm not done yet.
+Since we've opened this box,
+
+743
+00:54:40,520 --> 00:54:42,909
+have any of you tried
+to build the Total Tank?
+
+744
+00:54:42,960 --> 00:54:46,919
+It's got 10,000 parts,
+and even if you do get it together,
+it breaks ten minutes later.
+
+745
+00:54:46,960 --> 00:54:49,758
+- Then you gotta spend more
+money just to buy new parts.
+- I thought that was the whole point.
+
+746
+00:54:49,800 --> 00:54:51,711
+No, no, no, no.
+
+747
+00:54:51,760 --> 00:54:56,197
+What we gotta do is develop
+a, a basic, simple, inexpensive toy...
+
+748
+00:54:56,240 --> 00:54:58,595
+that will nurture
+a child's creative thinking.
+
+749
+00:54:58,640 --> 00:55:01,916
+- Calvin...
+- Here, try the brown ones.
+
+750
+00:55:01,960 --> 00:55:03,871
+Can I see you outside a minute?
+
+751
+00:55:10,120 --> 00:55:12,350
+I don't know
+what's happening to you.
+
+752
+00:55:12,400 --> 00:55:15,278
+You're starting to look like
+the Pillsbury dough boy.
+
+753
+00:55:15,360 --> 00:55:19,478
+- Y-You're falling apart.
+- I know! I know.
+
+754
+00:55:19,560 --> 00:55:22,120
+- I don't know what came over me.
+- W-Well, just get some help.
+
+755
+00:55:22,160 --> 00:55:26,278
+You know, y-you should s-see a doctor,
+a shrink, a dietician, anything.
+
+756
+00:55:26,360 --> 00:55:29,909
+Just get some help.
+
+757
+00:55:50,160 --> 00:55:52,037
+Okay, Scott. Time is up.
+
+758
+00:55:52,080 --> 00:55:55,709
+- Let's get over here
+and check your pulse.
+- All right.
+
+759
+00:55:57,440 --> 00:56:00,193
+Okay, hmm?
+
+760
+00:56:04,080 --> 00:56:07,470
+Huh? Well, nuts. I...
+
+761
+00:56:07,560 --> 00:56:10,120
+Oh, no, uh,
+your pulse is great. I...
+
+762
+00:56:10,200 --> 00:56:12,668
+Well, I-I don't know, Scott.
+Y-You're as healthy as a horse.
+
+763
+00:56:12,760 --> 00:56:15,274
+Yeah, Clydesdale.
+
+764
+00:56:15,360 --> 00:56:18,591
+Okay, look. So, what?
+You put on a little weight.
+
+765
+00:56:18,640 --> 00:56:20,915
+A little weight? Does this
+look like a little weight to you?
+
+766
+00:56:21,000 --> 00:56:24,117
+Well, weight can fluctuate
+from year to year.
+
+767
+00:56:24,200 --> 00:56:27,317
+Fluctuate? You make it
+sound like I'm retainin' water.
+
+768
+00:56:27,400 --> 00:56:31,359
+I've gained 45 pounds in a week.
+Pete, what's happenin' to me?
+
+769
+00:56:31,400 --> 00:56:34,198
+- Well, what's your diet like?
+- Milk and cookies.
+
+770
+00:56:34,280 --> 00:56:36,236
+- Really?
+- But I don't finish all the milk.
+
+771
+00:56:36,320 --> 00:56:41,713
+Well, then, there is your problem. Just
+try to cut back on the sweets, okay?
+
+772
+00:56:41,800 --> 00:56:44,519
+- Anything else?
+- Yeah.
+
+773
+00:56:44,560 --> 00:56:47,074
+How fast does hair grow?
+Facial hair?
+
+774
+00:56:47,160 --> 00:56:52,712
+- What?
+- I shave in the morning
+and in the afternoon I look like this.
+
+775
+00:56:52,800 --> 00:56:57,157
+Well, it could be
+a hormonal imbalance.
+
+776
+00:56:57,200 --> 00:57:00,033
+- That would explain the mood swings.
+- Mood swings?
+
+777
+00:57:00,080 --> 00:57:02,514
+- Yeah, well, look at my hair.
+It's turnin' grey.
+- Oh, it's middle age, buddy.
+
+778
+00:57:02,600 --> 00:57:07,071
+It happens. And with that body,
+you should be thankful you have hair.
+
+779
+00:57:07,120 --> 00:57:10,430
+Look, i-if it bothers you,
+you can dye it, and you should diet!
+
+780
+00:57:12,040 --> 00:57:15,077
+Ah, just kidding.
+Okay, up with the shirt.
+
+781
+00:57:15,120 --> 00:57:19,079
+Let's take a listen
+to the old ticker. Whoa. Okay.
+
+782
+00:57:19,160 --> 00:57:20,991
+Ooh, it's cold.
+
+783
+00:57:41,400 --> 00:57:44,517
+Over here, Steve!
+I'm open!
+
+784
+00:58:08,360 --> 00:58:10,271
+What?
+
+785
+00:58:11,880 --> 00:58:14,997
+I want some ballet slippers.
+
+786
+00:58:32,080 --> 00:58:35,709
+- Hi, Mom.
+- Oh, my God. Oh, my God.
+
+787
+00:58:35,800 --> 00:58:38,030
+- Hold on now.
+- Wait a minute. Wait, I'm not done.
+
+788
+00:58:38,120 --> 00:58:41,954
+Fax me. Hi. Hey, this probably
+looks pretty odd, doesn't it?
+
+789
+00:58:42,040 --> 00:58:45,350
+- These kids lined up all by themselves.
+- Scott,
+
+790
+00:58:45,440 --> 00:58:50,434
+I think it's safe to say you're taking
+this Santa thing to an unhealthy level.
+
+791
+00:58:50,480 --> 00:58:54,029
+Here's my card.
+Call me.
+
+792
+00:58:54,120 --> 00:58:57,874
+Scott, I... I really have to tell you
+that this is beginning to scare me.
+
+793
+00:58:57,960 --> 00:59:01,475
+I never in my wildest...
+Well, no, okay, maybe my wildest...
+
+794
+00:59:01,520 --> 00:59:04,239
+But certainly never in
+my normal dreams would I...
+
+795
+00:59:04,320 --> 00:59:07,039
+- But then this is Scott
+we're talking about and I...
+- Laura, the point.
+
+796
+00:59:07,080 --> 00:59:10,197
+It's just I never thought
+you would stoop to changing
+your physical appearance...
+
+797
+00:59:10,280 --> 00:59:12,840
+in order to make
+Charlie like you.
+
+798
+00:59:12,920 --> 00:59:16,515
+- Do you have any concept of how
+dangerous this is to a little boy?
+- Whoa.
+
+799
+00:59:16,560 --> 00:59:19,120
+- Whoa, whoa. "How dangerous"?
+- Mom, what's the matter?
+
+800
+00:59:19,200 --> 00:59:22,237
+- Come on, Charlie, we're going home.
+- But we just started.
+
+801
+00:59:22,280 --> 00:59:24,157
+Well, a...
+You let him stay. I'll go.
+
+802
+00:59:24,200 --> 00:59:27,237
+If you don't get your act together,
+Scott, so help me...
+
+803
+00:59:27,320 --> 00:59:31,552
+- Watch it, folks.
+- I will just... Oh!
+- Mom!
+- Come on. Move it, lady!
+
+804
+00:59:32,600 --> 00:59:34,909
+Kick it!
+
+805
+00:59:39,440 --> 00:59:42,557
+- Hi there.
+- Hi. I got a delivery for S.C.
+
+806
+00:59:42,600 --> 00:59:44,511
+- You S. C?
+- Scott Calvin, that's me.
+
+807
+00:59:44,600 --> 00:59:47,034
+Sign here, please.
+
+808
+00:59:49,320 --> 00:59:51,788
+- All right.
+- Thanks. I'll get your packages.
+
+809
+00:59:51,880 --> 00:59:53,836
+- Packages?
+- Yeah, there's quite a few of them.
+
+810
+00:59:53,920 --> 00:59:57,151
+Great. I'll leave the door open.
+Just leave them inside here.
+
+811
+00:59:57,200 --> 00:59:59,953
+Will do.
+
+812
+01:00:30,760 --> 01:00:32,830
+It's the list.
+
+813
+01:00:42,120 --> 01:00:44,839
+"Armand Assante"?
+
+814
+01:00:44,880 --> 01:00:47,474
+Yo!
+
+815
+01:00:47,560 --> 01:00:50,438
+Hold it! Hold... Oh!
+Hold it!
+
+816
+01:00:50,520 --> 01:00:54,229
+- You! You! Take that! Come on! Come on!
+- Stay away from the truck.
+
+817
+01:00:54,280 --> 01:00:58,159
+What am I supposed to do with
+all these packages, guys? Come on.
+
+818
+01:00:59,280 --> 01:01:01,271
+Aah.
+
+819
+01:01:03,160 --> 01:01:08,154
+You know, I knew it. I knew that... that
+something was going on. I just... I...
+
+820
+01:01:08,200 --> 01:01:11,875
+What I can't believe is that he would
+go behind our backs all this time,
+
+821
+01:01:11,960 --> 01:01:15,999
+confusing Charlie again just...
+
+822
+01:01:16,040 --> 01:01:20,431
+I... I... What are we...
+What are we supposed to do?
+
+823
+01:01:20,520 --> 01:01:23,478
+Well, there's one
+obvious alternative.
+
+824
+01:01:27,760 --> 01:01:29,637
+Okay.
+
+825
+01:01:29,720 --> 01:01:31,551
+Aah.
+
+826
+01:01:34,200 --> 01:01:36,998
+- Annie, nice.
+- Beep!
+
+827
+01:01:37,040 --> 01:01:39,838
+- Johnny, naughty.
+- Johnny, wait up.
+
+828
+01:01:39,880 --> 01:01:42,474
+Gary, nice.
+
+829
+01:01:42,560 --> 01:01:44,835
+Veronica, very nice.
+
+830
+01:01:44,880 --> 01:01:47,075
+In your dreams, sleigh boy.
+
+831
+01:01:47,160 --> 01:01:49,879
+Huh?
+
+832
+01:02:13,040 --> 01:02:15,429
+I'm in big trouble.
+Mm-hmm.
+
+833
+01:02:15,600 --> 01:02:17,318
+Thank you.
+
+834
+01:02:18,920 --> 01:02:21,798
+Judge Wayland's office.
+
+835
+01:02:21,880 --> 01:02:24,997
+Charlie, do you mind
+if I talk to you for a minute?
+
+836
+01:02:25,080 --> 01:02:27,674
+It's okay, honey. Come on.
+
+837
+01:02:30,280 --> 01:02:32,840
+We won't be long.
+
+838
+01:02:36,880 --> 01:02:40,111
+Are we doing
+the right thing, Neal?
+
+839
+01:02:40,200 --> 01:02:42,430
+- Something needs to shake Scott.
+- Yeah, but...
+
+840
+01:02:42,480 --> 01:02:45,313
+But to... to take away
+his visitation rights.
+
+841
+01:02:45,400 --> 01:02:48,198
+Honey, the man is delusional.
+
+842
+01:02:48,240 --> 01:02:52,358
+Okay, okay, so maybe I'm having
+second thoughts, kind of. I just...
+
+843
+01:02:52,440 --> 01:02:55,671
+I mean, what was so bad about
+Charlie believing in Santa?
+
+844
+01:02:55,720 --> 01:02:57,711
+Well, he's a little old.
+
+845
+01:02:58,960 --> 01:03:04,034
+Oh, come on, Laura.
+Don't you remember when you
+stopped believing in Santa Claus?
+
+846
+01:03:04,120 --> 01:03:08,193
+I was Charlie's age,
+I guess, I...
+
+847
+01:03:08,240 --> 01:03:11,630
+I wrote Santa a letter
+every week that year.
+
+848
+01:03:13,960 --> 01:03:17,111
+Well, you know, okay,
+you know, maybe...
+
+849
+01:03:17,160 --> 01:03:19,720
+Maybe not every week, but...
+
+850
+01:03:21,200 --> 01:03:25,273
+Boy, I really wanted
+a "Mystery Date" game.
+
+851
+01:03:25,320 --> 01:03:28,073
+Do you remember those?
+
+852
+01:03:28,160 --> 01:03:31,152
+No. Of course you don't.
+
+853
+01:03:31,240 --> 01:03:33,629
+You know, no one does.
+
+854
+01:03:33,720 --> 01:03:36,678
+I... I don't even think
+they make them any more, but...
+
+855
+01:03:38,760 --> 01:03:41,035
+Well, anyway...
+
+856
+01:03:41,120 --> 01:03:44,351
+Christmas morning came and...
+
+857
+01:03:44,400 --> 01:03:47,039
+Oh, I got dozens of presents.
+
+858
+01:03:47,080 --> 01:03:50,038
+Oh, I got everything.
+
+859
+01:03:52,200 --> 01:03:55,636
+Except "Mystery Date."
+
+860
+01:03:58,480 --> 01:04:03,554
+I was three, and it was
+an Oscar Meyer wienie whistle.
+
+861
+01:04:05,800 --> 01:04:09,156
+Christmas came.
+No wienie whistle.
+
+862
+01:04:11,600 --> 01:04:13,477
+And that's when
+I stopped believing.
+
+863
+01:04:13,520 --> 01:04:15,636
+You were three?
+
+864
+01:04:16,760 --> 01:04:19,228
+Yeah.
+
+865
+01:04:19,280 --> 01:04:21,794
+Oh, Neal.
+
+866
+01:04:24,440 --> 01:04:27,398
+- Where's Charlie? I want to talk to him.
+- He's with the judge.
+
+867
+01:04:29,600 --> 01:04:31,556
+Dad!
+
+868
+01:04:33,160 --> 01:04:37,278
+It's all okay.
+I told the judge everything...
+
+869
+01:04:37,320 --> 01:04:39,880
+about you and the North Pole.
+
+870
+01:04:39,960 --> 01:04:42,394
+After reviewing all
+of your testimonies,
+
+871
+01:04:42,440 --> 01:04:45,352
+I've come to a very
+difficult decision.
+
+872
+01:04:45,440 --> 01:04:48,876
+I'm sorry to do this in light
+of the holiday season,
+
+873
+01:04:48,960 --> 01:04:52,999
+but in the best interest
+of the child,
+
+874
+01:04:53,080 --> 01:04:56,789
+I'm granting the petition
+of Dr and Mrs Miller.
+
+875
+01:04:57,960 --> 01:05:00,269
+Mr Calvin, as of today,
+
+876
+01:05:00,360 --> 01:05:03,238
+all of your visitation rights
+are suspended...
+
+877
+01:05:03,320 --> 01:05:07,029
+pending a hearing
+after the first of the year.
+
+878
+01:05:45,080 --> 01:05:46,991
+- Hey, Neal.
+- Scott.
+
+879
+01:05:47,080 --> 01:05:50,755
+- You're not supposed to be here.
+- Don't make me beat you up, Neal.
+
+880
+01:05:50,800 --> 01:05:53,473
+Oh, would Santa
+really beat someone up?
+
+881
+01:05:53,520 --> 01:05:56,990
+- I'm this close.
+- So you still believe you're Santa?
+
+882
+01:05:57,040 --> 01:05:59,713
+- I don't know.
+- What do you mean you don't know?
+
+883
+01:05:59,800 --> 01:06:03,236
+Of course you are, Dad.
+How can you say that?
+
+884
+01:06:03,280 --> 01:06:07,068
+- Think of all those kids.
+- The only kid I'm thinkin' about is you.
+
+885
+01:06:07,160 --> 01:06:10,755
+Dad, I'm fine.
+You can't let them down.
+
+886
+01:06:10,800 --> 01:06:13,758
+- They all believe in you!
+- Charlie, listen.
+
+887
+01:06:13,840 --> 01:06:17,833
+You listen!
+You think you know who he is. You don't!
+
+888
+01:06:17,880 --> 01:06:21,031
+Charlie. Honey, listen.
+You're confused.
+
+889
+01:06:21,080 --> 01:06:22,957
+I know exactly who he is.
+
+890
+01:06:23,000 --> 01:06:25,355
+Charlie, he's not Santa!
+
+891
+01:06:25,400 --> 01:06:29,473
+He is too, Santa!
+We went to the North Pole together.
+
+892
+01:06:29,520 --> 01:06:33,638
+I saw it. The elves are real old
+even though they look like me.
+
+893
+01:06:33,680 --> 01:06:37,355
+Bernard called me sport,
+'cause he knew everything.
+
+894
+01:06:37,400 --> 01:06:39,630
+Right, Dad?
+
+895
+01:06:39,720 --> 01:06:42,234
+Remember!
+
+896
+01:07:05,080 --> 01:07:07,355
+Thank you, Charlie.
+Thank you.
+
+897
+01:07:09,360 --> 01:07:11,555
+I love you, Dad.
+
+898
+01:07:13,200 --> 01:07:16,033
+Could you guys leave us
+alone for a minute?
+
+899
+01:07:16,080 --> 01:07:19,993
+I mean, so I can
+say goodbye to him properly?
+
+900
+01:07:28,480 --> 01:07:31,392
+You saw!
+You saw the ball come to life.
+
+901
+01:07:31,440 --> 01:07:33,795
+You bet I did.
+
+902
+01:07:33,840 --> 01:07:37,196
+- Well, Charlie, I guess I... I better go.
+- I'll get my stuff.
+
+903
+01:07:37,280 --> 01:07:40,397
+Well, wait, sport. Sport. Wait,
+wait, wait, wait, wait, wait.
+
+904
+01:07:40,440 --> 01:07:44,558
+I think it's a much better idea
+if you just stayed here with your mom.
+
+905
+01:07:44,600 --> 01:07:47,319
+I wanna be with you, Dad.
+
+906
+01:07:47,400 --> 01:07:49,595
+Boy, I love hearing you say that.
+
+907
+01:07:49,680 --> 01:07:51,989
+You mean I can go?
+
+908
+01:07:54,480 --> 01:07:57,836
+Boy, this bird is dry. Haven't
+you people heard about basting?
+
+909
+01:07:57,920 --> 01:08:00,718
+Bernard!
+
+910
+01:08:00,800 --> 01:08:04,634
+- Hiya, sport.
+- Bernard, can I go?
+Please, can I go, Bernard?
+
+911
+01:08:04,720 --> 01:08:07,029
+It's okay with me.
+
+912
+01:08:07,120 --> 01:08:10,351
+Charlie, if, uh...
+
+913
+01:08:14,320 --> 01:08:16,197
+Charlie?
+
+914
+01:08:21,840 --> 01:08:23,717
+Scott!
+
+915
+01:08:25,000 --> 01:08:27,116
+Charlie!
+
+916
+01:08:30,720 --> 01:08:32,995
+This is our perpetrator.
+
+917
+01:08:33,040 --> 01:08:35,918
+Scott Calvin, 38 years old.
+
+918
+01:08:35,960 --> 01:08:38,474
+Believes himself
+to be Santa Claus.
+
+919
+01:08:38,520 --> 01:08:41,990
+Ladies and gentlemen,
+this one's not gonna be easy to find.
+
+920
+01:08:42,040 --> 01:08:44,474
+Uh, won't the bright red suit
+and beard give him away?
+
+921
+01:08:46,160 --> 01:08:49,596
+Charlie's got some great ideas
+on how to keep you safe.
+
+922
+01:08:49,680 --> 01:08:52,035
+Santa, this is Quintin,
+head of research and development.
+
+923
+01:08:52,080 --> 01:08:54,469
+- Quintin, good to meet ya.
+- Hello, Santa.
+
+924
+01:08:54,520 --> 01:08:58,399
+Charlie and I have put our heads
+together, and I think we've got
+a few surprises for you.
+
+925
+01:08:58,480 --> 01:09:01,950
+This is some of the best stuff that's
+come out of the workshop since the ball.
+
+926
+01:09:02,000 --> 01:09:04,195
+Fabulous.
+What happens if I fall off the roof?
+
+927
+01:09:04,240 --> 01:09:08,199
+Is this the most
+current photo you have?
+
+928
+01:09:08,240 --> 01:09:10,117
+Hold on.
+
+929
+01:09:14,840 --> 01:09:18,833
+- Hello?
+- <i>Mom.</i>
+- Oh, Charlie. Oh, my God.
+
+930
+01:09:18,920 --> 01:09:22,515
+Honey, how are you? Are you...
+Are... Where are you? Are you okay?
+
+931
+01:09:22,600 --> 01:09:25,592
+<i>I'm fine.</i>
+<i>We're up at the North Pole.</i>
+
+932
+01:09:25,680 --> 01:09:28,148
+Charlie, are you sure you're okay?
+
+933
+01:09:28,240 --> 01:09:31,437
+<i>I'm terrific! I'm helping</i>
+<i>the elves build a new sleigh.</i>
+
+934
+01:09:31,480 --> 01:09:34,995
+<i>We're trying for a vertical takeoff.</i>
+<i>Well, gotta go. The elves need me.</i>
+
+935
+01:09:35,080 --> 01:09:37,469
+- No, Charlie, wait. No, don't
+hang up the phone, honey.
+- <i>Don't worry, Mom. Everything's fine.</i>
+
+936
+01:09:37,520 --> 01:09:40,717
+- <i>See you at Christmas.</i>
+- Charlie, don't... Ah.
+
+937
+01:09:40,760 --> 01:09:43,752
+Fireplaces will no longer be a problem.
+
+938
+01:09:48,760 --> 01:09:52,389
+It's a new fabric.
+Completely flame retardant.
+
+939
+01:09:52,440 --> 01:09:57,116
+- It's light, yet durable.
+- And you can wear the jumpsuit
+under your coat and pants.
+
+940
+01:09:57,200 --> 01:10:00,715
+But what do I do
+if I fall off a roof?
+
+941
+01:10:00,760 --> 01:10:05,629
+We'll cordon off a three-block radius
+around Dr Miller's house.
+
+942
+01:10:05,680 --> 01:10:08,353
+Now, Calvin is to be
+apprehended unharmed.
+
+943
+01:10:08,400 --> 01:10:12,393
+And remember, he'll probably
+be dressed like Santa Claus.
+
+944
+01:10:32,120 --> 01:10:35,749
+<i>Give it your best shot</i>
+
+945
+01:10:35,800 --> 01:10:38,519
+<i>'Cause what you got is</i>
+<i>oh, so sweet</i>
+
+946
+01:10:42,440 --> 01:10:44,590
+- Freeze!
+- What the...
+
+947
+01:10:44,680 --> 01:10:48,832
+<i>I need a routine</i>
+<i>So gimme all your lovin'</i>
+
+948
+01:10:48,880 --> 01:10:52,668
+- It's not even my suit. It's a rental.
+- <i>All your hugs and kisses too</i>
+
+949
+01:10:55,240 --> 01:10:59,756
+<i>Gimme all your lovin'</i>
+<i>Don't let up until we're through</i>
+
+950
+01:10:59,800 --> 01:11:03,509
+"From Comet, To Santa."
+Did you make the card?
+
+951
+01:11:03,560 --> 01:11:05,835
+It's a nice rope.
+Just in case I fall off the roof?
+
+952
+01:11:07,520 --> 01:11:10,557
+Comet, this means a lot to me.
+Thanks, buddy.
+
+953
+01:11:10,640 --> 01:11:12,676
+<i>And if I blow my top</i>
+
+954
+01:11:14,480 --> 01:11:16,914
+<i>Will you let it</i>
+<i>go to your head</i>
+
+955
+01:11:18,320 --> 01:11:21,596
+<i>Gimme all your lovin'</i>
+<i>All your hugs and kisses too</i>
+
+956
+01:11:21,680 --> 01:11:24,911
+All right, let's go!
+
+957
+01:11:25,000 --> 01:11:27,434
+- You ready to go, sport?
+- You betcha, Dad.
+- <i>Gimme all your lovin'</i>
+
+958
+01:11:27,520 --> 01:11:30,318
+- Now Dasher, now Dancer!
+Now Prancer and Vixen!
+- <i>All your hugs and kisses too</i>
+
+959
+01:11:30,400 --> 01:11:33,676
+On Comet, on Cupid!
+On Donner and Blitzen!
+
+960
+01:11:37,120 --> 01:11:41,193
+Bye-bye. Bye, Quintin.
+Bye, Peewee.
+
+961
+01:11:41,240 --> 01:11:43,071
+Merry Christmas.
+
+962
+01:11:55,960 --> 01:11:57,871
+Take your time.
+
+963
+01:11:59,840 --> 01:12:02,832
+Turn to your right.
+Hello!
+
+964
+01:12:05,840 --> 01:12:07,398
+No.
+
+965
+01:12:09,040 --> 01:12:11,759
+- Charlie, stay in your seat.
+- I gotta show you this.
+
+966
+01:12:11,800 --> 01:12:15,554
+Radar-jamming jingle bells,
+snow screen,
+
+967
+01:12:15,600 --> 01:12:18,114
+DC-10 alert
+and air freshener.
+
+968
+01:12:18,160 --> 01:12:22,312
+- Wow.
+- And most important of all, your hat.
+
+969
+01:12:22,360 --> 01:12:25,591
+- My hat?
+- It's lined with a two-way radio.
+
+970
+01:12:25,680 --> 01:12:29,389
+Microphone's in here.
+It connects you directly to Judy.
+
+971
+01:12:29,480 --> 01:12:32,358
+- Wait a minute. What's this?
+- Oh, that's a C.D.
+
+972
+01:12:32,400 --> 01:12:36,552
+- Compact disc.
+- No. Cookie/ cocoa dispenser.
+
+973
+01:12:36,600 --> 01:12:38,795
+The cocoa comes out nice and hot.
+
+974
+01:12:38,840 --> 01:12:42,799
+- And... out pops the cookie.
+- <i>Gimme all your lovin'</i>
+
+975
+01:12:42,880 --> 01:12:47,112
+- How could I have done this
+without you, Charlie?
+- You couldn't.
+
+976
+01:13:10,960 --> 01:13:16,080
+- You're fatter this year.
+- Thank you very much. You've grown too.
+
+977
+01:13:16,160 --> 01:13:20,472
+And you were a very good girl
+this year, but I want you
+to go back to sleep, okay?
+
+978
+01:13:33,200 --> 01:13:36,556
+- I think the milk's a little sour.
+- It's soy milk.
+
+979
+01:13:36,640 --> 01:13:41,031
+- Huh?
+- You said you were lactose intolerant.
+
+980
+01:13:41,080 --> 01:13:43,719
+I did say that, didn't I?
+Thanks for remembering.
+
+981
+01:13:43,760 --> 01:13:45,990
+Go to sleep.
+
+982
+01:13:50,000 --> 01:13:54,152
+- Merry Christmas, Sara.
+- Merry Christmas, Santa.
+
+983
+01:13:55,640 --> 01:13:59,110
+Look, there's Mom and Neal's street!
+Can we go there next?
+
+984
+01:13:59,160 --> 01:14:02,311
+- Sure.
+- I made something for them
+at the workshop.
+
+985
+01:14:24,240 --> 01:14:26,071
+Freeze!
+
+986
+01:14:27,160 --> 01:14:29,310
+Ah, ho, ho.
+
+987
+01:14:29,360 --> 01:14:32,079
+You officers really gave me a start.
+Merry Christmas, guys.
+
+988
+01:14:32,120 --> 01:14:35,874
+- Not for you, fat boy.
+- "Fat boy"? Guys.
+
+989
+01:14:35,920 --> 01:14:39,595
+- Uh-uh-uh. Nice and easy now.
+- Oh!
+
+990
+01:14:39,680 --> 01:14:42,319
+Guys, guys, I got a lot of work to do.
+This is a big mistake, really.
+
+991
+01:14:42,400 --> 01:14:45,437
+You gotta watch the suit too. This
+is so old. It's an antique, you know.
+
+992
+01:14:45,520 --> 01:14:47,476
+- Where's the boy?
+- He's in the sleigh.
+
+993
+01:14:47,560 --> 01:14:49,710
+We got Calvin.
+We're bringing him out.
+
+994
+01:14:49,800 --> 01:14:53,031
+<i>Santa, are you okay?</i>
+<i>Over. Over.</i>
+
+995
+01:15:00,760 --> 01:15:03,752
+- Watch your head.
+- Santa, are you all right?
+- Santa?
+
+996
+01:15:03,800 --> 01:15:08,237
+- It'll be okay, kids.
+- Let him go! Let Santa go!
+
+997
+01:15:23,640 --> 01:15:26,313
+Honey, I'm sure
+Charlie's fine.
+
+998
+01:15:35,680 --> 01:15:39,468
+We've got a problem. Santa was at
+the Miller's, but he's not responding.
+
+999
+01:15:39,560 --> 01:15:43,235
+Well, time to deploy E.L.F.S.
+
+1000
+01:15:48,720 --> 01:15:50,915
+- Let's go!
+- Go!
+
+1001
+01:15:54,640 --> 01:15:57,029
+Go, go, go, go!
+Move it!
+
+1002
+01:16:23,760 --> 01:16:26,718
+Look, I know
+you're Scott Calvin.
+
+1003
+01:16:26,800 --> 01:16:30,952
+You know you're Scott Calvin.
+So let's make this simple.
+
+1004
+01:16:31,040 --> 01:16:34,635
+I say, name.
+You say, Scott Calvin.
+
+1005
+01:16:36,880 --> 01:16:39,075
+Name?
+
+1006
+01:16:39,120 --> 01:16:41,350
+Kriss Kringle.
+
+1007
+01:16:41,400 --> 01:16:44,358
+- Name?
+- <i>Sinter Klas.</i>
+
+1008
+01:16:44,400 --> 01:16:46,868
+- Name?
+- <i>Pere Noel.</i>
+
+1009
+01:16:46,960 --> 01:16:50,191
+<i>Buono Natale.</i>
+<i>Pelz-Nicole.</i>
+
+1010
+01:16:50,280 --> 01:16:52,714
+Topo Gigio.
+
+1011
+01:16:52,800 --> 01:16:57,954
+Okay, Calvin. Maybe a couple of hours
+in the tank will change your mind.
+
+1012
+01:17:17,760 --> 01:17:19,751
+- Charlie?
+- Yeah?
+
+1013
+01:17:19,840 --> 01:17:22,400
+Don't worry.
+We're the good guys.
+
+1014
+01:17:22,480 --> 01:17:24,869
+Come on.
+Let's go save Santa.
+
+1015
+01:17:28,720 --> 01:17:32,793
+We can't. The police
+are watching this place.
+
+1016
+01:17:32,880 --> 01:17:37,078
+Yeah, they probably are.
+But you see, we weren't figuring
+on walking out the front door.
+
+1017
+01:17:37,120 --> 01:17:41,352
+We find that we can get around
+a lot faster if we fly.
+
+1018
+01:17:41,400 --> 01:17:44,233
+Now... grab hold of my hand.
+
+1019
+01:17:44,280 --> 01:17:47,158
+And hang on tight.
+
+1020
+01:17:47,240 --> 01:17:49,310
+- And Charlie?
+- Yeah?
+
+1021
+01:17:49,360 --> 01:17:51,828
+Don't ever try this
+without elf supervision.
+
+1022
+01:18:02,280 --> 01:18:04,157
+Hmm? Ah!
+
+1023
+01:18:31,400 --> 01:18:33,277
+We're looking for Santa Claus.
+
+1024
+01:18:33,360 --> 01:18:36,079
+Go home, kids.
+Visiting hours are over.
+
+1025
+01:18:36,160 --> 01:18:39,709
+We're not kids,
+and we're not visiting.
+
+1026
+01:18:39,760 --> 01:18:44,072
+- We're here to bust out my dad.
+- You're the Calvin boy.
+
+1027
+01:18:47,440 --> 01:18:49,032
+Who... Who are these
+other kids?
+
+1028
+01:18:49,080 --> 01:18:51,594
+We're your worst nightmare.
+
+1029
+01:18:51,640 --> 01:18:54,234
+Elves with attitude.
+
+1030
+01:19:07,160 --> 01:19:10,675
+Shouldn't have had that doughnut.
+Oh!
+
+1031
+01:19:11,800 --> 01:19:13,836
+Untie me! I mean it!
+
+1032
+01:19:13,920 --> 01:19:16,229
+Untie...
+
+1033
+01:19:18,720 --> 01:19:20,915
+- Charlie!
+- Are you okay, Dad?
+
+1034
+01:19:21,000 --> 01:19:23,230
+I am now.
+
+1035
+01:19:30,320 --> 01:19:34,154
+- How'd you do that?
+- Tinsel. Not just for decoration.
+
+1036
+01:19:34,200 --> 01:19:35,758
+Hmm.
+
+1037
+01:19:35,840 --> 01:19:39,594
+Hey, excuse me. Can I get
+some of that tinsel?
+
+1038
+01:19:44,760 --> 01:19:47,274
+Mom?
+
+1039
+01:19:47,320 --> 01:19:49,436
+Mom!
+
+1040
+01:19:49,520 --> 01:19:52,876
+Neal. I'm home!
+
+1041
+01:19:52,920 --> 01:19:56,117
+Charlie?
+
+1042
+01:19:56,200 --> 01:19:58,953
+- Charlie?
+- Charlie.
+- Oh, my God, Charlie.
+
+1043
+01:19:59,000 --> 01:20:02,231
+Sweetheart. Oh, God.
+Come here. Come here.
+
+1044
+01:20:02,320 --> 01:20:04,709
+Oh, my boy.
+Oh, my sweetheart.
+
+1045
+01:20:04,760 --> 01:20:08,196
+Oh! My boy, you're home!
+
+1046
+01:20:08,240 --> 01:20:11,232
+Oh, I missed you so much.
+How are you?
+
+1047
+01:20:11,280 --> 01:20:14,875
+- I'm fine, Mom.
+- Are you okay? Look at me.
+
+1048
+01:20:14,960 --> 01:20:17,997
+- Oh, Charlie. I missed you, honey.
+- Mom, I'm fine. It's okay.
+
+1049
+01:20:18,040 --> 01:20:22,033
+- We were so worried
+about you. Look at you.
+- Mom, put me down. Stop kissing me!
+
+1050
+01:20:22,120 --> 01:20:24,475
+I don't have a lot of time.
+
+1051
+01:20:26,800 --> 01:20:29,553
+Did you leave the gifts
+I made under the tree?
+
+1052
+01:20:29,640 --> 01:20:31,676
+- You bet I did.
+- We better go.
+
+1053
+01:20:31,760 --> 01:20:33,990
+- No, Charlie. No, no, no.
+- No! No, wait, Charlie.
+
+1054
+01:20:34,080 --> 01:20:36,071
+It's okay, Laura.
+
+1055
+01:20:39,080 --> 01:20:40,957
+Actually, I...
+
+1056
+01:20:41,040 --> 01:20:43,873
+I think it's
+a much better idea...
+
+1057
+01:20:43,920 --> 01:20:47,595
+- that you stay here
+with your Mom and Neal.
+- Really?
+
+1058
+01:20:47,640 --> 01:20:50,791
+- But, Dad...
+- No buts, Charlie.
+
+1059
+01:20:50,880 --> 01:20:54,429
+I can't be selfish.
+I can't be with you all the time.
+
+1060
+01:20:54,480 --> 01:20:56,596
+We're a family.
+
+1061
+01:20:56,680 --> 01:20:58,875
+You, me, your mom...
+
+1062
+01:21:01,040 --> 01:21:02,598
+and Neal.
+
+1063
+01:21:02,640 --> 01:21:05,552
+And they need to be with you too.
+
+1064
+01:21:05,640 --> 01:21:08,074
+I miss you too much.
+
+1065
+01:21:10,280 --> 01:21:12,714
+Come here a minute.
+
+1066
+01:21:15,280 --> 01:21:18,670
+Ah, listen to me.
+
+1067
+01:21:18,760 --> 01:21:20,876
+Come on, listen. There's...
+There's a lot of kids out there.
+
+1068
+01:21:20,920 --> 01:21:23,957
+Okay? Millions of kids.
+
+1069
+01:21:24,040 --> 01:21:28,795
+And they're...
+They all... They all believe in me.
+They're countin' on me, Charlie. And I...
+
+1070
+01:21:28,880 --> 01:21:32,919
+I'm not gonna let them down.
+I got a lot of work to do.
+
+1071
+01:21:33,000 --> 01:21:37,596
+So I can't be selfish either.
+
+1072
+01:21:37,680 --> 01:21:41,832
+You gave me a wonderful gift, Charlie.
+Listen, a wonderful gift.
+
+1073
+01:21:41,920 --> 01:21:44,354
+You believed in me
+when nobody else did.
+
+1074
+01:21:44,400 --> 01:21:46,755
+You helped make me Santa.
+
+1075
+01:21:47,920 --> 01:21:50,673
+Selfish? Come on.
+
+1076
+01:21:50,760 --> 01:21:54,230
+You're the least...
+the least selfish person I know.
+
+1077
+01:21:57,680 --> 01:22:00,353
+I love you, Santa Claus.
+
+1078
+01:22:01,960 --> 01:22:04,554
+I love you, son.
+
+1079
+01:22:06,400 --> 01:22:08,834
+Shh.
+
+1080
+01:22:08,880 --> 01:22:11,110
+It's okay.
+
+1081
+01:22:11,160 --> 01:22:13,116
+Okay. It's okay. Shh.
+
+1082
+01:22:21,240 --> 01:22:24,357
+Laura, what do you think? Christmas Eve
+you guys spend with Charlie?
+
+1083
+01:22:26,960 --> 01:22:28,916
+Oh, my God.
+
+1084
+01:22:31,400 --> 01:22:33,755
+It's you.
+
+1085
+01:22:35,320 --> 01:22:37,436
+It really is you.
+
+1086
+01:22:38,520 --> 01:22:41,353
+You really are...
+
+1087
+01:22:41,440 --> 01:22:44,159
+Santa Claus.
+
+1088
+01:22:44,240 --> 01:22:46,071
+Pretty cool, huh?
+
+1089
+01:22:46,160 --> 01:22:48,230
+Oh, my God.
+
+1090
+01:22:48,320 --> 01:22:51,630
+And your parents thought
+I'd never amount to anything.
+
+1091
+01:22:51,720 --> 01:22:55,679
+Oh, wait. Don't go yet.
+I have something for you. I...
+
+1092
+01:22:56,640 --> 01:22:58,471
+It's Santa!
+
+1093
+01:23:01,600 --> 01:23:04,717
+- Scott.
+- Neal.
+
+1094
+01:23:14,880 --> 01:23:17,235
+- Santa?
+- It's okay, Neal.
+
+1095
+01:23:20,920 --> 01:23:23,115
+Here.
+
+1096
+01:23:23,160 --> 01:23:25,515
+It's, um...
+Well, it's...
+
+1097
+01:23:25,600 --> 01:23:29,354
+It's my Christmas present for you.
+It's the, um... It's the custody papers.
+
+1098
+01:23:30,800 --> 01:23:35,237
+And I want you to come and see
+Charlie as often as you can.
+
+1099
+01:23:35,280 --> 01:23:38,909
+You can count on it.
+Thanks, Laura.
+
+1100
+01:23:43,840 --> 01:23:45,990
+Merry Christmas.
+
+1101
+01:23:46,080 --> 01:23:49,356
+What's all this boo-hooing goin'
+on here? Hey, how ya doin'?
+
+1102
+01:23:49,400 --> 01:23:51,675
+It's nothin', Bernard.
+I'm just saying goodbye to Charlie.
+
+1103
+01:23:51,760 --> 01:23:55,309
+What goodbye? Charlie,
+you still got the glass ball, right?
+
+1104
+01:23:55,400 --> 01:23:57,755
+- Yeah.
+- Well, all you gotta do...
+
+1105
+01:23:57,840 --> 01:24:00,229
+is shake it whenever
+you want to see your dad.
+
+1106
+01:24:00,320 --> 01:24:03,153
+- Really?
+- He can come back to see you...
+
+1107
+01:24:03,240 --> 01:24:05,231
+anytime day or night.
+
+1108
+01:24:05,320 --> 01:24:08,630
+Hey, have I ever
+steered ya wrong?
+
+1109
+01:24:10,080 --> 01:24:11,911
+Nice sweater.
+
+1110
+01:24:12,000 --> 01:24:14,878
+Hey, did we make this?
+
+1111
+01:24:14,960 --> 01:24:17,315
+Laura.
+
+1112
+01:24:17,360 --> 01:24:19,828
+He's sucking us
+into his delusions.
+
+1113
+01:24:19,920 --> 01:24:23,595
+Look at the elaborate
+measures he's taken.
+
+1114
+01:24:23,680 --> 01:24:27,229
+Neal, relax.
+
+1115
+01:24:27,280 --> 01:24:29,271
+I'll explain it to you later.
+
+1116
+01:24:31,600 --> 01:24:33,477
+Where'd he go?
+
+1117
+01:24:45,360 --> 01:24:49,353
+Go, go, go, go!
+Team one, heads up!
+
+1118
+01:24:56,640 --> 01:24:59,108
+- Okay, stand back, folks.
+Give us some room.
+- I'm scared, Dad.
+
+1119
+01:24:59,160 --> 01:25:02,152
+- Here you go, sir.
+- Thanks. Return to your homes!
+
+1120
+01:25:02,240 --> 01:25:05,949
+- Stay off the street. Come on, folks.
+Let us do our job here.
+- Oh, my gosh. Um...
+
+1121
+01:25:06,000 --> 01:25:08,673
+Excuse me. Excuse me. Hi.
+
+1122
+01:25:08,720 --> 01:25:12,076
+Um, you know, you don't have to
+send anybody... Oh, my gosh, wait!
+
+1123
+01:25:12,120 --> 01:25:15,271
+- Hey!
+- He's my ex-husband,
+and he's already up the chimney.
+
+1124
+01:25:15,360 --> 01:25:17,669
+Chief, look up there.
+
+1125
+01:25:19,080 --> 01:25:21,230
+Oh, Santa!
+
+1126
+01:25:22,480 --> 01:25:24,198
+Santa Claus.
+
+1127
+01:25:26,360 --> 01:25:29,033
+Look!
+
+1128
+01:25:34,240 --> 01:25:36,231
+What is it?
+
+1129
+01:25:38,320 --> 01:25:41,118
+Oh, wow!
+
+1130
+01:25:41,200 --> 01:25:43,760
+Up there! Do you see it?
+Hey, do you see it?
+
+1131
+01:25:47,480 --> 01:25:49,994
+- Goodbye, Charlie.
+- Bye, Dad.
+
+1132
+01:25:50,080 --> 01:25:53,834
+Merry Christmas to all!
+And to all a good night!
+
+1133
+01:25:58,320 --> 01:26:01,437
+- I'm sorry, Charlie.
+- That's okay, Neal.
+
+1134
+01:26:01,520 --> 01:26:05,195
+You were just denying
+your inner child.
+
+1135
+01:26:05,280 --> 01:26:09,239
+You're gonna make a great
+psychiatrist one day, kid.
+
+1136
+01:26:09,320 --> 01:26:13,757
+No, I think I'm going to go
+into the family business.
+
+1137
+01:26:19,760 --> 01:26:22,832
+Look out below!
+
+1138
+01:26:33,320 --> 01:26:36,073
+My wienie whistle.
+
+1139
+01:27:02,480 --> 01:27:05,074
+Bye, Santa Claus. Bye.
+
+1140
+01:27:05,160 --> 01:27:08,072
+- Merry Christmas.
+- See you next year.
+
+1141
+01:27:24,360 --> 01:27:26,794
+Charlie?
+Time to come inside.
+
+1142
+01:27:28,760 --> 01:27:31,274
+Mom, this stupid ball's
+not working.
+
+1143
+01:27:37,760 --> 01:27:39,591
+Shoot.
+
+1144
+01:27:45,200 --> 01:27:48,636
+- Hey, sport.
+- Dad!
+
+1145
+01:27:48,720 --> 01:27:52,235
+You miss me already?
+I've been gone, what? Ten minutes.
+
+1146
+01:27:52,280 --> 01:27:54,874
+Gimme a break.
+I was on my way to Cleveland.
+
+1147
+01:27:55,960 --> 01:27:58,428
+Come here and give me a hug.
+
+1148
+01:28:01,200 --> 01:28:03,077
+Oh!
+
+1149
+01:28:05,840 --> 01:28:09,150
+- Do you wanna go for a quick ride?
+- Yeah!
+
+1150
+01:28:09,200 --> 01:28:12,078
+- Uh...
+- Of course, it's up to your mom.
+
+1151
+01:28:12,120 --> 01:28:14,315
+Please, Mom.
+
+1152
+01:28:16,200 --> 01:28:19,431
+Go on. Get outta here.
+
+1153
+01:28:19,520 --> 01:28:22,080
+All right. Hold on.
+
+1154
+01:28:26,480 --> 01:28:29,358
+- On our way.
+- Bye, Mom.
+
+1155
+01:28:33,920 --> 01:28:36,309
+Just... Just a quick one.
+
+1156
+01:28:36,400 --> 01:28:40,439
+And, uh, not over any oceans, Scott.
+
+1157
+01:28:40,520 --> 01:28:42,476
+- Bye, Mom!
+- Scott.
+
+1158
+01:28:42,520 --> 01:28:46,433
+- Bye.
+- Scott!
+
+1159
+01:28:46,960 --> 01:28:48,951
+Santa!
+
+1160
+01:29:26,560 --> 01:29:29,836
+<i>All the brightly colored</i>
+<i>paper</i>
+
+1161
+01:29:29,920 --> 01:29:33,037
+<i>Lies around</i>
+<i>the Christmas tree</i>
+
+1162
+01:29:33,120 --> 01:29:35,350
+<i>While mothers shake</i>
+<i>their heads</i>
+
+1163
+01:29:35,440 --> 01:29:39,956
+<i>And pack the decorations</i>
+<i>carefully</i>
+
+1164
+01:29:46,520 --> 01:29:49,910
+<i>All the little children</i>
+<i>know that</i>
+
+1165
+01:29:50,000 --> 01:29:53,117
+<i>Monday's just another day</i>
+
+1166
+01:29:53,200 --> 01:29:56,431
+<i>They feel a little sad</i>
+<i>to think</i>
+
+1167
+01:29:56,520 --> 01:29:59,717
+<i>That Santa's gone away</i>
+
+1168
+01:29:59,800 --> 01:30:03,031
+<i>But Christmas will return</i>
+
+1169
+01:30:03,120 --> 01:30:06,430
+<i>And joyful hearts</i>
+<i>like candles burn</i>
+
+1170
+01:30:06,520 --> 01:30:09,796
+<i>With love for all</i>
+<i>the little ones</i>
+
+1171
+01:30:09,880 --> 01:30:13,111
+<i>In countries far and near</i>
+
+1172
+01:30:13,200 --> 01:30:16,431
+<i>And if we live and learn</i>
+
+1173
+01:30:16,520 --> 01:30:19,796
+<i>To show the world</i>
+<i>our real concern</i>
+
+1174
+01:30:19,880 --> 01:30:22,713
+<i>Then Christmas</i>
+<i>will return, yeah</i>
+
+1175
+01:30:22,800 --> 01:30:25,792
+<i>Every year</i>
+
+1176
+01:30:25,880 --> 01:30:29,634
+<i>Every year</i>
+
+1177
+01:30:29,720 --> 01:30:32,029
+<i>Yeah</i>
+
+1178
+01:30:33,320 --> 01:30:36,710
+<i>Take a little</i>
+<i>Christmas spirit</i>
+
+1179
+01:30:36,800 --> 01:30:40,031
+<i>With you into</i>
+<i>each new year</i>
+
+1180
+01:30:40,120 --> 01:30:43,237
+<i>Make a little</i>
+<i>Christmas spirit</i>
+
+1181
+01:30:43,320 --> 01:30:47,677
+<i>Last till</i>
+<i>Easter Sunday's here</i>
+
+1182
+01:30:50,040 --> 01:30:53,476
+<i>Take it with you</i>
+<i>through the summer</i>
+
+1183
+01:30:53,560 --> 01:30:56,632
+<i>Till the autumn leaves</i>
+<i>arrive</i>
+
+1184
+01:30:56,720 --> 01:30:59,871
+<i>In the bitter cold</i>
+<i>of winter</i>
+
+1185
+01:30:59,960 --> 01:31:03,191
+<i>The spark is still alive</i>
+
+1186
+01:31:03,280 --> 01:31:06,556
+<i>Christmas will return</i>
+
+1187
+01:31:06,640 --> 01:31:09,950
+<i>And joyful hearts</i>
+<i>like candles burn</i>
+
+1188
+01:31:10,040 --> 01:31:13,191
+<i>With love for all</i>
+<i>the little ones</i>
+
+1189
+01:31:13,280 --> 01:31:16,556
+<i>In countries far and near</i>
+
+1190
+01:31:16,640 --> 01:31:19,871
+<i>And if we live and learn</i>
+
+1191
+01:31:19,960 --> 01:31:23,270
+<i>To show the world</i>
+<i>our real concern</i>
+
+1192
+01:31:23,360 --> 01:31:26,477
+<i>Then Christmas will return</i>
+
+1193
+01:31:26,560 --> 01:31:30,189
+<i>Every year</i>
+
+1194
+01:31:30,280 --> 01:31:33,397
+<i>Christmas will return</i>
+
+1195
+01:31:35,080 --> 01:31:37,435
+<i>So much</i>
+
+1196
+01:31:37,520 --> 01:31:40,956
+<i>Love for the little ones</i>
+
+1197
+01:31:42,680 --> 01:31:46,673
+<i>Oh, they can</i>
+<i>live and learn</i>
+
+1198
+01:31:55,560 --> 01:31:57,835
+<i>Yeah</i>
+
+1199
+01:31:57,920 --> 01:32:00,115
+<i>Yeah</i>
+
+1200
+01:32:00,200 --> 01:32:03,510
+<i>Take it with you</i>
+<i>through the summer</i>
+
+1201
+01:32:03,600 --> 01:32:07,070
+<i>Till the autumn leaves arrive</i>
+
+1202
+01:32:07,160 --> 01:32:10,118
+<i>In the bitter cold of winter</i>
+
+1203
+01:32:10,200 --> 01:32:15,877
+<i>See the spark is still alive</i>
+
+1204
+01:32:15,960 --> 01:32:20,192
+<i>Oh, oh</i>
+<i>Christmas will return</i>
+
+1205
+01:32:20,280 --> 01:32:23,397
+<i>Joyful hearts</i>
+<i>like candles burn</i>
+
+1206
+01:32:23,480 --> 01:32:26,756
+<i>With love for all</i>
+<i>the little ones</i>
+
+1207
+01:32:26,840 --> 01:32:30,116
+<i>In counties far and near</i>
+
+1208
+01:32:30,200 --> 01:32:33,476
+<i>If we live and learn</i>
+
+1209
+01:32:33,560 --> 01:32:36,313
+<i>To show the world</i>
+<i>our real concern</i>
+
+1210
+01:32:36,400 --> 01:32:39,756
+<i>Christmas will return</i>
+
+1211
+01:32:39,840 --> 01:32:42,149
+<i>Every year</i>
+
+1212
+01:32:42,240 --> 01:32:45,391
+<i>Every year</i>
+
+1213
+01:32:49,440 --> 01:32:54,230
+<i>Every year</i>
+
