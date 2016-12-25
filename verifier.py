@@ -33,7 +33,7 @@ def init_verify():
 				movies_name)
 
 
-	verify_movies_data(watched_imdb,watchlist_imdb)
+	verify_movies_data(watched_imdb,watchlist_imdb,watched_data,watchlist_data)
 
 def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies):
 	"""
@@ -100,7 +100,7 @@ def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies
 
 	print 'The new_movie_list was updated'
 
-def verify_movies_data(watched_imdb,watchlist_imdb):
+def verify_movies_data(watched_imdb,watchlist_imdb,watched_data,watchlist_data):
 	"""
 		What will be verified?
 			watchlist.data
@@ -124,23 +124,32 @@ def verify_movies_data(watched_imdb,watchlist_imdb):
 				print '----',i[0], 'was duplicated',i[1],'times'
 		
 
-	watchlist = open(FILE_WATCHLIST_DATA).read().split('\n')
-	watched = open(FILE_WATCHED_DATA).read().split('\n')
-
-	if len(watchlist) != len(set(watchlist)):
+	if len(watchlist_data) != len(set(watchlist_data)):
 		print 'There are register duplicated in watchlist.data'
-		f = nltk.FreqDist(watchlist)
+		f = nltk.FreqDist(watchlist_data)
 		for i in f.most_common(50):
 			if i[1] > 1:
 				print '----',i[0], 'was duplicated',i[1],'times'
 
-	if len(watched) != len(set(watched)):
+	if len(watched_data) != len(set(watched_data)):
 		print 'There are register duplicated in watched.data'
-		f = nltk.FreqDist(watched)
+		f = nltk.FreqDist(watched_data)
 		for i in f.most_common(50):
 			if i[1] > 1:
 				print '----',i[0], 'was duplicated',i[1],'times'
 
+
+	if len(watchlist_data) != len(watchlist_imdb):
+		watchlist_data_imdb_code = [i.split(';')[0] for i in watchlist_data]
+		for imdb_code in watchlist_imdb:
+			if imdb_code not in watchlist_data_imdb_code:
+				print '%s is within watchlist_imdb, but not in watchlist_data' % imdb_code
+
+	if len(watched_data) != len(watched_imdb):
+		watched_data_imdb_code = [i.split(';')[0] for i in watched_data]
+		for imdb_code in watched_imdb:
+			if imdb_code not in watched_data_imdb_code:
+				print '%s is within watched_imdb, but not in watched_data' % imdb_code
 
 init_verify()
 
