@@ -1,6 +1,6 @@
 import os
 import nltk
-from config import *
+from environment import *
 
 def init_verify():
 
