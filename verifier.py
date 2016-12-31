@@ -26,14 +26,23 @@ def init_verify():
 		train_srt = train_srt[1:]
 	train_srt = ['tt'+i.split('_tt')[1].split('.')[0] for i in train_srt]
 
-	verify_srt(train_srt,
-				test_srt,
-				watchlist_imdb,
-				watched_imdb,
-				movies_name)
+	#****---------------    TAG   ---------------****#
+	test_tag = os.listdir(os.getcwd()+'/'+FOLDER_TAG_TEST)
+	if '.DS_Store' in test_tag:
+		test_tag = test_tag[1:]
+	test_tag = ['tt'+i.split('_tt')[1].split('.')[0] for i in test_tag]
+
+
+	train_tag = os.listdir(os.getcwd()+'/'+FOLDER_TAG_TRAIN)
+	if '.DS_Store' in train_tag:
+		train_tag = train_tag[1:]
+	train_tag = ['tt'+i.split('_tt')[1].split('.')[0] for i in train_tag]
 
 
 	verify_movies_data(watched_imdb,watchlist_imdb,watched_data,watchlist_data)
+	verify_srt(train_srt,test_srt,watchlist_imdb,watched_imdb,movies_name)
+	verify_tag(train_tag,test_tag,watchlist_imdb,watched_imdb,movies_name)
+	#verify_utterance()
 
 def verify_srt(srt_train,srt_test,new_movies_list,watched_movies_list,dic_movies):
 	"""
@@ -150,6 +159,23 @@ def verify_movies_data(watched_imdb,watchlist_imdb,watched_data,watchlist_data):
 		for imdb_code in watched_imdb:
 			if imdb_code not in watched_data_imdb_code:
 				print '%s is within watched_imdb, but not in watched_data' % imdb_code
+
+def verify_tag(tag_train,tag_test,new_movies_list,watched_movies_list,dic_movies):
+
+	for imdb_code in tag_test:
+		if imdb_code not in new_movies_list and imdb_code in watched_movies_list:
+			print 'Move %s/%s from test to TAG_train_folder' % (imdb_code,dic_movies[imdb_code])
+
+	for imdb_code in new_movies_list:
+		if imdb_code not in tag_test and imdb_code not in watched_movies_list:
+			print 'Download %s and move to TAG_TEST folder' % (imdb_code)
+
+	for imdb_code in watched_movies_list:
+		if imdb_code not in tag_train and imdb_code not in new_movies_list:
+			print 'Download %s and move to TAG_TRAIN folder' % (imdb_code)
+
+def verify_utterance():
+	raise Exception()
 
 init_verify()
 
