@@ -4,18 +4,23 @@ import sys
 import os
 import math
 import time
-from config import *
+import re
+from environment import *
 sys.path.insert(0,os.getcwd()+'/lib')
-from utils import *
-
+sys.path.insert(0,os.getcwd()+'/data')
+from data import *
 def crawlyOscars(title_code):
+	"""
+		Given a imdb_code 
+		return the number of oscars and nominations, and score
+	"""
 
 	movie_page	= urllib2.urlopen(title_code).readlines()
 	wons = 0
 	nominations = 0
 	awards = False
 	won = False
-	nominations = False
+	nomination = False
 	score = 0.0
 
 	for index in xrange(len(movie_page)):
@@ -29,17 +34,21 @@ def crawlyOscars(title_code):
 
 		if '<b>Won</b>' in line:
 			won = True
-			nominations = False
+			nomination = False
 
 		if '<b>Nominated</b>' in line:
-			nominations = True
+			nomination = True
 			won = False
 
 		if '"award_description"' in line and awards:
-			#print "#%s#" % movie_page[index+1]
+			
 			if '<br' not in movie_page[index+1]:
 				continue
 			award_description = movie_page[index+1].split('<br')[0].split('Best')[1]
+			award_description = award_description.replace('Performance by an ','')
+			award_description = award_description.replace(' of the Year','')
+			award_description = award_description.replace('Achievement in ','')
+			
 
 			for O_S in OSCARS_SCORE.keys():
 				if O_S in award_description:
@@ -51,24 +60,96 @@ def crawlyOscars(title_code):
 					score += OSCARS_SCORE['Basic']
 				else:
 					nominations += 1
-					score += OSCARS_SCORE['Basic']/3.
+					score += OSCARS_SCORE['Basic']/4.
 			else:
 				if won:
 					wons += 1
 					score += OSCARS_SCORE[award_description]
 				else:
 					nominations += 1
-					score += OSCARS_SCORE[award_description]/3.
+					score += OSCARS_SCORE[award_description]/4.
 
-				
-
-			#print '#%s#' % award_description
-
-
+	
 	return {'Wons':wons,'Nominations':nominations,'Score':score}
 
+def crawlyBAFTA(title_code):
+	movie_page	= urllib2.urlopen(title_code).readlines()
+
+	wons = 0
+	bafta = False
+	won = False
+	score = 0.0
+	for index in xrange(len(movie_page)):
+
+		if 'BAFTA Awards' in movie_page[index]:
+			bafta = True
+
+		if bafta and '</table><br />' in movie_page[index]:
+			bafta = False
+
+		if bafta and 'Won' in movie_page[index]:
+			won = True
+
+		if won and 'Nominated' in movie_page[index]:
+			won = False
+
+		if won and bafta and 'award_description' in movie_page[index]:
+			
+			award = " ".join(movie_page[index+1].split('<')[0].split()[0:])
+			if award in BAFTA_SCORE:
+				score += BAFTA_SCORE[award]
+				wons += 1
+
+
+
+	return {'Wons':wons,'score':score}
+
+def cralwyCANNES(title_code):
+	movie_page	= urllib2.urlopen(title_code).readlines()
+
+	wons = 0
+	cannes = False
+	won = False
+	score = 0.0
+	for index in xrange(len(movie_page)):
+
+		if 'Cannes Film Festival' in movie_page[index]:
+			cannes = True
+
+		if cannes and "Palme d'Or<" in movie_page[index]:
+			if 'Won' in movie_page[index-1]:
+				wons +=1
+				score += CANNES_PALME
+				break
+
+	return {'Wons':wons,'score':score}
+
+def cralwyBerlin(title_code):
+	movie_page	= urllib2.urlopen(title_code).readlines()
+
+	wons = 0
+	berlin = False
+	won = False
+	score = 0.0
+	for index in xrange(len(movie_page)):
+
+		if 'Berlin International Film Festival' in movie_page[index]:
+			berlin = True
+
+		if berlin and 'Golden Berlin Bear' in movie_page[index]:
+			if 'Won' in movie_page[index-1]:
+				wons +=1
+				score += BERLIN_BEAR
+				break
+
+	return {'Wons':wons,'score':score}
+
 def extract_movie_data(title_code):
-	oscars = crawlyOscars('http://www.imdb.com/title/%s/awards' % title_code)
+	"""
+		Given title code
+		return movie_data : name,date,ranting,oscars
+	"""
+	
 	movie_page	= urllib2.urlopen('http://www.imdb.com/title/%s' % title_code).readlines()
 	ranting = None
 	movie_name = None
@@ -84,6 +165,8 @@ def extract_movie_data(title_code):
 			ranting = movie_page[index+1].split('<strong title="')[1].split(' based on ')[0]
 
 		if "<meta property='og:title' " in line:
+			if '(' not in line:
+				raise Exception('The movie_IMDB %s is not registered' % title_code)
 			movie_name = line.split('content="')[1].split('" />')[0]
 			movie_date = movie_name.split(' (')[1].split(')')[0]
 			movie_name = movie_name.split(' (')[0]
@@ -101,12 +184,20 @@ def extract_movie_data(title_code):
 			movie_name = movie_name.replace('__','_')
 
 
+
 		if 'op" itemprop="genre">' in line:
 			genres.append(line.split('op" itemprop="genre">')[1].split('</')[0])
 
+
+	oscars = crawlyOscars('http://www.imdb.com/title/%s/awards' % title_code)
+	bafta = crawlyBAFTA('http://www.imdb.com/title/%s/awards' % title_code)
+	berlin = cralwyBerlin('http://www.imdb.com/title/%s/awards' % title_code)
+	cannes = cralwyCANNES('http://www.imdb.com/title/%s/awards' % title_code)
 	
 	data_line = '%s;%s;%s;' % (movie_name,movie_date,ranting)
-	data_line += '%d;%d;%d' % (oscars['Wons'],oscars['Nominations'],oscars['Score'])
+	data_line += '%d;%d;%1.2f' % (oscars['Wons'],oscars['Nominations'],oscars['Score'])
+	data_line += ';%d;%1.2f' % (bafta['Wons']+berlin['Wons']+cannes['Wons'],
+							bafta['score']+berlin['score']+cannes['score'])
 
 	for g in genres:
 		data_line += ';%s' % g
@@ -115,35 +206,23 @@ def extract_movie_data(title_code):
 	return {'code':title_code,'data':data_line}
 
 def run():
-	movies_title_code = open(os.getcwd()+'/'+PATH__NEW_MOVIES_CODE).read().split('\n')
-	new_movies_stored = open(os.getcwd()+'/'+PATH__NEW_MOVIES)
-	watched_movies    = open(os.getcwd()+'/'+PATH__WATCHED_MOVIES).read().split('\n')
-	movies_stored_data = new_movies_stored.read().split('\n')[0:-1]
+	watchlist_imdb_code = open(os.getcwd()+'/'+FILE_WATCHLIST_IMDB).read().split('\n')
+	watchlist_reader = open(os.getcwd()+'/'+FILE_WATCHLIST_DATA)
+	watchlist_data = dict([(i.split(';')[0],";".join(i.split(';')[1:])) for i in watchlist_reader.read().split('\n')])
+	watchlist_reader.close()
 	
 
-	new_movies_date   = dict([ (m.split(';')[0],int(m.split(';')[2])) for m in movies_stored_data])
-	new_movies_buffer = dict([ (m.split(';')[0],";".join(m.split(';')[1:])) for m in movies_stored_data])
-	new_movies_stored.close()
-	watched_movies_code = [ m.split(';')[0] for m in watched_movies]
-	
-	for movie_code in movies_title_code:
-		movie_data_extracted = None
+	for imdb_code in watchlist_imdb_code:
+		if imdb_code not in watchlist_data:
+			movie_data = extract_movie_data(imdb_code)
+			watchlist_data[imdb_code] = movie_data['data']
 
-		if movie_code in watched_movies:
-			raise Exception('The movie % is in both watched and new files' % movie_code)
+	watchlist_data = zip(watchlist_data.values(),watchlist_data.keys())
+	watchlist_data.sort()
 
-		elif movie_code not in new_movies_date: #or (movie_code in new_movies_date and new_movies_date[movie_code] >= time.gmtime().tm_year-1):
-			movie_data_extracted = extract_movie_data(movie_code)
-			new_movies_buffer[movie_data_extracted['code']] = movie_data_extracted['data']
-			
+	watchlist_writer = open(os.getcwd()+'/'+FILE_WATCHLIST_DATA,'w')
+	for w in watchlist_data:
+		watchlist_writer.write('%s;%s\n' % (w[1],w[0]))
 
-		elif movie_code not in new_movies_date and movie_data_extracted == None:
-			raise Exception('The movie %s was not extracted' % movie_code)
+run()
 
-	new_movies_writer = open(os.getcwd()+'/'+PATH__NEW_MOVIES,'w')
-
-	new_movies_buffer = zip(new_movies_buffer.values(),new_movies_buffer.keys())
-	new_movies_buffer.sort()
-	
-	for line in new_movies_buffer:
-		new_movies_writer.write('%s;%s\n' % (line[1],line[0]))

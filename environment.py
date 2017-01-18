@@ -6,8 +6,8 @@ TAG_FOLDER = PATH_OUTPUT+'tag/'
 
 ##*****--  INPUT --******##
 
-FILE_WATCHED_IMDB = PATH_INPUT+'watched.imdb'
-FILE_WATCHLIST_IMDB = PATH_INPUT+'watchlist.imdb'
+FILE_WATCHED_IMDB = PATH_INPUT+'watched.imdb'     #contains only IMDB_CODE
+FILE_WATCHLIST_IMDB = PATH_INPUT+'watchlist.imdb' #contains only IMDB_CODE
 FOLDER_SRT_TEST = SRT_FOLDER+'test'
 FOLDER_SRT_TRAIN = SRT_FOLDER+'train'
 
