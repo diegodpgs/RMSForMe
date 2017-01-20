@@ -162,7 +162,7 @@ tt0073486;one_flew_over_the_cuckoo_s_nest;1975;8.7;10;Drama
 tt0400717;open_season;2006;6.2;6;Animation;Adventure;Comedy
 tt0125454;paulie;1998;6.5;6;Adventure;Comedy;Drama
 tt0213149;pearl_harbor;2001;6.1;6;Action;Drama;History
-tt0168122;pirates_of_silicon_valley;TV Movie 1999;7.3;10;Biography;Drama
+tt0168122;pirates_of_silicon_valley;1999;7.3;10;Biography;Drama
 tt0325980;pirates_of_the_caribbean_the_curse_of_the_black_pearl;2003;8;9;Action;Adventure;Fantasy
 tt0762125;planet_51;2009;6.1;6;Animation;Adventure;Comedy
 tt0089822;police_academy_2_their_first_assignment;1985;5.6;4;Comedy
@@ -196,7 +196,7 @@ tt1045658;silver_linings_playbook;2012;7.8;9;Comedy;Drama;Romance
 tt0105417;sister_act;1992;6.3;6;Comedy;Crime;Music
 tt1010048;slumdog_millionaire;2008;8;8;Drama;Romance
 tt0120157;soldier;1998;6;6;Action;Drama;Sci-Fi
-tt0386792;something_the_lord_made;TV Movie 2004;8.3;10;Biography;Drama
+tt0386792;something_the_lord_made;2004;8.3;10;Biography;Drama
 tt0362165;son_of_the_mask;2005;2.2;4;Comedy;Family;Fantasy
 tt0120184;sphere;1998;6;6;Drama;Mystery;Sci-Fi
 tt0227538;spy_kids;2001;5.4;4;Action;Adventure;Comedy
@@ -298,3 +298,5 @@ tt0067992;willy_wonka_&_the_chocolate_factory;1971;7.8;8;Family;Fantasy;Musical
 tt0816711;world_war_z;2013;7;6;Action;Adventure;Horror
 tt0458525;x_men_origins_wolverine;2009;6.7;7;Action;Adventure;Sci-Fi
 tt1156398;zombieland;2009;7.7;8;Adventure;Comedy;Horror
+tt2338151;pk;2014;8.2;0;0;0.00;0;0.00;Comedy;Drama;Romance
+tt0245429;spirited_away;2001;8.6;1;0;0.50;1;8.00;Animation;Adventure;Family

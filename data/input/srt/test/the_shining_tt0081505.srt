@@ -1,0 +1,5750 @@
+1
+00:03:13,018 --> 00:03:15,395
+Hi. I've got an appointment
+with Mr. Ullman.
+
+2
+00:03:15,604 --> 00:03:17,522
+My name is Jack Torrance.
+
+3
+00:03:17,731 --> 00:03:20,275
+His office is the first door
+on the left.
+
+4
+00:03:20,484 --> 00:03:21,693
+Thank you.
+
+5
+00:03:39,044 --> 00:03:39,920
+Mr. Ullman?
+
+6
+00:03:40,128 --> 00:03:41,380
+I'm Jack Torrance.
+
+7
+00:03:41,588 --> 00:03:43,548
+Come on in, Jack.
+
+8
+00:03:44,674 --> 00:03:47,177
+-Very nice to meet you.
+-Nice to meet you.
+
+9
+00:03:47,386 --> 00:03:48,929
+This is my secretary, Susie.
+
+10
+00:03:49,346 --> 00:03:51,807
+-Susie, how do you do?
+-Any trouble finding us?
+
+11
+00:03:52,015 --> 00:03:54,851
+No problem at all.
+I made the trip in 3 1/2 hours.
+
+12
+00:03:55,060 --> 00:03:56,978
+That's very good time.
+
+13
+00:03:57,312 --> 00:03:58,897
+Sit down a minute, Jack.
+
+14
+00:03:59,147 --> 00:04:00,899
+Just make yourself at home.
+
+15
+00:04:01,108 --> 00:04:02,359
+Like some coffee?
+
+16
+00:04:02,567 --> 00:04:05,070
+If you're having some,
+I wouldn't mind. Thanks.
+
+17
+00:04:05,278 --> 00:04:06,279
+-Susie.
+-Sure.
+
+18
+00:04:06,488 --> 00:04:08,198
+And ask Bill Watson to join us.
+
+19
+00:04:08,407 --> 00:04:09,866
+Yes, I will.
+
+20
+00:04:20,711 --> 00:04:21,837
+Mom?
+
+21
+00:04:22,713 --> 00:04:23,880
+Yeah?
+
+22
+00:04:24,297 --> 00:04:27,926
+Do you really want to go and live
+in that hotel for the winter?
+
+23
+00:04:28,552 --> 00:04:29,886
+Sure I do.
+
+24
+00:04:30,095 --> 00:04:32,055
+It'll be lots of fun.
+
+25
+00:04:33,890 --> 00:04:36,017
+Yeah. I guess so.
+
+26
+00:04:36,226 --> 00:04:40,397
+Anyway, there's hardly anybody
+to play with around here.
+
+27
+00:04:41,189 --> 00:04:44,818
+I know. It always takes
+a little time to make new friends.
+
+28
+00:04:46,278 --> 00:04:48,572
+Yeah, I guess so.
+
+29
+00:04:49,364 --> 00:04:50,365
+What about Tony?
+
+30
+00:04:50,574 --> 00:04:52,993
+He's looking forward
+to the hotel, I bet.
+
+31
+00:04:53,535 --> 00:04:55,912
+No, I ain't, Mrs. Torrance.
+
+32
+00:04:56,288 --> 00:04:58,749
+Now, come on, Tony.
+Don't be silly.
+
+33
+00:04:59,124 --> 00:05:01,126
+I don't want to go there.
+
+34
+00:05:01,585 --> 00:05:03,628
+How come you don't want to go?
+
+35
+00:05:03,879 --> 00:05:05,964
+Ijust don't.
+
+36
+00:05:06,214 --> 00:05:08,967
+Let's just wait and see.
+
+37
+00:05:09,259 --> 00:05:11,928
+We're all going to have
+a real good time.
+
+38
+00:05:13,305 --> 00:05:15,766
+Bill, I'd like you
+to meet Jack Torrance.
+
+39
+00:05:15,974 --> 00:05:17,434
+How do you do, Bill?
+
+40
+00:05:17,601 --> 00:05:19,603
+-Nice to meet you.
+-Pleasure to meet you.
+
+41
+00:05:19,770 --> 00:05:21,730
+Grab a chair, Bill. Join in.
+
+42
+00:05:21,938 --> 00:05:26,068
+Jack is going to take care of
+the Overlook for us this winter.
+
+43
+00:05:26,276 --> 00:05:29,279
+I'd like you to take him around
+soon as we're through.
+
+44
+00:05:29,446 --> 00:05:30,405
+Fine.
+
+45
+00:05:31,031 --> 00:05:32,949
+Jack is a schoolteacher.
+
+46
+00:05:33,200 --> 00:05:35,160
+Formerly a schoolteacher.
+
+47
+00:05:35,369 --> 00:05:37,079
+What line of work are you in now?
+
+48
+00:05:37,287 --> 00:05:38,872
+I'm a writer.
+
+49
+00:05:39,122 --> 00:05:42,751
+Teaching's been more or less
+a way of making ends meet.
+
+50
+00:05:42,959 --> 00:05:44,920
+This ought to be
+quite a change for you.
+
+51
+00:05:45,837 --> 00:05:47,631
+I'm looking for a change.
+
+52
+00:05:47,839 --> 00:05:51,426
+Our people in Denver recommended
+Jack very highly, and for once...
+
+53
+00:05:51,635 --> 00:05:53,261
+...I agree with them.
+
+54
+00:05:53,887 --> 00:05:55,680
+Let's see, where were we?
+
+55
+00:05:55,889 --> 00:05:58,475
+I was about to explain...
+
+56
+00:05:58,725 --> 00:06:02,896
+...that our season here runs from
+May 15th to October 30th.
+
+57
+00:06:03,105 --> 00:06:06,566
+Then we close down completely
+until the following May.
+
+58
+00:06:06,775 --> 00:06:09,569
+Do you mind if I ask
+why you do that?
+
+59
+00:06:09,778 --> 00:06:13,240
+It seems to me that the skiing
+up here would be fantastic.
+
+60
+00:06:13,448 --> 00:06:16,034
+It would be. The problem is
+the enormous cost...
+
+61
+00:06:16,243 --> 00:06:18,787
+...it would be to keep
+the road to Sidewinder open.
+
+62
+00:06:19,454 --> 00:06:21,164
+It's a 25-mile stretch of road.
+
+63
+00:06:21,373 --> 00:06:23,750
+It gets 20 feet of snow
+during the winter.
+
+64
+00:06:23,959 --> 00:06:27,170
+There's just no way to make it
+economically feasible...
+
+65
+00:06:27,379 --> 00:06:29,339
+...to keep it clear.
+
+66
+00:06:29,506 --> 00:06:31,883
+When the place was built in 1907...
+
+67
+00:06:32,092 --> 00:06:34,636
+...there was very little interest
+in winter sports.
+
+68
+00:06:34,845 --> 00:06:39,725
+This site was chosen for its
+seclusion and scenic beauty.
+
+69
+00:06:39,975 --> 00:06:42,477
+It's certainly got
+plenty of that.
+
+70
+00:06:42,686 --> 00:06:43,895
+That's right.
+
+71
+00:06:44,604 --> 00:06:47,441
+Did they give you
+any idea in Denver...
+
+72
+00:06:47,649 --> 00:06:49,317
+...about what the job entails?
+
+73
+00:06:49,526 --> 00:06:51,611
+Only in a very general way.
+
+74
+00:06:54,072 --> 00:06:56,658
+The winters can be
+fantastically cruel.
+
+75
+00:06:56,867 --> 00:07:00,328
+The basic idea is to cope
+with the very costly damage...
+
+76
+00:07:00,537 --> 00:07:02,539
+...and depreciation
+which can occur.
+
+77
+00:07:02,748 --> 00:07:05,208
+This consists mainly
+of running the boiler...
+
+78
+00:07:05,375 --> 00:07:09,337
+...heating different parts of the
+hotel on a daily rotating basis...
+
+79
+00:07:09,546 --> 00:07:12,257
+...repairing damage as it occurs...
+
+80
+00:07:12,466 --> 00:07:15,302
+...and doing repairs so the
+elements can't get a foothold.
+
+81
+00:07:16,386 --> 00:07:18,597
+That sounds fine to me.
+
+82
+00:07:19,014 --> 00:07:21,975
+Physically, it's not
+a very demanding job.
+
+83
+00:07:22,184 --> 00:07:25,353
+The only thing that can get a bit
+trying here during the winter...
+
+84
+00:07:25,562 --> 00:07:28,190
+...is a tremendous sense
+of isolation.
+
+85
+00:07:29,316 --> 00:07:33,862
+That just happens to be
+exactly what I'm looking for.
+
+86
+00:07:34,237 --> 00:07:37,366
+I'm outlining a new
+writing project.
+
+87
+00:07:37,741 --> 00:07:41,078
+Five months of peace
+is just what I want.
+
+88
+00:07:41,828 --> 00:07:43,580
+That's very good, Jack.
+
+89
+00:07:43,872 --> 00:07:47,042
+Because, for some people...
+
+90
+00:07:47,250 --> 00:07:49,002
+...solitude...
+
+91
+00:07:49,211 --> 00:07:50,837
+...and isolation...
+
+92
+00:07:51,713 --> 00:07:53,965
+...can, of itself, become a problem.
+
+93
+00:07:54,758 --> 00:07:56,385
+Not for me.
+
+94
+00:07:56,927 --> 00:08:00,138
+How about your wife and son?
+Do you think they'll take to it?
+
+95
+00:08:01,932 --> 00:08:03,100
+They'll love it.
+
+96
+00:08:03,308 --> 00:08:04,518
+Great.
+
+97
+00:08:07,437 --> 00:08:10,649
+Before I turn you over to Bill...
+
+98
+00:08:10,857 --> 00:08:14,361
+...there's one other thing I think
+we should talk about.
+
+99
+00:08:14,569 --> 00:08:15,987
+Not to sound melodramatic...
+
+100
+00:08:16,196 --> 00:08:18,740
+...but it's been known to
+give a few people...
+
+101
+00:08:18,949 --> 00:08:21,159
+...second thoughts about the job.
+
+102
+00:08:21,868 --> 00:08:23,537
+I'm intrigued.
+
+103
+00:08:23,745 --> 00:08:26,081
+I don't suppose they
+said anything in Denver...
+
+104
+00:08:26,289 --> 00:08:30,252
+...about the tragedy we had up here
+during the winter of 1970.
+
+105
+00:08:30,836 --> 00:08:32,838
+I don't believe they did.
+
+106
+00:08:35,424 --> 00:08:37,134
+My predecessor in this job...
+
+107
+00:08:37,843 --> 00:08:41,096
+...hired a man named Charles Grady
+as the winter caretaker.
+
+108
+00:08:41,304 --> 00:08:44,808
+He came up with his wife and
+2 little girls of about 8 and 10.
+
+109
+00:08:45,016 --> 00:08:48,019
+He had a good employment record,
+good references.
+
+110
+00:08:48,228 --> 00:08:50,480
+And from what I've been told,
+he seemed...
+
+111
+00:08:50,689 --> 00:08:53,400
+...like a completely
+normal individual.
+
+112
+00:08:53,608 --> 00:08:55,986
+But at some point
+during the winter...
+
+113
+00:08:56,153 --> 00:08:59,781
+...he must have suffered some kind
+of a complete mental breakdown.
+
+114
+00:08:59,990 --> 00:09:02,367
+He ran amuck...
+
+115
+00:09:05,787 --> 00:09:07,956
+...and killed his family
+with an ax.
+
+116
+00:09:09,249 --> 00:09:13,879
+Stacked them neatly in a room
+in the west wing, and then...
+
+117
+00:09:14,671 --> 00:09:18,383
+...he put both barrels
+of his shotgun in his mouth.
+
+118
+00:09:19,634 --> 00:09:21,428
+The police thought...
+
+119
+00:09:21,636 --> 00:09:25,682
+...that it was what the old-timers
+used to call cabin fever.
+
+120
+00:09:25,891 --> 00:09:28,935
+A kind of claustrophobic reaction
+which can occur...
+
+121
+00:09:29,144 --> 00:09:33,273
+...when people are shut in together
+over long periods of time.
+
+122
+00:09:38,361 --> 00:09:39,780
+That is...
+
+123
+00:09:39,988 --> 00:09:41,490
+...quite a story.
+
+124
+00:09:42,824 --> 00:09:44,284
+Yeah, it is.
+
+125
+00:09:45,369 --> 00:09:48,705
+It's still hard for me to believe
+it actually happened here.
+
+126
+00:09:49,039 --> 00:09:50,707
+But it did.
+
+127
+00:09:52,501 --> 00:09:56,505
+I think you can appreciate
+why I wanted to tell you about it.
+
+128
+00:09:57,047 --> 00:09:59,549
+I certainly can.
+
+129
+00:10:00,050 --> 00:10:02,636
+I also understand
+why your people in Denver...
+
+130
+00:10:02,844 --> 00:10:05,097
+...left it for you to tell me.
+
+131
+00:10:06,306 --> 00:10:09,017
+Obviously, some people
+can be put off...
+
+132
+00:10:09,226 --> 00:10:13,313
+...from staying in a place where
+something like that happened.
+
+133
+00:10:13,522 --> 00:10:18,402
+You can rest assured that's not
+going to happen with me.
+
+134
+00:10:18,610 --> 00:10:22,280
+And as far as my wife
+is concerned...
+
+135
+00:10:22,489 --> 00:10:26,326
+...l'm sure she'll be absolutely
+fascinated when I tell her.
+
+136
+00:10:26,535 --> 00:10:29,371
+She's a confirmed ghost story...
+
+137
+00:10:29,579 --> 00:10:31,998
+...and horror film addict.
+
+138
+00:10:36,837 --> 00:10:40,549
+Tony, do you think
+Dad'll get the job?
+
+139
+00:10:41,925 --> 00:10:44,136
+He already did.
+
+140
+00:10:44,594 --> 00:10:48,306
+He's going to phone Wendy up
+in a few minutes to tell her.
+
+141
+00:11:03,030 --> 00:11:05,699
+-Hi, babe.
+-Hi, hon. How's it going?
+
+142
+00:11:05,907 --> 00:11:09,494
+Great. I'm at the hotel and
+I still have a lot to go through.
+
+143
+00:11:09,703 --> 00:11:12,831
+I don't think I can get home
+before 9:00 or 10:00.
+
+144
+00:11:13,040 --> 00:11:14,541
+Sounds like you got the job.
+
+145
+00:11:14,750 --> 00:11:17,461
+Right. It's a beautiful place.
+
+146
+00:11:17,627 --> 00:11:19,755
+You and Danny are going to love it.
+
+147
+00:11:21,256 --> 00:11:24,134
+Tony, why don't you want to go
+to the hotel?
+
+148
+00:11:24,426 --> 00:11:26,136
+I don't know.
+
+149
+00:11:27,220 --> 00:11:30,766
+You do too know.
+Now come on, tell me.
+
+150
+00:11:31,308 --> 00:11:33,393
+I don't want to.
+
+151
+00:11:34,102 --> 00:11:35,353
+Please.
+
+152
+00:11:36,605 --> 00:11:37,731
+No.
+
+153
+00:11:38,023 --> 00:11:40,108
+Now, Tony, tell me.
+
+154
+00:12:10,013 --> 00:12:12,766
+Now, hold your eyes still
+so I can see.
+
+155
+00:12:17,229 --> 00:12:19,481
+That's good. Now the other one.
+
+156
+00:12:20,857 --> 00:12:22,359
+Good boy.
+
+157
+00:12:29,700 --> 00:12:31,034
+Now, Danny...
+
+158
+00:12:31,535 --> 00:12:33,537
+...when you were brushing
+your teeth...
+
+159
+00:12:33,745 --> 00:12:36,748
+...do you remember if you
+smelled anything funny...
+
+160
+00:12:36,957 --> 00:12:41,712
+...or saw any bright, flashing
+lights or anything at all strange?
+
+161
+00:12:44,548 --> 00:12:45,716
+No.
+
+162
+00:12:46,800 --> 00:12:49,302
+Do you remember when you were
+brushing your teeth?
+
+163
+00:12:49,886 --> 00:12:51,179
+Yes.
+
+164
+00:12:52,305 --> 00:12:55,934
+What's the next thing you remember
+after you were brushing your teeth?
+
+165
+00:13:00,147 --> 00:13:02,774
+My mom was saying, "Wake up.
+Wake up, Danny, wake up."
+
+166
+00:13:06,987 --> 00:13:09,239
+Can you remember
+what you were doing...
+
+167
+00:13:09,406 --> 00:13:12,367
+...just before you started
+brushing your teeth?
+
+168
+00:13:14,870 --> 00:13:16,621
+Talking to Tony.
+
+169
+00:13:17,289 --> 00:13:19,666
+Is Tony one of your animals?
+
+170
+00:13:20,542 --> 00:13:23,462
+No. He's a little boy
+that lives in my mouth.
+
+171
+00:13:23,754 --> 00:13:26,173
+Tony's his imaginary friend.
+
+172
+00:13:29,092 --> 00:13:32,512
+If you were to open your mouth now,
+could I see Tony?
+
+173
+00:13:35,182 --> 00:13:36,433
+Why not?
+
+174
+00:13:37,684 --> 00:13:39,519
+Because he hides.
+
+175
+00:13:40,270 --> 00:13:41,897
+Where does he go?
+
+176
+00:13:43,023 --> 00:13:44,816
+To my stomach.
+
+177
+00:13:46,860 --> 00:13:49,780
+Does Tony ever tell you
+to do things?
+
+178
+00:13:53,825 --> 00:13:56,495
+I don't want to talk
+about Tony anymore.
+
+179
+00:13:59,122 --> 00:14:00,582
+That's fine.
+
+180
+00:14:01,333 --> 00:14:03,126
+All right, Danny.
+
+181
+00:14:03,960 --> 00:14:06,755
+I'm going to ask you
+to do me a favor...
+
+182
+00:14:06,963 --> 00:14:10,300
+...and stay quietly in bed
+for the rest of the day. Okay?
+
+183
+00:14:10,509 --> 00:14:11,635
+Do I have to?
+
+184
+00:14:11,843 --> 00:14:14,137
+Yes. I'd like you to.
+
+185
+00:14:14,304 --> 00:14:17,099
+We're going in the other room
+for a few minutes and talk.
+
+186
+00:14:17,307 --> 00:14:19,434
+I'll come back and check on you.
+
+187
+00:14:27,943 --> 00:14:30,320
+-Shall we go into the living room?
+-Yes.
+
+188
+00:14:34,032 --> 00:14:35,909
+-Please.
+-Thank you.
+
+189
+00:14:39,788 --> 00:14:44,167
+Mrs. Torrance, I don't think
+you have anything to worry about.
+
+190
+00:14:44,334 --> 00:14:48,380
+I'm quite sure there's nothing
+physically wrong with Danny.
+
+191
+00:14:53,135 --> 00:14:56,263
+He seems absolutely fine now.
+
+192
+00:14:56,471 --> 00:14:57,472
+But you should've seen him.
+
+193
+00:14:58,140 --> 00:14:59,141
+I know.
+
+194
+00:14:59,349 --> 00:15:01,059
+IKids can scare you to death.
+
+195
+00:15:01,268 --> 00:15:04,146
+But believe me, these episodes
+are not at all uncommon.
+
+196
+00:15:04,354 --> 00:15:06,898
+And they look much worse
+than they are.
+
+197
+00:15:07,441 --> 00:15:10,110
+But what was the matter with him?
+
+198
+00:15:10,318 --> 00:15:14,406
+Most of the time, these episodes
+with kids are never explained.
+
+199
+00:15:14,614 --> 00:15:19,494
+They're brought on by emotional
+factors and rarely occur again.
+
+200
+00:15:20,287 --> 00:15:23,248
+They're more akin
+to autohypnosis...
+
+201
+00:15:23,457 --> 00:15:26,418
+...a kind of self-induced trance.
+
+202
+00:15:26,626 --> 00:15:28,628
+If it reoccurs, which I doubt...
+
+203
+00:15:29,504 --> 00:15:32,591
+...we can always think about
+having some tests done.
+
+204
+00:15:35,218 --> 00:15:37,471
+I'm sure you're right.
+
+205
+00:15:39,097 --> 00:15:41,808
+Have you been in Boulder long?
+
+206
+00:15:42,601 --> 00:15:43,894
+Only about three months.
+
+207
+00:15:44,102 --> 00:15:47,481
+We're from Vermont. My husband
+was teaching school there.
+
+208
+00:15:49,483 --> 00:15:53,278
+Did the appearance
+of Danny's imaginary friend....
+
+209
+00:15:53,737 --> 00:15:54,571
+Tony.
+
+210
+00:15:54,738 --> 00:15:58,700
+Did Tony's first appearance happen
+to coincide with your arrival here?
+
+211
+00:16:01,828 --> 00:16:03,163
+Let's see....
+
+212
+00:16:03,872 --> 00:16:06,416
+I guess Danny started
+talking to Tony...
+
+213
+00:16:06,625 --> 00:16:09,336
+...about the time we put him
+in nursery school.
+
+214
+00:16:09,753 --> 00:16:12,047
+Did he adjust well to school?
+
+215
+00:16:14,257 --> 00:16:16,176
+He didn't like it too much
+at first.
+
+216
+00:16:16,385 --> 00:16:19,679
+Then he had an injury, so we kept
+him out for a while and....
+
+217
+00:16:21,098 --> 00:16:24,976
+I guess that's about when I first
+noticed he was talking to Tony.
+
+218
+00:16:25,977 --> 00:16:28,397
+What sort of injury did he have?
+
+219
+00:16:29,064 --> 00:16:31,233
+He dislocated his shoulder.
+
+220
+00:16:31,691 --> 00:16:33,944
+How did he manage to do that?
+
+221
+00:16:37,406 --> 00:16:40,450
+It was just one of
+those things, you know.
+
+222
+00:16:40,659 --> 00:16:42,661
+Purely an accident.
+
+223
+00:16:43,620 --> 00:16:46,456
+My husband had been drinking...
+
+224
+00:16:46,623 --> 00:16:49,960
+...and he came home
+about three hours late.
+
+225
+00:16:50,293 --> 00:16:54,840
+So he wasn't exactly
+in the greatest mood that night.
+
+226
+00:16:55,590 --> 00:17:00,345
+And Danny had scattered some of his
+school papers all over the room...
+
+227
+00:17:00,554 --> 00:17:04,850
+...and my husband grabbed his arm
+to pull him away from them.
+
+228
+00:17:05,058 --> 00:17:08,103
+It's just the sort of thing you do
+100 times with a child...
+
+229
+00:17:08,311 --> 00:17:10,355
+...you know, in a park
+or in the street.
+
+230
+00:17:11,481 --> 00:17:14,109
+But on this particular occasion...
+
+231
+00:17:14,317 --> 00:17:16,945
+...my husband just used
+too much strength...
+
+232
+00:17:17,154 --> 00:17:19,740
+...and he injured Danny's arm.
+
+233
+00:17:22,784 --> 00:17:27,289
+Anyway, something good did come out
+of it all because he said...
+
+234
+00:17:27,539 --> 00:17:30,125
+..."Wendy, I'm never going to
+touch another drop.
+
+235
+00:17:30,333 --> 00:17:32,252
+And if I do, you can leave me."
+
+236
+00:17:32,461 --> 00:17:33,795
+And he didn't.
+
+237
+00:17:34,004 --> 00:17:38,467
+He hasn't had any
+alcohol in 5 months.
+
+238
+00:18:05,369 --> 00:18:09,498
+We must really be high up.
+The air feels so different.
+
+239
+00:18:15,170 --> 00:18:16,380
+Dad?
+
+240
+00:18:19,216 --> 00:18:20,884
+I'm hungry.
+
+241
+00:18:22,719 --> 00:18:25,472
+You should've eaten your breakfast.
+
+242
+00:18:26,306 --> 00:18:29,226
+We'll get you something
+as soon as we get to the hotel.
+
+243
+00:18:29,393 --> 00:18:31,019
+Okay, Mom.
+
+244
+00:18:32,479 --> 00:18:36,608
+Wasn't it around here that
+the Donner party got snowbound?
+
+245
+00:18:38,360 --> 00:18:41,863
+I think that was farther west,
+in the Sierras.
+
+246
+00:18:43,323 --> 00:18:45,742
+What was the Donner party?
+
+247
+00:18:47,703 --> 00:18:51,957
+They were a party of settlers
+in covered wagon times.
+
+248
+00:18:52,207 --> 00:18:55,460
+They got snowbound one winter
+in the mountains.
+
+249
+00:18:55,669 --> 00:18:59,881
+They had to resort to cannibalism
+in order to stay alive.
+
+250
+00:19:01,007 --> 00:19:03,927
+You mean they ate each other up?
+
+251
+00:19:04,094 --> 00:19:07,222
+They had to in order to survive.
+
+252
+00:19:07,431 --> 00:19:08,640
+Jack.
+
+253
+00:19:08,849 --> 00:19:09,933
+Don't worry, Mom.
+
+254
+00:19:10,142 --> 00:19:14,479
+I know all about cannibalism.
+I saw it on TV.
+
+255
+00:19:14,688 --> 00:19:17,315
+See, it's okay.
+
+256
+00:19:17,524 --> 00:19:19,943
+He saw it all on the television.
+
+257
+00:19:50,640 --> 00:19:52,476
+-What time does the plane leave?
+-8:30.
+
+258
+00:19:52,684 --> 00:19:55,479
+That gives us plenty of time
+to go over everything.
+
+259
+00:19:55,645 --> 00:19:57,606
+-Goodbye, Mr. Ullman.
+-Bye.
+
+260
+00:19:57,814 --> 00:20:00,942
+Good morning. I hope you
+haven't been waiting too long.
+
+261
+00:20:01,151 --> 00:20:03,779
+No problem. We had time
+to grab a bite to eat.
+
+262
+00:20:03,987 --> 00:20:06,865
+Good. Glad you made it
+before they shut down the kitchen.
+
+263
+00:20:07,074 --> 00:20:08,784
+Is your family
+having a look around?
+
+264
+00:20:08,992 --> 00:20:12,371
+No, my son's
+discovered the games room.
+
+265
+00:20:12,579 --> 00:20:15,665
+-Has your luggage been brought in?
+-Right there.
+
+266
+00:20:16,249 --> 00:20:18,210
+In view of all we have
+to cover today...
+
+267
+00:20:18,418 --> 00:20:22,089
+...l suggest we have a quick look
+at your apartment and get started.
+
+268
+00:20:22,297 --> 00:20:25,050
+Have the Torrances' things
+brought to their apartment.
+
+269
+00:20:25,258 --> 00:20:27,969
+I'd better collect my family first.
+
+270
+00:20:36,103 --> 00:20:38,480
+This is our Colorado Lounge.
+
+271
+00:20:38,688 --> 00:20:41,108
+It's beautiful.
+
+272
+00:20:41,525 --> 00:20:43,360
+My God!
+
+273
+00:20:43,568 --> 00:20:46,154
+This place is fantastic,
+isn't it, hon?
+
+274
+00:20:46,363 --> 00:20:47,698
+It sure is.
+
+275
+00:20:47,864 --> 00:20:50,701
+I've never seen anything
+like this before.
+
+276
+00:20:52,327 --> 00:20:54,287
+Are all these
+lndian designs authentic?
+
+277
+00:20:54,496 --> 00:20:55,914
+I believe they're based...
+
+278
+00:20:56,123 --> 00:20:59,334
+...mainly on Navajo and Apache motifs.
+
+279
+00:20:59,543 --> 00:21:01,503
+They're really gorgeous.
+
+280
+00:21:01,712 --> 00:21:02,713
+As a matter of fact...
+
+281
+00:21:02,921 --> 00:21:06,007
+...this is probably the most
+gorgeous hotel I've ever seen.
+
+282
+00:21:06,425 --> 00:21:09,386
+This old place has had
+an illustrious past.
+
+283
+00:21:09,594 --> 00:21:12,681
+In its heyday, it was a stopping
+place for the jet setters...
+
+284
+00:21:12,889 --> 00:21:15,892
+...even before anybody knew
+what a jet set was.
+
+285
+00:21:16,059 --> 00:21:19,146
+We had four presidents
+who stayed here.
+
+286
+00:21:19,396 --> 00:21:20,689
+Lots of movie stars.
+
+287
+00:21:20,897 --> 00:21:22,441
+Royalty?
+
+288
+00:21:22,816 --> 00:21:24,234
+All the best people.
+
+289
+00:22:17,329 --> 00:22:19,915
+This is the staff wing
+of the hotel.
+
+290
+00:22:20,874 --> 00:22:24,211
+None of the other bedrooms
+are heated during the winter.
+
+291
+00:22:24,461 --> 00:22:27,339
+-Goodbye, Mr. Ullman.
+-Goodbye, girls.
+
+292
+00:22:27,589 --> 00:22:29,591
+And here are your quarters.
+
+293
+00:22:29,966 --> 00:22:32,594
+Living room, bedroom, bathroom.
+
+294
+00:22:32,803 --> 00:22:35,263
+And a small bedroom for your son.
+
+295
+00:22:38,892 --> 00:22:40,936
+Perfect for a child.
+
+296
+00:22:48,151 --> 00:22:51,613
+Well, then. Place is
+very nicely self-contained.
+
+297
+00:22:51,822 --> 00:22:53,365
+Easy to keep.
+
+298
+00:22:56,159 --> 00:22:57,202
+Cozy.
+
+299
+00:22:57,411 --> 00:22:59,663
+Yes, very cozy for a family.
+
+300
+00:22:59,913 --> 00:23:01,581
+If you feel like spreading out...
+
+301
+00:23:01,790 --> 00:23:04,459
+...you have the rest of the hotel
+to move around in.
+
+302
+00:23:06,086 --> 00:23:08,588
+Well, it's very...
+
+303
+00:23:09,131 --> 00:23:10,424
+...homey.
+
+304
+00:23:13,343 --> 00:23:15,595
+This is our famous hedge maze.
+
+305
+00:23:15,804 --> 00:23:20,100
+It's quite an attraction here.
+The walls are 13 feet high...
+
+306
+00:23:20,308 --> 00:23:22,602
+...and the hedge is as old
+as the hotel itself.
+
+307
+00:23:22,811 --> 00:23:25,439
+A lot of fun, but I wouldn't
+want to go in there...
+
+308
+00:23:25,647 --> 00:23:28,650
+...unless I had an hour
+to spare to find my way out.
+
+309
+00:23:30,027 --> 00:23:32,154
+When was the Overlook built?
+
+310
+00:23:33,155 --> 00:23:35,365
+Construction started in 1907.
+
+311
+00:23:35,574 --> 00:23:37,534
+It was finished in 1909.
+
+312
+00:23:37,743 --> 00:23:40,412
+The site's supposed to be
+on an lndian burial ground.
+
+313
+00:23:40,620 --> 00:23:42,247
+They actually had to repel...
+
+314
+00:23:42,456 --> 00:23:45,375
+...a few lndian attacks as they
+were building it.
+
+315
+00:23:45,959 --> 00:23:47,878
+That's our Snowcat.
+
+316
+00:23:48,545 --> 00:23:50,589
+Can you both drive a car?
+
+317
+00:23:51,131 --> 00:23:54,676
+That's fine. Basically the Snowcat
+operates very much like a car.
+
+318
+00:23:54,885 --> 00:23:57,471
+It won't take you long
+to get the hang of it.
+
+319
+00:23:58,680 --> 00:24:02,059
+As a matter of fact, we brought
+a decorator in from Chicago...
+
+320
+00:24:02,225 --> 00:24:05,353
+...just last year to refurbish
+this part of the hotel.
+
+321
+00:24:05,562 --> 00:24:07,564
+He sure did a beautiful job.
+
+322
+00:24:07,731 --> 00:24:10,067
+Pink and gold
+are my favorite colors.
+
+323
+00:24:10,901 --> 00:24:13,236
+This is our Gold Ballroom.
+
+324
+00:24:14,821 --> 00:24:16,073
+I'll say!
+
+325
+00:24:16,281 --> 00:24:20,077
+We can accommodate up to
+300 people here very comfortably.
+
+326
+00:24:20,577 --> 00:24:23,455
+Boy, we could really have
+a good party in this room.
+
+327
+00:24:23,663 --> 00:24:27,459
+I'm afraid you won't do too well
+here unless you brought supplies.
+
+328
+00:24:27,667 --> 00:24:30,712
+We remove the booze from
+the premises when we shut down.
+
+329
+00:24:30,921 --> 00:24:34,007
+That reduces the insurance
+we normally have to carry.
+
+330
+00:24:34,216 --> 00:24:35,175
+We don't drink.
+
+331
+00:24:35,384 --> 00:24:36,802
+Then you're in luck.
+
+332
+00:24:37,010 --> 00:24:41,264
+Dick, come on over and say hello
+to Mr. and Mrs. Torrance.
+
+333
+00:24:41,431 --> 00:24:43,558
+This is Dick Hallorann,
+our head chef.
+
+334
+00:24:43,767 --> 00:24:46,520
+Mr. Hallorann, I'm Jack.
+This is my wife, Winifred.
+
+335
+00:24:46,728 --> 00:24:47,896
+Glad to meet you.
+
+336
+00:24:48,105 --> 00:24:50,982
+The Torrances will take care
+of the Overlook this winter.
+
+337
+00:24:51,191 --> 00:24:54,945
+That's just great. How do you
+folks like our hotel so far?
+
+338
+00:24:55,112 --> 00:24:56,988
+It's just wonderful.
+
+339
+00:24:57,197 --> 00:24:58,740
+Hi, Danny!
+
+340
+00:24:59,616 --> 00:25:02,327
+I found him outside
+looking for you.
+
+341
+00:25:03,537 --> 00:25:06,415
+Did you get tired
+of bombing the universe?
+
+342
+00:25:07,791 --> 00:25:09,292
+Come on over here.
+
+343
+00:25:09,501 --> 00:25:10,669
+Thank you, Susie.
+
+344
+00:25:10,877 --> 00:25:14,881
+I think it'd be good if you could
+show Mrs. Torrance the kitchen...
+
+345
+00:25:15,090 --> 00:25:16,967
+...while I continue on with Jack.
+
+346
+00:25:17,134 --> 00:25:19,594
+It would be a pleasure.
+Right this way.
+
+347
+00:25:19,803 --> 00:25:21,346
+Great. See you later, hon.
+
+348
+00:25:21,555 --> 00:25:22,931
+Bye, darling.
+
+349
+00:25:25,308 --> 00:25:28,645
+Mrs. Torrance, your husband
+introduced you as Winifred.
+
+350
+00:25:28,812 --> 00:25:31,356
+Now, are you a "Winnie,"
+or a "Freddie"?
+
+351
+00:25:31,565 --> 00:25:32,816
+I'm a Wendy.
+
+352
+00:25:33,025 --> 00:25:36,236
+Wendy. That's nice.
+That's the prettiest.
+
+353
+00:25:36,445 --> 00:25:38,071
+This is the kitchen, huh?
+
+354
+00:25:38,280 --> 00:25:39,865
+This is it.
+
+355
+00:25:40,073 --> 00:25:42,993
+How do you like it, Danny?
+ls it big enough for you?
+
+356
+00:25:43,827 --> 00:25:46,038
+It's the biggest place I ever seen.
+
+357
+00:25:46,288 --> 00:25:48,623
+This whole place
+is such an enormous maze.
+
+358
+00:25:48,832 --> 00:25:52,377
+I'll have to leave a trail of
+breadcrumbs every time I come in.
+
+359
+00:25:53,295 --> 00:25:55,172
+Don't let it get you down.
+
+360
+00:25:55,338 --> 00:25:57,841
+It's big, but it ain't
+nothing but a kitchen.
+
+361
+00:25:58,050 --> 00:26:00,260
+A lot of this stuff
+you'll never have to touch.
+
+362
+00:26:00,469 --> 00:26:02,679
+I wouldn't know
+what to do with it if I did.
+
+363
+00:26:02,888 --> 00:26:06,016
+One thing for sure, you don't
+have to worry about food.
+
+364
+00:26:06,224 --> 00:26:10,896
+You folks could eat here for a year
+and never have the same menu twice.
+
+365
+00:26:11,104 --> 00:26:14,191
+Right here is
+our walk-in freezer.
+
+366
+00:26:15,359 --> 00:26:18,403
+This is where we keep
+all of our meat.
+
+367
+00:26:18,612 --> 00:26:20,614
+You got 15 rib roasts...
+
+368
+00:26:20,822 --> 00:26:22,949
+...30 ten-pound bags of hamburger.
+
+369
+00:26:23,158 --> 00:26:26,203
+We got 12 turkeys,
+about 40 chickens...
+
+370
+00:26:26,411 --> 00:26:29,498
+...50 sirloin steaks,
+two dozen of pork roast...
+
+371
+00:26:29,706 --> 00:26:32,709
+...and 20 legs of lamb.
+Do you like lamb, Doc?
+
+372
+00:26:33,919 --> 00:26:36,296
+You don't?
+What's your favorite food, then?
+
+373
+00:26:36,505 --> 00:26:38,382
+French fries and ketchup.
+
+374
+00:26:39,091 --> 00:26:41,093
+I think we can
+manage that too, Doc.
+
+375
+00:26:41,301 --> 00:26:43,053
+Come along, now.
+Watch your step.
+
+376
+00:26:49,768 --> 00:26:51,353
+How'd you know we call him Doc?
+
+377
+00:26:51,561 --> 00:26:55,565
+-Beg your pardon?
+-Doc. You called Danny "Doc" twice.
+
+378
+00:26:55,774 --> 00:26:57,192
+I did?
+
+379
+00:26:57,984 --> 00:27:01,113
+We call him Doc sometimes,
+like in the Bugs Bunny cartoons.
+
+380
+00:27:01,321 --> 00:27:02,572
+But how did you know?
+
+381
+00:27:02,781 --> 00:27:05,325
+I guess I probably
+heard you call him that.
+
+382
+00:27:05,534 --> 00:27:07,786
+It's possible.
+But I honestly don't remember...
+
+383
+00:27:07,994 --> 00:27:10,205
+...calling him that
+since we've been with you.
+
+384
+00:27:10,414 --> 00:27:12,582
+Anyway, he looks
+like a Doc, doesn't he?
+
+385
+00:27:14,042 --> 00:27:15,460
+What's up, Doc?
+
+386
+00:27:17,295 --> 00:27:19,506
+Now, this is the storeroom.
+
+387
+00:27:21,258 --> 00:27:23,093
+In here is where we keep...
+
+388
+00:27:23,260 --> 00:27:26,096
+...all the dried goods
+and the canned goods.
+
+389
+00:27:26,263 --> 00:27:28,724
+We got canned fruits
+and vegetables...
+
+390
+00:27:28,932 --> 00:27:32,728
+...canned fish and meats,
+hot and cold cereals.
+
+391
+00:27:32,936 --> 00:27:36,106
+Post Toasties, Corn Flakes,
+Sugar Puffs...
+
+392
+00:27:36,314 --> 00:27:40,360
+...Rice IKrispies, oatmeal,
+Wheatena and Cream of Wheat.
+
+393
+00:27:40,610 --> 00:27:43,030
+You got a dozen jugs
+of black molasses.
+
+394
+00:27:43,238 --> 00:27:46,408
+We got 60 boxes of dried milk...
+
+395
+00:27:54,082 --> 00:27:56,543
+How'd you like some ice cream, Doc?
+
+396
+00:27:58,962 --> 00:28:00,922
+Sociables, finger rolls...
+
+397
+00:28:01,131 --> 00:28:02,674
+...and 7 kinds of what have you.
+
+398
+00:28:02,883 --> 00:28:06,428
+Now, we've got dried peaches,
+dried apricots...
+
+399
+00:28:06,636 --> 00:28:09,723
+...dried raisins and dried prunes.
+
+400
+00:28:09,931 --> 00:28:14,227
+You know, you got to keep regular
+if you want to be happy.
+
+401
+00:28:17,147 --> 00:28:18,774
+-How're you getting on?
+-Fine.
+
+402
+00:28:18,982 --> 00:28:22,527
+Can we borrow Mrs. Torrance?
+We're on our way to the basement.
+
+403
+00:28:22,736 --> 00:28:24,654
+I promise we won't
+keep her very long.
+
+404
+00:28:24,863 --> 00:28:28,075
+No problem, Mr. Ullman. I was just
+getting to the ice cream.
+
+405
+00:28:28,283 --> 00:28:30,160
+You like ice cream, Doc?
+
+406
+00:28:30,994 --> 00:28:31,995
+I thought you did.
+
+407
+00:28:32,162 --> 00:28:35,248
+You folks mind if I give Danny
+some ice cream while we wait?
+
+408
+00:28:35,457 --> 00:28:37,292
+-Not at all.
+-We don't mind.
+
+409
+00:28:37,501 --> 00:28:39,669
+-Good.
+-Sound good to you, Doc?
+
+410
+00:28:39,878 --> 00:28:41,963
+Okay, you behave yourself.
+
+411
+00:28:44,966 --> 00:28:46,843
+What kind of ice cream
+do you like?
+
+412
+00:28:47,010 --> 00:28:47,928
+Chocolate.
+
+413
+00:28:48,136 --> 00:28:51,098
+Chocolate it shall be.
+Come on, son.
+
+414
+00:28:55,685 --> 00:28:57,646
+It's amazing, all this
+activity today.
+
+415
+00:28:57,854 --> 00:29:00,691
+The guests and some staff
+left yesterday, but the...
+
+416
+00:29:00,857 --> 00:29:02,317
+...last day's always hectic.
+
+417
+00:29:02,526 --> 00:29:05,570
+Everybody wants to be on their way
+as early as possible.
+
+418
+00:29:05,779 --> 00:29:09,825
+By 5:00 tonight, you'll never
+know anybody was ever here.
+
+419
+00:29:10,033 --> 00:29:12,077
+Just like a ghost ship, huh?
+
+420
+00:29:17,749 --> 00:29:20,711
+Do you know how I knew
+your name was Doc?
+
+421
+00:29:27,300 --> 00:29:29,720
+You know what I'm
+talking about, don't you?
+
+422
+00:29:36,685 --> 00:29:40,188
+I can remember when I was
+a little boy...
+
+423
+00:29:40,564 --> 00:29:43,108
+...my grandmother and I
+could hold conversations...
+
+424
+00:29:43,316 --> 00:29:47,154
+...entirely without ever
+opening our mouths.
+
+425
+00:29:48,238 --> 00:29:50,532
+She called it "shining."
+
+426
+00:29:52,034 --> 00:29:54,745
+And for a long time I thought
+it was just the two of us...
+
+427
+00:29:54,953 --> 00:29:57,581
+...that had "the shine" to us.
+
+428
+00:29:58,206 --> 00:30:01,209
+Just like you probably thought
+you was the only one.
+
+429
+00:30:01,877 --> 00:30:03,754
+But there are other folks...
+
+430
+00:30:03,920 --> 00:30:07,674
+...though mostly they don't
+know it, or don't believe it.
+
+431
+00:30:12,345 --> 00:30:14,765
+How long have you
+been able to do it?
+
+432
+00:30:19,978 --> 00:30:22,397
+Why don't you want
+to talk about it?
+
+433
+00:30:27,611 --> 00:30:29,696
+I'm not supposed to.
+
+434
+00:30:31,281 --> 00:30:33,784
+Who says you ain't supposed to?
+
+435
+00:30:37,245 --> 00:30:38,622
+Tony.
+
+436
+00:30:40,624 --> 00:30:42,250
+Who's Tony?
+
+437
+00:30:44,753 --> 00:30:48,131
+Tony's the little boy
+that lives in my mouth.
+
+438
+00:30:50,092 --> 00:30:52,094
+Is Tony the one
+that...
+
+439
+00:30:52,302 --> 00:30:53,887
+...tells you things?
+
+440
+00:30:58,433 --> 00:31:00,811
+How does he tell you things?
+
+441
+00:31:02,646 --> 00:31:06,942
+It's like I go to sleep,
+and he shows me things.
+
+442
+00:31:07,150 --> 00:31:11,238
+But when I wake up,
+I can't remember everything.
+
+443
+00:31:13,073 --> 00:31:16,785
+Does your mom and dad
+know about Tony?
+
+444
+00:31:20,080 --> 00:31:22,624
+Do they know he tells you things?
+
+445
+00:31:23,500 --> 00:31:26,461
+Tony told me never to tell them.
+
+446
+00:31:28,588 --> 00:31:31,967
+Has Tony ever told you
+anything about this place?
+
+447
+00:31:32,175 --> 00:31:34,720
+About the Overlook Hotel?
+
+448
+00:31:38,014 --> 00:31:39,558
+I don't know.
+
+449
+00:31:40,475 --> 00:31:43,270
+Now think real hard, Doc.
+
+450
+00:31:43,478 --> 00:31:44,479
+Think.
+
+451
+00:31:47,607 --> 00:31:50,318
+Maybe he showed me something.
+
+452
+00:31:51,278 --> 00:31:53,905
+Try to think of what it was.
+
+453
+00:31:56,908 --> 00:32:00,203
+Mr. Hallorann, are you scared
+of this place?
+
+454
+00:32:03,331 --> 00:32:05,542
+Scared of nothing here.
+
+455
+00:32:06,043 --> 00:32:07,502
+It's just that...
+
+456
+00:32:08,253 --> 00:32:11,089
+...you know, some places
+are like people.
+
+457
+00:32:11,923 --> 00:32:13,633
+Some shine...
+
+458
+00:32:13,842 --> 00:32:15,218
+...and some don't.
+
+459
+00:32:16,470 --> 00:32:18,597
+I guess you could say
+the Overlook Hotel...
+
+460
+00:32:18,805 --> 00:32:22,100
+...has something about it
+that's like shining.
+
+461
+00:32:25,145 --> 00:32:27,564
+Is there something bad here?
+
+462
+00:32:39,159 --> 00:32:41,578
+You know, Doc,
+when something happens...
+
+463
+00:32:41,787 --> 00:32:45,415
+...it can leave a trace
+of itself behind.
+
+464
+00:32:46,208 --> 00:32:47,751
+Say, like...
+
+465
+00:32:47,959 --> 00:32:51,046
+...if someone burns toast.
+
+466
+00:32:53,131 --> 00:32:57,803
+Maybe things that happen
+leave other kind of traces behind.
+
+467
+00:32:58,970 --> 00:33:02,432
+Not things that anyone
+can notice.
+
+468
+00:33:02,599 --> 00:33:07,437
+But things that people
+who shine can see.
+
+469
+00:33:08,522 --> 00:33:11,817
+Just like they can see things
+that haven't happened yet...
+
+470
+00:33:14,111 --> 00:33:18,240
+...sometimes they can see things
+that happened a long time ago.
+
+471
+00:33:19,783 --> 00:33:22,661
+I think a lot of things
+happened right here...
+
+472
+00:33:22,869 --> 00:33:26,581
+...in this particular hotel
+over the years.
+
+473
+00:33:27,124 --> 00:33:29,501
+And not all of them
+was good.
+
+474
+00:33:32,796 --> 00:33:35,424
+What about room 237?
+
+475
+00:33:38,802 --> 00:33:40,971
+Room 237?
+
+476
+00:33:42,305 --> 00:33:45,392
+You're scared of room 237,
+ain't you?
+
+477
+00:33:47,144 --> 00:33:48,645
+No, I ain't.
+
+478
+00:33:50,147 --> 00:33:53,984
+Mr. Hallorann, what is in room 237?
+
+479
+00:33:55,318 --> 00:33:56,653
+Nothing.
+
+480
+00:33:57,112 --> 00:34:00,323
+There ain't nothing in room 237.
+
+481
+00:34:00,532 --> 00:34:03,785
+But you ain't got no business
+going in there anyway.
+
+482
+00:34:03,994 --> 00:34:06,121
+So stay out.
+
+483
+00:34:06,329 --> 00:34:08,790
+You understand? Stay out!
+
+484
+00:35:48,181 --> 00:35:49,891
+Good morning, hon.
+
+485
+00:35:51,935 --> 00:35:53,687
+Your breakfast is ready.
+
+486
+00:35:54,438 --> 00:35:56,064
+What time is it?
+
+487
+00:35:56,273 --> 00:35:58,150
+It's about 11:30.
+
+488
+00:36:00,068 --> 00:36:01,653
+Jesus.
+
+489
+00:36:02,612 --> 00:36:05,032
+I guess we've been
+staying up too late.
+
+490
+00:36:05,323 --> 00:36:06,783
+I know it.
+
+491
+00:36:08,076 --> 00:36:10,954
+I made them just the way
+you like them, sunny-side up.
+
+492
+00:36:11,246 --> 00:36:12,789
+Nice.
+
+493
+00:36:15,083 --> 00:36:16,877
+It's really pretty outside.
+
+494
+00:36:17,085 --> 00:36:20,297
+How about taking me for a walk
+after you finish your breakfast?
+
+495
+00:36:20,922 --> 00:36:25,260
+I suppose I ought to try
+to do some writing first.
+
+496
+00:36:26,678 --> 00:36:28,346
+Any ideas yet?
+
+497
+00:36:29,347 --> 00:36:31,016
+Lots of ideas.
+
+498
+00:36:31,224 --> 00:36:32,768
+No good ones.
+
+499
+00:36:33,226 --> 00:36:35,687
+Something will come.
+
+500
+00:36:36,188 --> 00:36:40,150
+It's just a matter of settling into
+the habit of writing every day.
+
+501
+00:36:41,693 --> 00:36:43,403
+That's all it is.
+
+502
+00:36:45,489 --> 00:36:47,824
+It's really nice up here,
+isn't it?
+
+503
+00:36:48,200 --> 00:36:49,659
+I love it.
+
+504
+00:36:50,160 --> 00:36:51,745
+I really do.
+
+505
+00:36:52,662 --> 00:36:55,665
+I've never been this happy
+or comfortable anywhere.
+
+506
+00:36:55,874 --> 00:36:59,669
+It's amazing how fast you get
+used to such a big place.
+
+507
+00:36:59,836 --> 00:37:02,756
+I tell you, when we first
+came up here...
+
+508
+00:37:02,964 --> 00:37:05,008
+...l thought it was kind of scary.
+
+509
+00:37:05,467 --> 00:37:08,011
+I fell in love with it right away.
+
+510
+00:37:08,678 --> 00:37:11,515
+When I came up here
+for my interview...
+
+511
+00:37:11,848 --> 00:37:15,686
+...it was as though
+I'd been here before.
+
+512
+00:37:15,894 --> 00:37:18,522
+I mean, we all have moments
+of deja vu...
+
+513
+00:37:18,730 --> 00:37:20,941
+...but this was ridiculous.
+
+514
+00:37:21,692 --> 00:37:23,527
+It was almost as though I knew...
+
+515
+00:37:23,735 --> 00:37:27,489
+...what was going to be
+around every corner.
+
+516
+00:38:00,605 --> 00:38:03,817
+The loser has to keep
+America clean. How's that?
+
+517
+00:38:04,026 --> 00:38:06,570
+-All right.
+-And you're going to lose.
+
+518
+00:38:06,778 --> 00:38:09,906
+And I'm going to get you.
+You'd better run fast!
+
+519
+00:38:14,911 --> 00:38:16,038
+Look out!
+
+520
+00:38:16,246 --> 00:38:18,123
+I'm coming in close.
+
+521
+00:38:18,331 --> 00:38:20,834
+Loser has to keep America clean.
+
+522
+00:38:21,084 --> 00:38:22,711
+IKeep America clean.
+
+523
+00:38:23,712 --> 00:38:25,172
+Danny, you win.
+
+524
+00:38:25,505 --> 00:38:27,841
+Let's take the rest
+of this walking.
+
+525
+00:38:30,385 --> 00:38:31,762
+Give me your hand.
+
+526
+00:38:34,431 --> 00:38:36,224
+Isn't it beautiful?
+
+527
+00:38:53,950 --> 00:38:55,327
+Dead end.
+
+528
+00:39:52,801 --> 00:39:54,428
+We made it.
+
+529
+00:39:54,928 --> 00:39:56,138
+Isn't it beautiful?
+
+530
+00:40:17,868 --> 00:40:19,703
+It's so pretty.
+
+531
+00:40:24,249 --> 00:40:27,210
+I didn't think it was
+going to be this big. Did you?
+
+532
+00:40:38,513 --> 00:40:40,891
+Rutherford was serving
+a life sentence...
+
+533
+00:40:41,099 --> 00:40:42,851
+...for a 1968 shooting.
+
+534
+00:40:43,060 --> 00:40:46,938
+And the search continues
+for that missing Aspen woman.
+
+535
+00:40:47,147 --> 00:40:50,525
+24-year-old Susan Robertson
+has been missing 10 days.
+
+536
+00:40:50,734 --> 00:40:53,445
+She disappeared on a hunting
+trip with her husband.
+
+537
+00:40:53,653 --> 00:40:56,448
+They may have to
+call off the search...
+
+538
+00:40:56,656 --> 00:40:59,201
+...if a predicted snowstorm
+moves in tomorrow.
+
+539
+00:40:59,409 --> 00:41:01,244
+It's so beautiful
+in Denver today...
+
+540
+00:41:01,453 --> 00:41:03,580
+...it's hard to believe
+a snowstorm could be close.
+
+541
+00:41:03,789 --> 00:41:06,041
+I want to go outside
+and lie in the sun...
+
+542
+00:41:06,249 --> 00:41:10,379
+...yet to our north, to our west,
+it is snowing and cold.
+
+543
+00:41:10,587 --> 00:41:11,755
+And it's moving...
+
+544
+00:41:11,963 --> 00:41:15,133
+...right here towards Colorado
+as we talk. It's incredible.
+
+545
+00:43:43,740 --> 00:43:45,200
+Hi, hon.
+
+546
+00:43:48,787 --> 00:43:50,205
+How's it going?
+
+547
+00:43:52,749 --> 00:43:53,917
+Fine.
+
+548
+00:43:56,044 --> 00:43:57,587
+Get a lot written today?
+
+549
+00:44:04,636 --> 00:44:07,222
+The weather forecast
+said it's going to snow tonight.
+
+550
+00:44:12,436 --> 00:44:14,771
+What do you want me
+to do about it?
+
+551
+00:44:16,898 --> 00:44:19,067
+Come on, hon.
+
+552
+00:44:19,401 --> 00:44:21,403
+Don't be so grouchy.
+
+553
+00:44:21,820 --> 00:44:23,155
+I'm not...
+
+554
+00:44:23,530 --> 00:44:24,740
+...being grouchy.
+
+555
+00:44:24,948 --> 00:44:27,743
+I just want to finish my work.
+
+556
+00:44:31,246 --> 00:44:33,623
+Okay. I understand.
+
+557
+00:44:33,874 --> 00:44:36,460
+I'll come back later
+with a couple of sandwiches.
+
+558
+00:44:36,668 --> 00:44:39,129
+Maybe you'll let me
+read something then.
+
+559
+00:44:42,340 --> 00:44:43,425
+Wendy...
+
+560
+00:44:43,633 --> 00:44:46,261
+...let me explain something to you.
+
+561
+00:44:47,137 --> 00:44:51,016
+When you come in and interrupt,
+you're breaking my concentration.
+
+562
+00:44:51,224 --> 00:44:52,642
+You're distracting me...
+
+563
+00:44:52,851 --> 00:44:56,313
+...and it will then take me time
+to get back to where I was.
+
+564
+00:44:56,480 --> 00:44:57,939
+Understand?
+
+565
+00:45:01,401 --> 00:45:02,569
+Fine.
+
+566
+00:45:03,737 --> 00:45:05,447
+We're going to make a new rule:
+
+567
+00:45:05,655 --> 00:45:07,115
+Whenever I'm in here...
+
+568
+00:45:07,324 --> 00:45:09,576
+...and you hear me typing...
+
+569
+00:45:11,370 --> 00:45:14,331
+...or whatever the fuck
+you hear me doing in here...
+
+570
+00:45:14,498 --> 00:45:16,833
+...when I'm in here,
+that means I am working.
+
+571
+00:45:17,000 --> 00:45:19,252
+That means don't come in.
+
+572
+00:45:19,461 --> 00:45:21,713
+Now, do you think
+you can handle that?
+
+573
+00:45:26,343 --> 00:45:27,469
+Fine.
+
+574
+00:45:28,512 --> 00:45:31,848
+Why don't you start right now
+and get the fuck out of here?
+
+575
+00:46:07,759 --> 00:46:09,136
+All right, you!
+
+576
+00:46:10,554 --> 00:46:12,389
+I know you've got more.
+
+577
+00:46:14,474 --> 00:46:15,517
+Missed!
+
+578
+00:46:21,106 --> 00:46:21,940
+Don't have!
+
+579
+00:46:22,190 --> 00:46:23,900
+No fair anymore.
+
+580
+00:47:31,593 --> 00:47:32,886
+I knew it.
+
+581
+00:48:03,166 --> 00:48:06,628
+This is KDK 12 calling KDK 1.
+
+582
+00:48:09,172 --> 00:48:12,843
+KDK 12 to KDK 1.
+
+583
+00:48:13,051 --> 00:48:16,179
+This is KDK 1 .
+We're receiving you. Over.
+
+584
+00:48:16,555 --> 00:48:19,683
+Hi, this is Wendy Torrance
+at the Overlook Hotel.
+
+585
+00:48:20,267 --> 00:48:23,061
+Hi, how are you folks
+getting on up there? Over.
+
+586
+00:48:23,353 --> 00:48:24,688
+We're just fine.
+
+587
+00:48:24,855 --> 00:48:27,357
+But our telephones
+aren't doing too well.
+
+588
+00:48:27,524 --> 00:48:30,569
+Are the lines down,
+by any chance? Over.
+
+589
+00:48:31,194 --> 00:48:35,032
+Yes, quite a few of them are down
+due to the storm. Over.
+
+590
+00:48:35,323 --> 00:48:38,493
+Any chance of them
+being repaired soon? Over.
+
+591
+00:48:38,702 --> 00:48:39,870
+Well, I wouldn't like to say.
+
+592
+00:48:40,078 --> 00:48:43,540
+Most winters they stay that way
+until spring. Over.
+
+593
+00:48:44,041 --> 00:48:47,419
+Boy, this storm is really something,
+isn't it? Over.
+
+594
+00:48:47,878 --> 00:48:50,797
+Yes. It's one of the worst we've
+had for years.
+
+595
+00:48:51,381 --> 00:48:54,551
+Is there anything else we can
+do for you, Mrs. Torrance?
+
+596
+00:48:55,052 --> 00:48:57,179
+I suppose not. Over.
+
+597
+00:48:57,804 --> 00:49:01,099
+If you folks have any problems
+up there, just give us a call.
+
+598
+00:49:01,308 --> 00:49:02,601
+And, Mrs. Torrance?
+
+599
+00:49:02,809 --> 00:49:07,022
+It might be a good idea if you
+leave your radio on all the time.
+
+600
+00:49:07,856 --> 00:49:09,358
+Okay. We'll do that.
+
+601
+00:49:09,566 --> 00:49:11,610
+It was real nice talking to you.
+
+602
+00:49:11,818 --> 00:49:14,446
+Bye. Over and out.
+
+603
+00:49:49,356 --> 00:49:51,566
+Hello, Danny.
+
+604
+00:49:56,822 --> 00:49:59,282
+Come and play with us.
+
+605
+00:50:04,121 --> 00:50:06,915
+Come and play with us, Danny.
+
+606
+00:50:08,750 --> 00:50:10,627
+Forever...
+
+607
+00:50:12,379 --> 00:50:14,131
+...and ever...
+
+608
+00:50:15,090 --> 00:50:17,092
+...and ever.
+
+609
+00:50:48,582 --> 00:50:50,208
+Tony...
+
+610
+00:50:51,209 --> 00:50:53,253
+...l'm scared.
+
+611
+00:50:58,717 --> 00:51:02,304
+Remember what Mr. Hallorann said.
+
+612
+00:51:03,889 --> 00:51:07,809
+It's just like
+pictures in a book, Danny.
+
+613
+00:51:08,018 --> 00:51:10,145
+It isn't real.
+
+614
+00:51:21,823 --> 00:51:23,658
+Please let me give you
+some money.
+
+615
+00:51:23,867 --> 00:51:25,911
+I wouldn't think of it.
+
+616
+00:51:26,119 --> 00:51:27,412
+Well, how can I repay you?
+
+617
+00:51:28,372 --> 00:51:30,290
+It's okay. Really.
+
+618
+00:51:30,916 --> 00:51:33,001
+Well, I'm going to have
+some coffee.
+
+619
+00:51:33,210 --> 00:51:34,753
+Would you like some?
+
+620
+00:51:36,463 --> 00:51:37,547
+Sure.
+
+621
+00:51:37,756 --> 00:51:39,591
+Great. Sit down.
+
+622
+00:51:49,518 --> 00:51:52,145
+Marvelous doughnuts.
+Help yourself.
+
+623
+00:51:53,814 --> 00:51:56,233
+Coffee will be ready
+in a few minutes.
+
+624
+00:51:59,986 --> 00:52:03,323
+Can I go up to my room
+and get my fire engine?
+
+625
+00:52:04,783 --> 00:52:07,494
+Not right now.
+Daddy's asleep.
+
+626
+00:52:08,495 --> 00:52:10,622
+I won't make any noise.
+
+627
+00:52:12,040 --> 00:52:13,959
+Now come on, Doc.
+
+628
+00:52:14,167 --> 00:52:15,836
+He only went to bed
+a few hours ago.
+
+629
+00:52:16,044 --> 00:52:17,838
+Can't you wait till later?
+
+630
+00:52:18,046 --> 00:52:21,174
+I won't make a sound.
+I promise I'll tiptoe.
+
+631
+00:52:24,386 --> 00:52:25,679
+All right.
+
+632
+00:52:25,887 --> 00:52:28,306
+But really don't make a sound.
+
+633
+00:52:28,515 --> 00:52:29,975
+I won't, Mom.
+
+634
+00:52:30,809 --> 00:52:32,519
+Make sure you
+come right back...
+
+635
+00:52:32,728 --> 00:52:34,730
+...because I'm going to
+make lunch soon.
+
+636
+00:52:36,857 --> 00:52:38,358
+Okay, Mom.
+
+637
+00:53:27,616 --> 00:53:30,786
+Can I go to my room
+and get my fire engine?
+
+638
+00:53:34,539 --> 00:53:36,750
+Come here for a minute first.
+
+639
+00:54:13,745 --> 00:54:15,539
+How's it going, Doc?
+
+640
+00:54:20,127 --> 00:54:21,920
+Having a good time?
+
+641
+00:54:24,005 --> 00:54:25,465
+Yes, Dad.
+
+642
+00:54:28,343 --> 00:54:29,594
+Good.
+
+643
+00:54:31,805 --> 00:54:33,974
+I want you to
+have a good time.
+
+644
+00:54:34,683 --> 00:54:36,309
+I am, Dad.
+
+645
+00:54:46,737 --> 00:54:48,530
+Do you feel bad?
+
+646
+00:54:54,494 --> 00:54:56,788
+I'm just a little bit tired.
+
+647
+00:54:58,373 --> 00:55:00,917
+Then why don't you
+go to sleep?
+
+648
+00:55:04,504 --> 00:55:06,048
+I can't.
+
+649
+00:55:07,549 --> 00:55:09,843
+I got too much to do.
+
+650
+00:55:19,144 --> 00:55:21,396
+Do you like this hotel?
+
+651
+00:55:27,402 --> 00:55:28,820
+I do.
+
+652
+00:55:29,780 --> 00:55:31,114
+I love it.
+
+653
+00:55:33,325 --> 00:55:34,659
+Don't you?
+
+654
+00:55:37,037 --> 00:55:38,538
+I guess so.
+
+655
+00:55:41,166 --> 00:55:42,376
+Good.
+
+656
+00:55:45,587 --> 00:55:47,923
+I want you to like it here.
+
+657
+00:55:51,885 --> 00:55:55,263
+I wish we could stay here
+forever...
+
+658
+00:55:55,472 --> 00:55:57,265
+...and ever...
+
+659
+00:55:57,933 --> 00:55:59,267
+...and ever.
+
+660
+00:56:04,731 --> 00:56:05,732
+What?
+
+661
+00:56:07,025 --> 00:56:10,112
+You would never hurt Mommy or me,
+would you?
+
+662
+00:56:15,617 --> 00:56:17,077
+What do you mean?
+
+663
+00:56:22,207 --> 00:56:24,793
+Did your mother ever
+say that to you?
+
+664
+00:56:25,460 --> 00:56:27,295
+That I would hurt you?
+
+665
+00:56:28,046 --> 00:56:29,423
+No, Dad.
+
+666
+00:56:31,591 --> 00:56:33,135
+You sure?
+
+667
+00:56:33,677 --> 00:56:35,262
+Yes, Dad.
+
+668
+00:56:40,058 --> 00:56:42,102
+I love you, Danny.
+
+669
+00:56:43,311 --> 00:56:45,897
+I love you
+more than anything else...
+
+670
+00:56:46,106 --> 00:56:48,650
+...in the whole world...
+
+671
+00:56:49,443 --> 00:56:52,487
+...and I would never do anything
+to hurt you...
+
+672
+00:56:52,821 --> 00:56:54,031
+...never.
+
+673
+00:56:54,906 --> 00:56:56,950
+You know that, don't you?
+
+674
+00:56:57,451 --> 00:56:58,994
+Yes, Dad.
+
+675
+00:56:59,953 --> 00:57:01,038
+Good.
+
+676
+00:58:28,959 --> 00:58:30,752
+Mom, are you in there?
+
+677
+00:59:49,998 --> 00:59:51,041
+What happened?
+
+678
+00:59:51,249 --> 00:59:52,501
+Honey...
+
+679
+00:59:53,377 --> 00:59:54,753
+...what's wrong?
+
+680
+01:00:02,928 --> 01:00:04,346
+I had the most...
+
+681
+01:00:04,554 --> 01:00:07,140
+...terrible nightmare I ever had.
+
+682
+01:00:09,059 --> 01:00:12,020
+-It was the most horrible dream.
+-It's okay, it's okay now.
+
+683
+01:00:13,230 --> 01:00:14,564
+Really.
+
+684
+01:00:18,860 --> 01:00:20,445
+I dreamed that l...
+
+685
+01:00:20,654 --> 01:00:23,073
+...that I killed
+you and Danny.
+
+686
+01:00:25,826 --> 01:00:28,078
+But I didn't just kill you.
+
+687
+01:00:29,371 --> 01:00:32,124
+I cut you up
+into little pieces.
+
+688
+01:00:34,793 --> 01:00:36,336
+My God.
+
+689
+01:00:37,045 --> 01:00:39,589
+I must be losing my mind.
+
+690
+01:00:41,883 --> 01:00:44,511
+Everything's going to be
+all right.
+
+691
+01:00:46,638 --> 01:00:49,307
+Come on. Let's get up
+off the floor.
+
+692
+01:00:57,149 --> 01:00:59,443
+There. Now sit up.
+
+693
+01:01:00,110 --> 01:01:01,403
+It's okay.
+
+694
+01:01:02,487 --> 01:01:03,947
+It's okay.
+
+695
+01:01:07,993 --> 01:01:09,202
+Danny!
+
+696
+01:01:09,494 --> 01:01:11,455
+Everything's okay!
+
+697
+01:01:11,663 --> 01:01:14,791
+Just go play in your room
+for a while.
+
+698
+01:01:15,167 --> 01:01:17,210
+Your dad's just got
+a headache.
+
+699
+01:01:18,503 --> 01:01:21,548
+Danny, mind what I say.
+Go play in your room.
+
+700
+01:01:23,508 --> 01:01:26,470
+Honey, let me just go
+get him out of here.
+
+701
+01:01:26,678 --> 01:01:28,180
+I'll be right back.
+
+702
+01:01:30,098 --> 01:01:32,142
+Why don't you mind me?
+
+703
+01:01:38,774 --> 01:01:40,609
+Oh, my God.
+
+704
+01:01:41,818 --> 01:01:44,196
+What happened to your neck?
+
+705
+01:01:46,156 --> 01:01:48,283
+What happened to your neck?
+
+706
+01:02:17,229 --> 01:02:19,231
+You did this to him...
+
+707
+01:02:19,648 --> 01:02:21,066
+...didn't you?!
+
+708
+01:02:22,901 --> 01:02:24,986
+You son of a bitch!
+
+709
+01:02:25,195 --> 01:02:27,072
+You did this to him!
+
+710
+01:02:27,239 --> 01:02:28,699
+Didn't you?!
+
+711
+01:02:30,033 --> 01:02:31,702
+How could you?!
+
+712
+01:02:31,910 --> 01:02:33,662
+How could you?!
+
+713
+01:04:03,543 --> 01:04:06,630
+God! I'd give anything
+for a drink.
+
+714
+01:04:09,257 --> 01:04:12,177
+I'd give my goddamn soul...
+
+715
+01:04:12,386 --> 01:04:14,846
+...for just a glass of beer.
+
+716
+01:04:29,861 --> 01:04:31,321
+Hi, Lloyd.
+
+717
+01:04:34,908 --> 01:04:37,285
+A little slow tonight,
+isn't it?
+
+718
+01:04:42,165 --> 01:04:44,418
+Yes it is, Mr. Torrance.
+
+719
+01:04:46,503 --> 01:04:47,963
+What will it be?
+
+720
+01:04:49,631 --> 01:04:52,592
+I'm awfully glad
+you asked me that, Lloyd...
+
+721
+01:04:52,801 --> 01:04:56,138
+...because I just happen to have
+two twenties...
+
+722
+01:04:56,346 --> 01:04:59,266
+...and two tens
+right here in my wallet.
+
+723
+01:04:59,433 --> 01:05:02,728
+I was afraid they were
+going to be there until next April.
+
+724
+01:05:03,437 --> 01:05:05,230
+So here's what:
+
+725
+01:05:05,564 --> 01:05:07,858
+You slip me a bottle of bourbon...
+
+726
+01:05:08,066 --> 01:05:10,861
+...a little glass and some ice.
+
+727
+01:05:11,069 --> 01:05:13,071
+You can do that,
+can't you, Lloyd?
+
+728
+01:05:13,530 --> 01:05:15,907
+You're not too busy, are you?
+
+729
+01:05:16,450 --> 01:05:18,952
+No, sir.
+I'm not busy at all.
+
+730
+01:05:19,453 --> 01:05:21,038
+Good man.
+
+731
+01:05:21,329 --> 01:05:22,414
+You set them up...
+
+732
+01:05:22,706 --> 01:05:25,584
+...and I'll knock them back,
+one by one.
+
+733
+01:05:26,710 --> 01:05:29,629
+White man's burden,
+Lloyd, my man.
+
+734
+01:05:29,838 --> 01:05:32,007
+White man's burden.
+
+735
+01:05:38,096 --> 01:05:39,222
+Say, Lloyd...
+
+736
+01:05:39,431 --> 01:05:42,184
+...it seems I'm temporarily light.
+
+737
+01:05:42,517 --> 01:05:44,978
+How's my credit
+in this joint, anyway?
+
+738
+01:05:45,228 --> 01:05:47,606
+Your credit's fine, Mr. Torrance.
+
+739
+01:05:48,315 --> 01:05:49,941
+That's swell.
+
+740
+01:05:50,150 --> 01:05:51,818
+I like you, Lloyd.
+
+741
+01:05:52,027 --> 01:05:53,695
+I always liked you.
+
+742
+01:05:53,904 --> 01:05:56,239
+You were always the best of them.
+
+743
+01:05:56,448 --> 01:05:58,825
+Best goddamned bartender...
+
+744
+01:05:58,992 --> 01:06:01,953
+...from Timbuktu
+to Portland, Maine.
+
+745
+01:06:02,162 --> 01:06:04,373
+Or Portland, Oregon,
+for that matter.
+
+746
+01:06:04,664 --> 01:06:06,458
+Thank you for saying so.
+
+747
+01:06:08,752 --> 01:06:13,298
+Here's to 5 miserable months
+on the wagon...
+
+748
+01:06:13,507 --> 01:06:17,552
+...and all the irreparable harm
+that it's caused me.
+
+749
+01:06:35,779 --> 01:06:38,240
+How are things going,
+Mr. Torrance?
+
+750
+01:06:39,574 --> 01:06:42,160
+Things could be better.
+
+751
+01:06:43,704 --> 01:06:46,456
+Things could be
+a whole lot better.
+
+752
+01:06:47,332 --> 01:06:49,668
+I hope it's nothing serious.
+
+753
+01:06:52,671 --> 01:06:54,673
+Nothing serious.
+
+754
+01:06:56,299 --> 01:06:58,844
+Just a little problem with...
+
+755
+01:06:59,094 --> 01:07:02,222
+...the old sperm bank
+upstairs.
+
+756
+01:07:02,431 --> 01:07:04,766
+Nothing I can't handle,
+though.
+
+757
+01:07:04,975 --> 01:07:06,685
+Thanks.
+
+758
+01:07:07,144 --> 01:07:08,145
+Women.
+
+759
+01:07:08,353 --> 01:07:09,855
+Can't live with them...
+
+760
+01:07:10,105 --> 01:07:11,898
+...can't live without them.
+
+761
+01:07:15,110 --> 01:07:16,695
+Words of wisdom, Lloyd.
+
+762
+01:07:16,903 --> 01:07:18,363
+Words of...
+
+763
+01:07:18,572 --> 01:07:20,073
+...wisdom.
+
+764
+01:07:31,626 --> 01:07:34,838
+I never laid a hand on him,
+goddamn it.
+
+765
+01:07:35,047 --> 01:07:36,673
+I didn't.
+
+766
+01:07:38,717 --> 01:07:43,305
+I wouldn't touch one hair
+on his goddamn little head.
+
+767
+01:07:43,930 --> 01:07:47,059
+I love the little
+son of a bitch.
+
+768
+01:07:48,643 --> 01:07:51,480
+I'd do anything for him.
+
+769
+01:07:51,688 --> 01:07:54,483
+Any fucking thing for him.
+
+770
+01:07:58,570 --> 01:08:01,114
+But that bitch!
+
+771
+01:08:02,157 --> 01:08:03,825
+As long as I live...
+
+772
+01:08:04,117 --> 01:08:07,496
+...she'll never let me forget
+what happened.
+
+773
+01:08:17,130 --> 01:08:19,966
+I did hurt him once, okay?
+
+774
+01:08:20,342 --> 01:08:22,386
+It was an accident.
+
+775
+01:08:22,678 --> 01:08:25,305
+Completely unintentional.
+
+776
+01:08:26,556 --> 01:08:28,809
+It could have happened
+to anybody.
+
+777
+01:08:30,519 --> 01:08:33,980
+And it was three goddamn
+years ago!
+
+778
+01:08:34,189 --> 01:08:37,025
+The little fucker had thrown all my
+papers all over the floor.
+
+779
+01:08:37,234 --> 01:08:39,695
+All I tried to do was pull him up.
+
+780
+01:08:42,489 --> 01:08:47,160
+A momentary loss of
+muscular coordination.
+
+781
+01:08:47,494 --> 01:08:48,704
+I mean...
+
+782
+01:08:49,246 --> 01:08:52,791
+...a few extra foot-pounds
+of energy...
+
+783
+01:08:52,999 --> 01:08:55,836
+...per second, per second.
+
+784
+01:09:11,935 --> 01:09:13,854
+Thank God you're here.
+
+785
+01:09:17,065 --> 01:09:19,276
+There's someone else
+in the hotel with us.
+
+786
+01:09:19,484 --> 01:09:22,029
+There's a crazy woman
+in one of the rooms.
+
+787
+01:09:22,237 --> 01:09:24,781
+She tried to strangle Danny.
+
+788
+01:09:27,325 --> 01:09:29,745
+Are you out of your fucking mind?
+
+789
+01:09:31,663 --> 01:09:33,707
+It's the truth! Really.
+
+790
+01:09:33,915 --> 01:09:35,876
+I swear it.
+Danny told me.
+
+791
+01:09:36,251 --> 01:09:38,086
+He went up into
+one of the bedrooms.
+
+792
+01:09:38,295 --> 01:09:41,757
+The door was open, and he saw this
+crazy woman in the bathtub.
+
+793
+01:09:41,965 --> 01:09:44,301
+She tried to strangle him!
+
+794
+01:09:48,013 --> 01:09:49,765
+Which room was it?
+
+795
+01:09:57,439 --> 01:09:59,566
+From Channel 10 in Miami...
+
+796
+01:09:59,775 --> 01:10:02,110
+...this is Newswatch
+with Glen Rinker...
+
+797
+01:10:02,319 --> 01:10:06,531
+...Ann Bishop, and
+the award-winning Newswatch team.
+
+798
+01:10:06,865 --> 01:10:09,284
+Good evening. I'm Glen Rinker,
+Newswatch Ten.
+
+799
+01:10:09,493 --> 01:10:12,621
+As Miami continues to swelter
+in a record winter heat wave...
+
+800
+01:10:12,829 --> 01:10:14,956
+...bringing temperatures
+to the 90s...
+
+801
+01:10:15,165 --> 01:10:18,293
+...Central and Mountain states
+are buried in snow.
+
+802
+01:10:18,502 --> 01:10:22,506
+In Colorado, 10 inches of snow
+fell injust a few hours tonight.
+
+803
+01:10:22,714 --> 01:10:24,966
+Travel in the Rockies
+is almost impossible.
+
+804
+01:10:25,175 --> 01:10:28,136
+Airports are shut down, stranding
+thousands of passengers.
+
+805
+01:10:28,345 --> 01:10:30,222
+Highways are blocked
+by snowdrifts.
+
+806
+01:10:30,430 --> 01:10:32,182
+Railroad tracks are frozen.
+
+807
+01:10:32,391 --> 01:10:34,434
+Officials in Colorado
+tell Newswatch...
+
+808
+01:10:34,643 --> 01:10:38,188
+...at least 3 have been killed
+by exposure to freezing winds.
+
+809
+01:10:38,397 --> 01:10:40,691
+The governor of Colorado
+is expected...
+
+810
+01:10:40,899 --> 01:10:42,651
+...to declare
+a weather emergency.
+
+811
+01:10:42,859 --> 01:10:44,653
+The National Guard
+might be called out...
+
+812
+01:10:44,861 --> 01:10:46,071
+...to clear streets and roads.
+
+813
+01:10:46,279 --> 01:10:48,490
+Weather forecasters
+predict more snow...
+
+814
+01:10:48,699 --> 01:10:50,701
+...and heavy winds
+tonight and tomorrow...
+
+815
+01:10:50,909 --> 01:10:53,537
+...with temperatures dropping
+well below zero.
+
+816
+01:10:53,745 --> 01:10:56,748
+Back here in Florida,
+we've got the opposite problem.
+
+817
+01:10:56,957 --> 01:10:59,167
+The heat and humidity
+are supposed to climb.
+
+818
+01:10:59,376 --> 01:11:01,378
+Local beaches
+should bejammed.
+
+819
+01:11:01,545 --> 01:11:03,588
+Our weather expert,
+Walter Cronice...
+
+820
+01:11:03,797 --> 01:11:07,050
+...will have the local forecast
+later on Newswatch.
+
+821
+01:16:38,715 --> 01:16:43,345
+We're sorry. Your call cannot
+be completed as dialed.
+
+822
+01:16:43,679 --> 01:16:46,807
+If you need assistance,
+please call the operator.
+
+823
+01:17:04,074 --> 01:17:05,909
+Yes, it's me.
+
+824
+01:17:06,118 --> 01:17:07,536
+Thank God.
+
+825
+01:17:12,207 --> 01:17:13,959
+Did you find anything?
+
+826
+01:17:14,167 --> 01:17:16,920
+No. Nothing at all.
+
+827
+01:17:17,504 --> 01:17:20,674
+I didn't see one goddamn thing.
+
+828
+01:17:23,427 --> 01:17:26,930
+You went into the room Danny said?
+To 237?
+
+829
+01:17:27,139 --> 01:17:28,682
+Yes, I did.
+
+830
+01:17:29,182 --> 01:17:30,976
+And you didn't see anything at all?
+
+831
+01:17:31,184 --> 01:17:33,145
+Absolutely nothing.
+
+832
+01:17:33,353 --> 01:17:34,646
+How is he?
+
+833
+01:17:34,855 --> 01:17:36,648
+He's still asleep.
+
+834
+01:17:37,024 --> 01:17:38,150
+Good.
+
+835
+01:17:43,989 --> 01:17:47,075
+I'm sure he'll be himself again
+in the morning.
+
+836
+01:17:51,538 --> 01:17:54,041
+Are you sure it was the right room?
+
+837
+01:17:54,249 --> 01:17:57,419
+I mean, maybe Danny made a mistake.
+
+838
+01:17:57,627 --> 01:18:00,005
+He must have gone in that room.
+
+839
+01:18:00,213 --> 01:18:02,841
+The door was open,
+the lights were on.
+
+840
+01:18:05,510 --> 01:18:07,846
+I just don't understand it.
+
+841
+01:18:12,184 --> 01:18:15,187
+What about those bruises
+on his neck?
+
+842
+01:18:17,397 --> 01:18:19,733
+Somebody did that to him.
+
+843
+01:18:27,991 --> 01:18:29,409
+I think...
+
+844
+01:18:31,078 --> 01:18:33,663
+...he did it to himself.
+
+845
+01:18:39,670 --> 01:18:40,879
+No.
+
+846
+01:18:41,588 --> 01:18:43,590
+That's not possible.
+
+847
+01:18:48,929 --> 01:18:52,557
+Once you rule out his version
+of what happened...
+
+848
+01:18:52,808 --> 01:18:55,394
+...there is no other explanation.
+
+849
+01:18:55,894 --> 01:18:57,229
+Is there?
+
+850
+01:18:59,606 --> 01:19:02,484
+It wouldn't be that different
+from the episode...
+
+851
+01:19:02,693 --> 01:19:06,071
+...that he had before
+we came up here.
+
+852
+01:19:06,279 --> 01:19:07,489
+Would it?
+
+853
+01:19:15,414 --> 01:19:18,417
+Whatever the explanation is...
+
+854
+01:19:21,837 --> 01:19:23,255
+...l think we...
+
+855
+01:19:23,463 --> 01:19:26,174
+...have to get Danny out of here.
+
+856
+01:19:30,971 --> 01:19:32,806
+Get him out of here?
+
+857
+01:19:36,977 --> 01:19:38,687
+You mean...
+
+858
+01:19:39,730 --> 01:19:41,690
+...just leave the hotel?
+
+859
+01:19:50,657 --> 01:19:52,159
+It is so...
+
+860
+01:19:52,325 --> 01:19:54,786
+...typical of you to create
+a problem like this...
+
+861
+01:19:54,995 --> 01:19:57,497
+...when I finally have a chance
+to accomplish something!
+
+862
+01:19:57,706 --> 01:20:00,292
+When I'm really into my work!
+
+863
+01:20:00,500 --> 01:20:04,463
+I could really write my own ticket
+if I went back now, couldn't l?
+
+864
+01:20:04,671 --> 01:20:08,383
+Shoveling out driveways,
+work in a car wash.
+
+865
+01:20:08,592 --> 01:20:10,677
+Any of that appeal to you?
+
+866
+01:20:11,887 --> 01:20:14,598
+I have let you fuck up my life
+so far...
+
+867
+01:20:14,806 --> 01:20:18,435
+...but I am not going to let you
+fuck this up.
+
+868
+01:21:36,346 --> 01:21:38,640
+Good evening. Forest Service.
+
+869
+01:21:39,224 --> 01:21:40,642
+My name is Dick Hallorann.
+
+870
+01:21:40,851 --> 01:21:43,311
+I'm the head chef at
+the Overlook Hotel.
+
+871
+01:21:43,478 --> 01:21:45,605
+Good evening.
+What can I do for you?
+
+872
+01:21:45,814 --> 01:21:49,401
+I've been trying to make
+an urgent phone call up there...
+
+873
+01:21:49,609 --> 01:21:52,904
+...but the operator said
+that the phone lines are down.
+
+874
+01:21:53,113 --> 01:21:56,700
+A lot of lines around here
+are down due to the storm.
+
+875
+01:21:56,908 --> 01:21:59,578
+I hate to put you through
+any trouble...
+
+876
+01:21:59,786 --> 01:22:02,998
+...but there's a family up there
+all by themselves with a young kid.
+
+877
+01:22:03,206 --> 01:22:04,875
+And with this storm
+and everything...
+
+878
+01:22:05,083 --> 01:22:08,003
+...l'd appreciate it if you'd give
+them a call on your radio...
+
+879
+01:22:08,170 --> 01:22:10,172
+...just to see if
+everything's okay.
+
+880
+01:22:10,672 --> 01:22:12,007
+I'll be glad to do that.
+
+881
+01:22:12,174 --> 01:22:15,010
+Why don't you call me back
+in about 20 minutes?
+
+882
+01:22:15,177 --> 01:22:17,220
+Thank you very much.
+I'll do that.
+
+883
+01:22:17,429 --> 01:22:18,847
+All right, sir.
+
+884
+01:22:39,201 --> 01:22:41,161
+Good evening, Mr. Torrance.
+
+885
+01:22:41,370 --> 01:22:42,829
+Good evening.
+
+886
+01:23:07,396 --> 01:23:08,855
+Hi, Lloyd.
+
+887
+01:23:09,064 --> 01:23:10,899
+Been away, but now I'm back.
+
+888
+01:23:11,191 --> 01:23:12,901
+Good evening, Mr. Torrance.
+
+889
+01:23:13,568 --> 01:23:14,569
+It's good to see you.
+
+890
+01:23:14,778 --> 01:23:17,447
+It's good to be back, Lloyd.
+
+891
+01:23:18,073 --> 01:23:19,825
+What'll it be, sir?
+
+892
+01:23:20,617 --> 01:23:22,911
+Hair of the dog that bit me.
+
+893
+01:23:24,287 --> 01:23:25,956
+Bourbon on the rocks.
+
+894
+01:23:26,790 --> 01:23:28,208
+That'll do her.
+
+895
+01:23:41,722 --> 01:23:43,974
+No charge to you, Mr. Torrance.
+
+896
+01:23:45,434 --> 01:23:47,394
+No charge?
+
+897
+01:23:48,020 --> 01:23:50,022
+Your money's no good here.
+
+898
+01:23:55,652 --> 01:23:57,404
+Orders from the house.
+
+899
+01:24:00,615 --> 01:24:03,076
+Orders from the house.
+
+900
+01:24:06,329 --> 01:24:08,332
+Drink up, Mr. Torrance.
+
+901
+01:24:10,542 --> 01:24:15,088
+I'm the kind of man likes to know
+who's buying their drinks, Lloyd.
+
+902
+01:24:17,382 --> 01:24:20,344
+It's not a matter that concerns you,
+Mr. Torrance.
+
+903
+01:24:20,510 --> 01:24:22,471
+At least, not at this point.
+
+904
+01:24:27,267 --> 01:24:29,686
+Anything you say, Lloyd.
+
+905
+01:24:30,103 --> 01:24:32,105
+Anything you say.
+
+906
+01:24:45,077 --> 01:24:47,537
+Oh, dear! I'm so sorry, sir.
+
+907
+01:24:48,663 --> 01:24:50,123
+Oh, dear. Oh, dear.
+
+908
+01:24:50,332 --> 01:24:52,876
+I've made an awful mess
+of your jacket, sir.
+
+909
+01:24:54,127 --> 01:24:57,756
+That's all right.
+I've got plenty of jackets.
+
+910
+01:24:57,964 --> 01:25:00,759
+I'm afraid it's advocaat, sir.
+It tends to stain.
+
+911
+01:25:00,967 --> 01:25:02,094
+Advocaat, is it?
+
+912
+01:25:02,302 --> 01:25:04,471
+Yes, sir.
+I think the best thing...
+
+913
+01:25:04,680 --> 01:25:06,848
+...is to come along
+to the gentlemen's room...
+
+914
+01:25:07,057 --> 01:25:09,601
+...and we'll get
+some water to it, sir.
+
+915
+01:25:10,435 --> 01:25:13,730
+Looks like you might have got a
+spot of it on yourself...
+
+916
+01:25:13,939 --> 01:25:14,940
+...Jeevesy old boy.
+
+917
+01:25:15,148 --> 01:25:18,318
+That doesn't matter, sir.
+You're the important one.
+
+918
+01:25:18,610 --> 01:25:21,029
+Awfully nice of you to say.
+
+919
+01:25:21,446 --> 01:25:24,324
+Of course, I intended to change
+my jacket this evening...
+
+920
+01:25:24,533 --> 01:25:26,785
+...before the fish and
+goose soiree.
+
+921
+01:25:26,993 --> 01:25:29,037
+Very wise, sir. Very wise.
+
+922
+01:25:29,246 --> 01:25:30,580
+Here. I'll just...
+
+923
+01:25:31,373 --> 01:25:33,625
+...hold this for you there,
+Jeevesy.
+
+924
+01:25:33,834 --> 01:25:35,627
+Thank you, sir. Thank you.
+
+925
+01:25:36,670 --> 01:25:40,298
+Let's see if we can improve this
+with a little water, sir.
+
+926
+01:25:40,507 --> 01:25:41,758
+All right. I'll just...
+
+927
+01:25:41,967 --> 01:25:46,179
+...set my bourbon and advocaat
+down right there.
+
+928
+01:25:46,763 --> 01:25:48,181
+Won't keep you a moment.
+
+929
+01:25:48,390 --> 01:25:49,766
+Fine.
+
+930
+01:25:52,853 --> 01:25:54,521
+What do they call you,
+Jeevesy?
+
+931
+01:25:54,730 --> 01:25:57,274
+Grady, sir. Delbert Grady.
+
+932
+01:26:02,070 --> 01:26:02,904
+Grady?
+
+933
+01:26:03,113 --> 01:26:04,448
+Yes, sir.
+
+934
+01:26:05,615 --> 01:26:06,950
+Delbert Grady.
+
+935
+01:26:07,117 --> 01:26:08,660
+That's right, sir.
+
+936
+01:26:17,377 --> 01:26:18,795
+Mr. Grady...
+
+937
+01:26:19,588 --> 01:26:21,673
+...haven't I seen you
+somewhere before?
+
+938
+01:26:21,882 --> 01:26:24,593
+Why, no, sir. I don't believe so.
+
+939
+01:26:31,641 --> 01:26:33,477
+It's coming off now, sir.
+
+940
+01:26:38,398 --> 01:26:39,941
+Mr. Grady...
+
+941
+01:26:41,485 --> 01:26:43,945
+...weren't you once
+the caretaker here?
+
+942
+01:26:44,154 --> 01:26:46,948
+Why, no, sir. I don't believe so.
+
+943
+01:26:49,993 --> 01:26:53,330
+You a married man, are you,
+Mr. Grady?
+
+944
+01:26:53,538 --> 01:26:54,331
+Yes, sir.
+
+945
+01:26:54,539 --> 01:26:57,834
+I have a wife and
+two daughters, sir.
+
+946
+01:26:58,877 --> 01:27:00,379
+And...
+
+947
+01:27:02,047 --> 01:27:03,340
+...where are they now?
+
+948
+01:27:03,548 --> 01:27:07,594
+They're somewhere around.
+I'm not quite sure at the moment.
+
+949
+01:27:18,271 --> 01:27:20,691
+You were the caretaker here.
+
+950
+01:27:22,150 --> 01:27:24,152
+I recognize you.
+
+951
+01:27:25,529 --> 01:27:28,573
+I saw your picture
+in the newspapers.
+
+952
+01:27:29,032 --> 01:27:30,784
+You...
+
+953
+01:27:31,243 --> 01:27:34,788
+...chopped your wife and daughter
+up into little bits.
+
+954
+01:27:35,288 --> 01:27:36,707
+And...
+
+955
+01:27:37,332 --> 01:27:39,251
+...then you blew your brains out.
+
+956
+01:27:49,177 --> 01:27:50,929
+That's strange, sir.
+
+957
+01:27:51,930 --> 01:27:54,683
+I don't have any recollection
+of that at all.
+
+958
+01:27:58,353 --> 01:28:00,230
+Mr. Grady...
+
+959
+01:28:00,647 --> 01:28:03,984
+...you were the caretaker here.
+
+960
+01:28:11,783 --> 01:28:14,578
+I'm sorry to differ with you, sir.
+
+961
+01:28:16,455 --> 01:28:18,165
+But you...
+
+962
+01:28:18,915 --> 01:28:20,751
+...are the caretaker.
+
+963
+01:28:23,003 --> 01:28:25,922
+You've always been the caretaker.
+
+964
+01:28:28,800 --> 01:28:30,635
+I should know, sir.
+
+965
+01:28:32,095 --> 01:28:34,681
+I've always been here.
+
+966
+01:28:52,908 --> 01:28:55,118
+Did you know, Mr. Torrance...
+
+967
+01:28:55,327 --> 01:28:57,120
+...that your son...
+
+968
+01:28:57,496 --> 01:29:00,207
+...is attempting to bring
+an outside party...
+
+969
+01:29:00,415 --> 01:29:02,626
+...into this situation?
+
+970
+01:29:05,170 --> 01:29:06,880
+Did you know that?
+
+971
+01:29:13,136 --> 01:29:15,222
+He is, Mr. Torrance.
+
+972
+01:29:17,557 --> 01:29:18,725
+Who?
+
+973
+01:29:20,977 --> 01:29:22,604
+A nigger.
+
+974
+01:29:26,692 --> 01:29:28,068
+A nigger?
+
+975
+01:29:30,821 --> 01:29:32,239
+A nigger...
+
+976
+01:29:32,447 --> 01:29:33,532
+...cook.
+
+977
+01:29:40,038 --> 01:29:41,331
+How?
+
+978
+01:29:43,583 --> 01:29:45,377
+Your son...
+
+979
+01:29:45,794 --> 01:29:48,588
+...has a very great talent.
+
+980
+01:29:49,548 --> 01:29:53,051
+I don't think you are aware
+how great it is.
+
+981
+01:29:53,802 --> 01:29:57,055
+But he is attempting to use
+that very talent...
+
+982
+01:29:57,264 --> 01:29:59,224
+...against your will.
+
+983
+01:30:07,733 --> 01:30:09,026
+Well...
+
+984
+01:30:11,778 --> 01:30:14,865
+...he is a very willful boy.
+
+985
+01:30:17,284 --> 01:30:19,661
+Indeed he is, Mr. Torrance.
+
+986
+01:30:19,870 --> 01:30:22,748
+A very willful boy.
+
+987
+01:30:22,956 --> 01:30:24,291
+A rather...
+
+988
+01:30:24,499 --> 01:30:26,043
+...naughty boy...
+
+989
+01:30:26,251 --> 01:30:29,421
+...if I may be so bold, sir.
+
+990
+01:30:36,678 --> 01:30:38,430
+It's his mother.
+
+991
+01:30:40,599 --> 01:30:42,059
+She...
+
+992
+01:30:42,267 --> 01:30:44,269
+...interferes.
+
+993
+01:30:47,356 --> 01:30:50,442
+Perhaps they need a good...
+
+994
+01:30:50,650 --> 01:30:52,277
+...talking-to.
+
+995
+01:30:52,694 --> 01:30:53,528
+If...
+
+996
+01:30:53,737 --> 01:30:56,490
+...you don't mind my saying so.
+
+997
+01:30:57,324 --> 01:30:58,950
+Perhaps...
+
+998
+01:30:59,493 --> 01:31:01,161
+...a bit more.
+
+999
+01:31:04,373 --> 01:31:05,624
+My girls, sir...
+
+1000
+01:31:05,832 --> 01:31:09,628
+...they didn't care for
+the Overlook at first.
+
+1001
+01:31:10,295 --> 01:31:14,174
+One of them actually stole
+a pack of matches...
+
+1002
+01:31:14,383 --> 01:31:17,052
+...and tried to burn it down.
+
+1003
+01:31:18,136 --> 01:31:19,805
+But l...
+
+1004
+01:31:20,013 --> 01:31:21,973
+...corrected them, sir.
+
+1005
+01:31:23,308 --> 01:31:27,437
+And when my wife tried to prevent me
+from doing my duty...
+
+1006
+01:31:27,646 --> 01:31:28,897
+...l...
+
+1007
+01:31:29,898 --> 01:31:31,983
+...corrected her.
+
+1008
+01:31:46,248 --> 01:31:48,208
+We have the Snowcat.
+
+1009
+01:31:51,586 --> 01:31:53,380
+If the weather breaks...
+
+1010
+01:31:53,547 --> 01:31:55,340
+...we might just be able...
+
+1011
+01:31:55,549 --> 01:31:57,384
+...to get down the mountain.
+
+1012
+01:32:00,262 --> 01:32:03,223
+I could call
+the forest rangers first...
+
+1013
+01:32:03,432 --> 01:32:04,725
+...and...
+
+1014
+01:32:05,058 --> 01:32:06,935
+...tell them that we're coming...
+
+1015
+01:32:07,310 --> 01:32:08,478
+....so that...
+
+1016
+01:32:08,687 --> 01:32:12,774
+...they could start searching
+for us in case we didn't make it.
+
+1017
+01:32:16,570 --> 01:32:18,697
+And if Jack won't come with us...
+
+1018
+01:32:21,199 --> 01:32:24,911
+...l'll just have to tell him that
+we're going by ourselves.
+
+1019
+01:32:25,120 --> 01:32:27,080
+That's all there is to it.
+
+1020
+01:32:28,457 --> 01:32:29,958
+Redrum.
+
+1021
+01:32:30,917 --> 01:32:32,586
+Redrum.
+
+1022
+01:32:43,847 --> 01:32:45,015
+What's the matter, hon?
+
+1023
+01:32:45,223 --> 01:32:46,099
+Redrum!
+
+1024
+01:32:46,308 --> 01:32:48,393
+Are you having a bad dream?
+
+1025
+01:32:54,316 --> 01:32:55,567
+Hon?
+
+1026
+01:33:01,365 --> 01:33:05,285
+Danny's not here, Mrs. Torrance.
+
+1027
+01:33:10,290 --> 01:33:11,792
+Come on, hon.
+
+1028
+01:33:12,793 --> 01:33:14,211
+Wake up.
+
+1029
+01:33:15,170 --> 01:33:17,422
+You just had a bad dream.
+
+1030
+01:33:18,799 --> 01:33:20,967
+Everything's okay.
+
+1031
+01:33:25,013 --> 01:33:28,892
+Danny can't wake up, Mrs. Torrance.
+
+1032
+01:33:38,360 --> 01:33:40,153
+Wake up!
+
+1033
+01:33:41,363 --> 01:33:42,656
+Come on.
+
+1034
+01:33:42,864 --> 01:33:44,408
+Right now.
+
+1035
+01:33:44,866 --> 01:33:46,243
+Wake up!
+
+1036
+01:33:50,288 --> 01:33:54,292
+Danny's gone away, Mrs. Torrance.
+
+1037
+01:34:04,428 --> 01:34:07,305
+This is KDK 1 calling
+KDK 12.
+
+1038
+01:34:07,514 --> 01:34:10,434
+KDK 1 calling KDK 12.
+
+1039
+01:34:10,726 --> 01:34:12,519
+Are you receiving me?
+
+1040
+01:34:15,731 --> 01:34:19,151
+This is KDK 1 calling
+KDK 12.
+
+1041
+01:34:19,526 --> 01:34:22,320
+KDK 1 calling KDK 12.
+
+1042
+01:34:22,529 --> 01:34:24,197
+Do you read me?
+
+1043
+01:34:28,577 --> 01:34:31,580
+This is KDK 1 calling
+KDK 12.
+
+1044
+01:34:31,788 --> 01:34:34,374
+KDK 1 calling KDK 12.
+
+1045
+01:34:34,583 --> 01:34:36,335
+Are you receiving me?
+
+1046
+01:35:12,788 --> 01:35:14,623
+Good evening. Forest service.
+
+1047
+01:35:14,831 --> 01:35:17,084
+This is Dick Hallorann again.
+
+1048
+01:35:17,292 --> 01:35:20,379
+I called a while ago about
+the folks at the Overlook Hotel.
+
+1049
+01:35:21,630 --> 01:35:25,425
+We tried to contact them several
+times but they didn't answer.
+
+1050
+01:35:25,634 --> 01:35:29,221
+Maybe they got their radio
+turned off or they can't hear it.
+
+1051
+01:35:29,429 --> 01:35:32,307
+If you'd like, I'd be glad
+to try again later on.
+
+1052
+01:35:32,808 --> 01:35:34,935
+That's very nice of you.
+
+1053
+01:35:35,143 --> 01:35:36,937
+I'll call you back later.
+
+1054
+01:35:37,145 --> 01:35:38,146
+Bye.
+
+1055
+01:36:25,235 --> 01:36:28,280
+Pardon me, miss.
+What time will we get to Denver?
+
+1056
+01:36:28,488 --> 01:36:30,657
+We're due to arrive at 8:20, sir.
+
+1057
+01:36:30,866 --> 01:36:32,451
+Thank you very much.
+
+1058
+01:37:36,348 --> 01:37:37,307
+Durkin's Garage.
+
+1059
+01:37:37,474 --> 01:37:38,600
+Can I speak to Larry?
+
+1060
+01:37:38,809 --> 01:37:39,810
+Speaking.
+
+1061
+01:37:40,102 --> 01:37:42,604
+Hi, Larry. This is Dick.
+Dick Hallorann.
+
+1062
+01:37:42,854 --> 01:37:44,523
+Dick! How you doing?
+
+1063
+01:37:44,731 --> 01:37:46,108
+How's the weather down there?
+
+1064
+01:37:46,316 --> 01:37:49,444
+I'm not in Florida.
+I'm calling from Stapleton Airport.
+
+1065
+01:37:49,820 --> 01:37:51,446
+What are you doing there?
+
+1066
+01:37:51,863 --> 01:37:55,325
+I just got in from Miami.
+I got to get to the Overlook today.
+
+1067
+01:37:55,492 --> 01:37:57,119
+What's the weather like there?
+
+1068
+01:37:57,786 --> 01:38:00,664
+The snowplows are keeping things
+moving in town...
+
+1069
+01:38:00,831 --> 01:38:02,791
+...but the mountain roads
+are blocked.
+
+1070
+01:38:03,333 --> 01:38:06,003
+Then I'm going to need a Snowcat
+to get up there.
+
+1071
+01:38:06,211 --> 01:38:08,046
+Can you fix me up with one?
+
+1072
+01:38:08,255 --> 01:38:10,340
+What's the big deal
+about getting there today...
+
+1073
+01:38:10,549 --> 01:38:12,134
+...especially in this weather?
+
+1074
+01:38:13,010 --> 01:38:16,471
+Larry, just between you and me,
+we got a very serious problem...
+
+1075
+01:38:16,680 --> 01:38:18,890
+...with the people taking care
+of the place.
+
+1076
+01:38:19,099 --> 01:38:22,978
+They turned out to be
+completely unreliable assholes.
+
+1077
+01:38:23,186 --> 01:38:24,980
+Ullman phoned me last night.
+
+1078
+01:38:25,188 --> 01:38:28,525
+And I'm supposed to find out
+if they have to be replaced.
+
+1079
+01:38:30,027 --> 01:38:32,029
+How long will it take you
+to get here?
+
+1080
+01:38:32,362 --> 01:38:34,031
+About five hours.
+
+1081
+01:38:34,239 --> 01:38:36,491
+I'm going to rent a car
+here at the airport.
+
+1082
+01:38:36,992 --> 01:38:38,702
+Okay, I'll take care of it.
+
+1083
+01:38:38,910 --> 01:38:41,747
+Thanks, Larry.
+I really appreciate that.
+
+1084
+01:38:41,955 --> 01:38:44,499
+That's all right. Drive carefully.
+
+1085
+01:38:50,255 --> 01:38:53,550
+You're with Hal and Charlie
+on Radio 63, KHOW, Denver.
+
+1086
+01:38:53,717 --> 01:38:56,303
+And we have a bad day out there.
+
+1087
+01:38:56,511 --> 01:38:59,890
+Heavy snow throughout
+the Denver metro area.
+
+1088
+01:39:00,057 --> 01:39:01,558
+Many mountain passes...
+
+1089
+01:39:01,767 --> 01:39:04,644
+... Wolf Creek and Red Mountain
+passes are closed...
+
+1090
+01:39:04,853 --> 01:39:08,148
+...and the chain law is in effect
+at the Eisenhower Tunnel.
+
+1091
+01:39:08,357 --> 01:39:10,025
+We hear from the news department...
+
+1092
+01:39:10,233 --> 01:39:13,403
+...only a few flights are
+landing at Stapleton Airport...
+
+1093
+01:39:13,612 --> 01:39:15,197
+...and with storms like this...
+
+1094
+01:39:15,405 --> 01:39:19,576
+...l guess the entire airport will
+be closed within the hour.
+
+1095
+01:39:19,743 --> 01:39:22,579
+The storm will continue through
+the day and the Weather Service...
+
+1096
+01:39:22,788 --> 01:39:25,248
+...has declared a stockman's
+and traveler's advisory...
+
+1097
+01:39:25,457 --> 01:39:28,251
+...for all areas outlying
+the Denver metro region.
+
+1098
+01:39:28,460 --> 01:39:29,836
+Get the cows in the barn.
+
+1099
+01:39:51,316 --> 01:39:52,401
+Hon?
+
+1100
+01:39:57,364 --> 01:39:59,783
+Listen to me
+for a minute, will you?
+
+1101
+01:40:03,620 --> 01:40:07,290
+I'm just going to go and
+talk to Daddy for a few minutes...
+
+1102
+01:40:07,499 --> 01:40:09,543
+...and I'll be right back.
+
+1103
+01:40:10,502 --> 01:40:13,046
+I want you to just stay here...
+
+1104
+01:40:13,255 --> 01:40:15,757
+...and watch your cartoons, okay?
+
+1105
+01:40:18,844 --> 01:40:20,345
+Okay, hon?
+
+1106
+01:40:23,640 --> 01:40:26,476
+Yes, Mrs. Torrance.
+
+1107
+01:40:35,277 --> 01:40:36,486
+All right.
+
+1108
+01:40:38,530 --> 01:40:41,450
+I'll be back
+in just about five minutes.
+
+1109
+01:40:42,242 --> 01:40:44,578
+I'm going to lock the door
+behind me.
+
+1110
+01:44:10,951 --> 01:44:12,619
+How do you like it?
+
+1111
+01:44:19,251 --> 01:44:20,752
+How do you like it?
+
+1112
+01:44:30,721 --> 01:44:33,390
+What are you doing down here?
+
+1113
+01:44:37,769 --> 01:44:40,105
+I just...
+
+1114
+01:44:40,564 --> 01:44:41,606
+...wanted...
+
+1115
+01:44:42,024 --> 01:44:43,775
+...to talk to you.
+
+1116
+01:44:46,153 --> 01:44:47,404
+Okay.
+
+1117
+01:44:47,988 --> 01:44:49,489
+Let's talk.
+
+1118
+01:44:59,291 --> 01:45:01,293
+What do you want to talk about?
+
+1119
+01:45:09,176 --> 01:45:12,346
+I can't really remember.
+
+1120
+01:45:13,180 --> 01:45:15,307
+You can't remember.
+
+1121
+01:45:16,099 --> 01:45:17,434
+No...
+
+1122
+01:45:17,809 --> 01:45:19,186
+...l can't.
+
+1123
+01:45:24,524 --> 01:45:27,778
+Maybe it was about Danny?
+
+1124
+01:45:30,155 --> 01:45:32,824
+Maybe it was about him.
+
+1125
+01:45:36,495 --> 01:45:39,790
+I think we should discuss Danny.
+
+1126
+01:45:42,584 --> 01:45:44,378
+I think...
+
+1127
+01:45:44,795 --> 01:45:48,548
+...we should discuss
+what should be done with him.
+
+1128
+01:45:53,261 --> 01:45:55,847
+What should be done with him?
+
+1129
+01:46:00,852 --> 01:46:02,646
+I don't know.
+
+1130
+01:46:03,146 --> 01:46:05,148
+I don't think that's true.
+
+1131
+01:46:05,357 --> 01:46:07,943
+I think you have some
+very definite ideas...
+
+1132
+01:46:08,151 --> 01:46:09,861
+...about what should be done
+with Danny.
+
+1133
+01:46:10,070 --> 01:46:12,656
+And I'd like to know
+what they are.
+
+1134
+01:46:14,574 --> 01:46:16,368
+Well, l...
+
+1135
+01:46:16,660 --> 01:46:21,081
+...l think maybe he should be taken
+to a doctor.
+
+1136
+01:46:21,248 --> 01:46:24,584
+You think "maybe"
+he should be taken to a doctor?
+
+1137
+01:46:26,795 --> 01:46:30,132
+When do you think "maybe"
+he should be taken to a doctor?
+
+1138
+01:46:30,799 --> 01:46:32,134
+As soon as possible?
+
+1139
+01:46:32,759 --> 01:46:35,095
+"As soon as possible?"
+
+1140
+01:46:37,764 --> 01:46:39,182
+Please.
+
+1141
+01:46:40,600 --> 01:46:43,854
+You believe his health
+might be at stake.
+
+1142
+01:46:45,439 --> 01:46:46,940
+Yes.
+
+1143
+01:46:48,316 --> 01:46:50,944
+And you are concerned about him.
+
+1144
+01:46:53,488 --> 01:46:55,741
+And are you concerned about me?
+
+1145
+01:46:56,575 --> 01:46:57,743
+Of course I am.
+
+1146
+01:46:57,951 --> 01:47:00,162
+Of course you are!
+
+1147
+01:47:00,370 --> 01:47:03,498
+Have you ever thought about
+my responsibilities?
+
+1148
+01:47:03,707 --> 01:47:05,208
+What are you talking about?
+
+1149
+01:47:05,417 --> 01:47:08,253
+Have you ever had
+a single moment's...
+
+1150
+01:47:08,462 --> 01:47:10,505
+...thought about
+my responsibilities?
+
+1151
+01:47:10,714 --> 01:47:12,966
+Have you ever thought
+for a single moment...
+
+1152
+01:47:13,175 --> 01:47:15,969
+...about my responsibilities
+to my employers?!
+
+1153
+01:47:16,261 --> 01:47:18,096
+Has is ever occurred to you...
+
+1154
+01:47:18,305 --> 01:47:21,767
+...that I have agreed to look after
+the hotel until May 1 st?
+
+1155
+01:47:22,017 --> 01:47:24,061
+Does it matter to you at all...
+
+1156
+01:47:24,269 --> 01:47:27,356
+...that the owners have placed
+their complete confidence in me...
+
+1157
+01:47:27,564 --> 01:47:30,692
+...and that I have signed
+a letter of agreement...
+
+1158
+01:47:30,901 --> 01:47:33,487
+...in which I've accepted
+that responsibility?
+
+1159
+01:47:33,987 --> 01:47:35,989
+Do you have the slightest idea...
+
+1160
+01:47:36,198 --> 01:47:39,451
+...what a moral and ethical
+principal is? Do you?!
+
+1161
+01:47:39,826 --> 01:47:42,913
+Has it ever occurred to you what
+would happen to my future...
+
+1162
+01:47:43,121 --> 01:47:45,540
+...if I fail to live up to
+my responsibilities?
+
+1163
+01:47:45,707 --> 01:47:48,001
+Has it ever occurred to you?
+Has it?!
+
+1164
+01:47:48,210 --> 01:47:49,753
+Stay away from me!
+
+1165
+01:47:50,629 --> 01:47:51,672
+Why?
+
+1166
+01:47:52,005 --> 01:47:54,966
+I just want to go back to my room.
+
+1167
+01:47:55,175 --> 01:47:56,426
+Why?
+
+1168
+01:47:57,052 --> 01:47:57,928
+Well...
+
+1169
+01:47:59,054 --> 01:48:01,098
+...l'm very confused.
+
+1170
+01:48:02,224 --> 01:48:05,894
+And I just need a chance
+to think things over.
+
+1171
+01:48:06,937 --> 01:48:10,899
+You've had your whole fucking life
+to think things over!
+
+1172
+01:48:11,066 --> 01:48:13,860
+What good's a few minutes more
+going to do you now?
+
+1173
+01:48:14,820 --> 01:48:16,321
+Stay away from me!
+
+1174
+01:48:16,655 --> 01:48:17,948
+Please!
+
+1175
+01:48:18,740 --> 01:48:19,783
+Don't hurt me.
+
+1176
+01:48:19,992 --> 01:48:21,326
+I'm not going to hurt you.
+
+1177
+01:48:21,535 --> 01:48:22,703
+Stay away from me!
+
+1178
+01:48:22,911 --> 01:48:23,787
+Stay away!
+
+1179
+01:48:23,996 --> 01:48:24,997
+Darling.
+
+1180
+01:48:25,205 --> 01:48:26,748
+Light of my life.
+
+1181
+01:48:27,207 --> 01:48:28,542
+I'm not going to hurt you.
+
+1182
+01:48:28,750 --> 01:48:30,711
+You didn't let me finish
+my sentence.
+
+1183
+01:48:30,919 --> 01:48:33,130
+I said,
+"I'm not going to hurt you."
+
+1184
+01:48:33,338 --> 01:48:36,091
+I'm just going to bash
+your brains in.
+
+1185
+01:48:36,383 --> 01:48:39,344
+I'm going to bash them
+right the fuck in.
+
+1186
+01:48:40,429 --> 01:48:41,972
+Stay away from me!
+
+1187
+01:48:42,472 --> 01:48:43,515
+Stay away from me!
+
+1188
+01:48:43,724 --> 01:48:46,101
+I'm not going to hurt you.
+
+1189
+01:48:46,393 --> 01:48:47,894
+Stay away from me!
+
+1190
+01:48:48,145 --> 01:48:49,229
+Stay away!
+
+1191
+01:48:50,105 --> 01:48:51,314
+Please!
+
+1192
+01:48:52,357 --> 01:48:54,109
+Stop swinging the bat.
+
+1193
+01:48:54,317 --> 01:48:55,610
+Stay away from me.
+
+1194
+01:48:56,361 --> 01:48:57,654
+Put that bat down, Wendy.
+
+1195
+01:48:57,863 --> 01:48:59,364
+Stop it!
+
+1196
+01:49:00,824 --> 01:49:01,950
+Give me the bat.
+
+1197
+01:49:02,159 --> 01:49:03,285
+Please!
+
+1198
+01:49:03,535 --> 01:49:05,746
+-Stay away!
+-Give me the bat.
+
+1199
+01:49:05,954 --> 01:49:06,997
+Stop it!
+
+1200
+01:49:07,247 --> 01:49:08,665
+Give me the bat.
+
+1201
+01:49:08,999 --> 01:49:10,625
+-Stay away from me.
+-Stop swinging the bat.
+
+1202
+01:49:10,834 --> 01:49:12,210
+Please stop!
+
+1203
+01:49:12,419 --> 01:49:13,628
+Give me the bat.
+
+1204
+01:49:13,795 --> 01:49:15,047
+Stay away from me.
+
+1205
+01:49:15,297 --> 01:49:17,674
+-Stop it!
+-Give me the bat.
+
+1206
+01:49:19,092 --> 01:49:20,093
+Goddamn--!
+
+1207
+01:50:35,419 --> 01:50:37,087
+What are you doing?
+
+1208
+01:50:39,923 --> 01:50:41,383
+Wait a minute.
+
+1209
+01:50:42,759 --> 01:50:44,761
+What are you doing?
+
+1210
+01:50:47,597 --> 01:50:48,849
+What are you doing?
+
+1211
+01:51:02,738 --> 01:51:04,239
+Wait a minute!
+
+1212
+01:51:06,616 --> 01:51:08,201
+What are you doing?
+
+1213
+01:51:08,452 --> 01:51:10,162
+Open the door!
+
+1214
+01:51:11,455 --> 01:51:12,497
+Goddamn it!
+
+1215
+01:51:12,706 --> 01:51:16,251
+Let me out of here!
+Open the goddamn door!
+
+1216
+01:51:19,963 --> 01:51:21,214
+Wendy, listen.
+
+1217
+01:51:21,631 --> 01:51:24,593
+Let me out and I'll forget
+the whole goddamn thing.
+
+1218
+01:51:24,801 --> 01:51:27,262
+It'll be just like
+nothing ever happened.
+
+1219
+01:51:41,943 --> 01:51:43,320
+Baby.
+
+1220
+01:51:44,488 --> 01:51:47,824
+I think you hurt my head
+real bad.
+
+1221
+01:51:49,409 --> 01:51:51,078
+I'm dizzy.
+
+1222
+01:51:52,079 --> 01:51:54,289
+I need a doctor.
+
+1223
+01:52:01,171 --> 01:52:02,339
+Honey.
+
+1224
+01:52:05,008 --> 01:52:07,344
+Don't leave me in here.
+
+1225
+01:52:15,977 --> 01:52:17,854
+I'm going to go now.
+
+1226
+01:52:20,941 --> 01:52:22,776
+I'm going to try...
+
+1227
+01:52:22,984 --> 01:52:25,988
+...to get Danny down
+the Sidewinder...
+
+1228
+01:52:26,697 --> 01:52:29,032
+...in the Snowcat today.
+
+1229
+01:52:31,284 --> 01:52:33,120
+I'll bring back a doctor.
+
+1230
+01:52:38,500 --> 01:52:40,377
+I'm going to go now.
+
+1231
+01:52:47,801 --> 01:52:51,596
+You've got a big surprise
+coming to you.
+
+1232
+01:52:53,056 --> 01:52:55,684
+You're not going anywhere.
+
+1233
+01:52:57,352 --> 01:53:01,481
+Go check out the Snowcat and the
+radio, and you'll see what I mean.
+
+1234
+01:53:06,111 --> 01:53:07,779
+Go check it out.
+
+1235
+01:53:09,948 --> 01:53:12,117
+Go check it out!
+
+1236
+01:53:15,495 --> 01:53:17,414
+Go check it out.
+
+1237
+01:55:05,272 --> 01:55:07,691
+It's Grady, Mr. Torrance.
+
+1238
+01:55:08,400 --> 01:55:10,402
+Delbert Grady.
+
+1239
+01:55:11,945 --> 01:55:13,530
+Grady?
+
+1240
+01:55:33,925 --> 01:55:35,761
+Hello, Grady.
+
+1241
+01:55:40,432 --> 01:55:42,225
+Mr. Torrance...
+
+1242
+01:55:44,144 --> 01:55:47,898
+...l see you can hardly
+have taken care of the...
+
+1243
+01:55:48,607 --> 01:55:51,109
+...business we discussed.
+
+1244
+01:55:57,824 --> 01:56:00,786
+No need to rub it in, Mr. Grady.
+
+1245
+01:56:01,620 --> 01:56:05,707
+I'll deal with that situation
+as soon as I get out of here.
+
+1246
+01:56:06,583 --> 01:56:09,294
+Will you indeed, Mr. Torrance?
+
+1247
+01:56:09,795 --> 01:56:11,630
+I wonder.
+
+1248
+01:56:12,798 --> 01:56:14,925
+I have my doubts.
+
+1249
+01:56:16,134 --> 01:56:20,347
+I, and others, have come
+to believe...
+
+1250
+01:56:20,555 --> 01:56:23,558
+...that your heart is not in this.
+
+1251
+01:56:24,184 --> 01:56:26,728
+That you haven't the belly for it.
+
+1252
+01:56:32,901 --> 01:56:37,197
+Just give me one more chance
+to prove it, Mr. Grady.
+
+1253
+01:56:38,031 --> 01:56:39,992
+That's all I ask.
+
+1254
+01:56:41,535 --> 01:56:45,789
+Your wife appears to be stronger
+than we imagined, Mr. Torrance.
+
+1255
+01:56:45,998 --> 01:56:47,457
+Somewhat more...
+
+1256
+01:56:47,666 --> 01:56:49,626
+...resourceful.
+
+1257
+01:56:49,876 --> 01:56:52,671
+She seems to have got
+the better of you.
+
+1258
+01:56:55,882 --> 01:56:58,552
+For the moment, Mr. Grady.
+
+1259
+01:56:59,302 --> 01:57:01,471
+Only for the moment.
+
+1260
+01:57:03,390 --> 01:57:07,519
+I fear you will have to deal
+with this matter...
+
+1261
+01:57:07,811 --> 01:57:11,481
+...in the harshest possible way,
+Mr. Torrance.
+
+1262
+01:57:12,065 --> 01:57:13,608
+I fear...
+
+1263
+01:57:13,900 --> 01:57:16,445
+...that is the only thing to do.
+
+1264
+01:57:19,906 --> 01:57:22,034
+There's nothing
+I look forward to...
+
+1265
+01:57:22,242 --> 01:57:26,121
+...with greater pleasure,
+Mr. Grady.
+
+1266
+01:57:27,539 --> 01:57:30,250
+You give your word on that,
+do you, Mr. Torrance?
+
+1267
+01:57:31,752 --> 01:57:33,754
+I give you my word.
+
+1268
+01:58:45,867 --> 01:58:48,453
+Redrum.
+
+1269
+01:58:49,371 --> 01:58:51,957
+Redrum.
+
+1270
+02:00:59,918 --> 02:01:01,461
+Danny, stop it!
+
+1271
+02:01:58,268 --> 02:01:59,728
+I'm home.
+
+1272
+02:02:37,099 --> 02:02:39,935
+Come out, come out,
+wherever you are.
+
+1273
+02:03:05,502 --> 02:03:07,379
+I can't get out.
+
+1274
+02:03:08,171 --> 02:03:09,297
+Run!
+
+1275
+02:03:10,173 --> 02:03:11,591
+Run and hide!
+
+1276
+02:03:12,134 --> 02:03:13,260
+Run!
+
+1277
+02:03:13,468 --> 02:03:14,678
+Quick!
+
+1278
+02:03:16,388 --> 02:03:20,934
+Little pigs, little pigs,
+let me come in.
+
+1279
+02:03:26,690 --> 02:03:30,068
+Not by the hair
+on your chinny-chin-chin?
+
+1280
+02:03:31,611 --> 02:03:33,655
+Then I'll huff...
+
+1281
+02:03:33,864 --> 02:03:35,782
+...and I'll puff...
+
+1282
+02:03:35,991 --> 02:03:38,035
+...and I'll blow your house in!
+
+1283
+02:03:52,966 --> 02:03:54,343
+Please!
+
+1284
+02:03:55,052 --> 02:03:56,845
+Don't!
+
+1285
+02:03:57,512 --> 02:03:59,014
+Don't!
+
+1286
+02:04:17,616 --> 02:04:18,867
+Stop it!
+
+1287
+02:04:23,080 --> 02:04:24,665
+Here's Johnny!
+
+1288
+02:07:06,618 --> 02:07:07,828
+Hello?
+
+1289
+02:07:13,291 --> 02:07:15,043
+Anybody here?
+
+1290
+02:07:37,149 --> 02:07:38,692
+Hello?
+
+1291
+02:07:50,996 --> 02:07:52,831
+Anybody here?
+
+1292
+02:08:22,819 --> 02:08:24,738
+Anybody here?
+
+1293
+02:09:05,737 --> 02:09:07,447
+Danny-boy!
+
+1294
+02:11:48,275 --> 02:11:50,235
+I'm coming!
+
+1295
+02:11:52,738 --> 02:11:54,656
+I'm coming, Dan!
+
+1296
+02:12:55,467 --> 02:12:57,844
+Great party, isn't it?
+
+1297
+02:13:15,529 --> 02:13:17,739
+I'm coming!!
+
+1298
+02:13:20,325 --> 02:13:22,619
+You can't get away!
+
+1299
+02:13:26,498 --> 02:13:29,001
+I'm right behind you!
+
+1300
+02:17:27,364 --> 02:17:29,366
+-Mommy!
+-Danny, come here!
+
+1301
+02:17:30,575 --> 02:17:32,327
+Mommy.
+
+1302
+02:17:40,669 --> 02:17:42,045
+Where...?
+

@@ -1,0 +1,7525 @@
+1
+00:01:37,539 --> 00:01:39,837
+Are you paying attention?
+
+2
+00:01:42,410 --> 00:01:44,435
+Good.
+
+3
+00:01:44,612 --> 00:01:46,944
+If you're not listening carefully,
+
+4
+00:01:47,115 --> 00:01:49,880
+you will miss things,
+
+5
+00:01:50,051 --> 00:01:52,110
+important things.
+
+6
+00:01:52,287 --> 00:01:53,755
+I will not pause.
+
+7
+00:01:53,922 --> 00:01:55,253
+I will not repeat myself,
+
+8
+00:01:55,423 --> 00:01:58,017
+and you will not interrupt me.
+
+9
+00:02:00,028 --> 00:02:03,259
+You think that because you are sitting where you are
+
+10
+00:02:03,431 --> 00:02:05,024
+and I am sitting where I am
+
+11
+00:02:05,200 --> 00:02:08,067
+that you are in control of what is about to happen.
+
+12
+00:02:08,236 --> 00:02:10,705
+You're mistaken.
+
+13
+00:02:10,872 --> 00:02:12,806
+I am in control.
+
+14
+00:02:12,974 --> 00:02:16,137
+Because I know things that you
+
+15
+00:02:16,311 --> 00:02:18,473
+do not know.
+
+16
+00:02:20,949 --> 00:02:24,146
+Manchester Police Department,please hold.
+
+17
+00:02:26,321 --> 00:02:27,618
+Windows broken.
+
+18
+00:02:27,789 --> 00:02:29,154
+Home's been ransacked.
+
+19
+00:02:29,324 --> 00:02:31,315
+Send a detective down, will you?
+
+20
+00:02:31,493 --> 00:02:33,552
+What I will need from you now
+
+21
+00:02:33,728 --> 00:02:36,060
+is a commitment.
+
+22
+00:02:36,231 --> 00:02:38,996
+You will listen closely,and you will not
+
+23
+00:02:39,167 --> 00:02:41,397
+judge me until I am finished.
+
+24
+00:02:41,569 --> 00:02:43,333
+If you cannot commit to this,
+
+25
+00:02:43,505 --> 00:02:45,064
+then please leave the room.
+
+26
+00:02:45,240 --> 00:02:46,469
+Come in.
+
+27
+00:02:46,641 --> 00:02:47,836
+But if you choose to stay,
+
+28
+00:02:48,009 --> 00:02:49,977
+remember you chose to be here.
+
+29
+00:02:50,145 --> 00:02:51,772
+What happens
+
+30
+00:02:51,946 --> 00:02:55,075
+from this moment forwards is not my responsibility.
+
+31
+00:02:55,250 --> 00:02:56,615
+It's yours.
+
+32
+00:02:59,854 --> 00:03:02,824
+Pay attention.
+
+33
+00:03:15,031 --> 00:03:16,499
+What's all this, then?
+
+34
+00:03:16,137 --> 00:03:17,764
+Turing, Alan.
+
+35
+00:03:17,939 --> 00:03:19,964
+Professor at King's.
+
+36
+00:03:20,141 --> 00:03:21,472
+Seems there's been a burglary.
+
+37
+00:03:21,643 --> 00:03:23,111
+Oh? What of?
+
+38
+00:03:23,278 --> 00:03:25,007
+Well, that's just it.Nothing missing, really.
+
+39
+00:03:26,514 --> 00:03:28,642
+What's he doing in Manchester?
+
+40
+00:03:28,816 --> 00:03:31,808
+Something with machines.
+
+41
+00:03:38,860 --> 00:03:40,828
+The project at the NPL.
+
+42
+00:03:40,995 --> 00:03:42,895
+I checked, but he won't say what it's on.
+
+43
+00:03:44,465 --> 00:03:46,957
+Professor Turing?
+
+44
+00:03:47,135 --> 00:03:49,001
+Detective Nook,Manchester Police.
+
+45
+00:03:52,740 --> 00:03:56,472
+Sergeant Staehl here tells me you had a burglary last night.
+
+46
+00:03:56,644 --> 00:03:58,976
+Professor Turing?
+
+47
+00:03:59,147 --> 00:04:00,911
+Take a step back,
+
+48
+00:04:01,082 --> 00:04:02,982
+and don't breath heavily.
+
+49
+00:04:03,151 --> 00:04:05,347
+- Breathe?
+-Undiluted cyanide.
+
+50
+00:04:05,520 --> 00:04:06,851
+It-it wouldn't take
+
+51
+00:04:07,021 --> 00:04:10,013
+more than a thimbleful to kill you.
+
+52
+00:04:10,191 --> 00:04:12,159
+Ah.
+
+53
+00:04:12,327 --> 00:04:13,726
+Disappointing.
+
+54
+00:04:13,895 --> 00:04:15,192
+Pardon?
+
+55
+00:04:15,363 --> 00:04:18,230
+L-I had hoped for a bit more.
+
+56
+00:04:18,399 --> 00:04:19,992
+Sergeant Staehl, is it just me,or do you get the sense
+
+57
+00:04:20,168 --> 00:04:21,158
+that we're being insulted?
+
+58
+00:04:21,336 --> 00:04:23,270
+Last night, you had a break-in.
+
+59
+00:04:23,438 --> 00:04:26,032
+Your neighbor, Mr. Springborn,called to report the noise.
+
+60
+00:04:26,207 --> 00:04:28,039
+He said there was quite a ruckus.
+
+61
+00:04:28,209 --> 00:04:29,699
+Only you say nothing was taken.
+
+62
+00:04:29,877 --> 00:04:31,845
+It's odd.So how about you tell us
+
+63
+00:04:32,013 --> 00:04:33,777
+what happened, and we'll find the chap who did this.
+
+64
+00:04:33,948 --> 00:04:35,245
+Gentlemen,
+
+65
+00:04:35,416 --> 00:04:36,850
+I-I don't believe
+
+66
+00:04:37,018 --> 00:04:38,679
+that you could find the chap that did this
+
+67
+00:04:38,853 --> 00:04:41,015
+if, uh, he walked up to you and spat in your face.
+
+68
+00:04:41,189 --> 00:04:42,918
+Uh, what I could use right now
+
+69
+00:04:43,091 --> 00:04:46,186
+is not a bobby,but a really good cleaning lady.
+
+70
+00:04:46,361 --> 00:04:48,193
+So unless one of you has a-an apron
+
+71
+00:04:48,363 --> 00:04:49,694
+in your car, I suggest
+
+72
+00:04:49,864 --> 00:04:52,595
+you file your reports and leave me alone.
+
+73
+00:04:53,868 --> 00:04:56,701
+As you say, Professor Turing.
+
+74
+00:04:59,941 --> 00:05:02,740
+Best of luck with your cyanide.
+
+75
+00:05:03,566 --> 00:05:04,234
+I'll give you a quid
+
+76
+00:05:04,263 --> 00:05:06,492
+if you can name me a more insufferable sod.
+
+77
+00:05:06,447 --> 00:05:08,040
+Seemed a bit forced,though, didn't it?
+
+78
+00:05:08,216 --> 00:05:09,547
+Don't know what you mean.
+
+79
+00:05:09,717 --> 00:05:11,276
+Well, if you didn't want a pair of bobbies
+
+80
+00:05:11,452 --> 00:05:13,147
+digging around in your personal affairs,
+
+81
+00:05:13,321 --> 00:05:16,154
+that'd have been a stellar way to make sure they don't.
+
+82
+00:05:16,324 --> 00:05:18,315
+Tell me you don't think this is suspicious.
+
+83
+00:05:18,493 --> 00:05:19,756
+I don't think this is suspicious.
+
+84
+00:05:19,927 --> 00:05:21,918
+A mysterious professor who won't admit
+
+85
+00:05:22,096 --> 00:05:23,894
+he's had something stolen from his house?
+
+86
+00:05:25,133 --> 00:05:26,430
+I think Alan Turing's
+
+87
+00:05:26,601 --> 00:05:28,569
+hiding something.
+
+88
+00:05:38,813 --> 00:05:39,803
+War declared!
+
+89
+00:05:39,981 --> 00:05:41,949
+800,000 children evacuated!
+
+90
+00:05:42,116 --> 00:05:43,811
+German bombs on their way!
+
+91
+00:05:43,985 --> 00:05:45,077
+Get your papers here!
+
+92
+00:05:45,253 --> 00:05:46,243
+Fresh off the press!
+
+93
+00:05:46,421 --> 00:05:47,411
+War declared!
+
+94
+00:05:47,588 --> 00:05:49,750
+800,000 children evacuated!
+
+95
+00:05:49,924 --> 00:05:51,949
+German bombs expected soon!
+
+96
+00:06:17,952 --> 00:06:19,477
+This morning,
+
+97
+00:06:19,654 --> 00:06:21,816
+the British Ambassador in Berlin
+
+98
+00:06:21,989 --> 00:06:23,548
+handed the German government
+
+99
+00:06:23,725 --> 00:06:26,387
+a final note stating that
+
+100
+00:06:26,561 --> 00:06:28,620
+unless we heard from them,
+
+101
+00:06:28,796 --> 00:06:30,230
+by 11:00,
+
+102
+00:06:30,398 --> 00:06:32,127
+a state of war
+
+103
+00:06:32,300 --> 00:06:33,631
+would exist between us.
+
+104
+00:06:34,969 --> 00:06:36,801
+I have to tell you now
+
+105
+00:06:36,971 --> 00:06:39,497
+that no such undertaking has been received.
+
+106
+00:06:39,674 --> 00:06:41,802
+And that, consequently,
+
+107
+00:06:41,976 --> 00:06:44,138
+this country is at war
+
+108
+00:06:44,312 --> 00:06:46,644
+with Germany.
+
+109
+00:07:11,873 --> 00:07:13,671
+For the second time
+
+110
+00:07:13,841 --> 00:07:16,333
+in the lives of most of us,
+
+111
+00:07:16,511 --> 00:07:18,912
+we are...
+
+112
+00:07:19,080 --> 00:07:20,570
+at war.
+
+113
+00:07:20,748 --> 00:07:23,445
+...to find
+
+114
+00:07:23,618 --> 00:07:25,552
+a peaceful way out...
+
+115
+00:07:28,790 --> 00:07:30,724
+Papers, please.
+
+116
+00:08:07,261 --> 00:08:08,786
+What are you doing here?
+
+117
+00:08:08,963 --> 00:08:11,159
+Oh, uh,the lady told me to wait.
+
+118
+00:08:11,332 --> 00:08:12,925
+In my office?
+
+119
+00:08:13,100 --> 00:08:14,966
+She tell you to help yourself to tea
+
+120
+00:08:15,136 --> 00:08:16,160
+while you were here?
+
+121
+00:08:16,337 --> 00:08:18,999
+Uh, no, she didn't.
+
+122
+00:08:19,173 --> 00:08:20,436
+She obviously didn't tell you
+
+123
+00:08:20,608 --> 00:08:21,905
+what a joke was, then,either, I gather.
+
+124
+00:08:22,076 --> 00:08:23,976
+Was she supposed to?
+
+125
+00:08:25,646 --> 00:08:27,114
+Who are you?
+
+126
+00:08:27,281 --> 00:08:29,249
+Alan Turing.
+
+127
+00:08:29,417 --> 00:08:31,511
+Ah, Turing.
+
+128
+00:08:31,686 --> 00:08:32,744
+The mathematician.
+
+129
+00:08:32,920 --> 00:08:33,710
+Correct.
+
+130
+00:08:33,466 --> 00:08:35,829
+- However could I have guessed?
+-Well, you didn't.
+
+131
+00:08:36,023 --> 00:08:37,855
+You just read it on that piece of paper.
+
+132
+00:08:39,894 --> 00:08:41,453
+King's College, Cambridge.
+
+133
+00:08:41,629 --> 00:08:43,188
+Now, it says here you were a bit of a prodigy
+
+134
+00:08:43,364 --> 00:08:44,627
+in the maths department.
+
+135
+00:08:44,799 --> 00:08:47,769
+L-I'm not sure I can evaluate that, Mr...
+
+136
+00:08:47,935 --> 00:08:49,926
+- How old are you, Mr. Turing?
+-Uh, 27.
+
+137
+00:08:50,071 --> 00:08:52,438
+And how old were you when you became a Fellow at Cambridge?
+
+138
+00:08:52,607 --> 00:08:54,701
+- 24.
+-And how old were you
+
+139
+00:08:54,876 --> 00:08:56,366
+when you published this paper that has a title
+
+140
+00:08:56,544 --> 00:08:57,636
+I can barely understand?
+
+141
+00:08:57,812 --> 00:09:00,144
+- Uh, 23.
+-And you don't think
+
+142
+00:09:00,314 --> 00:09:02,612
+that qualifies you as a certified prodigy?
+
+143
+00:09:02,783 --> 00:09:04,581
+Well, Newton discovered binomial theorem aged 22.
+
+144
+00:09:04,785 --> 00:09:07,846
+Einstein wrote four papers that changed the world
+
+145
+00:09:08,022 --> 00:09:09,183
+by the age of 26.
+
+146
+00:09:09,357 --> 00:09:10,449
+As far as I can tell,
+
+147
+00:09:10,591 --> 00:09:11,752
+I've...
+
+148
+00:09:11,959 --> 00:09:13,484
+I've barely made par.
+
+149
+00:09:13,661 --> 00:09:14,958
+My God, you're serious.
+
+150
+00:09:15,129 --> 00:09:16,528
+Would you prefer I made a joke?
+
+151
+00:09:16,697 --> 00:09:18,631
+Oh, I don't think you know what those are.
+
+152
+00:09:18,799 --> 00:09:20,289
+
+
+153
+00:09:20,468 --> 00:09:21,629
+for employment here, Mr...
+
+154
+00:09:21,802 --> 00:09:23,736
+Commander Denniston,Royal Navy.
+
+155
+00:09:23,905 --> 00:09:25,373
+All right,Mr. Turing, I'll bite.
+
+156
+00:09:25,540 --> 00:09:27,702
+Why do you wish to work for His Majesty's government?
+
+157
+00:09:27,875 --> 00:09:29,707
+Oh, I don't, really.
+
+158
+00:09:29,877 --> 00:09:32,676
+Are you a bleeding pacifist?
+
+159
+00:09:32,847 --> 00:09:35,145
+I'm... agnostic about violence.
+
+160
+00:09:35,283 --> 00:09:36,512
+Well, you do realize
+
+161
+00:09:36,684 --> 00:09:38,413
+that 600 miles away from London
+
+162
+00:09:38,586 --> 00:09:40,520
+there's this nasty little chap called Hitler
+
+163
+00:09:40,688 --> 00:09:42,747
+who wants to engulf Europe in tyranny?
+
+164
+00:09:42,924 --> 00:09:44,688
+Politics isn't really my area of expertise.
+
+165
+00:09:44,859 --> 00:09:46,190
+Really?
+
+166
+00:09:46,360 --> 00:09:48,590
+Well, I believe you've just set the record
+
+167
+00:09:48,763 --> 00:09:49,753
+for the shortest job interview
+
+168
+00:09:49,931 --> 00:09:51,365
+in British military history.
+
+169
+00:09:51,532 --> 00:09:52,931
+Oh, uh...
+
+170
+00:09:53,100 --> 00:09:55,034
+Mother says I can be off-putting sometimes on account
+
+171
+00:09:55,202 --> 00:09:57,102
+of being one of the best mathematicians in the world.
+
+172
+00:09:57,271 --> 00:09:58,932
+In the world?
+
+173
+00:09:59,106 --> 00:10:00,699
+Oh, yes.
+
+174
+00:10:00,875 --> 00:10:03,207
+Do you know how many people I've rejected for this program?
+
+175
+00:10:03,377 --> 00:10:05,505
+- No.
+-Well, that's right,
+
+176
+00:10:05,680 --> 00:10:07,114
+because we're a top-secret program.
+
+177
+00:10:07,281 --> 00:10:09,375
+But I'll tell you,just because we're friends,
+
+178
+00:10:09,550 --> 00:10:10,949
+that only last week,
+
+179
+00:10:11,118 --> 00:10:13,951
+I rejected one of our great nation's top linguists.
+
+180
+00:10:14,121 --> 00:10:16,317
+Knows German better than Bertolt Brecht.
+
+181
+00:10:16,490 --> 00:10:17,480
+I don't speak German.
+
+182
+00:10:17,692 --> 00:10:19,251
+What?
+
+183
+00:10:19,427 --> 00:10:21,020
+I don't...
+
+184
+00:10:21,195 --> 00:10:22,560
+speak German.
+
+185
+00:10:22,730 --> 00:10:24,391
+Well, how the hell were you supposed to decrypt
+
+186
+00:10:24,565 --> 00:10:26,055
+German communications if you don't...
+
+187
+00:10:26,233 --> 00:10:28,099
+I don't know, speak German?
+
+188
+00:10:28,269 --> 00:10:30,670
+Well, I'm really quite excellent at crossword puzzles.
+
+189
+00:10:30,838 --> 00:10:33,432
+- Margaret!
+-The German codes are a puzzle.
+
+190
+00:10:33,608 --> 00:10:35,269
+A game, just like any other game.
+
+191
+00:10:35,443 --> 00:10:37,070
+- Margaret, where are you?
+-I'm really very good at games.
+
+192
+00:10:37,244 --> 00:10:38,712
+Uh, puzzles.
+
+193
+00:10:38,879 --> 00:10:41,280
+And this is the most difficult puzzle in the world.
+
+194
+00:10:41,449 --> 00:10:43,076
+Margaret!
+
+195
+00:10:43,250 --> 00:10:44,581
+For the love of God.
+
+196
+00:10:44,752 --> 00:10:45,981
+This is a joke, obviously.
+
+197
+00:10:46,153 --> 00:10:48,713
+I'm afraid I don't know what those are,
+
+198
+00:10:48,889 --> 00:10:50,755
+Commander Denniston.
+
+199
+00:10:50,925 --> 00:10:53,360
+Have a pleasant trip back to Cambridge, Professor.
+
+200
+00:10:53,561 --> 00:10:54,619
+Enigma.
+
+201
+00:10:54,795 --> 00:10:56,729
+You called for me?
+
+202
+00:11:04,271 --> 00:11:06,171
+That's what you're doing here.
+
+203
+00:11:06,340 --> 00:11:09,002
+The top-secret program at Bletchley.
+
+204
+00:11:09,176 --> 00:11:12,339
+You're trying to break the German Enigma machine.
+
+205
+00:11:12,513 --> 00:11:14,845
+What makes you think that?
+
+206
+00:11:15,016 --> 00:11:17,348
+It's the greatest encryption device in history,
+
+207
+00:11:17,518 --> 00:11:20,613
+and the Germans use it for all major communications.
+
+208
+00:11:20,788 --> 00:11:23,314
+If the Allies broke Enigma,
+
+209
+00:11:23,491 --> 00:11:25,425
+well
+
+210
+00:11:25,593 --> 00:11:27,322
+This would turn into a very short war, indeed.
+
+211
+00:11:27,495 --> 00:11:30,328
+Of course that's what you're working on.
+
+212
+00:11:30,498 --> 00:11:33,092
+But you also haven't got anywhere with it.
+
+213
+00:11:33,267 --> 00:11:34,632
+If you had, you wouldn't be hiring cryptographers
+
+214
+00:11:34,802 --> 00:11:36,634
+out of university.
+
+215
+00:11:36,804 --> 00:11:38,795
+Y- You need me a lot more than I need you.
+
+216
+00:11:38,973 --> 00:11:40,873
+L-I like solving problems,
+
+217
+00:11:41,042 --> 00:11:42,635
+Commander.
+
+218
+00:11:42,810 --> 00:11:46,542
+And Enigma is the most difficult problem in the world.
+
+219
+00:11:46,714 --> 00:11:49,012
+No, Enigma isn't difficult;it's impossible.
+
+220
+00:11:49,183 --> 00:11:51,481
+The Americans, the Russians,the French,
+
+221
+00:11:51,652 --> 00:11:53,677
+the Germans,everyone thinks Enigma
+
+222
+00:11:53,854 --> 00:11:54,912
+is unbreakable.
+
+223
+00:11:55,122 --> 00:11:56,351
+Good.
+
+224
+00:11:56,524 --> 00:11:58,890
+Let me try,and we'll know for sure,
+
+225
+00:11:58,559 --> 00:11:59,822
+won't we?
+
+226
+00:12:01,629 --> 00:12:03,620
+Welcome to Enigma.
+
+227
+00:12:05,666 --> 00:12:08,465
+The details of every surprise attack,
+
+228
+00:12:08,636 --> 00:12:12,163
+every secret convoy
+
+229
+00:12:12,339 --> 00:12:14,501
+and every U-boat in the bloody Atlantic
+
+230
+00:12:14,675 --> 00:12:16,404
+go into that thing.
+
+231
+00:12:16,577 --> 00:12:19,808
+And out comes gibberish.
+
+232
+00:12:19,980 --> 00:12:22,540
+It's beautiful.
+
+233
+00:12:22,717 --> 00:12:25,550
+It's the crooked hand of death itself.
+
+234
+00:12:25,720 --> 00:12:29,850
+Our Wrens intercept thousands of radio messages a day,
+
+235
+00:12:30,024 --> 00:12:32,015
+and to the lovely young ladies
+
+236
+00:12:32,193 --> 00:12:34,093
+of the Women's Royal Navy,they're nonsense.
+
+237
+00:12:34,261 --> 00:12:37,196
+It's only when you feed them back into Enigma
+
+238
+00:12:37,364 --> 00:12:38,960
+that they make any sense.
+
+239
+00:12:39,105 --> 00:12:41,195
+But we have an Enigma machine.
+
+240
+00:12:40,901 --> 00:12:42,096
+Yes, Polish Intelligence
+
+241
+00:12:42,269 --> 00:12:43,361
+smuggled it out of Berlin.
+
+242
+00:12:43,537 --> 00:12:44,527
+So what's the problem?
+
+243
+00:12:44,705 --> 00:12:45,934
+Just put the intercepted messages
+
+244
+00:12:46,107 --> 00:12:47,097
+back into the Enigma and you'll...
+
+245
+00:12:47,274 --> 00:12:49,936
+Look, it's not that simple, is it?
+
+246
+00:12:50,111 --> 00:12:52,273
+Just having an Enigma machine
+
+247
+00:12:52,446 --> 00:12:54,005
+doesn't help you to decode the messages.
+
+248
+00:12:54,181 --> 00:12:57,014
+Very good, Mr. Turing.
+
+249
+00:12:57,184 --> 00:12:59,846
+To decode a message, you need to know the machine's settings.
+
+250
+00:13:00,020 --> 00:13:02,512
+Now, the Germans switch settings
+
+251
+00:13:02,656 --> 00:13:04,818
+every day promptly at midnight.
+
+252
+00:13:05,025 --> 00:13:06,220
+We usually intercept
+
+253
+00:13:06,393 --> 00:13:08,191
+our first message around 6:00 a.m.,
+
+254
+00:13:08,362 --> 00:13:09,955
+which gives you exactly
+
+255
+00:13:10,131 --> 00:13:14,068
+18 hours every day to crack the code
+
+256
+00:13:14,235 --> 00:13:16,431
+before it changes,and you start again.
+
+257
+00:13:16,604 --> 00:13:17,969
+Five rotors.
+
+258
+00:13:18,139 --> 00:13:20,130
+Ten plugboard cables.
+
+259
+00:13:20,307 --> 00:13:21,706
+- One million...
+-A thousand million...
+
+260
+00:13:21,876 --> 00:13:23,469
+No, no, it's,uh, I've got it.
+
+261
+00:13:23,644 --> 00:13:25,942
+It's million, million. It's in the millions, obviously.
+
+262
+00:13:26,113 --> 00:13:28,980
+It's over 150 million million million possible settings.
+
+263
+00:13:29,181 --> 00:13:30,422
+Very good.
+
+264
+00:13:30,277 --> 00:13:31,277
+159
+159
+
+265
+00:13:33,154 --> 00:13:35,316
+If you want to be exact about it. 1-5-9
+
+266
+00:13:35,489 --> 00:13:37,719
+with 18 zeroes behind it.
+
+267
+00:13:37,892 --> 00:13:39,382
+Possibilities.
+
+268
+00:13:39,560 --> 00:13:41,289
+Every single day.
+
+269
+00:13:41,462 --> 00:13:43,954
+Gentlemen, meet Hugh Alexander.
+
+270
+00:13:44,131 --> 00:13:45,826
+I personally selected him
+
+271
+00:13:46,000 --> 00:13:48,264
+- to run this unit.
+-Didn't you...
+
+272
+00:13:48,435 --> 00:13:50,403
+Mr. Alexander won Britain's national chess championship.
+
+273
+00:13:50,571 --> 00:13:51,970
+Twice.
+
+274
+00:13:52,139 --> 00:13:53,470
+You're not the only one
+
+275
+00:13:53,641 --> 00:13:54,836
+who's good at games around here, Turing.
+
+276
+00:13:55,009 --> 00:13:57,501
+Are-are we to work together, then?
+
+277
+00:13:57,678 --> 00:13:59,840
+I prefer to have my own office.
+
+278
+00:14:00,014 --> 00:14:01,846
+You're a team,and you will work as one.
+
+279
+00:14:02,016 --> 00:14:04,348
+I-I-I don't have time to explain myself as I go along,
+
+280
+00:14:04,518 --> 00:14:06,111
+and I'm afraid these men
+
+281
+00:14:06,287 --> 00:14:08,517
+- would only slow me down.
+-If you can't
+
+282
+00:14:08,689 --> 00:14:11,659
+play together, then I'm afraid we can't let you play at all.
+
+283
+00:14:11,826 --> 00:14:13,521
+This is Stewart Menzies, MI6.
+
+284
+00:14:13,694 --> 00:14:15,685
+There are only five divisions of military intelligence.
+
+285
+00:14:15,863 --> 00:14:17,763
+There is no MI6.
+
+286
+00:14:17,932 --> 00:14:19,297
+Exactly.
+
+287
+00:14:19,466 --> 00:14:21,833
+That's the spirit.
+
+288
+00:14:22,002 --> 00:14:23,800
+Mr. Turing, do you know how many British servicemen
+
+289
+00:14:23,971 --> 00:14:24,961
+have died because of Enigma?
+
+290
+00:14:25,139 --> 00:14:27,039
+Uh, no, I don't.
+
+291
+00:14:27,208 --> 00:14:28,972
+Three...
+
+292
+00:14:29,143 --> 00:14:30,133
+while we've been having
+
+293
+00:14:30,311 --> 00:14:32,279
+this conversation.
+
+294
+00:14:33,814 --> 00:14:36,044
+Oh, look, there's another.
+
+295
+00:14:36,217 --> 00:14:38,345
+I rather hope he didn't have a family.
+
+296
+00:14:38,519 --> 00:14:41,819
+This war Commander Denniston's been going on about,
+
+297
+00:14:41,989 --> 00:14:43,718
+we're not winning it.
+
+298
+00:14:43,891 --> 00:14:45,518
+Break the code,
+
+299
+00:14:45,693 --> 00:14:48,628
+at least we have a chance.
+
+300
+00:14:48,796 --> 00:14:51,356
+Shall we leave the children alone
+
+301
+00:14:51,532 --> 00:14:53,057
+with their new toy?
+
+302
+00:14:53,234 --> 00:14:54,326
+Hm.
+
+303
+00:14:57,872 --> 00:15:01,536
+All right, gentlemen...
+
+304
+00:15:01,709 --> 00:15:04,371
+let's play.
+
+305
+00:15:07,882 --> 00:15:10,681
+The game was quite a simple one.
+
+306
+00:15:13,721 --> 00:15:16,190
+Every single German message,every surprise attack,
+
+307
+00:15:16,357 --> 00:15:17,984
+every bombing run,
+
+308
+00:15:18,158 --> 00:15:20,684
+every imminent U-boat assault...
+
+309
+00:15:26,867 --> 00:15:29,165
+They were all floating through the air.
+
+310
+00:15:38,779 --> 00:15:40,611
+Radio signals that...
+
+311
+00:15:40,781 --> 00:15:43,716
+well, any schoolboy with an AM kit
+
+312
+00:15:43,884 --> 00:15:45,443
+could intercept.
+
+313
+00:15:47,588 --> 00:15:50,922
+The trick was that they were encrypted.
+
+314
+00:16:01,435 --> 00:16:04,871
+There were 159 million million million possible
+
+315
+00:16:05,039 --> 00:16:06,803
+Enigma settings.
+
+316
+00:16:06,974 --> 00:16:09,238
+All we had to do was try each one.
+
+317
+00:16:12,913 --> 00:16:16,474
+But if we had ten men checking one setting a minute
+
+318
+00:16:16,650 --> 00:16:20,109
+for 24 hours every day and seven days every week,
+
+319
+00:16:20,287 --> 00:16:24,815
+how many days do you think it would take to, uh, to check
+
+320
+00:16:24,992 --> 00:16:27,393
+each of the settings?
+
+321
+00:16:29,096 --> 00:16:32,327
+Well, it's not days, it's years.
+
+322
+00:16:32,499 --> 00:16:34,058
+Good morning.
+
+323
+00:16:34,234 --> 00:16:38,068
+It's 2O million years.
+
+324
+00:16:38,238 --> 00:16:39,967
+- To stop a coming attack,
+-Thank you.
+
+325
+00:16:40,140 --> 00:16:43,269
+We would have to check 2O million years' worth
+
+326
+00:16:43,444 --> 00:16:45,173
+of settings
+
+327
+00:16:45,346 --> 00:16:47,508
+in 2O minutes.
+
+328
+00:17:13,974 --> 00:17:14,998
+I'm famished.
+
+329
+00:17:15,175 --> 00:17:17,143
+Lunch?
+
+330
+00:17:17,311 --> 00:17:18,642
+Good Lord. What is it
+
+331
+00:17:18,812 --> 00:17:20,678
+about women with little hats?
+
+332
+00:17:27,621 --> 00:17:31,148
+The boys, we're going to get some lunch.
+
+333
+00:17:34,128 --> 00:17:36,062
+Alan?
+
+334
+00:17:36,230 --> 00:17:37,664
+Yes'?
+
+335
+00:17:37,831 --> 00:17:39,390
+I said we're going to get some lunch.
+
+336
+00:17:42,136 --> 00:17:43,570
+Alan?
+
+337
+00:17:43,737 --> 00:17:44,727
+Yes'?
+
+338
+00:17:44,905 --> 00:17:46,339
+- Can you hear me?
+-Yes.
+
+339
+00:17:46,507 --> 00:17:49,670
+I said we're off to get some lu...
+
+340
+00:17:49,843 --> 00:17:51,971
+This is starting to get a little bit repetitive.
+
+341
+00:17:52,146 --> 00:17:53,511
+- What is?
+-I had asked
+
+342
+00:17:53,680 --> 00:17:55,011
+if you wanted to come to lunch with us.
+
+343
+00:17:55,182 --> 00:17:56,581
+Um, no, you didn't.
+
+344
+00:17:56,750 --> 00:17:58,844
+You said you were going to get some lunch.
+
+345
+00:17:59,019 --> 00:18:01,010
+Have I offended you in some way?
+
+346
+00:18:01,188 --> 00:18:02,349
+Why would you think that?
+
+347
+00:18:02,523 --> 00:18:05,015
+Would you like to come to lunch with us?
+
+348
+00:18:05,192 --> 00:18:06,921
+- What time's lunchtime?
+-Christ, Alan,
+
+349
+00:18:07,094 --> 00:18:08,186
+it's a bleeding sandwich.
+
+350
+00:18:08,362 --> 00:18:10,091
+- What is?
+-Lunch.
+
+351
+00:18:10,264 --> 00:18:12,028
+Oh, I don't like sandwiches.
+
+352
+00:18:12,199 --> 00:18:13,394
+Never mind.
+
+353
+00:18:13,567 --> 00:18:15,228
+You know,
+
+354
+00:18:15,402 --> 00:18:17,564
+to pull off this irascible genius routine,
+
+355
+00:18:17,738 --> 00:18:19,331
+one actually has to be a genius, Alan.
+
+356
+00:18:19,506 --> 00:18:20,837
+And yet we're the ones
+
+357
+00:18:21,008 --> 00:18:22,066
+making progress here,aren't we?
+
+358
+00:18:22,242 --> 00:18:23,403
+Oh, you are?
+
+359
+00:18:23,577 --> 00:18:25,602
+Yes, we are.
+
+360
+00:18:25,779 --> 00:18:29,113
+We have decrypted a number of German messages
+
+361
+00:18:29,283 --> 00:18:32,514
+by analyzing the frequency of letter distribution.
+
+362
+00:18:32,686 --> 00:18:35,121
+Oh, even a broken clock is right twice a day.
+
+363
+00:18:35,289 --> 00:18:37,087
+That-That's not progress;that's just blind luck.
+
+364
+00:18:37,257 --> 00:18:39,123
+I'm designing a machine
+
+365
+00:18:39,293 --> 00:18:41,523
+that will allow us to break every message
+
+366
+00:18:41,695 --> 00:18:45,529
+every day instantly.
+
+367
+00:18:46,800 --> 00:18:48,063
+Who's hungry?
+
+368
+00:18:49,103 --> 00:18:50,229
+Let's go.
+
+369
+00:18:50,404 --> 00:18:51,565
+I'm hungry-
+
+370
+00:18:52,806 --> 00:18:54,274
+What?
+
+371
+00:18:54,441 --> 00:18:56,409
+Peter asked who was hungry.
+
+372
+00:18:56,577 --> 00:18:57,942
+Can I have some soup, please?
+
+373
+00:20:24,998 --> 00:20:27,399
+What do you mean, "classified"?
+
+374
+00:20:27,568 --> 00:20:30,401
+No, I'm aware of the literal meaning of the word classified.
+
+375
+00:20:30,571 --> 00:20:32,562
+What I'm asking is why would a maths professor
+
+376
+00:20:32,739 --> 00:20:35,174
+have his military records classified?
+
+377
+00:20:36,877 --> 00:20:38,811
+Yeah, well, I will come down.
+
+378
+00:20:59,233 --> 00:21:01,668
+Pardon me, I'd like to see some documents, if I may.
+
+379
+00:21:01,835 --> 00:21:05,066
+Service records of a Mr. Turing.
+
+380
+00:21:05,239 --> 00:21:06,263
+Alan.
+
+381
+00:21:06,440 --> 00:21:08,772
+Foreign Office sent me.
+
+382
+00:21:15,082 --> 00:21:17,414
+This is unacceptable.
+
+383
+00:21:17,584 --> 00:21:19,450
+If you wish to discuss the complaint,
+
+384
+00:21:19,620 --> 00:21:20,746
+I suggest you make a proper appointment.
+
+385
+00:21:20,921 --> 00:21:21,911
+Alexan...
+
+386
+00:21:22,089 --> 00:21:23,215
+Complaint?
+
+387
+00:21:23,390 --> 00:21:24,789
+No, no, Hugh Alexander
+
+388
+00:21:24,958 --> 00:21:27,393
+has denied my requisition for parts
+
+389
+00:21:27,561 --> 00:21:29,586
+and-and equipment that I need to build the machine I've designed.
+
+390
+00:21:29,763 --> 00:21:31,629
+Your fellow code-breakers are refusing to work with you,
+
+391
+00:21:31,798 --> 00:21:33,197
+and they filed a formal complaint.
+
+392
+00:21:33,367 --> 00:21:34,892
+It's is inspired by an old Polish code machine.
+
+393
+00:21:35,068 --> 00:21:37,799
+Only this one is infinitely more advanced.
+
+394
+00:21:37,971 --> 00:21:39,268
+If you don't respond to the complaint,
+
+395
+00:21:39,439 --> 00:21:41,066
+I shall have to take it up with the Home Office.
+
+396
+00:21:41,241 --> 00:21:42,606
+Put those files by my desk.
+
+397
+00:21:42,776 --> 00:21:44,244
+Fine, my response is they're all idiots.
+
+398
+00:21:44,411 --> 00:21:46,311
+Fire them and use the savings to fund my machine.
+
+399
+00:21:46,480 --> 00:21:49,245
+I only need about 100,000 pounds.
+
+400
+00:21:50,484 --> 00:21:51,645
+100,000...
+
+401
+00:21:53,253 --> 00:21:54,948
+Why are you building a machine?
+
+402
+00:21:55,122 --> 00:21:58,251
+It's highly technical.You wouldn't understand.
+
+403
+00:21:58,425 --> 00:22:01,122
+I suggest you make the effort to try.
+
+404
+00:22:01,295 --> 00:22:04,230
+Enigma is...
+
+405
+00:22:04,398 --> 00:22:06,127
+an extremely well-designed machine.
+
+406
+00:22:06,300 --> 00:22:09,099
+Our problem is that we're only using men to try to beat it.
+
+407
+00:22:09,269 --> 00:22:11,169
+No, what if only a machine
+
+408
+00:22:11,338 --> 00:22:13,670
+can defeat another machine?
+
+409
+00:22:13,840 --> 00:22:15,308
+Well, that's not very technical.
+
+410
+00:22:15,475 --> 00:22:16,840
+Hugh Alexander is in charge
+
+411
+00:22:17,010 --> 00:22:19,342
+of your unit; he said no,and that is that.
+
+412
+00:22:19,513 --> 00:22:20,947
+I simply don't have time for this.
+
+413
+00:22:21,114 --> 00:22:23,947
+Have you ever won a war, Turing?
+
+414
+00:22:24,117 --> 00:22:25,983
+I have.
+
+415
+00:22:26,153 --> 00:22:27,814
+Do you know how it's done?
+
+416
+00:22:27,988 --> 00:22:29,149
+Order, discipline,
+
+417
+00:22:29,323 --> 00:22:30,791
+chain of command.
+
+418
+00:22:30,957 --> 00:22:32,584
+You're not at university any longer.
+
+419
+00:22:32,759 --> 00:22:36,161
+You are a very small cog in a very large system.
+
+420
+00:22:36,330 --> 00:22:38,856
+And you will do as your commanding officer instructs.
+
+421
+00:22:42,869 --> 00:22:46,032
+Who-who is your commanding officer?
+
+422
+00:22:46,206 --> 00:22:48,038
+Winston Churchill,
+
+423
+00:22:48,208 --> 00:22:49,471
+Number 1O Downing Street,
+
+424
+00:22:49,643 --> 00:22:51,202
+London, SW1 .
+
+425
+00:22:51,378 --> 00:22:53,005
+You have a problem with my decision,
+
+426
+00:22:53,180 --> 00:22:55,342
+you can take it up with him.
+
+427
+00:23:00,620 --> 00:23:02,110
+Mr. Menzies!
+
+428
+00:23:02,255 --> 00:23:05,486
+Mr. Menzies!
+
+429
+00:23:05,659 --> 00:23:08,959
+A-A-Are you going to London?
+
+430
+00:23:09,129 --> 00:23:10,893
+Possibly.
+
+431
+00:23:11,064 --> 00:23:14,500
+Would you deliver a letter for me?
+
+432
+00:23:20,173 --> 00:23:21,299
+Look, I'm sorry,
+
+433
+00:23:21,475 --> 00:23:22,772
+but are you joking?
+
+434
+00:23:22,976 --> 00:23:25,001
+Churchill's put Alan in charge?
+
+435
+00:23:25,178 --> 00:23:27,704
+- This is a terrible idea.
+-No, no, no, no, no.
+
+436
+00:23:27,881 --> 00:23:30,248
+So I can give these men orders now?
+
+437
+00:23:30,417 --> 00:23:32,351
+I hate to say it, but yes.
+
+438
+00:23:32,519 --> 00:23:34,351
+Excellent. Keith and Charles,you're both fired.
+
+439
+00:23:35,655 --> 00:23:36,850
+- Excuse me?
+-What?
+
+440
+00:23:37,023 --> 00:23:38,320
+You're mediocre linguists,
+
+441
+00:23:38,492 --> 00:23:40,824
+and positively poor code-breakers.
+
+442
+00:23:40,994 --> 00:23:42,393
+Alan, you can't just fire Keith and Charles.
+
+443
+00:23:42,562 --> 00:23:43,927
+Well, he just said I could.
+
+444
+00:23:44,097 --> 00:23:45,326
+No, I did no such thing.
+
+445
+00:23:45,499 --> 00:23:47,024
+But Churchill did.
+
+446
+00:23:56,643 --> 00:23:58,611
+Go to hell.
+
+447
+00:24:03,183 --> 00:24:05,208
+Well,
+
+448
+00:24:05,385 --> 00:24:07,080
+this is inhuman.
+
+449
+00:24:07,254 --> 00:24:08,779
+Even for you.
+
+450
+00:24:12,959 --> 00:24:15,690
+Popular at school, were you?
+
+451
+00:24:21,535 --> 00:24:23,025
+The problem began, of course,
+
+452
+00:24:23,203 --> 00:24:25,194
+with the carrots.
+
+453
+00:24:25,372 --> 00:24:27,204
+Carrots are orange.
+
+454
+00:24:27,374 --> 00:24:28,739
+And peas
+
+455
+00:24:28,909 --> 00:24:30,104
+are green.
+
+456
+00:24:30,277 --> 00:24:32,109
+They mustn't touch.
+
+457
+00:24:51,097 --> 00:24:52,758
+I got it.
+
+458
+00:24:55,969 --> 00:24:57,334
+Do you know why people
+
+459
+00:24:57,504 --> 00:24:58,630
+like violence?
+
+460
+00:24:58,805 --> 00:25:01,672
+It is because it feels...
+
+461
+00:25:01,842 --> 00:25:02,832
+good.
+
+462
+00:25:03,009 --> 00:25:05,137
+Humans find violence
+
+463
+00:25:05,312 --> 00:25:07,337
+deeply satisfying.
+
+464
+00:25:07,514 --> 00:25:11,144
+But remove the-the satisfaction,
+
+465
+00:25:11,318 --> 00:25:14,151
+and the act becomes...
+
+466
+00:25:14,321 --> 00:25:16,847
+hollow.
+
+467
+00:25:22,329 --> 00:25:24,491
+Tuflng?
+
+468
+00:25:24,664 --> 00:25:26,689
+Come on.
+
+469
+00:25:26,867 --> 00:25:28,164
+Don't be such a kike about it.
+
+470
+00:25:30,537 --> 00:25:32,335
+Leave him to bloody rot.
+
+471
+00:25:37,244 --> 00:25:39,645
+I didn't learn this on my own,
+
+472
+00:25:39,813 --> 00:25:41,212
+of course.
+
+473
+00:25:41,381 --> 00:25:42,507
+I had help.
+
+474
+00:25:42,682 --> 00:25:46,141
+Christopher helped.
+
+475
+00:25:47,487 --> 00:25:48,818
+Alan, are you all right?
+
+476
+00:25:55,629 --> 00:25:57,119
+It's not my fault.
+
+477
+00:25:57,297 --> 00:25:59,994
+The carrots got in with the peas and...
+
+478
+00:26:00,166 --> 00:26:01,292
+I'm sorry.
+
+479
+00:26:01,468 --> 00:26:02,663
+I won't let them do it again.
+
+480
+00:26:02,836 --> 00:26:04,395
+They're getting worse.
+
+481
+00:26:04,571 --> 00:26:07,006
+They only beat me up because I'm smarter than they are.
+
+482
+00:26:07,173 --> 00:26:09,403
+No, they beat you up because you're different.
+
+483
+00:26:09,576 --> 00:26:11,635
+Mother says I'm just an odd duck.
+
+484
+00:26:11,811 --> 00:26:13,836
+And she's right.
+
+485
+00:26:14,014 --> 00:26:15,846
+But you know, Alan,
+
+486
+00:26:16,016 --> 00:26:18,917
+sometimes it's the very people who no one imagines anything of
+
+487
+00:26:19,085 --> 00:26:21,649
+who do the things no one can imagine.
+
+488
+00:26:27,994 --> 00:26:30,725
+So, what do we do now?
+
+489
+00:26:30,897 --> 00:26:32,888
+We're short on staff.
+
+490
+00:26:33,066 --> 00:26:34,431
+Well, we, uh, we get
+
+491
+00:26:34,601 --> 00:26:35,864
+more staff then.
+
+492
+00:26:36,036 --> 00:26:37,902
+And how do you propose to do that?
+
+493
+00:26:48,769 --> 00:26:51,769
+
+
+494
+00:26:51,288 --> 00:26:54,388
+
+
+495
+00:29:06,319 --> 00:29:08,185
+Um, Alan Turing
+
+496
+00:29:08,354 --> 00:29:09,981
+to see Stewart Menzies.
+
+497
+00:29:10,156 --> 00:29:11,521
+Very good, sir.
+
+498
+00:29:11,691 --> 00:29:13,659
+So who are they?
+
+499
+00:29:13,827 --> 00:29:15,090
+Oh, all sorts, really.
+
+500
+00:29:15,261 --> 00:29:16,888
+Teacher, an engineer,
+
+501
+00:29:17,063 --> 00:29:18,656
+a handful of students.
+
+502
+00:29:18,832 --> 00:29:20,322
+And you think they're qualified for Bletchley
+
+503
+00:29:20,500 --> 00:29:22,059
+'cause they're good at crossword puzzles?
+
+504
+00:29:22,235 --> 00:29:24,226
+Well, they say they're good,and now we shall find out,
+
+505
+00:29:24,404 --> 00:29:25,872
+
+
+506
+00:29:26,039 --> 00:29:27,666
+In order to aid your efforts,
+
+507
+00:29:28,041 --> 00:29:30,203
+there is, to the right of you,a green scratch card book.
+
+508
+00:29:30,376 --> 00:29:31,741
+You are to make notes in that.
+
+509
+00:29:31,911 --> 00:29:33,436
+Gentlemen, you have six minutes
+
+510
+00:29:33,613 --> 00:29:35,581
+in which to complete the puzzle, at which point,
+
+511
+00:29:35,749 --> 00:29:36,739
+I will...
+
+512
+00:29:39,619 --> 00:29:40,711
+Pardon, ma'am,this room's restricted.
+
+513
+00:29:40,887 --> 00:29:42,218
+Oh, apologies for my tardiness.
+
+514
+00:29:42,388 --> 00:29:43,378
+The-the bus caught a flat tire.
+
+515
+00:29:43,556 --> 00:29:46,048
+Uh, may I continue, please?
+
+516
+00:29:46,226 --> 00:29:48,024
+- Thank you.
+-You're not allowed in here, ma'am.
+
+517
+00:29:48,194 --> 00:29:49,821
+Oh, but I'm only a few minutes late.
+
+518
+00:29:50,029 --> 00:29:51,554
+The secretaries are to head upstairs.
+
+519
+00:29:51,731 --> 00:29:53,256
+This room's for the candidates.
+
+520
+00:29:53,433 --> 00:29:55,401
+May I get on with this now, please?
+
+521
+00:29:55,568 --> 00:29:57,900
+L-I am a candidate.
+
+522
+00:29:58,071 --> 00:29:59,061
+For what position?
+
+523
+00:29:59,239 --> 00:30:00,400
+The letter didn't say precisely.
+
+524
+00:30:00,573 --> 00:30:01,870
+Yeah, so secretaries are to head upstairs.
+
+525
+00:30:02,041 --> 00:30:03,634
+It did say that it was top secret.
+
+526
+00:30:03,810 --> 00:30:05,369
+What is going on?
+
+527
+00:30:05,545 --> 00:30:06,740
+L-I solved
+
+528
+00:30:06,913 --> 00:30:08,312
+a-a crossword puzzle in the newspaper,
+
+529
+00:30:08,481 --> 00:30:10,040
+and I-l got this letter saying
+
+530
+00:30:10,216 --> 00:30:12,310
+that I was a candidate for some sort of mysterious job.
+
+531
+00:30:12,485 --> 00:30:14,078
+My name's Joan Clarke.
+
+532
+00:30:14,254 --> 00:30:17,918
+Miss, did you really solve this puzzle yourself?
+
+533
+00:30:19,826 --> 00:30:21,760
+What makes you think I couldn't solve the puzzle myself?
+
+534
+00:30:21,928 --> 00:30:23,418
+- L-I'm really very good at...
+-Ma'am,
+
+535
+00:30:23,596 --> 00:30:24,757
+- I'll have to ask you to...
+-Miss Clarke,
+
+536
+00:30:24,931 --> 00:30:26,399
+I-I find tardiness
+
+537
+00:30:26,566 --> 00:30:31,128
+under any circumstance,um, unacceptable.
+
+538
+00:30:32,772 --> 00:30:36,504
+
+
+539
+00:30:38,812 --> 00:30:40,678
+Thank you.
+
+540
+00:30:41,681 --> 00:30:42,773
+Now, um,
+
+541
+00:30:42,949 --> 00:30:44,974
+as I was saying,you-you have six minutes
+
+542
+00:30:45,151 --> 00:30:48,121
+to, uh, complete the task in front of you.
+
+543
+00:30:48,288 --> 00:30:50,985
+Uh, gentlemen and lady,
+
+544
+00:30:51,157 --> 00:30:53,751
+begin.
+
+545
+00:31:20,653 --> 00:31:23,213
+Six minutes.
+
+546
+00:31:23,389 --> 00:31:24,652
+Is that even possible?
+
+547
+00:31:24,824 --> 00:31:26,883
+No, it takes me eight.
+
+548
+00:31:27,060 --> 00:31:28,824
+This isn't about crossword puzzles.
+
+549
+00:31:28,995 --> 00:31:30,360
+It's about how one, uh,
+
+550
+00:31:30,530 --> 00:31:32,191
+approaches solving an impossible problem.
+
+551
+00:31:32,365 --> 00:31:35,198
+Do you tackle the whole thing at once or divide it
+
+552
+00:31:35,368 --> 00:31:37,860
+into small...
+
+553
+00:31:38,037 --> 00:31:39,402
+You've finished?
+
+554
+00:31:39,572 --> 00:31:41,563
+Yes.
+
+555
+00:31:55,054 --> 00:31:57,250
+Five minutes and 34 seconds.
+
+556
+00:31:57,423 --> 00:32:00,688
+You said to do it in under six.
+
+557
+00:32:00,860 --> 00:32:02,658
+Congratulations.
+
+558
+00:32:02,829 --> 00:32:05,764
+My warmest welcome to His Majesty's service.
+
+559
+00:32:05,932 --> 00:32:08,162
+If you speak a word of what I'm about to show you,
+
+560
+00:32:08,334 --> 00:32:10,166
+you will be executed for high treason.
+
+561
+00:32:11,237 --> 00:32:12,671
+You will lie to your friends,
+
+562
+00:32:12,839 --> 00:32:14,603
+your family and everyone you meet
+
+563
+00:32:14,774 --> 00:32:17,106
+about what it is you really do.
+
+564
+00:32:18,611 --> 00:32:21,273
+And what is it that we're really doing?
+
+565
+00:32:21,447 --> 00:32:23,347
+We're going to break an unbreakable Nazi code
+
+566
+00:32:23,516 --> 00:32:25,109
+and win the war.
+
+567
+00:32:25,285 --> 00:32:27,515
+Oh.
+
+568
+00:32:36,629 --> 00:32:39,257
+What's that you're reading?
+
+569
+00:32:39,432 --> 00:32:41,696
+It's about cryptography.
+
+570
+00:32:41,868 --> 00:32:43,336
+Like secret messages?
+
+571
+00:32:43,536 --> 00:32:45,595
+Not secret.
+
+572
+00:32:45,772 --> 00:32:47,638
+That's the brilliant part.
+
+573
+00:32:47,807 --> 00:32:50,902
+Messages that anyone can see,but no one knows what they mean
+
+574
+00:32:51,077 --> 00:32:53,068
+unless you have the key.
+
+575
+00:32:58,418 --> 00:33:01,410
+How's that different from talking?
+
+576
+00:33:01,587 --> 00:33:03,453
+- Talking?
+-When people talk to each other,
+
+577
+00:33:03,623 --> 00:33:04,784
+they never say what they mean.
+
+578
+00:33:04,958 --> 00:33:06,426
+They say something else,
+
+579
+00:33:06,592 --> 00:33:08,890
+and you're expected to just know what they mean.
+
+580
+00:33:09,028 --> 00:33:11,497
+Only I never do.
+
+581
+00:33:11,664 --> 00:33:15,259
+So, how's that different?
+
+582
+00:33:16,502 --> 00:33:17,901
+Alan, I have a funny feeling
+
+583
+00:33:18,071 --> 00:33:19,971
+you're going to be very good at this.
+
+584
+00:33:45,965 --> 00:33:47,330
+Good night, Alan.
+
+585
+00:33:51,971 --> 00:33:53,939
+Good night.
+
+586
+00:34:06,019 --> 00:34:08,215
+Hold on,Marion, I'm coming!
+
+587
+00:34:08,388 --> 00:34:10,356
+Coming round the lesser settings and then route back through...
+
+588
+00:34:10,523 --> 00:34:11,991
+Back to those ones...
+
+589
+00:34:12,158 --> 00:34:13,956
+Uh, careful, will you?
+
+590
+00:34:14,127 --> 00:34:15,686
+Um, it-it's not a toy.
+
+591
+00:34:15,862 --> 00:34:17,193
+Funny.
+
+592
+00:34:17,363 --> 00:34:18,353
+Looks like a toy.
+
+593
+00:34:18,531 --> 00:34:20,863
+Bloody great 100,000-pound one.
+
+594
+00:34:21,034 --> 00:34:22,661
+Your new minion's arrived.
+
+595
+00:34:22,835 --> 00:34:23,996
+Jack Good. We met...
+
+596
+00:34:24,170 --> 00:34:26,502
+Well, where's Miss Clarke?
+
+597
+00:34:28,674 --> 00:34:30,972
+Lovely, isn't he?
+
+598
+00:34:31,144 --> 00:34:35,980
+It's not just a-a usual humdrum production mill factory.
+
+599
+00:34:36,149 --> 00:34:37,310
+I mean, well,as-as I was saying,
+
+600
+00:34:37,483 --> 00:34:40,748
+it's a very important,uh, radio factory.
+
+601
+00:34:40,920 --> 00:34:43,150
+I-It's not, actually.Uh, well, um,
+
+602
+00:34:43,322 --> 00:34:45,723
+on the spectrum of,uh... radio factories,
+
+603
+00:34:45,892 --> 00:34:48,554
+this-this one is-is particularly...
+
+604
+00:34:59,005 --> 00:35:01,337
+Why are you not at Bletchley?
+
+605
+00:35:01,507 --> 00:35:04,374
+Thank you... so much for your visit, Mr. Turing.
+
+606
+00:35:04,544 --> 00:35:06,740
+- Was your trip pleasant?
+-Gather your things and let's go.
+
+607
+00:35:06,913 --> 00:35:09,746
+I'm sorry, but I'm unable to accept your offer.
+
+608
+00:35:09,916 --> 00:35:11,884
+We feel that such a position
+
+609
+00:35:12,051 --> 00:35:13,576
+would hardly be appropriate.
+
+610
+00:35:13,753 --> 00:35:15,881
+You earned a double first in mathematics.
+
+611
+00:35:16,055 --> 00:35:18,854
+But sadly wasn't granted the opportunity to become a Fellow.
+
+612
+00:35:19,025 --> 00:35:20,891
+You belong at Bletchley.
+
+613
+00:35:21,060 --> 00:35:23,495
+I'm sorry,but for someone in my position
+
+614
+00:35:23,696 --> 00:35:25,926
+to live... to...
+
+615
+00:35:26,099 --> 00:35:28,966
+to work in a radio factory so far from home,
+
+616
+00:35:29,135 --> 00:35:31,126
+with all your men, um...
+
+617
+00:35:31,304 --> 00:35:33,432
+it-it would be...
+
+618
+00:35:33,606 --> 00:35:35,370
+indecorous.
+
+619
+00:35:36,843 --> 00:35:39,437
+What in the world does that even mean?
+
+620
+00:35:44,317 --> 00:35:46,376
+We have a group of,uh, young ladies
+
+621
+00:35:46,552 --> 00:35:48,179
+who tend to all of our
+
+622
+00:35:48,387 --> 00:35:51,152
+clerical tasks:assistants, translators.
+
+623
+00:35:51,324 --> 00:35:53,725
+Uh, they live,um, together in town.
+
+624
+00:35:53,893 --> 00:35:57,955
+W-W-Would that be a more,uh, suitable environment?
+
+625
+00:35:58,131 --> 00:36:01,999
+Hm. So-so I would be working amongst these women?
+
+626
+00:36:02,168 --> 00:36:03,658
+Yes.
+
+627
+00:36:06,239 --> 00:36:08,901
+Wonderful ladies. Uh, they even organize social events
+
+628
+00:36:09,075 --> 00:36:11,407
+at St. Martin's Church down the road.
+
+629
+00:36:11,577 --> 00:36:13,671
+Uh, really, the whole thing is-is quite, uh...
+
+630
+00:36:13,846 --> 00:36:15,075
+uh, um...
+
+631
+00:36:15,248 --> 00:36:17,580
+decorous.
+
+632
+00:36:21,954 --> 00:36:23,615
+Now, you won't have proper security clearance,
+
+633
+00:36:23,789 --> 00:36:26,520
+of course, so, uh, we'll have to improvise things a bit.
+
+634
+00:36:26,692 --> 00:36:28,126
+Why are you helping me?
+
+635
+00:36:28,294 --> 00:36:30,194
+Because there is only one thing that matters
+
+636
+00:36:30,363 --> 00:36:32,422
+in this entire world right now... do you understand?...
+
+637
+00:36:32,598 --> 00:36:33,963
+and that is breaking Enigma.
+
+638
+00:36:34,133 --> 00:36:37,103
+But-but, Mr. Turing...
+
+639
+00:36:37,270 --> 00:36:39,329
+why are you helping me?
+
+640
+00:36:39,505 --> 00:36:42,668
+Oh. Um...
+
+641
+00:36:42,842 --> 00:36:46,107
+sometimes it's the very people who no one imagines anything of
+
+642
+00:36:46,279 --> 00:36:49,840
+who do the things that no one can imagine.
+
+643
+00:37:07,900 --> 00:37:09,834
+Sir.
+
+644
+00:37:10,002 --> 00:37:10,992
+What's this?
+
+645
+00:37:11,170 --> 00:37:14,231
+Alan Turing's classified military file.
+
+646
+00:37:14,407 --> 00:37:17,377
+- It's bloody empty.
+-Exactly.
+
+647
+00:37:17,543 --> 00:37:20,672
+- It's an empty manila envelope.
+-Yeah.
+
+648
+00:37:20,846 --> 00:37:23,611
+Well, you've cracked the case wide open, then, haven't you?
+
+649
+00:37:23,816 --> 00:37:26,012
+Alan Turing's war records aren't just classified,
+
+650
+00:37:26,185 --> 00:37:27,846
+they're nonexistent.
+
+651
+00:37:28,020 --> 00:37:29,920
+That means someone's got rid of them.
+
+652
+00:37:30,089 --> 00:37:31,682
+Erased them.Burned them.
+
+653
+00:37:31,857 --> 00:37:35,054
+And that same person broke into his house and stole nothing?
+
+654
+00:37:36,495 --> 00:37:38,657
+Guy Burgess and Donald Maclean.
+
+655
+00:37:38,831 --> 00:37:40,196
+What the spies from the papers?
+
+656
+00:37:40,366 --> 00:37:41,697
+The Soviet spies.
+
+657
+00:37:41,867 --> 00:37:45,201
+But first they were professors, weren't they?
+
+658
+00:37:45,371 --> 00:37:47,271
+Radicalized at Cambridge,
+
+659
+00:37:47,440 --> 00:37:48,737
+then they joined the Communist Party,
+
+660
+00:37:48,908 --> 00:37:50,603
+then Foreign Office,then leaked information
+
+661
+00:37:50,776 --> 00:37:52,608
+to Stalin during the war... now
+
+662
+00:37:52,778 --> 00:37:55,179
+can you think of anyone else we know who was at Cambridge,
+
+663
+00:37:55,348 --> 00:37:58,249
+then took up something murky and top secret when war broke out?
+
+664
+00:37:58,417 --> 00:38:01,284
+You think this Alan Turing might be a Soviet agent?
+
+665
+00:38:01,454 --> 00:38:02,615
+I think...
+
+666
+00:38:02,788 --> 00:38:04,779
+something very serious is happening
+
+667
+00:38:04,957 --> 00:38:07,551
+right here under our noses.
+
+668
+00:38:07,727 --> 00:38:10,594
+Wouldn't you like to find out what it is?
+
+669
+00:38:42,395 --> 00:38:43,829
+Welcome, ladies.
+
+670
+00:38:43,996 --> 00:38:45,828
+If you'd like to follow me.
+
+671
+00:38:45,998 --> 00:38:48,626
+Some people thought we were at war
+
+672
+00:38:48,801 --> 00:38:51,099
+with the Germans... incorrect.
+
+673
+00:38:51,270 --> 00:38:53,602
+We were at war with the clock.
+
+674
+00:38:53,773 --> 00:38:56,265
+Britain was literally starving to death.
+
+675
+00:38:56,442 --> 00:38:58,171
+The Americans sent over
+
+676
+00:38:58,344 --> 00:39:01,974
+100,000 tons of food every week,and, uh, every week
+
+677
+00:39:02,148 --> 00:39:04,640
+the Germans would send our desperately needed bread
+
+678
+00:39:04,817 --> 00:39:06,410
+to the bottom of the ocean.
+
+679
+00:39:06,585 --> 00:39:10,749
+Our daily failure was announced at the chimes of midnight.
+
+680
+00:39:10,923 --> 00:39:14,689
+And the sound would haunt our unwelcome dreams.
+
+681
+00:39:14,860 --> 00:39:16,089
+Tick...
+
+682
+00:39:16,262 --> 00:39:17,286
+tock...
+
+683
+00:39:17,463 --> 00:39:18,487
+tick.
+
+684
+00:39:24,170 --> 00:39:25,763
+Damn it!
+
+685
+00:39:28,274 --> 00:39:30,834
+- What just happened?
+-Midnight...
+
+686
+00:39:31,010 --> 00:39:33,172
+all the work we've done today is useless.
+
+687
+00:39:33,346 --> 00:39:35,610
+Oh, but don't worry,we've a few hours
+
+688
+00:39:35,781 --> 00:39:38,045
+before tomorrow's messages start flooding in...
+
+689
+00:39:38,217 --> 00:39:40,379
+and we start all over again.
+
+690
+00:39:41,821 --> 00:39:43,220
+From scratch.
+
+691
+00:39:43,389 --> 00:39:44,618
+I'm so sick of this.
+
+692
+00:39:44,790 --> 00:39:47,316
+Four hours rewiring his plugboard matrix.
+
+693
+00:39:47,493 --> 00:39:48,654
+Three hours yesterday
+
+694
+00:39:48,828 --> 00:39:50,819
+on his rotor positions!
+
+695
+00:39:50,996 --> 00:39:53,727
+- Don't go over there.
+-Look, John, no.
+
+696
+00:39:53,899 --> 00:39:55,560
+If this job wasn't already impossible before,
+
+697
+00:39:55,735 --> 00:39:58,397
+- it bloody well is now.
+-Hugh, don't.
+
+698
+00:40:06,312 --> 00:40:09,145
+Damn you and your useless machine.
+
+699
+00:40:09,315 --> 00:40:12,808
+My machine is how we are going to win.
+
+700
+00:40:12,985 --> 00:40:14,043
+Really?
+
+701
+00:40:15,488 --> 00:40:18,048
+This machine? Hmm?
+
+702
+00:40:18,224 --> 00:40:20,488
+Are you talking about this bloody machine?!
+
+703
+00:40:20,659 --> 00:40:22,286
+- Hugh! Hugh! Hugh, don't!
+-Hugh! Hugh! Stop!
+
+704
+00:40:22,495 --> 00:40:24,657
+You arrogant bastard.
+
+705
+00:40:24,897 --> 00:40:26,262
+You could help us.
+
+706
+00:40:26,432 --> 00:40:28,594
+You could make this go faster, but you won't.
+
+707
+00:40:30,436 --> 00:40:31,926
+Get off.
+
+708
+00:40:37,410 --> 00:40:39,674
+He's right, Alan.
+
+709
+00:40:39,845 --> 00:40:41,939
+There are...
+
+710
+00:40:42,114 --> 00:40:45,106
+actual soldiers out there trying to win an actual war.
+
+711
+00:40:45,284 --> 00:40:46,410
+My brother
+
+712
+00:40:46,585 --> 00:40:49,077
+protects food convoys in the Navy.
+
+713
+00:40:49,255 --> 00:40:52,020
+My cousins fly RAF patrols.
+
+714
+00:40:52,191 --> 00:40:54,592
+All my friends,they're all making a difference,
+
+715
+00:40:54,760 --> 00:40:58,390
+while we just...while away our days
+
+716
+00:40:58,564 --> 00:41:00,623
+producing nothing.
+
+717
+00:41:00,800 --> 00:41:03,326
+Because of you.
+
+718
+00:41:04,637 --> 00:41:06,799
+My machine...
+
+719
+00:41:06,972 --> 00:41:09,407
+will work.
+
+720
+00:41:09,575 --> 00:41:11,703
+Come on, Peter.
+
+721
+00:41:51,851 --> 00:41:53,410
+Okay
+
+722
+00:42:21,981 --> 00:42:23,949
+Joan?
+
+723
+00:42:34,627 --> 00:42:36,186
+Oh.
+
+724
+00:42:44,503 --> 00:42:46,835
+Uh, will you...
+
+725
+00:42:48,807 --> 00:42:51,367
+Could you make
+
+726
+00:42:51,544 --> 00:42:52,670
+a bit more noise? I'm not quite sure
+
+727
+00:42:52,845 --> 00:42:53,869
+- my landlady woke up.
+-Oh, sorry.
+
+728
+00:42:54,547 --> 00:42:56,208
+Oh, uh, look.
+
+729
+00:42:56,382 --> 00:42:58,248
+I think that's the best I can do.
+
+730
+00:42:58,417 --> 00:42:59,816
+No male visitors after dark.
+
+731
+00:42:59,985 --> 00:43:01,578
+So...
+
+732
+00:43:01,754 --> 00:43:04,052
+what did you bring me?
+
+733
+00:43:04,223 --> 00:43:05,657
+There you go.
+
+734
+00:43:05,824 --> 00:43:07,189
+Here.
+
+735
+00:43:07,359 --> 00:43:10,090
+Some men try flowers, you know.
+
+736
+00:43:10,262 --> 00:43:12,754
+These are actual decrypted Enigma messages
+
+737
+00:43:12,932 --> 00:43:14,400
+direct from Nazi
+
+738
+00:43:14,567 --> 00:43:15,796
+High Command.
+
+739
+00:43:16,001 --> 00:43:17,264
+"0600 hours.
+
+740
+00:43:17,436 --> 00:43:19,097
+"Weather today is clear.
+
+741
+00:43:19,271 --> 00:43:20,739
+"Rain in the evening.
+
+742
+00:43:20,906 --> 00:43:22,271
+Heil Hitler."
+
+743
+00:43:22,441 --> 00:43:24,102
+Well, clearly,that vital piece of information
+
+744
+00:43:24,276 --> 00:43:26,005
+is going to win us the war.
+
+745
+00:43:26,178 --> 00:43:28,146
+It's the relationship between the encrypted
+
+746
+00:43:28,347 --> 00:43:31,078
+a-and decrypted messages that interests me.
+
+747
+00:43:31,250 --> 00:43:34,845
+Can we find a clue here that we can build into Christopher?
+
+748
+00:43:35,020 --> 00:43:36,078
+Who's Christopher?
+
+749
+00:43:36,255 --> 00:43:38,280
+Oh, he's, uh,he's my machine.
+
+750
+00:43:38,457 --> 00:43:39,925
+You named him?
+
+751
+00:43:40,092 --> 00:43:42,561
+Is that a bad name?
+
+752
+00:43:42,728 --> 00:43:44,196
+No.
+
+753
+00:43:45,631 --> 00:43:47,429
+No, never mind.
+
+754
+00:43:53,238 --> 00:43:56,037
+Are you trying to build your universal machine?
+
+755
+00:43:57,543 --> 00:43:59,102
+I read your paper
+
+756
+00:43:59,278 --> 00:44:01,474
+- at university.
+-Is it already being taught?
+
+757
+00:44:01,647 --> 00:44:03,741
+No. No. No, I was precocious.
+
+758
+00:44:03,916 --> 00:44:05,475
+So...
+
+759
+00:44:05,651 --> 00:44:07,483
+you-you theorized a machine that
+
+760
+00:44:07,653 --> 00:44:09,121
+could solve any problem.
+
+761
+00:44:09,288 --> 00:44:11,154
+It didn't just do one thing,it did everything.
+
+762
+00:44:11,323 --> 00:44:13,417
+It wasn't just programmable,it was reprogrammable.
+
+763
+00:44:13,592 --> 00:44:14,616
+Mm.
+
+764
+00:44:14,793 --> 00:44:17,057
+Is that your idea behind Christopher?
+
+765
+00:44:17,229 --> 00:44:21,427
+Well, human brains can compute large sums very quickly...
+
+766
+00:44:21,600 --> 00:44:24,763
+even Hugh can do that... but I want Christopher to be smarter.
+
+767
+00:44:24,937 --> 00:44:27,463
+To make a calculation and then, uh...
+
+768
+00:44:27,640 --> 00:44:29,972
+to determine what to do next.
+
+769
+00:44:30,142 --> 00:44:32,304
+Like a person does.
+
+770
+00:44:32,478 --> 00:44:34,139
+Think of it.
+
+771
+00:44:34,313 --> 00:44:36,077
+Electrical brain.
+
+772
+00:44:36,248 --> 00:44:38,842
+A digital computer.
+
+773
+00:44:39,018 --> 00:44:40,952
+Digital computer.
+
+774
+00:44:42,421 --> 00:44:44,150
+Hmm.
+
+775
+00:44:56,135 --> 00:44:59,503
+What's going on?
+
+776
+00:44:59,672 --> 00:45:01,197
+What's happening?
+
+777
+00:45:01,373 --> 00:45:03,501
+No. No, no. No, no, no!Don't touch that!
+
+778
+00:45:03,676 --> 00:45:05,201
+- Stay back.
+-That's my desk.
+
+779
+00:45:05,377 --> 00:45:06,776
+Thank goodness.
+
+780
+00:45:06,945 --> 00:45:08,538
+I'd hate to think we were searching
+
+781
+00:45:08,714 --> 00:45:11,046
+- the wrong one.
+-What are you doing? What's going on?
+
+782
+00:45:11,216 --> 00:45:13,048
+There is a spy
+
+783
+00:45:13,218 --> 00:45:14,549
+in Bletchley Park.
+
+784
+00:45:14,720 --> 00:45:16,017
+The Navy thinks that one of us
+
+785
+00:45:16,188 --> 00:45:17,280
+is a Soviet double agent, Alan.
+
+786
+00:45:17,456 --> 00:45:19,481
+Uh...why?
+
+787
+00:45:19,658 --> 00:45:22,958
+Our boys intercepted this on its way to Moscow.
+
+788
+00:45:23,095 --> 00:45:25,029
+Look familiar?
+
+789
+00:45:28,467 --> 00:45:29,901
+It's a Beale cipher.
+
+790
+00:45:30,069 --> 00:45:34,370
+Encrypted with a phrase from a book or a poem or...
+
+791
+00:45:40,846 --> 00:45:44,339
+You don't seriously think I did this, do you?
+
+792
+00:45:44,516 --> 00:45:46,575
+Double agents are such bastards.
+
+793
+00:45:46,752 --> 00:45:48,686
+Isolated loners.
+
+794
+00:45:48,854 --> 00:45:51,255
+No attachments to friends or family.
+
+795
+00:45:51,423 --> 00:45:53,551
+Arrogant.
+
+796
+00:45:53,726 --> 00:45:55,660
+Know anybody like that?
+
+797
+00:46:00,165 --> 00:46:02,133
+Hm, I know you don't like me,
+
+798
+00:46:02,334 --> 00:46:04,735
+but that does not make me
+
+799
+00:46:04,903 --> 00:46:06,735
+a Soviet spy.
+
+800
+00:46:06,905 --> 00:46:09,738
+Nothing out of the ordinary, sir.
+
+801
+00:46:09,908 --> 00:46:11,672
+Really.
+
+802
+00:46:11,844 --> 00:46:13,005
+Mm, all right.
+
+803
+00:46:15,748 --> 00:46:17,614
+The Home Office may be protecting you now,
+
+804
+00:46:17,783 --> 00:46:19,046
+but sooner or later
+
+805
+00:46:19,218 --> 00:46:20,617
+you will make a mistake.
+
+806
+00:46:20,786 --> 00:46:23,551
+And I needn't bother firing you.
+
+807
+00:46:23,722 --> 00:46:26,851
+They will hang you for treason.
+
+808
+00:46:46,745 --> 00:46:48,474
+Hello.
+
+809
+00:46:50,282 --> 00:46:52,614
+I heard about what happened.
+
+810
+00:46:52,785 --> 00:46:56,585
+It's all the girls in Hut 3 can talk about.
+
+811
+00:46:56,755 --> 00:47:00,555
+I have an idea of what might cheer you up.
+
+812
+00:47:02,561 --> 00:47:04,222
+So because no letter
+
+813
+00:47:04,396 --> 00:47:06,330
+can be encoded as itself,there's already a handful
+
+814
+00:47:06,498 --> 00:47:08,660
+of settings that can be rejected at the outset.
+
+815
+00:47:13,138 --> 00:47:15,004
+Is that your team?
+
+816
+00:47:15,174 --> 00:47:16,835
+- Y-Yes.
+-Shall we say hello?
+
+817
+00:47:17,009 --> 00:47:18,408
+- No.
+-Hello.
+
+818
+00:47:19,678 --> 00:47:21,407
+L-I told you not to do that.
+
+819
+00:47:23,081 --> 00:47:25,175
+- Alan.
+-Uh, Hugh, h-hello.
+
+820
+00:47:25,350 --> 00:47:27,114
+- Didn't know you drank.
+-He doesn't, really.
+
+821
+00:47:27,286 --> 00:47:28,845
+He just sort of sips at the foam.
+
+822
+00:47:29,021 --> 00:47:30,750
+Well, I'll let you into a little secret, Miss...?
+
+823
+00:47:30,923 --> 00:47:31,913
+Clarke.
+
+824
+00:47:32,090 --> 00:47:33,319
+- Miss Clarke.
+-Please.
+
+825
+00:47:33,492 --> 00:47:35,256
+Foam's my favorite part, too.
+
+826
+00:47:35,427 --> 00:47:36,519
+Is it really?
+
+827
+00:47:36,695 --> 00:47:38,129
+Come and join us for a drink?
+
+828
+00:47:38,297 --> 00:47:39,594
+We'll be there in a moment.
+
+829
+00:47:39,765 --> 00:47:41,824
+Miss Clarke.
+
+830
+00:47:46,705 --> 00:47:48,537
+Well, he likes you.
+
+831
+00:47:48,707 --> 00:47:50,471
+- Yes. -You...
+
+832
+00:47:50,642 --> 00:47:54,272
+g-got him to like you.
+
+833
+00:47:54,446 --> 00:47:55,777
+Yes.
+
+834
+00:47:55,948 --> 00:47:57,211
+Why?
+
+835
+00:47:57,382 --> 00:47:59,282
+Because I'm a woman in a man's job,
+
+836
+00:47:59,451 --> 00:48:01,852
+and I don't have the luxury of being an ass.
+
+837
+00:48:02,020 --> 00:48:03,954
+Alan...
+
+838
+00:48:04,122 --> 00:48:06,284
+it doesn't matter how smart you are,
+
+839
+00:48:06,458 --> 00:48:08,392
+Enigma is always smarter.
+
+840
+00:48:08,560 --> 00:48:10,050
+If you really
+
+841
+00:48:10,229 --> 00:48:11,526
+want to solve your puzzle,
+
+842
+00:48:11,697 --> 00:48:13,665
+then you're going to need all the help
+
+843
+00:48:13,832 --> 00:48:15,857
+you can get,and they are not going
+
+844
+00:48:16,034 --> 00:48:19,470
+to help you if they do not like you.
+
+845
+00:48:26,144 --> 00:48:29,341
+- What are those?
+-Apples.
+
+846
+00:48:29,514 --> 00:48:31,710
+- No.
+-Oh, they really are.
+
+847
+00:48:31,884 --> 00:48:35,821
+Um, l... well, Miss Clarke,Joan actually, um...
+
+848
+00:48:35,988 --> 00:48:37,820
+said that it would be...
+
+849
+00:48:37,990 --> 00:48:40,482
+Nice if I was to, uh,bring you all something.
+
+850
+00:48:40,659 --> 00:48:42,093
+So here we are. I...
+
+851
+00:48:42,261 --> 00:48:43,353
+Thank you.
+
+852
+00:48:43,528 --> 00:48:45,189
+I like apples.
+
+853
+00:48:45,364 --> 00:48:47,196
+My best to Miss Clarke.
+
+854
+00:48:47,366 --> 00:48:49,334
+Uh, there are two people in a wood,
+
+855
+00:48:49,468 --> 00:48:51,527
+and, um, they run into a bear.
+
+856
+00:48:51,703 --> 00:48:54,070
+The first person gets down on his knees to pray.
+
+857
+00:48:54,239 --> 00:48:56,037
+The second person starts lacing up his boots.
+
+858
+00:48:56,208 --> 00:48:57,835
+The first person asks the second person,
+
+859
+00:48:58,010 --> 00:48:59,535
+"My dear friend,what are you doing?
+
+860
+00:48:59,711 --> 00:49:01,236
+You-you-you can't outrun a bear."
+
+861
+00:49:01,413 --> 00:49:03,211
+Uh, to which the second person responds,
+
+862
+00:49:03,382 --> 00:49:04,543
+"I don't have to.
+
+863
+00:49:04,716 --> 00:49:07,742
+I only have to outrun you."
+
+864
+00:49:17,262 --> 00:49:20,232
+I'll be w-with Christopher, if anyone needs me.
+
+865
+00:49:20,399 --> 00:49:23,334
+If we assume that the square root of two
+
+866
+00:49:23,535 --> 00:49:26,732
+is a rational number,then we can say
+
+867
+00:49:26,905 --> 00:49:29,033
+that the square root of two
+
+868
+00:49:29,207 --> 00:49:31,539
+is A over B...
+
+869
+00:49:31,710 --> 00:49:33,872
+where A and B
+
+870
+00:49:34,046 --> 00:49:37,482
+are whole numbers and B is not zero.
+
+871
+00:49:37,649 --> 00:49:39,640
+Mr. Turing,passing notes, are we?
+
+872
+00:49:39,818 --> 00:49:41,377
+No, sir.
+
+873
+00:49:45,924 --> 00:49:50,828
+Only Turing would pass notes written in gibberish.
+
+874
+00:49:56,168 --> 00:49:57,397
+All right, gentlemen,
+
+875
+00:49:57,569 --> 00:50:00,061
+do not forget your algebra over the break.
+
+876
+00:50:00,238 --> 00:50:03,799
+Have a pleasant holiday,and we'll resume
+
+877
+00:50:03,976 --> 00:50:07,139
+your irrationals when you return.
+
+878
+00:50:23,245 --> 00:50:26,245
+
+
+879
+00:50:38,643 --> 00:50:40,111
+Mm.
+
+880
+00:50:42,114 --> 00:50:44,640
+But Euler's Theorem gives you that immediately.
+
+881
+00:50:44,816 --> 00:50:47,012
+Um...
+
+882
+00:50:55,861 --> 00:50:57,693
+Here. Look at this.
+
+883
+00:50:59,531 --> 00:51:02,933
+If you run the wires across the plugboard matrix diagonally,
+
+884
+00:51:03,135 --> 00:51:06,036
+it will eliminate rotor positions 500 times faster.
+
+885
+00:51:06,204 --> 00:51:08,366
+That's, uh...
+
+886
+00:51:08,540 --> 00:51:11,032
+actually not an entirely terrible idea.
+
+887
+00:51:13,178 --> 00:51:15,340
+I think that was Alan for "thank you."
+
+888
+00:51:19,251 --> 00:51:20,685
+Uh, th-that's my sandwich.
+
+889
+00:51:20,852 --> 00:51:23,082
+You don't like sandwiches.
+
+890
+00:51:36,334 --> 00:51:38,428
+You nervous?
+
+891
+00:52:01,226 --> 00:52:03,695
+What happens now?
+
+892
+00:52:03,862 --> 00:52:07,560
+It-it should work out the day's Enigma settings.
+
+893
+00:52:22,647 --> 00:52:24,638
+How long?
+
+894
+00:52:37,295 --> 00:52:41,493
+Sieg Heil! Sieg Heil!
+
+895
+00:52:41,666 --> 00:52:44,465
+The German Army has fanned out across Europe,
+
+896
+00:52:44,636 --> 00:52:47,333
+from Poland to Serbia,Lithuania to Denmark,
+
+897
+00:52:47,506 --> 00:52:48,769
+Norway to France.
+
+898
+00:52:48,940 --> 00:52:51,773
+The Nazi flag now flies from more than two dozen
+
+899
+00:52:51,943 --> 00:52:53,502
+national capitals.
+
+900
+00:52:53,678 --> 00:52:55,407
+Their campaign mounts in fury
+
+901
+00:52:55,580 --> 00:52:57,309
+as a free Europe crumbles.
+
+902
+00:53:37,822 --> 00:53:40,314
+Oh, it's still going.
+
+903
+00:53:40,492 --> 00:53:42,221
+- Good morning, sir.
+-Morning, Margaret.
+
+904
+00:53:42,394 --> 00:53:44,226
+Gears keep spinning on and on.
+
+905
+00:53:44,396 --> 00:53:46,160
+Rotors on and on.
+
+906
+00:53:46,331 --> 00:53:47,890
+It's endless.
+
+907
+00:53:48,066 --> 00:53:50,797
+With no result in sight?
+
+908
+00:53:50,969 --> 00:53:52,368
+No.
+
+909
+00:53:54,673 --> 00:53:57,734
+Ow.
+
+910
+00:54:05,650 --> 00:54:07,084
+Turing.
+
+911
+00:54:18,363 --> 00:54:19,592
+Turing,
+
+912
+00:54:19,764 --> 00:54:22,028
+- open the bloody door.
+-Uh, no.
+
+913
+00:54:22,200 --> 00:54:23,668
+No.
+
+914
+00:54:25,103 --> 00:54:26,935
+Open the door or we'll break it down.
+
+915
+00:54:27,105 --> 00:54:30,735
+I can't let you in! I-l...I cannot let you interfere.
+
+916
+00:54:30,909 --> 00:54:32,274
+Go on, then.
+
+917
+00:54:39,584 --> 00:54:41,074
+Turn that thing off.
+
+918
+00:54:41,253 --> 00:54:43,915
+No. Don't, please. Please.
+
+919
+00:54:44,089 --> 00:54:45,716
+Please! Please!
+
+920
+00:54:45,890 --> 00:54:46,880
+No!
+
+921
+00:54:47,058 --> 00:54:48,048
+N-No. No!
+
+922
+00:54:48,226 --> 00:54:49,887
+Don't!
+
+923
+00:54:52,797 --> 00:54:55,232
+Well, then, it seems that your great big
+
+924
+00:54:55,400 --> 00:54:57,698
+expensive machine doesn't work.
+
+925
+00:54:59,237 --> 00:55:00,602
+It does.
+
+926
+00:55:00,772 --> 00:55:01,967
+Wonderful.
+
+927
+00:55:02,140 --> 00:55:04,199
+So you've broken Enigma, then?
+
+928
+00:55:04,376 --> 00:55:06,936
+It was just...
+
+929
+00:55:07,112 --> 00:55:09,308
+s-still working.
+
+930
+00:55:09,481 --> 00:55:11,711
+This is my associate from the Home Office.
+
+931
+00:55:11,883 --> 00:55:13,510
+You see, a hundred thousand pounds
+
+932
+00:55:13,718 --> 00:55:15,413
+is rather a lot of money,
+
+933
+00:55:15,587 --> 00:55:18,579
+and he's here to see what you have to show for it.
+
+934
+00:55:18,757 --> 00:55:21,988
+You... will never understand
+
+935
+00:55:22,160 --> 00:55:26,461
+the importance of what I-l am creating here!
+
+936
+00:55:26,631 --> 00:55:29,828
+Have you decrypted any German messages?
+
+937
+00:55:30,001 --> 00:55:32,629
+A single one?
+
+938
+00:55:32,804 --> 00:55:36,434
+Can you point to anything at all that you've achieved?
+
+939
+00:55:36,608 --> 00:55:39,839
+Hmm. Your funding is up,
+
+940
+00:55:40,011 --> 00:55:42,309
+and our patience is expired.
+
+941
+00:55:42,480 --> 00:55:44,073
+It's with such great pleasure
+
+942
+00:55:44,249 --> 00:55:46,513
+that I am finally able to say this.
+
+943
+00:55:46,685 --> 00:55:50,087
+Alan Turing,you're fired.
+
+944
+00:55:50,255 --> 00:55:54,158
+Please escort Mr. Turing from the premises.
+
+945
+00:55:54,326 --> 00:55:57,261
+No.
+
+946
+00:55:57,429 --> 00:55:59,693
+I beg your pardon?
+
+947
+00:56:03,535 --> 00:56:07,438
+If you fire Alan...
+
+948
+00:56:07,605 --> 00:56:09,699
+well, then you'll have to fire me, too.
+
+949
+00:56:09,874 --> 00:56:12,536
+What on earth are you saying?
+
+950
+00:56:12,711 --> 00:56:14,145
+Trust me when I tell you there is no one
+
+951
+00:56:14,312 --> 00:56:17,612
+who would rather say this less than I do, but...
+
+952
+00:56:18,283 --> 00:56:19,273
+he's right.
+
+953
+00:56:19,451 --> 00:56:21,510
+Alan is right.
+
+954
+00:56:21,686 --> 00:56:23,814
+His machine can work,and it's probably
+
+955
+00:56:23,988 --> 00:56:25,888
+the best chance that we've got.
+
+956
+00:56:26,057 --> 00:56:28,321
+God, it's beyond belief.
+
+957
+00:56:28,493 --> 00:56:30,552
+If you fire them...
+
+958
+00:56:30,729 --> 00:56:33,130
+you'll have to fire me, too.
+
+959
+00:56:33,298 --> 00:56:35,027
+And me.
+
+960
+00:56:35,200 --> 00:56:38,363
+We're the best cryptographic minds in Britain.
+
+961
+00:56:38,536 --> 00:56:40,504
+Are you going to fire us all?
+
+962
+00:56:40,672 --> 00:56:43,073
+Commander, at least give us some more time
+
+963
+00:56:43,241 --> 00:56:45,733
+Six months, and if the machine doesn't produce
+
+964
+00:56:45,910 --> 00:56:47,639
+any results that we need,then we'll go back
+
+965
+00:56:47,812 --> 00:56:50,042
+to doing things the old way...how about that?
+
+966
+00:56:56,755 --> 00:56:58,883
+One month.
+
+967
+00:56:59,057 --> 00:57:00,491
+And then,so help me God,
+
+968
+00:57:00,658 --> 00:57:02,524
+you're all gone.
+
+969
+00:57:02,694 --> 00:57:04,389
+Oh, leave him.
+
+970
+00:57:11,770 --> 00:57:13,932
+Thank you.
+
+971
+00:57:14,105 --> 00:57:15,436
+You're welcome.
+
+972
+00:57:17,008 --> 00:57:18,840
+Oh, and, Alan,your machine...
+
+973
+00:57:22,113 --> 00:57:23,842
+...it better bloody work.
+
+974
+00:57:32,590 --> 00:57:33,580
+Hugh.
+
+975
+00:57:34,459 --> 00:57:35,949
+I swear...
+
+976
+00:57:36,795 --> 00:57:40,129
+I'm not a spy.
+
+977
+00:57:40,298 --> 00:57:42,926
+Oh, for God's sake, of course you're not a bloody spy.
+
+978
+00:57:43,101 --> 00:57:44,262
+What?
+
+979
+00:57:44,436 --> 00:57:45,801
+Denniston gave me the Beale cipher,
+
+980
+00:57:45,970 --> 00:57:47,131
+and guess what?
+
+981
+00:57:47,305 --> 00:57:48,466
+I cracked it.
+
+982
+00:57:48,640 --> 00:57:50,870
+"Ask, and it shall be given to you;
+
+983
+00:57:51,042 --> 00:57:53,443
+seek and ye shall find." Matthew 7:7.
+
+984
+00:57:53,611 --> 00:57:55,909
+That was the key.
+
+985
+00:57:56,080 --> 00:57:58,981
+Far too simple for the likes of you.
+
+986
+00:58:00,385 --> 00:58:03,047
+Pity Denniston disagrees.
+
+987
+00:58:12,263 --> 00:58:14,630
+Come in.
+
+988
+00:58:16,835 --> 00:58:19,327
+Sir, I think I've got Turing.
+
+989
+00:58:19,504 --> 00:58:20,903
+I tailed him
+
+990
+00:58:21,072 --> 00:58:23,370
+to a pub last night,where he met a bloke.
+
+991
+00:58:23,575 --> 00:58:24,565
+They exchanged an envelope.
+
+992
+00:58:24,742 --> 00:58:26,335
+So I follow this other fella,
+
+993
+00:58:26,511 --> 00:58:28,138
+pick him up,give him a good shake.
+
+994
+00:58:29,814 --> 00:58:32,112
+He's a poofter.He confessed.
+
+995
+00:58:32,283 --> 00:58:33,614
+What?
+
+996
+00:58:33,785 --> 00:58:36,015
+The man admitted it.Arnold Murray.
+
+997
+00:58:36,187 --> 00:58:38,918
+Hangs around that pub;men pay him for a go.
+
+998
+00:58:39,090 --> 00:58:40,785
+Turing's one of the men that paid.
+
+999
+00:58:40,959 --> 00:58:42,120
+Only Mr. Murray here
+
+1000
+00:58:42,293 --> 00:58:43,988
+then has the bright idea
+
+1001
+00:58:44,162 --> 00:58:46,961
+of robbing Turing's house after, with a friend.
+
+1002
+00:58:47,131 --> 00:58:48,621
+That's what Turing's hiding.
+
+1003
+00:58:48,800 --> 00:58:50,962
+Well, he's a poof, not a spy.
+
+1004
+00:58:51,135 --> 00:58:52,364
+- No.
+-What's the matter?
+
+1005
+00:58:52,537 --> 00:58:54,096
+We can charge a university professor
+
+1006
+00:58:54,239 --> 00:58:55,638
+- with indecency.
+-No, this is...
+
+1007
+00:58:55,807 --> 00:58:57,172
+it's bloody rubbish.
+
+1008
+00:58:57,342 --> 00:58:58,332
+Turing's up to something important...
+
+1009
+00:58:58,510 --> 00:59:00,774
+He's committed a crime and he's broken the law.
+
+1010
+00:59:00,945 --> 00:59:02,674
+And with a bloke.Jesus Christ,
+
+1011
+00:59:02,847 --> 00:59:04,440
+- it's bloody disgusting.
+-This isn't
+
+1012
+00:59:04,616 --> 00:59:06,106
+the investigation I was conducting.
+
+1013
+00:59:06,284 --> 00:59:08,378
+Bring him in.
+
+1014
+00:59:08,553 --> 00:59:10,487
+Wait.
+
+1015
+00:59:10,655 --> 00:59:11,645
+L-Let me interrogate him.
+
+1016
+00:59:11,823 --> 00:59:13,951
+Please. Give me half an hour alone,
+
+1017
+00:59:14,125 --> 00:59:15,957
+and then I swear,I'll spend the next month
+
+1018
+00:59:16,127 --> 00:59:18,357
+running errands on as many rubbish cases as you like.
+
+1019
+00:59:18,530 --> 00:59:21,329
+Fine. Now,will someone get me a warrant
+
+1020
+00:59:21,499 --> 00:59:23,524
+for the arrest of Alan Turing.
+
+1021
+00:59:40,218 --> 00:59:41,379
+Alan?
+
+1022
+00:59:41,553 --> 00:59:44,545
+Christopher's simply not moving fast enough.
+
+1023
+00:59:44,722 --> 00:59:47,555
+- We should talk.
+-And even with the diagonal board,
+
+1024
+00:59:47,725 --> 00:59:49,250
+he's still not eliminating settings as quickly
+
+1025
+00:59:49,427 --> 00:59:51,156
+- as we need him to in order...
+-I'm leaving.
+
+1026
+00:59:51,329 --> 00:59:52,990
+But you've just walked in.
+
+1027
+00:59:53,164 --> 00:59:54,256
+No.
+
+1028
+00:59:54,432 --> 00:59:56,196
+No. Bletchley.
+
+1029
+00:59:56,367 --> 00:59:57,425
+What?
+
+1030
+00:59:57,602 --> 00:59:58,865
+It's my parents.
+
+1031
+00:59:59,037 --> 01:00:01,335
+I'm 25, I'm unmarried,I'm living alone,
+
+1032
+01:00:01,506 --> 01:00:02,735
+and they want me home.
+
+1033
+01:00:02,907 --> 01:00:04,898
+That's ridiculous.
+
+1034
+01:00:05,076 --> 01:00:06,669
+That's my parents.
+
+1035
+01:00:06,844 --> 01:00:10,337
+You... you can't leave...l-l won't let you.
+
+1036
+01:00:10,515 --> 01:00:13,382
+"I'll miss you." That's what a normal person
+
+1037
+01:00:13,551 --> 01:00:16,179
+- might say in this situation.
+-I-l don't care what is normal.
+
+1038
+01:00:16,321 --> 01:00:17,584
+What am I supposed
+
+1039
+01:00:17,755 --> 01:00:20,747
+to do, Alan?
+
+1040
+01:00:20,925 --> 01:00:22,484
+L-I will not...
+
+1041
+01:00:22,694 --> 01:00:24,184
+give up my parents.
+
+1042
+01:00:25,229 --> 01:00:27,630
+You... you have an opportunity here
+
+1043
+01:00:27,799 --> 01:00:29,631
+to make some actual use of your life.
+
+1044
+01:00:29,801 --> 01:00:32,429
+And end up like you?No, thanks.
+
+1045
+01:00:32,604 --> 01:00:34,732
+I'm sorry you're lonely.
+
+1046
+01:00:34,906 --> 01:00:38,069
+But Enigma will not save you.
+
+1047
+01:00:38,242 --> 01:00:40,802
+Can you decipher that,you fragile narcissist?
+
+1048
+01:00:40,979 --> 01:00:42,003
+Or would you like me to go and fetch
+
+1049
+01:00:42,213 --> 01:00:43,703
+your precious Christopher to help?
+
+1050
+01:00:49,821 --> 01:00:51,050
+I'm sorry.
+
+1051
+01:00:51,222 --> 01:00:53,156
+Mm...
+
+1052
+01:00:58,062 --> 01:01:01,157
+I want you... I want you to stay because I-l like you.
+
+1053
+01:01:01,332 --> 01:01:04,597
+I like...talking to you.
+
+1054
+01:01:04,769 --> 01:01:07,101
+I like talking to you,too, Alan.
+
+1055
+01:01:12,443 --> 01:01:14,810
+And what if you weren't alone?
+
+1056
+01:01:14,979 --> 01:01:16,913
+What if you had a husband?
+
+1057
+01:01:18,616 --> 01:01:20,584
+Do you have one in mind?
+
+1058
+01:01:20,752 --> 01:01:22,117
+I do.
+
+1059
+01:01:22,286 --> 01:01:23,913
+Hugh?
+
+1060
+01:01:24,088 --> 01:01:26,022
+Hugh's terribly attractive,I'll give you that,
+
+1061
+01:01:26,190 --> 01:01:28,318
+but I don't really think he's the marrying kind.
+
+1062
+01:01:28,493 --> 01:01:31,485
+No, I-l wasn't thinking of Hugh.
+
+1063
+01:01:31,663 --> 01:01:33,188
+Or Peter.
+
+1064
+01:01:33,364 --> 01:01:35,458
+Peter's so quiet.
+
+1065
+01:01:39,937 --> 01:01:41,837
+Oh, my God.
+
+1066
+01:01:42,006 --> 01:01:43,303
+But this makes sense.
+
+1067
+01:01:43,474 --> 01:01:44,942
+Did you just propose to me?
+
+1068
+01:01:45,109 --> 01:01:47,737
+Well, it is the logical thing to do.
+
+1069
+01:01:47,945 --> 01:01:50,209
+- This is ridiculous.
+-This is your parents.
+
+1070
+01:01:50,381 --> 01:01:53,840
+I-I can't... believe that this is happening.
+
+1071
+01:01:55,720 --> 01:01:57,882
+Mm. Joan...
+
+1072
+01:01:59,557 --> 01:02:01,889
+Is your middle name Caroline or Catherine?
+
+1073
+01:02:02,060 --> 01:02:05,052
+- Elizabeth.
+-Um, Joan Elizabeth...
+
+1074
+01:02:05,229 --> 01:02:07,027
+Clarke, um...
+
+1075
+01:02:09,233 --> 01:02:12,168
+...will you marry me?
+
+1076
+01:02:20,678 --> 01:02:22,476
+It's beautiful.
+
+1077
+01:02:22,613 --> 01:02:26,641
+Well, I know it isn't ordinary, but...
+
+1078
+01:02:26,784 --> 01:02:29,651
+whoever loved ordinary?
+
+1079
+01:02:29,787 --> 01:02:30,811
+She had it in both hands...
+
+1080
+01:02:32,156 --> 01:02:34,955
+And she looked up at me with her doe eyes and said,
+
+1081
+01:02:35,159 --> 01:02:37,150
+"Am I supposed to put that in my mouth?"
+
+1082
+01:02:37,328 --> 01:02:41,060
+And I said, "Yes.You know, the French way."
+
+1083
+01:02:41,232 --> 01:02:42,927
+So she pops it in,
+
+1084
+01:02:43,101 --> 01:02:44,762
+clamps her lips around it,
+
+1085
+01:02:44,936 --> 01:02:47,871
+and starts humming the bloody Marseillaise.
+
+1086
+01:02:51,709 --> 01:02:52,904
+Come have a dance.
+
+1087
+01:02:53,077 --> 01:02:54,067
+No, no,no, you can dance
+
+1088
+01:02:54,245 --> 01:02:55,235
+with your fiance anytime you like.
+
+1089
+01:02:55,413 --> 01:02:56,710
+Right now, this moment...
+
+1090
+01:02:56,881 --> 01:02:58,610
+my turn.
+
+1091
+01:03:26,410 --> 01:03:28,037
+What's the matter?
+
+1092
+01:03:33,651 --> 01:03:35,415
+Wh-What if...
+
+1093
+01:03:40,658 --> 01:03:43,423
+Wh-What if I don't fancy being...
+
+1094
+01:03:43,594 --> 01:03:46,859
+with Joan I-in that way?
+
+1095
+01:03:49,100 --> 01:03:51,296
+Because you're a homosexual?
+
+1096
+01:03:55,273 --> 01:03:57,469
+I suspected.
+
+1097
+01:03:57,642 --> 01:03:58,939
+Well, should-should I tell her
+
+1098
+01:03:59,110 --> 01:04:00,635
+that I've had...
+
+1099
+01:04:00,812 --> 01:04:02,576
+affairs with men?
+
+1100
+01:04:02,747 --> 01:04:04,579
+You know, in my...
+
+1101
+01:04:04,749 --> 01:04:07,582
+admittedly limited experience,
+
+1102
+01:04:07,752 --> 01:04:10,016
+women... tend to be a bit touchy
+
+1103
+01:04:10,188 --> 01:04:13,180
+about accidentally marrying homosexuals.
+
+1104
+01:04:13,357 --> 01:04:15,519
+Perhaps not spreading this information about might be
+
+1105
+01:04:15,693 --> 01:04:16,956
+in your best interest.
+
+1106
+01:04:19,530 --> 01:04:20,520
+I care for her,
+
+1107
+01:04:20,698 --> 01:04:22,689
+I truly do. I...
+
+1108
+01:04:26,270 --> 01:04:27,829
+I-I... I just don't know
+
+1109
+01:04:28,005 --> 01:04:31,270
+if I can, um... pretend.
+
+1110
+01:04:31,442 --> 01:04:33,877
+You can't tell anyone, Alan.
+
+1111
+01:04:34,045 --> 01:04:36,139
+It's illegal.
+
+1112
+01:04:36,314 --> 01:04:39,011
+And Denniston is looking for any excuse he can
+
+1113
+01:04:39,183 --> 01:04:40,548
+to put you away.
+
+1114
+01:04:40,718 --> 01:04:42,015
+I know.
+
+1115
+01:04:42,186 --> 01:04:43,779
+This has to stay a secret.
+
+1116
+01:04:43,955 --> 01:04:45,980
+Come on, it's your turn.
+
+1117
+01:04:46,157 --> 01:04:47,955
+Ah. Okay.
+
+1118
+01:06:09,874 --> 01:06:11,205
+Cup of tea?
+
+1119
+01:06:11,375 --> 01:06:14,242
+No, thank you.
+
+1120
+01:06:26,557 --> 01:06:29,219
+Mr. Turing, can I tell you a secret?
+
+1121
+01:06:29,393 --> 01:06:30,952
+I'm quite good with those.
+
+1122
+01:06:31,128 --> 01:06:33,119
+I'm here to help you.
+
+1123
+01:06:35,633 --> 01:06:37,294
+Oh, clearly.
+
+1124
+01:06:44,275 --> 01:06:46,141
+Can machines think?
+
+1125
+01:06:46,310 --> 01:06:49,405
+Oh, so you've read some of my published works?
+
+1126
+01:06:49,547 --> 01:06:51,606
+What makes you say that?
+
+1127
+01:06:51,782 --> 01:06:54,308
+Well, because I'm sitting in a police station,
+
+1128
+01:06:54,485 --> 01:06:57,614
+accused of entreating a young man to touch my penis
+
+1129
+01:06:57,788 --> 01:07:01,281
+and you just asked me if machines can think.
+
+1130
+01:07:02,860 --> 01:07:04,453
+Well, can they?
+
+1131
+01:07:05,997 --> 01:07:09,695
+Could machines ever think as human beings do?
+
+1132
+01:07:10,468 --> 01:07:12,300
+Most people say not.
+
+1133
+01:07:12,470 --> 01:07:14,837
+You're not most people.
+
+1134
+01:07:16,941 --> 01:07:20,275
+Well, the problem is you're...asking a stupid question.
+
+1135
+01:07:20,411 --> 01:07:22,175
+I am?
+
+1136
+01:07:22,346 --> 01:07:24,144
+Of course machines...
+
+1137
+01:07:24,315 --> 01:07:27,717
+can't think as people do.
+
+1138
+01:07:27,885 --> 01:07:31,549
+A machine is different...from a person.
+
+1139
+01:07:32,990 --> 01:07:35,118
+Hence, they think differently.
+
+1140
+01:07:38,729 --> 01:07:41,824
+The interesting question is,just because something, uh,
+
+1141
+01:07:41,999 --> 01:07:43,398
+thinks differently from you,
+
+1142
+01:07:43,567 --> 01:07:46,332
+does that mean it's not thinking?
+
+1143
+01:07:48,072 --> 01:07:51,007
+Well, we allow for humans to have such divergences
+
+1144
+01:07:51,175 --> 01:07:52,643
+from one another.
+
+1145
+01:07:55,846 --> 01:07:58,076
+You like strawberries,I hate ice-skating,
+
+1146
+01:07:58,249 --> 01:08:00,911
+you... cry at sad films,
+
+1147
+01:08:01,085 --> 01:08:04,817
+I... am allergic to pollen.
+
+1148
+01:08:04,989 --> 01:08:07,515
+What is the point of-of different tastes,
+
+1149
+01:08:07,691 --> 01:08:09,989
+different... preferences
+
+1150
+01:08:10,161 --> 01:08:12,994
+if not to say that our brains work differently,
+
+1151
+01:08:13,164 --> 01:08:15,690
+that we think differently?
+
+1152
+01:08:17,101 --> 01:08:18,830
+And if we can say that about one another,
+
+1153
+01:08:19,003 --> 01:08:21,700
+then why can't we say the same thing for brains...
+
+1154
+01:08:22,706 --> 01:08:25,732
+built of copper and wire, steel?
+
+1155
+01:08:25,910 --> 01:08:27,878
+And that's...
+
+1156
+01:08:28,045 --> 01:08:29,945
+this big paper you wrote?
+
+1157
+01:08:30,114 --> 01:08:31,513
+What's it called?
+
+1158
+01:08:31,682 --> 01:08:34,413
+"The Imitation Game."
+
+1159
+01:08:34,585 --> 01:08:35,575
+Right, that's...
+
+1160
+01:08:35,753 --> 01:08:36,743
+that's what it's about?
+
+1161
+01:08:42,626 --> 01:08:43,855
+Would you like to play?
+
+1162
+01:08:44,028 --> 01:08:45,655
+Play?
+
+1163
+01:08:45,863 --> 01:08:47,058
+It's a game.
+
+1164
+01:08:47,231 --> 01:08:49,427
+A test of sorts.
+
+1165
+01:08:49,600 --> 01:08:52,592
+For determining whether something is a...
+
+1166
+01:08:52,770 --> 01:08:54,829
+a machine or a human being.
+
+1167
+01:08:55,039 --> 01:08:56,803
+How do I play?
+
+1168
+01:08:56,974 --> 01:08:58,965
+Well, there's a judge and a subject, and...
+
+1169
+01:08:59,143 --> 01:09:01,544
+the judge asks questions,
+
+1170
+01:09:01,712 --> 01:09:03,771
+and, depending on the subject's answers,
+
+1171
+01:09:03,948 --> 01:09:06,280
+determines who he is talking with...
+
+1172
+01:09:06,450 --> 01:09:11,081
+what he is talking with,and, um...
+
+1173
+01:09:11,255 --> 01:09:13,986
+All you have to do is ask me a question.
+
+1174
+01:09:19,497 --> 01:09:21,124
+What did you do during the war?
+
+1175
+01:09:21,298 --> 01:09:23,494
+I worked in a radio factory.
+
+1176
+01:09:25,769 --> 01:09:27,760
+What did you really do during the war?
+
+1177
+01:09:32,143 --> 01:09:34,237
+Are you paying attention?
+
+1178
+01:09:53,030 --> 01:09:55,089
+Damn it!
+
+1179
+01:10:02,273 --> 01:10:05,470
+We're soon out of time. A month.
+
+1180
+01:10:05,643 --> 01:10:07,543
+So that's it, then, is it?
+
+1181
+01:10:07,711 --> 01:10:10,180
+Oh, the trouble is, it doesn't matter how much we improve it.
+
+1182
+01:10:10,347 --> 01:10:11,940
+The machine's never gonna be able to process
+
+1183
+01:10:12,116 --> 01:10:14,676
+159 million million million possibilities in time.
+
+1184
+01:10:14,852 --> 01:10:16,980
+It's just bloody hopeless.
+
+1185
+01:10:17,154 --> 01:10:19,486
+It's searching.It's just...
+
+1186
+01:10:19,657 --> 01:10:23,093
+It... doesn't know what it's searching for.
+
+1187
+01:10:23,294 --> 01:10:25,194
+If we knew what the messages were going to say...
+
+1188
+01:10:25,362 --> 01:10:26,523
+If we knew what the messages were going to say,
+
+1189
+01:10:26,697 --> 01:10:28,392
+we wouldn't have to decrypt them at all.
+
+1190
+01:10:33,437 --> 01:10:35,405
+Who's Alan's friend?
+
+1191
+01:10:35,573 --> 01:10:38,304
+Hugh. He's a bit of a cad, actually.
+
+1192
+01:10:38,475 --> 01:10:40,466
+So my type, then?
+
+1193
+01:10:40,611 --> 01:10:42,545
+- Well, I'll introduce you.
+-No.
+
+1194
+01:10:42,713 --> 01:10:44,807
+He'll come over.
+
+1195
+01:10:44,982 --> 01:10:46,643
+- Are you sure?
+-Yes.
+
+1196
+01:10:46,784 --> 01:10:48,377
+I smiled at him 15 minutes ago
+
+1197
+01:10:48,552 --> 01:10:49,644
+and haven't looked back since.
+
+1198
+01:10:52,356 --> 01:10:53,414
+Who's that with Joan?
+
+1199
+01:10:53,591 --> 01:10:54,956
+Hmm?
+
+1200
+01:10:55,159 --> 01:10:57,389
+Uh, Helen. Works with her.
+
+1201
+01:10:57,561 --> 01:10:59,051
+She's really pretty.
+
+1202
+01:10:59,230 --> 01:11:00,698
+She wants me to come over.
+
+1203
+01:11:00,864 --> 01:11:03,231
+What? H-How on earth can you know that?
+
+1204
+01:11:03,400 --> 01:11:05,232
+She smiled at me a while back
+
+1205
+01:11:05,402 --> 01:11:07,234
+and she hasn't looked again since.
+
+1206
+01:11:12,543 --> 01:11:13,772
+And got him.
+
+1207
+01:11:13,944 --> 01:11:16,379
+Now, why is this,that when I was single
+
+1208
+01:11:16,547 --> 01:11:18,709
+I found it very boring,but now that I'm engaged,
+
+1209
+01:11:18,882 --> 01:11:20,350
+I just find it dreadfully fun.
+
+1210
+01:11:22,720 --> 01:11:24,449
+Bingo. She's in.
+
+1211
+01:11:24,622 --> 01:11:26,386
+Alan, introduce us.
+
+1212
+01:11:26,557 --> 01:11:28,582
+What? Wh-Why me?
+
+1213
+01:11:30,561 --> 01:11:32,290
+Because there's nothing like a friend's engagement
+
+1214
+01:11:32,463 --> 01:11:34,261
+to make a woman want to do something she'll later regret
+
+1215
+01:11:34,431 --> 01:11:36,422
+with the fiance's better looking chum.
+
+1216
+01:11:36,600 --> 01:11:37,965
+Let's go.
+
+1217
+01:11:42,906 --> 01:11:45,898
+Half a crown says Alan bollixes this up entirely.
+
+1218
+01:11:46,076 --> 01:11:47,544
+No bet.
+
+1219
+01:11:47,711 --> 01:11:50,078
+- Alan Turing has a theory.
+-He has many.
+
+1220
+01:11:50,247 --> 01:11:52,045
+He believes that the regulations
+
+1221
+01:11:52,216 --> 01:11:55,277
+against men and women working side by side are sound
+
+1222
+01:11:55,452 --> 01:11:57,318
+because such proximity will necessarily lead to romance.
+
+1223
+01:11:57,488 --> 01:11:58,751
+What? No,I don't. I...
+
+1224
+01:11:58,922 --> 01:12:00,083
+However...
+
+1225
+01:12:00,257 --> 01:12:01,247
+I disagree.
+
+1226
+01:12:01,425 --> 01:12:02,950
+- You do?
+-Yeah.
+
+1227
+01:12:03,127 --> 01:12:05,323
+I think that if I were working beside a woman all daylong,
+
+1228
+01:12:05,496 --> 01:12:08,158
+I could appreciate her abilities and intellect
+
+1229
+01:12:08,332 --> 01:12:10,562
+without taking her to bed.
+
+1230
+01:12:11,602 --> 01:12:12,831
+I'm sorry, have we met?
+
+1231
+01:12:13,003 --> 01:12:15,631
+I don't recall.But let's assume we haven't.
+
+1232
+01:12:15,806 --> 01:12:17,433
+Helen Stewart.Hugh Alexander.
+
+1233
+01:12:17,608 --> 01:12:18,666
+So who do you agree with,
+
+1234
+01:12:18,842 --> 01:12:21,004
+- Alan or myself?
+-Well, Alan, of course.
+
+1235
+01:12:21,178 --> 01:12:24,148
+L-I'm very flattered, really,but I-l don't think...
+
+1236
+01:12:24,315 --> 01:12:27,114
+- Rubbish.
+-Well, I work beside a man
+
+1237
+01:12:27,284 --> 01:12:28,809
+every day,and I can't help
+
+1238
+01:12:28,986 --> 01:12:30,511
+but have developed a bit of a crush on him.
+
+1239
+01:12:30,688 --> 01:12:32,452
+Well, who is this man?So I can kick his arse.
+
+1240
+01:12:32,623 --> 01:12:34,682
+Well, there's no need to worry... it's been chaste.
+
+1241
+01:12:34,858 --> 01:12:37,350
+We've never even met.He's a German.
+
+1242
+01:12:37,528 --> 01:12:40,691
+Now I really want to kill him.
+
+1243
+01:12:40,864 --> 01:12:44,129
+How-how do you mean you work alongside a German?
+
+1244
+01:12:44,301 --> 01:12:45,962
+Well, each of us intercepts messages
+
+1245
+01:12:46,136 --> 01:12:47,865
+from a specific German radio tower.
+
+1246
+01:12:48,038 --> 01:12:49,301
+So we have a counterpart on the other side
+
+1247
+01:12:49,473 --> 01:12:50,838
+who's tip-tapping out the messages.
+
+1248
+01:12:51,008 --> 01:12:52,772
+Everyone types a touch differently,
+
+1249
+01:12:52,943 --> 01:12:54,775
+so you get to know the rhythm of your counterpart.
+
+1250
+01:12:54,945 --> 01:12:56,674
+It's strangely intimate.
+
+1251
+01:12:56,847 --> 01:12:58,838
+I feel as if I know him so well.
+
+1252
+01:12:59,016 --> 01:13:00,347
+It's a pity he has a girlfriend,
+
+1253
+01:13:00,517 --> 01:13:02,781
+but that's why I disagree with you, Mr. Alexander.
+
+1254
+01:13:02,953 --> 01:13:04,887
+Because I'm in love with a coworker of sorts,
+
+1255
+01:13:05,055 --> 01:13:06,545
+and we've never even met.
+
+1256
+01:13:06,724 --> 01:13:08,351
+Well, allow me to buy you another pint,
+
+1257
+01:13:08,525 --> 01:13:10,118
+and I'll tell you why you're wrong.
+
+1258
+01:13:10,294 --> 01:13:11,693
+Let's.
+
+1259
+01:13:11,862 --> 01:13:13,193
+Excellent.
+
+1260
+01:13:15,799 --> 01:13:17,699
+Thanks.
+
+1261
+01:13:17,868 --> 01:13:21,566
+Um, pints.Have you got any sloe gin?
+
+1262
+01:13:24,708 --> 01:13:26,904
+In case you were wondering,that's what flirting looks like.
+
+1263
+01:13:27,077 --> 01:13:28,545
+Helen...
+
+1264
+01:13:28,712 --> 01:13:30,646
+- Really, no cigarettes?
+-Alan...
+
+1265
+01:13:30,814 --> 01:13:32,009
+Yes, Alan?
+
+1266
+01:13:32,182 --> 01:13:33,581
+Wh-Why do you think
+
+1267
+01:13:33,751 --> 01:13:36,118
+your German counterpart has a girlfriend?
+
+1268
+01:13:36,320 --> 01:13:39,221
+- It's just a stupid joke; don't worry.
+-No, no, no, no. Tell me.
+
+1269
+01:13:40,424 --> 01:13:41,550
+Well, each of his messages
+
+1270
+01:13:41,725 --> 01:13:43,022
+begins with the same five letters:
+
+1271
+01:13:43,193 --> 01:13:45,025
+C-I-L-L-Y
+C-I-L-L-Y.
+
+1272
+01:13:45,195 --> 01:13:46,890
+So I suspect that Cilly must be the name
+
+1273
+01:13:47,064 --> 01:13:48,554
+- of his amore.
+-But that's impossible.
+
+1274
+01:13:48,732 --> 01:13:50,757
+The Germans are instructed to use five random letters
+
+1275
+01:13:50,934 --> 01:13:52,026
+at the start of every message.
+
+1276
+01:13:52,202 --> 01:13:53,567
+Well, this bloke doesn't.
+
+1277
+01:13:53,737 --> 01:13:57,002
+Love will make a man do strange things, I suppose.
+
+1278
+01:13:57,174 --> 01:14:00,508
+In this case, love just lost Germany the whole bloody war.
+
+1279
+01:14:00,677 --> 01:14:01,872
+Oh!
+
+1280
+01:14:02,045 --> 01:14:03,171
+Go, Peter.
+
+1281
+01:14:04,915 --> 01:14:06,246
+Sorry.
+
+1282
+01:14:08,218 --> 01:14:11,677
+Alan! Alan!
+
+1283
+01:14:11,855 --> 01:14:14,085
+Whoa, whoa, whoa, whoa!Hey, hey, hey!
+
+1284
+01:14:14,258 --> 01:14:15,248
+Alan!
+
+1285
+01:14:15,426 --> 01:14:17,690
+I just want...
+
+1286
+01:14:20,063 --> 01:14:21,758
+Hugh Alexander.John Cairncross.
+
+1287
+01:14:21,932 --> 01:14:23,229
+Peter bloody Hilton.
+
+1288
+01:14:23,400 --> 01:14:27,030
+
+
+1289
+01:14:28,939 --> 01:14:30,771
+What...
+
+1290
+01:14:30,941 --> 01:14:33,433
+what if...what if Christopher
+
+1291
+01:14:33,610 --> 01:14:36,807
+doesn't have to search through all of the settings?
+
+1292
+01:14:36,980 --> 01:14:38,744
+What if he only has to search through
+
+1293
+01:14:38,916 --> 01:14:41,715
+ones that produce words we already know will be
+
+1294
+01:14:41,852 --> 01:14:44,082
+- in the message?
+-Repeated words; predictable words.
+
+1295
+01:14:44,254 --> 01:14:45,244
+Exactly.
+
+1296
+01:14:48,125 --> 01:14:49,251
+Look, look, like this one.
+
+1297
+01:14:49,426 --> 01:14:51,258
+"0600 hours. Weather today is clear.
+
+1298
+01:14:51,428 --> 01:14:53,260
+Rain in the evening. Heil Hitler."
+
+1299
+01:14:55,199 --> 01:14:56,963
+Well, that's it.
+
+1300
+01:14:57,134 --> 01:14:58,624
+Exactly.
+
+1301
+01:14:58,802 --> 01:15:01,669
+They send a weather report every day at 6:00 a.m.
+
+1302
+01:15:01,839 --> 01:15:05,104
+So that's-that's three words we know will be
+
+1303
+01:15:05,275 --> 01:15:07,972
+in every 6:00 a.m. message..."weather," obviously,
+
+1304
+01:15:08,145 --> 01:15:10,136
+- a-and...
+-Heil bloody Hitler.
+
+1305
+01:15:10,314 --> 01:15:12,146
+Heil bloody Hitler.
+
+1306
+01:15:12,316 --> 01:15:14,683
+Here's the 6:00 message from this morning.
+
+1307
+01:15:21,191 --> 01:15:22,784
+Hugh, the, uh,
+
+1308
+01:15:22,960 --> 01:15:24,587
+the right-hand letter wheel,set them to...
+
+1309
+01:15:24,761 --> 01:15:26,320
+I know, I know."Weather" and "Hitler."
+
+1310
+01:15:26,497 --> 01:15:28,932
+Peter, John, run voltages through those letters,
+
+1311
+01:15:29,066 --> 01:15:31,433
+- through the back scramblers.
+-So we'll use the loops?
+
+1312
+01:15:31,602 --> 01:15:33,934
+Yes. Joan, what was the last 6:00 a.m. message?
+
+1313
+01:15:34,104 --> 01:15:35,162
+- L...
+-L...
+- L...
+-L...
+
+1314
+01:15:36,507 --> 01:15:37,633
+H...
+H...
+
+1315
+01:15:37,808 --> 01:15:39,708
+- H... -W...
+- H... -W...
+
+1316
+01:15:39,877 --> 01:15:41,038
+W...
+W...
+
+1317
+01:15:41,211 --> 01:15:42,804
+- A...
+-A...
+- A...
+-A...
+
+1318
+01:15:42,980 --> 01:15:44,448
+- Q. -Q.
+- Q. -Q.
+
+1319
+01:15:46,283 --> 01:15:47,580
+Done.
+
+1320
+01:16:05,536 --> 01:16:07,026
+Come on.
+
+1321
+01:16:07,204 --> 01:16:09,468
+Come on.Come on, Christopher.
+
+1322
+01:16:24,721 --> 01:16:26,246
+Oh, my God.
+
+1323
+01:16:33,230 --> 01:16:34,755
+Wh-What happened?
+
+1324
+01:16:36,366 --> 01:16:38,528
+- Did it work?
+-Alan?
+
+1325
+01:16:38,702 --> 01:16:40,534
+Alan! Alan!
+
+1326
+01:16:43,073 --> 01:16:45,041
+I need a new message.
+
+1327
+01:16:45,208 --> 01:16:47,233
+The latest intercept.
+
+1328
+01:16:50,747 --> 01:16:52,977
+Thank you.
+
+1329
+01:16:56,420 --> 01:16:58,252
+O... T...
+O... T...
+
+1330
+01:16:58,422 --> 01:16:59,583
+- Ready?
+-Yes.
+
+1331
+01:16:59,756 --> 01:17:00,917
+- M...
+-M...
+- M...
+-M...
+
+1332
+01:17:01,091 --> 01:17:02,081
+- Y... -Y...
+- Y... -Y...
+
+1333
+01:17:02,259 --> 01:17:04,227
+- M... S...
+-M... S...
+- M... S...
+-M... S...
+
+1334
+01:17:04,394 --> 01:17:05,884
+- A... I... -A... I...
+- A... I... -A... I...
+
+1335
+01:17:06,063 --> 01:17:07,053
+- C... -C...
+- C... -C...
+
+1336
+01:17:07,230 --> 01:17:08,755
+- T... -T...
+- T... -T...
+
+1337
+01:17:08,932 --> 01:17:10,024
+- R...
+-R...
+- R...
+-R...
+
+1338
+01:17:11,368 --> 01:17:12,563
+- S... O... -S... O...
+- S... O... -S... O...
+
+1339
+01:17:12,736 --> 01:17:13,897
+- A... -A...
+- A... -A...
+
+1340
+01:17:14,071 --> 01:17:16,631
+- Y... R... I... -Y... R...
+- Y... R... I... -Y... R...
+
+1341
+01:17:16,807 --> 01:17:19,401
+I
+I.
+
+1342
+01:17:22,980 --> 01:17:24,778
+"KMS Jaguar is auf punkt...
+
+1343
+01:17:24,948 --> 01:17:27,610
+"is directed to 53 degrees 24 minutes north
+
+1344
+01:17:27,784 --> 01:17:32,278
+and auf punkt one...degree west."
+
+1345
+01:17:32,456 --> 01:17:34,948
+Heil Hitler.
+
+1346
+01:17:38,095 --> 01:17:41,121
+Turns out that's the only German you need to know
+
+1347
+01:17:41,298 --> 01:17:43,630
+to, uh, break Enigma.
+
+1348
+01:17:50,907 --> 01:17:52,932
+Yes!
+
+1349
+01:18:35,519 --> 01:18:36,509
+Oh!
+
+1350
+01:18:45,595 --> 01:18:46,721
+- M...
+-M...
+- M...
+-M...
+
+1351
+01:18:48,065 --> 01:18:49,055
+- A... -A...
+- A... -A...
+
+1352
+01:18:49,232 --> 01:18:50,256
+- Y... -Y...
+- Y... -Y...
+
+1353
+01:18:51,668 --> 01:18:52,863
+- T... -T...
+- T... -T...
+
+1354
+01:18:53,036 --> 01:18:54,504
+- R...
+-R...
+- R...
+-R...
+
+1355
+01:18:54,671 --> 01:18:56,139
+- O... -O... T...
+- O... -O... T...
+
+1356
+01:18:56,273 --> 01:18:58,435
+- T...A... -A...
+- T...A... -A...
+
+1357
+01:18:58,608 --> 01:18:59,666
+- H...
+-H...
+- H...
+-H...
+
+1358
+01:18:59,843 --> 01:19:03,211
+- Q... -Q...
+- Q... -Q...
+
+1359
+01:19:03,380 --> 01:19:06,680
+- U...
+-U...
+- U...
+-U...
+
+1360
+01:19:06,850 --> 01:19:10,343
+- R. -R.
+- R. -R.
+
+1361
+01:19:12,723 --> 01:19:14,919
+My God, you did it.
+
+1362
+01:19:15,092 --> 01:19:19,086
+You just defeated Nazism with a crossword puzzle.
+
+1363
+01:19:19,262 --> 01:19:20,855
+There are five people in the world who know
+
+1364
+01:19:21,031 --> 01:19:22,192
+the position of every ship in the Atlantic.
+
+1365
+01:19:22,365 --> 01:19:23,730
+They're all
+
+1366
+01:19:23,900 --> 01:19:25,561
+- in this room.
+-Oh, good God.
+
+1367
+01:19:25,736 --> 01:19:27,226
+Oh, I don't think even He has the power
+
+1368
+01:19:27,404 --> 01:19:28,565
+- that we do right now. -No.
+
+1369
+01:19:28,739 --> 01:19:30,138
+There's going to be an attack
+
+1370
+01:19:30,307 --> 01:19:31,706
+on a British passenger convoy.
+
+1371
+01:19:31,875 --> 01:19:33,104
+Right there.
+
+1372
+01:19:33,276 --> 01:19:35,472
+God, you're right. All those U-boats are only
+
+1373
+01:19:35,679 --> 01:19:37,169
+- 20, 3O minutes away.
+-Civilians.
+
+1374
+01:19:37,314 --> 01:19:38,941
+Hundreds of them. We can save their lives.
+
+1375
+01:19:39,116 --> 01:19:40,606
+I'll phone Denniston's office so that
+
+1376
+01:19:40,784 --> 01:19:41,910
+- he can alert the Admiralty.
+-Do you think
+
+1377
+01:19:42,085 --> 01:19:43,075
+there's enough time to save them?
+
+1378
+01:19:43,253 --> 01:19:44,345
+There should be,if we can get...
+
+1379
+01:19:44,488 --> 01:19:46,582
+Commander Denniston's office,please. It's urgent.
+
+1380
+01:19:46,757 --> 01:19:47,747
+No.
+
+1381
+01:19:47,924 --> 01:19:49,187
+What the hell are you doing?
+
+1382
+01:19:49,359 --> 01:19:51,191
+You-you can't call Denniston.
+
+1383
+01:19:51,361 --> 01:19:53,261
+You-you can't tell him about the attack.
+
+1384
+01:19:53,430 --> 01:19:55,125
+- What are you talking about?
+-We can have
+
+1385
+01:19:55,298 --> 01:19:56,629
+air support over that convoy in ten minutes.
+
+1386
+01:19:56,800 --> 01:19:57,926
+Let the U-boats...
+
+1387
+01:19:58,101 --> 01:19:59,159
+- sink the convoy.
+-Look, it's been
+
+1388
+01:19:59,369 --> 01:20:00,393
+a big day...maybe you're...
+
+1389
+01:20:00,570 --> 01:20:04,006
+- We don't have time...
+-No!
+
+1390
+01:20:04,174 --> 01:20:05,733
+Oh! Hugh! Hugh!That's enough!
+
+1391
+01:20:05,909 --> 01:20:07,172
+- That's enough!
+-Stop, Hugh!
+
+1392
+01:20:07,344 --> 01:20:08,641
+John, the attack is in minutes.
+
+1393
+01:20:10,180 --> 01:20:11,944
+Yes, no, I'm fine, I'm fine.
+
+1394
+01:20:12,115 --> 01:20:14,607
+I'm fine.
+
+1395
+01:20:14,785 --> 01:20:18,517
+You know why people like violence, Hugh?
+
+1396
+01:20:18,688 --> 01:20:21,453
+It's because it feels good.
+
+1397
+01:20:21,625 --> 01:20:25,084
+Sometimes we can't do what feels good.
+
+1398
+01:20:25,262 --> 01:20:26,923
+We have to do what is logical.
+
+1399
+01:20:27,164 --> 01:20:28,757
+What's logical?
+
+1400
+01:20:28,932 --> 01:20:30,331
+Hardest time to lie to somebody
+
+1401
+01:20:30,500 --> 01:20:32,332
+is when they're expecting to be lied to.
+
+1402
+01:20:32,502 --> 01:20:33,936
+Oh, God.
+
+1403
+01:20:34,104 --> 01:20:35,401
+What?
+
+1404
+01:20:35,572 --> 01:20:36,835
+If someone's waiting for a lie,
+
+1405
+01:20:37,007 --> 01:20:38,497
+you can't just,uh, give them one.
+
+1406
+01:20:40,310 --> 01:20:41,800
+Damn it, Alan's right.
+
+1407
+01:20:41,978 --> 01:20:43,776
+What?
+
+1408
+01:20:43,947 --> 01:20:46,439
+What would the Germans think if we destroy
+
+1409
+01:20:46,616 --> 01:20:48,175
+their U-boats?
+
+1410
+01:20:48,351 --> 01:20:49,944
+Nothing. They'll be dead.
+
+1411
+01:20:50,120 --> 01:20:51,451
+No.
+
+1412
+01:20:51,621 --> 01:20:53,453
+No, you can't be right.
+
+1413
+01:20:53,623 --> 01:20:54,613
+So our convoy
+
+1414
+01:20:54,791 --> 01:20:57,351
+suddenly veers off course...
+
+1415
+01:20:57,527 --> 01:20:59,621
+a squadron of our air bombers
+
+1416
+01:20:59,796 --> 01:21:03,357
+miraculously descends on the coordinates of the U-boats...
+
+1417
+01:21:03,533 --> 01:21:07,333
+what will the Germans think?
+
+1418
+01:21:08,338 --> 01:21:10,432
+The Germans will know
+
+1419
+01:21:10,607 --> 01:21:12,701
+that we have broken Enigma.
+
+1420
+01:21:12,876 --> 01:21:16,835
+They'll stop all radio communications by midday,
+
+1421
+01:21:17,013 --> 01:21:18,538
+and they'll have changed the design of Enigma
+
+1422
+01:21:18,715 --> 01:21:21,650
+- by the weekend.
+-Yes.
+
+1423
+01:21:21,818 --> 01:21:23,718
+Two years' work.
+
+1424
+01:21:23,887 --> 01:21:26,015
+Everything that we've done here
+
+1425
+01:21:26,189 --> 01:21:28,248
+will all be for nothing.
+
+1426
+01:21:28,425 --> 01:21:30,553
+There are 500 civilians in that convoy.
+
+1427
+01:21:30,727 --> 01:21:31,888
+Women...
+
+1428
+01:21:32,062 --> 01:21:34,554
+children.
+
+1429
+01:21:34,731 --> 01:21:36,859
+We're about to let them die.
+
+1430
+01:21:37,033 --> 01:21:38,501
+Our job I-is
+
+1431
+01:21:38,668 --> 01:21:41,296
+not to save one passenger convoy, it is to win
+
+1432
+01:21:41,471 --> 01:21:44,907
+- the war.
+-Our job was to crack Enigma.
+
+1433
+01:21:45,075 --> 01:21:46,941
+We've done that.
+
+1434
+01:21:47,143 --> 01:21:49,237
+Now for the hard part.
+
+1435
+01:21:50,747 --> 01:21:53,011
+- Keeping it a secret.
+-Carlisle.
+
+1436
+01:21:53,183 --> 01:21:55,743
+What?
+
+1437
+01:21:55,919 --> 01:21:58,047
+The convoy you're about to...it's, uh...
+
+1438
+01:21:58,221 --> 01:22:01,247
+The HMS Carlisle is one of the ships.
+
+1439
+01:22:02,859 --> 01:22:05,123
+We can't act on every piece of intelligence.
+
+1440
+01:22:05,295 --> 01:22:07,161
+So fine, we won't.
+
+1441
+01:22:07,297 --> 01:22:08,992
+Just this one.
+
+1442
+01:22:09,165 --> 01:22:11,827
+Peter, what's the matter with you?
+
+1443
+01:22:12,002 --> 01:22:14,471
+My-my brother's...
+
+1444
+01:22:14,638 --> 01:22:17,005
+well, he's on the Carlisle.
+
+1445
+01:22:18,708 --> 01:22:21,336
+A gunnery ensign.
+
+1446
+01:22:23,546 --> 01:22:26,607
+I'm...
+
+1447
+01:22:26,783 --> 01:22:29,047
+I'm so sorry.
+
+1448
+01:22:31,354 --> 01:22:33,948
+Who the hell do you think you are?
+
+1449
+01:22:34,124 --> 01:22:36,092
+This... this is my brother.
+
+1450
+01:22:38,728 --> 01:22:40,253
+He's my big brother,all right, and you have
+
+1451
+01:22:40,430 --> 01:22:41,761
+a few minutes to call off his murder.
+
+1452
+01:22:41,932 --> 01:22:43,866
+We can't.
+
+1453
+01:22:46,303 --> 01:22:48,738
+He's right.
+
+1454
+01:22:48,905 --> 01:22:50,805
+Alan.
+
+1455
+01:22:50,974 --> 01:22:54,239
+Joan.
+
+1456
+01:22:54,411 --> 01:22:55,879
+Hugh.
+
+1457
+01:22:56,046 --> 01:22:58,378
+John.
+
+1458
+01:22:58,515 --> 01:23:00,916
+Please, I...
+
+1459
+01:23:01,084 --> 01:23:02,609
+The-the Germans, they won't get suspicious
+
+1460
+01:23:02,786 --> 01:23:04,413
+just because we stop one attack.
+
+1461
+01:23:04,587 --> 01:23:06,851
+No one will know.
+
+1462
+01:23:07,023 --> 01:23:08,855
+I'm asking you...
+
+1463
+01:23:09,025 --> 01:23:11,289
+as your friend.
+
+1464
+01:23:11,461 --> 01:23:12,986
+Please.
+
+1465
+01:23:16,032 --> 01:23:17,966
+I'm so sorry.
+
+1466
+01:23:18,134 --> 01:23:21,001
+You're not God, Alan...you don't get to decide
+
+1467
+01:23:21,171 --> 01:23:23,162
+who lives and who dies.
+
+1468
+01:23:23,340 --> 01:23:25,672
+Yes, we do.
+
+1469
+01:23:27,911 --> 01:23:29,538
+Why?
+
+1470
+01:23:29,746 --> 01:23:33,182
+Because no one else can.
+
+1471
+01:24:19,596 --> 01:24:21,724
+Why are you telling me this?
+
+1472
+01:24:21,898 --> 01:24:25,630
+We need your help to keep this a secret from...
+
+1473
+01:24:25,769 --> 01:24:29,569
+Admiralty, Army, RAF.
+
+1474
+01:24:29,739 --> 01:24:33,004
+Uh, no one can know we broke Enigma.
+
+1475
+01:24:33,176 --> 01:24:35,076
+Not even Denniston.
+
+1476
+01:24:35,245 --> 01:24:37,839
+Who's in the process of having you fired.
+
+1477
+01:24:38,014 --> 01:24:39,812
+You can take care of that.
+
+1478
+01:24:39,983 --> 01:24:42,543
+While we develop a system to help you determine
+
+1479
+01:24:42,719 --> 01:24:44,244
+how much intelligence
+
+1480
+01:24:44,421 --> 01:24:46,856
+to act on... which a-attacks to stop,
+
+1481
+01:24:47,023 --> 01:24:48,013
+which to let through.
+
+1482
+01:24:48,191 --> 01:24:50,592
+Statistical analysis.
+
+1483
+01:24:50,760 --> 01:24:52,387
+The minimal number of actions
+
+1484
+01:24:52,562 --> 01:24:55,054
+it would take for us to win the war...
+
+1485
+01:24:55,231 --> 01:24:57,598
+but the maximum number we can take
+
+1486
+01:24:57,767 --> 01:25:00,099
+before the Germans get suspicious.
+
+1487
+01:25:00,270 --> 01:25:04,366
+And you're going to trust all this to statistics?
+
+1488
+01:25:04,541 --> 01:25:06,976
+- To maths?
+-Correct.
+
+1489
+01:25:07,143 --> 01:25:09,077
+And then MI6 can come up with the lies
+
+1490
+01:25:09,245 --> 01:25:10,713
+that we tell everybody else.
+
+1491
+01:25:10,880 --> 01:25:14,214
+You'll need a believable alternative source for all
+
+1492
+01:25:14,384 --> 01:25:15,874
+the pieces of information you use.
+
+1493
+01:25:16,052 --> 01:25:18,885
+A false story so that we can explain how we got our information
+
+1494
+01:25:19,055 --> 01:25:20,682
+that has nothing to do with Enigma.
+
+1495
+01:25:20,857 --> 01:25:23,952
+And then you can leak those stories to the, uh, the Germans.
+
+1496
+01:25:24,127 --> 01:25:26,095
+And then to our own military.
+
+1497
+01:25:31,267 --> 01:25:33,395
+Maintain a conspiracy of lies
+
+1498
+01:25:33,570 --> 01:25:36,039
+at the highest levels of government.
+
+1499
+01:25:43,947 --> 01:25:46,780
+Sounds right up my alley.
+
+1500
+01:25:49,986 --> 01:25:52,785
+Alan, I so rarely have cause to say this,
+
+1501
+01:25:52,956 --> 01:25:56,915
+but you are exactly the man I always hoped you would be.
+
+1502
+01:26:10,306 --> 01:26:13,742
+They code-named it "Ultra."
+
+1503
+01:26:13,910 --> 01:26:16,777
+It became the largest store of military intelligence
+
+1504
+01:26:16,946 --> 01:26:19,916
+in, uh...the history of the world.
+
+1505
+01:26:26,990 --> 01:26:30,927
+It was like having a tap on Himmler's intercom.
+
+1506
+01:26:31,060 --> 01:26:33,119
+I-E-O...
+I-E-O...
+
+1507
+01:26:34,931 --> 01:26:37,229
+Secrecy became the primary concern,
+
+1508
+01:26:37,433 --> 01:26:40,994
+and for some reason, they...they trusted me.
+
+1509
+01:26:42,305 --> 01:26:44,672
+Peter... do you have the, uh,
+
+1510
+01:26:44,841 --> 01:26:46,809
+the-the 630 decryp...
+
+1511
+01:27:25,415 --> 01:27:27,179
+...it's a Beale cipher
+
+1512
+01:27:27,350 --> 01:27:28,977
+encrypted with a phrase from a book or...
+
+1513
+01:27:29,152 --> 01:27:31,348
+"Ask,and it will be given to you;
+
+1514
+01:27:31,521 --> 01:27:33,649
+seek and you will find."Matthew 7:7.
+
+1515
+01:27:33,823 --> 01:27:35,985
+That was the key.
+
+1516
+01:27:36,159 --> 01:27:38,719
+Peter will come around eventually.
+
+1517
+01:27:46,536 --> 01:27:48,766
+Jack.
+
+1518
+01:27:48,938 --> 01:27:52,602
+Could you give Alan and me a moment, please?
+
+1519
+01:28:02,785 --> 01:28:04,116
+The Soviets and us,
+
+1520
+01:28:04,287 --> 01:28:06,221
+we're on the same side.
+
+1521
+01:28:06,389 --> 01:28:09,222
+What I'm doing will help Britain.
+
+1522
+01:28:09,392 --> 01:28:12,054
+L-I have to tell Denniston.
+
+1523
+01:28:12,228 --> 01:28:15,254
+No, you don't.
+
+1524
+01:28:15,431 --> 01:28:17,525
+Because if you tell him my secret...
+
+1525
+01:28:17,700 --> 01:28:19,964
+I'll tell him yours.
+
+1526
+01:28:21,738 --> 01:28:25,140
+Do you know what they do to homosexuals?
+
+1527
+01:28:25,308 --> 01:28:27,140
+You'll never be able to work again,
+
+1528
+01:28:27,310 --> 01:28:29,176
+never be able to teach.
+
+1529
+01:28:29,379 --> 01:28:31,313
+Your precious machine...
+
+1530
+01:28:31,481 --> 01:28:33,916
+I doubt you'll ever see him again.
+
+1531
+01:28:49,932 --> 01:28:51,923
+Hello. Can I... can I, um,
+
+1532
+01:28:52,101 --> 01:28:54,229
+speak to Stewart Menzies, please? It's urgent.
+
+1533
+01:28:54,404 --> 01:28:56,498
+One moment, please.
+
+1534
+01:28:59,642 --> 01:29:01,610
+Hello. Menzies.
+
+1535
+01:29:04,414 --> 01:29:07,076
+Some advice about keeping secrets.
+
+1536
+01:29:10,119 --> 01:29:14,283
+It's a lot easier if you don't know them in the first place.
+
+1537
+01:29:14,457 --> 01:29:18,018
+Were they steaming my letters,tapping my telephone?
+
+1538
+01:29:19,462 --> 01:29:22,193
+Trailing my nervous walks?
+
+1539
+01:29:22,365 --> 01:29:24,993
+You know, I...
+
+1540
+01:29:25,168 --> 01:29:27,136
+I never did find out.
+
+1541
+01:29:27,303 --> 01:29:29,362
+Joan?
+
+1542
+01:29:32,675 --> 01:29:34,109
+Joan?
+
+1543
+01:29:34,277 --> 01:29:36,041
+What's...
+
+1544
+01:29:38,114 --> 01:29:39,445
+Uh...
+
+1545
+01:29:39,615 --> 01:29:41,310
+where's Joan?
+
+1546
+01:29:41,484 --> 01:29:43,612
+Military prison.
+
+1547
+01:29:45,355 --> 01:29:47,153
+What have you done?
+
+1548
+01:29:47,323 --> 01:29:50,190
+Decoded Enigma intercepts.I found a pile of them
+
+1549
+01:29:50,360 --> 01:29:53,887
+- in the bedside table.
+-No, no. I-l gave those to her
+
+1550
+01:29:54,063 --> 01:29:56,327
+over a year ago when I was trying to figure out
+
+1551
+01:29:56,499 --> 01:29:58,661
+- a link between...
+-I'm sure you did.
+
+1552
+01:29:58,835 --> 01:30:00,633
+Denniston's been looking for a Soviet spy.
+
+1553
+01:30:00,803 --> 01:30:03,295
+He's been looking inside Hut 8.
+
+1554
+01:30:04,374 --> 01:30:05,842
+I know who the spy is.
+
+1555
+01:30:07,510 --> 01:30:10,343
+It's not Joan.It's...
+
+1556
+01:30:10,513 --> 01:30:12,743
+it's Cairncross.
+
+1557
+01:30:12,915 --> 01:30:15,179
+L-I found the Beale cipher,
+
+1558
+01:30:15,351 --> 01:30:17,183
+the Bible.
+
+1559
+01:30:17,353 --> 01:30:20,323
+God, I wish you'd been a spy.
+
+1560
+01:30:20,490 --> 01:30:23,357
+You'd be so much better at this than he is.
+
+1561
+01:30:24,865 --> 01:30:25,899
+You knew it was him?
+
+1562
+01:30:26,329 --> 01:30:28,354
+Of course I bloody knew.
+
+1563
+01:30:28,531 --> 01:30:30,590
+I knew before he came to Bletchley.
+
+1564
+01:30:30,767 --> 01:30:33,361
+Why do you think I had him placed here?
+
+1565
+01:30:33,536 --> 01:30:36,062
+But we have an Enigma machine.
+
+1566
+01:30:36,239 --> 01:30:37,729
+Yeah, Polish Intelligence...
+
+1567
+01:30:37,907 --> 01:30:39,102
+You-you placed
+
+1568
+01:30:39,275 --> 01:30:43,837
+a... a Soviet agent at Bletchley Park?
+
+1569
+01:30:44,013 --> 01:30:45,344
+It's really quite useful to be able
+
+1570
+01:30:45,515 --> 01:30:47,108
+to leak whatever we want to Stalin.
+
+1571
+01:30:47,283 --> 01:30:50,116
+Churchill's too damn paranoid.
+
+1572
+01:30:50,286 --> 01:30:52,380
+He won't share a shred of intelligence
+
+1573
+01:30:52,555 --> 01:30:54,683
+with the Soviets.
+
+1574
+01:30:54,857 --> 01:30:57,588
+Not even information that will help them against the Germans.
+
+1575
+01:30:57,760 --> 01:30:59,228
+There's...
+
+1576
+01:30:59,395 --> 01:31:01,022
+so much secrecy.
+
+1577
+01:31:02,532 --> 01:31:05,524
+Cairncross has no idea we know, of course.
+
+1578
+01:31:05,701 --> 01:31:09,103
+He's really not the brightest bulb.
+
+1579
+01:31:09,272 --> 01:31:10,706
+Which is why I need your help.
+
+1580
+01:31:10,873 --> 01:31:12,898
+I want to know what to leak to John,
+
+1581
+01:31:13,075 --> 01:31:14,236
+what to feed to the Soviets,
+
+1582
+01:31:14,410 --> 01:31:16,276
+as well as the British.
+
+1583
+01:31:16,446 --> 01:31:19,746
+I... I'm not a spy.
+
+1584
+01:31:19,916 --> 01:31:23,079
+I'm... I'm just a mathematician.
+
+1585
+01:31:24,220 --> 01:31:27,053
+I know a lot of spies, Alan.
+
+1586
+01:31:27,223 --> 01:31:30,454
+You've got more secrets than the best of them.
+
+1587
+01:31:34,831 --> 01:31:38,426
+You... you have to promise me that you will release Joan.
+
+1588
+01:31:38,427 --> 01:31:40,727
+Yes, John's at the market
+
+1589
+01:31:40,603 --> 01:31:43,129
+She's gonna be back in an hour. I lied.
+
+1590
+01:31:44,207 --> 01:31:47,074
+I better hold on to these.
+
+1591
+01:31:47,243 --> 01:31:48,677
+If anybody finds out about them,
+
+1592
+01:31:48,845 --> 01:31:51,610
+prison will be the least of her worries.
+
+1593
+01:31:53,649 --> 01:31:55,674
+Oh,Alan...
+
+1594
+01:31:55,852 --> 01:31:59,083
+we're gonna have such a wonderful war together.
+
+1595
+01:32:17,473 --> 01:32:20,135
+I need you to leave Bletchley.
+
+1596
+01:32:20,309 --> 01:32:22,937
+- What?
+-It's Menzies. I don't trust him.
+
+1597
+01:32:23,112 --> 01:32:26,446
+-It's not safe here.
+-Do you think it's any safer
+
+1598
+01:32:26,616 --> 01:32:27,947
+- anywhere else?
+-You need to get away.
+
+1599
+01:32:28,117 --> 01:32:29,642
+You need to get very far away from me.
+
+1600
+01:32:29,819 --> 01:32:31,981
+Alan, what's happened?
+
+1601
+01:32:34,991 --> 01:32:36,891
+We can't be engaged anymore.
+
+1602
+01:32:37,059 --> 01:32:39,118
+You... your parents need to take you back
+
+1603
+01:32:39,295 --> 01:32:41,559
+and find you a husband elsewhere.
+
+1604
+01:32:42,665 --> 01:32:44,656
+What's wrong with you?
+
+1605
+01:32:46,469 --> 01:32:49,336
+I have something, uh, uh, to tell you.
+
+1606
+01:32:49,505 --> 01:32:51,473
+I'm...
+
+1607
+01:32:54,010 --> 01:32:56,104
+I'm a homosexual.
+
+1608
+01:32:58,481 --> 01:33:00,142
+All right.
+
+1609
+01:33:00,316 --> 01:33:02,808
+No, no. M-Men, Joan...
+
+1610
+01:33:02,985 --> 01:33:04,919
+uh, not women.
+
+1611
+01:33:05,087 --> 01:33:07,146
+- So what?
+-Well,
+
+1612
+01:33:07,323 --> 01:33:08,347
+I-I just told you.
+
+1613
+01:33:08,524 --> 01:33:10,458
+So what?
+
+1614
+01:33:12,862 --> 01:33:15,388
+I had my suspicions;I always did.
+
+1615
+01:33:15,565 --> 01:33:17,556
+But we're not like other people.
+
+1616
+01:33:17,733 --> 01:33:19,701
+We love each other in our own way,
+
+1617
+01:33:19,869 --> 01:33:22,270
+and we can have the life together that we want.
+
+1618
+01:33:22,438 --> 01:33:24,998
+You-you... you won't be the perfect husband.
+
+1619
+01:33:25,174 --> 01:33:26,539
+Well,I can promise you,
+
+1620
+01:33:26,709 --> 01:33:28,973
+I have no intention of being the perfect wife.
+
+1621
+01:33:29,178 --> 01:33:31,613
+I'll not be... fixing your lamb all day
+
+1622
+01:33:31,781 --> 01:33:33,772
+while you come home from the office.
+
+1623
+01:33:33,950 --> 01:33:35,611
+I'll work.
+
+1624
+01:33:35,785 --> 01:33:37,719
+You'll work.
+
+1625
+01:33:39,355 --> 01:33:42,120
+And we'll have each other's company.
+
+1626
+01:33:42,291 --> 01:33:44,123
+We'll have each other's minds.
+
+1627
+01:33:44,293 --> 01:33:47,228
+That sounds like a better marriage than most.
+
+1628
+01:33:49,799 --> 01:33:52,791
+Because I care for you.
+
+1629
+01:33:52,969 --> 01:33:56,735
+And you care for me.
+
+1630
+01:33:56,906 --> 01:33:58,431
+And we understand one another more than...
+
+1631
+01:33:58,608 --> 01:34:01,202
+more than anyone else ever has.
+
+1632
+01:34:02,845 --> 01:34:04,574
+I don't.
+
+1633
+01:34:07,083 --> 01:34:10,417
+- What?
+-Care for you.
+
+1634
+01:34:10,586 --> 01:34:12,076
+I never did.
+
+1635
+01:34:12,254 --> 01:34:14,916
+L-I just needed you to break Enigma.
+
+1636
+01:34:15,091 --> 01:34:18,186
+I've done that now, so... so you can go.
+
+1637
+01:34:23,766 --> 01:34:25,996
+I'm not going anywhere.
+
+1638
+01:34:26,168 --> 01:34:28,432
+I've spent entirely too much of my life
+
+1639
+01:34:28,604 --> 01:34:30,504
+worried about what you think of me,
+
+1640
+01:34:30,673 --> 01:34:32,141
+or what my parents think of me,
+
+1641
+01:34:32,308 --> 01:34:34,743
+or the boys in Hut 8 or the girls in Hut 3.
+
+1642
+01:34:34,910 --> 01:34:36,435
+And do you know what? I'm done.
+
+1643
+01:34:36,612 --> 01:34:40,674
+This is the most important work I will ever do,
+
+1644
+01:34:40,850 --> 01:34:43,148
+and no one is going to stop me.
+
+1645
+01:34:43,319 --> 01:34:44,809
+Least of all, you.
+
+1646
+01:34:47,356 --> 01:34:50,348
+You know what, they were right.
+
+1647
+01:34:50,526 --> 01:34:53,461
+Peter, Hugh, John.
+
+1648
+01:34:56,432 --> 01:34:58,628
+You really are a monster.
+
+1649
+01:35:15,885 --> 01:35:19,219
+The war dragged on for two more...
+
+1650
+01:35:19,388 --> 01:35:22,688
+solitary years...
+
+1651
+01:35:22,858 --> 01:35:24,986
+and every day we performed
+
+1652
+01:35:25,161 --> 01:35:28,791
+our blood-soaked calculus.
+
+1653
+01:35:28,964 --> 01:35:33,333
+Every day we decided who lived and who died.
+
+1654
+01:35:33,502 --> 01:35:34,799
+Every day we...
+
+1655
+01:35:34,970 --> 01:35:38,998
+helped the Allies to victories,and nobody knew.
+
+1656
+01:35:42,144 --> 01:35:45,011
+Stalingrad.
+
+1657
+01:35:45,181 --> 01:35:46,376
+The Ardenne.
+
+1658
+01:35:46,549 --> 01:35:48,039
+The invasion of Normandy.
+
+1659
+01:35:48,217 --> 01:35:50,845
+All victories that would not have been possible
+
+1660
+01:35:51,020 --> 01:35:53,648
+without the intelligence that we supplied.
+
+1661
+01:35:54,990 --> 01:35:56,651
+And people...
+
+1662
+01:35:56,792 --> 01:36:00,820
+talk about the war as this epic battle between, um...
+
+1663
+01:36:00,996 --> 01:36:03,363
+civilizations...
+
+1664
+01:36:03,532 --> 01:36:05,364
+freedom versus tyranny,
+
+1665
+01:36:05,534 --> 01:36:08,401
+democracy versus Nazism,
+
+1666
+01:36:08,571 --> 01:36:10,335
+armies of millions
+
+1667
+01:36:10,506 --> 01:36:12,133
+bleeding into the ground,
+
+1668
+01:36:12,341 --> 01:36:16,244
+fleets of ships weighing down the oceans,
+
+1669
+01:36:16,412 --> 01:36:18,107
+planes dropping bombs from the sky
+
+1670
+01:36:18,280 --> 01:36:20,749
+until they obliterated the sun itself...
+
+1671
+01:36:22,284 --> 01:36:25,948
+The war wasn't like that for us.
+
+1672
+01:36:27,289 --> 01:36:29,223
+For us, it was just...
+
+1673
+01:36:30,893 --> 01:36:32,884
+...half a dozen crossword enthusiasts
+
+1674
+01:36:33,062 --> 01:36:36,225
+in a tiny village in the South of England.
+
+1675
+01:36:36,398 --> 01:36:38,423
+This is...
+
+1676
+01:36:38,601 --> 01:36:40,433
+your victory.
+
+1677
+01:36:40,603 --> 01:36:43,800
+Victory...
+
+1678
+01:36:43,973 --> 01:36:45,998
+of the cause of freedom
+
+1679
+01:36:46,208 --> 01:36:47,767
+in every land.
+
+1680
+01:36:52,281 --> 01:36:56,081
+This is a solemn but glorious hour.
+
+1681
+01:36:56,252 --> 01:36:59,244
+I wish that Franklin D. Roosevelt
+
+1682
+01:36:59,421 --> 01:37:01,480
+had lived to see this day.
+
+1683
+01:37:01,657 --> 01:37:02,988
+Was I God?
+
+1684
+01:37:03,159 --> 01:37:05,218
+No. Because...
+
+1685
+01:37:05,394 --> 01:37:07,920
+God didn't win the war.
+
+1686
+01:37:08,097 --> 01:37:10,122
+We did.
+
+1687
+01:37:22,845 --> 01:37:26,247
+So, what happens now?
+
+1688
+01:37:26,415 --> 01:37:30,181
+Is it... back to university for us, I suppose?
+
+1689
+01:37:30,352 --> 01:37:31,911
+Yes, pretty much.
+
+1690
+01:37:32,087 --> 01:37:33,418
+But you've one thing left to do
+
+1691
+01:37:33,589 --> 01:37:34,681
+before your service to your government
+
+1692
+01:37:34,857 --> 01:37:36,916
+- in concluded.
+-What's that?
+
+1693
+01:37:37,092 --> 01:37:38,924
+Burn everything.
+
+1694
+01:37:39,094 --> 01:37:41,119
+- Burn? Why?
+-You were told when you started
+
+1695
+01:37:41,297 --> 01:37:46,030
+This was a top-secret program...did you think we were joking?
+
+1696
+01:37:46,202 --> 01:37:47,931
+- But the war is over.
+-This war is.
+
+1697
+01:37:48,103 --> 01:37:49,798
+But there'll be others.
+
+1698
+01:37:49,972 --> 01:37:52,168
+And we know how to break a code
+
+1699
+01:37:52,341 --> 01:37:55,606
+that everybody else believes is unbreakable.
+
+1700
+01:37:55,778 --> 01:37:58,179
+Precisely.
+
+1701
+01:37:58,347 --> 01:38:00,645
+Tear it down.Light it up.
+
+1702
+01:38:00,816 --> 01:38:02,341
+Sweep away the ashes.
+
+1703
+01:38:02,518 --> 01:38:03,883
+None of you have ever met before.
+
+1704
+01:38:04,053 --> 01:38:07,455
+None of you have ever even heard the word Enigma.
+
+1705
+01:38:08,991 --> 01:38:11,722
+Have a safe trip home.
+
+1706
+01:38:14,063 --> 01:38:17,328
+Behave. With a bit of luck, you'll never have
+
+1707
+01:38:17,499 --> 01:38:20,958
+to see me or one another again for the rest of your lives.
+
+1708
+01:38:35,918 --> 01:38:39,218
+That's unbelievable.
+
+1709
+01:38:40,389 --> 01:38:43,552
+Now, Detective,
+
+1710
+01:38:43,726 --> 01:38:45,888
+you get to judge.
+
+1711
+01:38:47,563 --> 01:38:51,227
+So, tell me...
+
+1712
+01:38:51,400 --> 01:38:53,425
+what am I?
+
+1713
+01:38:54,503 --> 01:38:56,164
+Mm, am I...
+
+1714
+01:38:56,338 --> 01:38:57,464
+a machine?
+
+1715
+01:38:57,673 --> 01:38:59,937
+Am I a person?
+
+1716
+01:39:00,109 --> 01:39:02,601
+Am I a war hero?
+
+1717
+01:39:04,647 --> 01:39:07,275
+Am I a criminal?
+
+1718
+01:39:10,552 --> 01:39:12,782
+I can't judge you.
+
+1719
+01:39:15,557 --> 01:39:17,889
+Well, then...
+
+1720
+01:39:20,396 --> 01:39:23,730
+...you're no help to me at all.
+
+1721
+01:39:25,301 --> 01:39:27,463
+Come in.
+
+1722
+01:39:32,207 --> 01:39:34,437
+You wanted to see me, sir?
+
+1723
+01:39:34,610 --> 01:39:36,510
+Turing. Sit down.
+
+1724
+01:39:48,290 --> 01:39:50,657
+Something the matter?
+
+1725
+01:39:50,826 --> 01:39:53,659
+You and Christopher Morcom are quite close.
+
+1726
+01:39:53,829 --> 01:39:55,024
+I wouldn't say that.
+
+1727
+01:39:55,230 --> 01:39:56,629
+Well, your mathematics teacher
+
+1728
+01:39:56,799 --> 01:39:58,893
+says the two of you are positively inseparable.
+
+1729
+01:39:59,034 --> 01:40:01,230
+We're the best students in the class.
+
+1730
+01:40:01,403 --> 01:40:03,770
+He caught you passing notes the other day.
+
+1731
+01:40:03,939 --> 01:40:07,068
+Cryptography, to pass the time. The class is too simple.
+
+1732
+01:40:07,242 --> 01:40:10,678
+You and your friend solve maths problems during maths class
+
+1733
+01:40:10,846 --> 01:40:12,905
+because the maths class is too dull?
+
+1734
+01:40:13,082 --> 01:40:14,914
+He's not my friend.
+
+1735
+01:40:15,084 --> 01:40:17,348
+Well, I'm told he's your only friend.
+
+1736
+01:40:17,519 --> 01:40:19,146
+Who said that?
+
+1737
+01:40:21,523 --> 01:40:24,925
+Something's come up concerning Morcom.
+
+1738
+01:40:25,094 --> 01:40:27,461
+Why am I here?
+
+1739
+01:40:29,598 --> 01:40:32,795
+Christopher is dead.
+
+1740
+01:40:39,341 --> 01:40:41,207
+I don't understand.
+
+1741
+01:40:41,377 --> 01:40:43,368
+His mother sent word this morning.
+
+1742
+01:40:43,545 --> 01:40:46,037
+The family were on holiday, you see.
+
+1743
+01:40:50,019 --> 01:40:51,851
+I don't understand.
+
+1744
+01:40:52,021 --> 01:40:54,547
+Well, he had bovine tuberculosis,
+
+1745
+01:40:54,723 --> 01:40:56,953
+as I'm sure he told you.
+
+1746
+01:40:57,126 --> 01:40:59,458
+So this won't come as a shock, but...
+
+1747
+01:40:59,628 --> 01:41:01,722
+still, all the same,
+
+1748
+01:41:01,897 --> 01:41:04,491
+I'm sorry.
+
+1749
+01:41:04,666 --> 01:41:07,567
+You're mistaken.
+
+1750
+01:41:07,736 --> 01:41:10,205
+Did he not tell you?
+
+1751
+01:41:10,372 --> 01:41:13,000
+Well, he's been sick for a long time.
+
+1752
+01:41:13,175 --> 01:41:15,701
+He knew this was coming soon.
+
+1753
+01:41:15,878 --> 01:41:18,404
+But he had a stiff upper lip about it.
+
+1754
+01:41:18,580 --> 01:41:21,072
+Good lad.
+
+1755
+01:41:21,250 --> 01:41:23,878
+- Are you all right, Turing?
+-Yes. Of course.
+
+1756
+01:41:24,053 --> 01:41:26,750
+Like I said,I didn't know him very well.
+
+1757
+01:41:26,922 --> 01:41:29,448
+Ah. I see.
+
+1758
+01:41:29,658 --> 01:41:31,592
+Very well.
+
+1759
+01:41:34,563 --> 01:41:37,089
+May I leave, Headmaster?
+
+1760
+01:41:51,613 --> 01:41:54,048
+Congratulations, sir.
+
+1761
+01:42:20,242 --> 01:42:21,767
+Sorry.
+
+1762
+01:42:26,148 --> 01:42:28,014
+I would have come.
+
+1763
+01:42:28,217 --> 01:42:29,981
+I would have testified.
+
+1764
+01:42:30,152 --> 01:42:32,644
+And what would you have said,that I, uh...
+
+1765
+01:42:32,821 --> 01:42:34,880
+I wasn't a homosexual.
+
+1766
+01:42:35,057 --> 01:42:37,082
+Alan... this is serious.
+
+1767
+01:42:37,259 --> 01:42:38,590
+They could send you to jail.
+
+1768
+01:42:38,760 --> 01:42:41,229
+Damn it.
+
+1769
+01:42:41,363 --> 01:42:43,889
+Your hands.You're twitching.
+
+1770
+01:42:44,066 --> 01:42:46,330
+No-no, I'm not.
+
+1771
+01:42:46,502 --> 01:42:47,799
+- Alan.
+-Uh...
+
+1772
+01:42:49,671 --> 01:42:52,231
+It's the medication.
+
+1773
+01:42:52,407 --> 01:42:54,307
+The medication?
+
+1774
+01:42:54,476 --> 01:42:57,776
+Uh, well, the judge gave me, um, a choice...
+
+1775
+01:42:57,946 --> 01:43:00,779
+uh, ei-either two years in prison
+
+1776
+01:43:00,949 --> 01:43:03,646
+or... ho-hormonal therapy.
+
+1777
+01:43:03,819 --> 01:43:05,184
+Oh, my God.
+
+1778
+01:43:05,354 --> 01:43:06,617
+Oh, my God.
+
+1779
+01:43:06,788 --> 01:43:08,620
+Yes, yes, that's right.
+
+1780
+01:43:08,790 --> 01:43:10,622
+Chemical castration.
+
+1781
+01:43:10,792 --> 01:43:13,318
+Um, to, uh, to cure me of my, um...
+
+1782
+01:43:13,495 --> 01:43:15,589
+homosexual predilections.
+
+1783
+01:43:15,764 --> 01:43:17,926
+Well, of course I chose that.
+
+1784
+01:43:18,100 --> 01:43:20,626
+I mean, I... couldn't...
+
+1785
+01:43:20,802 --> 01:43:23,134
+work in prison, and, uh...
+
+1786
+01:43:23,305 --> 01:43:24,602
+All right.
+
+1787
+01:43:26,942 --> 01:43:28,569
+Now, I-I'm going to speak to your doctors.
+
+1788
+01:43:28,777 --> 01:43:31,838
+- I'm going to speak to your lawyers.
+-I'm-I'm fine.
+
+1789
+01:43:32,014 --> 01:43:35,109
+- Please let me help you.
+-No, I, uh, don't need your help,
+
+1790
+01:43:35,284 --> 01:43:36,513
+thank you.
+
+1791
+01:43:36,685 --> 01:43:38,710
+Alan, you do not have to do this alone.
+
+1792
+01:43:40,055 --> 01:43:42,149
+I'm not alone.
+
+1793
+01:43:45,327 --> 01:43:48,297
+Never have been.
+
+1794
+01:43:50,999 --> 01:43:54,162
+Christopher's become so smart.
+
+1795
+01:43:57,039 --> 01:43:59,701
+If-if I don't continue my treatment,
+
+1796
+01:43:59,875 --> 01:44:02,173
+then they'll, um...
+
+1797
+01:44:04,546 --> 01:44:07,174
+...they'll take him away from me.
+
+1798
+01:44:08,584 --> 01:44:10,177
+You...
+
+1799
+01:44:12,487 --> 01:44:16,253
+You-you can't let them do that. You can't.
+
+1800
+01:44:17,726 --> 01:44:20,991
+You... you can't let them leave me alone.
+
+1801
+01:44:22,831 --> 01:44:25,493
+I don't...I don't want to be alone.
+
+1802
+01:44:25,667 --> 01:44:28,830
+- I don't want to be alone.
+-All ri... all right, all right.
+
+1803
+01:44:29,004 --> 01:44:30,199
+All right.
+
+1804
+01:44:31,740 --> 01:44:34,334
+It's all right.Come and sit down.
+
+1805
+01:44:36,545 --> 01:44:38,035
+It's all right.
+
+1806
+01:44:38,213 --> 01:44:40,113
+Come and sit down.
+
+1807
+01:44:41,850 --> 01:44:44,444
+It's all right.
+
+1808
+01:44:55,764 --> 01:44:57,630
+Oh, well, that's a...
+
+1809
+01:44:57,799 --> 01:44:59,927
+that's a much nicer ring
+
+1810
+01:45:00,102 --> 01:45:02,594
+than the one I-l made you.
+
+1811
+01:45:02,771 --> 01:45:05,069
+Yes. His name's Jock.
+
+1812
+01:45:05,240 --> 01:45:06,935
+He's an Army man,
+
+1813
+01:45:07,109 --> 01:45:08,770
+if you can believe it.
+
+1814
+01:45:08,944 --> 01:45:12,244
+We work together.
+
+1815
+01:45:13,815 --> 01:45:17,410
+Why don't we do a crossword puzzle.
+
+1816
+01:45:17,586 --> 01:45:20,385
+It'll only take us five minutes.
+
+1817
+01:45:20,555 --> 01:45:22,080
+Or, in your case, six.
+
+1818
+01:45:27,162 --> 01:45:29,130
+There.
+
+1819
+01:45:34,803 --> 01:45:37,135
+Uh...
+
+1820
+01:45:44,579 --> 01:45:45,978
+Uh...
+
+1821
+01:45:51,920 --> 01:45:54,321
+Uh, p... perhaps later.
+
+1822
+01:45:54,489 --> 01:45:56,617
+Yes, of course.
+
+1823
+01:46:01,663 --> 01:46:04,860
+You-you got what you wanted, didn't you?
+
+1824
+01:46:05,033 --> 01:46:07,968
+Work, a husband.
+
+1825
+01:46:08,136 --> 01:46:10,867
+Normal life.
+
+1826
+01:46:20,549 --> 01:46:23,541
+No one normal could have done that.
+
+1827
+01:46:26,555 --> 01:46:28,387
+Do you know, this morning...
+
+1828
+01:46:28,557 --> 01:46:31,618
+I was on a train
+
+1829
+01:46:31,793 --> 01:46:34,319
+that went through a city that wouldn't exist
+
+1830
+01:46:34,496 --> 01:46:36,965
+if it wasn't for you.
+
+1831
+01:46:37,132 --> 01:46:40,363
+I bought a ticket from a man
+
+1832
+01:46:40,535 --> 01:46:44,062
+who would likely be dead if it wasn't for you.
+
+1833
+01:46:44,239 --> 01:46:45,832
+I read up
+on my work...
+
+1834
+01:46:48,343 --> 01:46:51,904
+a whole field of scientific inquiry
+
+1835
+01:46:52,080 --> 01:46:55,311
+that only exists because of you.
+
+1836
+01:46:58,320 --> 01:47:02,882
+Now, if you wish you could have been normal...
+
+1837
+01:47:03,058 --> 01:47:05,993
+I can promise you I do not.
+
+1838
+01:47:07,996 --> 01:47:10,590
+The world is an infinitely better place
+
+1839
+01:47:10,766 --> 01:47:13,497
+precisely because you weren't.
+
+1840
+01:47:16,905 --> 01:47:17,895
+Do you...
+
+1841
+01:47:18,073 --> 01:47:21,373
+do you really think that?
+
+1842
+01:47:22,511 --> 01:47:24,502
+I think...
+
+1843
+01:47:24,646 --> 01:47:26,546
+that sometimes it is the people
+
+1844
+01:47:26,715 --> 01:47:29,082
+who no one imagines anything of
+
+1845
+01:47:29,251 --> 01:47:31,413
+who do the things
+
+1846
+01:47:31,586 --> 01:47:35,079
+that no one can imagine.
+
