@@ -21,4 +21,4 @@
 	IMDB code, english_title (except made in brazil), release year, imdb score,my score
 
 ###TODO
-#####extract_new_movies.py
+#####Extract tags
