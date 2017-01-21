@@ -11,7 +11,7 @@ import nltk
 from shutil import copyfile
 import urllib2
 import os
-from config import *
+from environment import *
 
 
 def getTags(title_code): 	
@@ -38,42 +38,42 @@ def getTags(title_code):
 	return tags
 
 def catchTags():
-	test_srt_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TEST)
-	test_srt_movies_file = dict([('tt'+i.split('_tt')[1].split('.')[0],i.split('_tt')[0]) for i in test_srt_movies_file[1:]])
+	watched_movies = open(FILE_WATCHED_DATA).read().split('\n')
+	watched_movies = dict([(i.split(';')[0],i.split(';')[1]) for i in watched_movies])
+	watchlist_movies = open(FILE_WATCHLIST_DATA).read().split('\n')
+	watchlist_movies = dict([(i.split(';')[0],i.split(';')[1]) for i in watchlist_movies])
 
-	train_srt_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_SRT_TRAIN)
-	train_srt_movies_file = dict([('tt'+i.split('_tt')[1].split('.')[0],i.split('_tt')[0]) for i in train_srt_movies_file[1:]])
 
-	test_tag_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_TEST_TAGS)
+	test_tag_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_TAG_TEST)
 	test_tag_movies_file = ['tt'+i.split('_tt')[1].split('.')[0] for i in test_tag_movies_file[1:]]
 
-	train_tag_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_TRAIN_TAGS)
+	train_tag_movies_file = os.listdir(os.getcwd()+'/'+FOLDER_TAG_TRAIN)
 	train_tag_movies_file = ['tt'+i.split('_tt')[1].split('.')[0] for i in train_tag_movies_file[1:]]
 
 	
-	for code_imdb,movie_name in test_srt_movies_file.iteritems():
+	for code_imdb,movie_name in watchlist_movies.iteritems():
 		if code_imdb not in test_tag_movies_file:
 			
 			tags = getTags(code_imdb)
-			tags_writer = open('%s/%s_%s.tags' % (FOLDER_TEST_TAGS,movie_name,code_imdb),'w')
+			tags_writer = open('%s/%s_%s.tags' % (FOLDER_TAG_TEST,movie_name,code_imdb),'w')
 			for key,values in tags.iteritems():
 				tags_writer.write('%s;#;%d;#;%d\n' % (key,values[0],values[1]))
 			print 'Tag',code_imdb,'test processed'
 
-	for code_imdb,movie_name in train_srt_movies_file.iteritems():
+	for code_imdb,movie_name in watched_movies.iteritems():
 		if code_imdb not in train_tag_movies_file:
 			
 			tags = getTags(code_imdb)
-			tags_writer = open('%s/%s_%s.tags' % (FOLDER_TRAIN_TAGS,movie_name,code_imdb),'w')
+			tags_writer = open('%s/%s_%s.tags' % (FOLDER_TAG_TRAIN,movie_name,code_imdb),'w')
 			for key,values in tags.iteritems():
 				tags_writer.write('%s;#;%d;#;%d\n' % (key,values[0],values[1]))
 			print 'Tag',code_imdb,'train processed'
 
 def trainTags():
-	movies_ranked = open(PATH__WATCHED_MOVIES).read().split('\n')
-	movies = dict([(m.split(';')[0],int(m.split(';')[1])) for m in movies_ranked])
+	movies_ranked = open(FILE_WATCHED_DATA).read().split('\n')
+	movies = dict([(m.split(';')[0],int(m.split(';')[4])) for m in movies_ranked])
 	score_tags = {}
-	path = os.getcwd()+'/'+FOLDER_TRAIN_TAGS
+	path = os.getcwd()+'/'+FOLDER_TAG_TRAIN
 	files = os.listdir(path)
 
 	if '.DS_Store' in files:
@@ -99,7 +99,7 @@ def trainTags():
 				for i in xrange(c1+1):
 					score_tags[tag].append(movies[tag_movie])
 
-	tag_file = open(PATH__TRAIN_TAGS,'w')
+	tag_file = open(FILE_TRAIN_TAG,'w')
 	for tag,scores in score_tags.iteritems():
 		tag_file.write('%s;%1.2f\n' % (tag,sum(scores)/float(len(scores))))
 
@@ -108,9 +108,9 @@ def trainTags():
 
 def testTags():
 	score_movies = {}
-	path = os.getcwd()+'/'+FOLDER_TEST_TAGS
+	path = os.getcwd()+'/'+FOLDER_TAG_TEST
 	files = os.listdir(path)
-	tags_train = open(PATH__TRAIN_TAGS).read().split('\n')
+	tags_train = open(FILE_TRAIN_TAG).read().split('\n')
 	tags_train = dict([(t.split(';')[0],float(t.split(';')[1])) for t in tags_train[0:-1]])
 	best_tags = {}
 
@@ -164,7 +164,9 @@ def testTags():
 		prepositions = ['aboard', 'about', 'above', 'across', 'after', 'against', 'along', 'amid', 'among', 'anti', 'around', 'as', 'at', 'before', 'behind', 'below', 'beneath', 'beside', 'besides', 'between', 'beyond', 'but', 'by', 'concerning', 'considering', 'despite', 'down', 'during', 'except', 'excepting', 'excluding', 'following', 'for', 'from', 'in', 'inside', 'into', 'like', 'minus', 'near', 'of', 'off', 'on', 'onto', 'opposite', 'outside', 'over', 'past', 'per', 'plus', 'regarding', 'round', 'save', 'since', 'than', 'through', 'to', 'toward', 'towards', 'under', 'underneath', 'unlike', 'until', 'up', 'upon', 'versus', 'via', 'with', 'within', 'without']
 		pronouns = ['name','one','no','not','i', 'am', 'you', 'yours', 'their', 'theirs', 'him', 'her', 'mine', 'yours', 'to', 'a', 'we', 'ours','the','title','character','new']
 		while index_tags_frequency <= 3:
-
+			if len(most_common) == 0:
+				print '%s has empty tag' % tag_file
+				break
 			mc = most_common[index_mc][0]
 			index_mc += 1
 
@@ -174,16 +176,20 @@ def testTags():
 
 		
 
-	tag_file = open(PATH__TEST_TAGS,'w')
-	for tag,scores in score_movies.iteritems():
+	tag_file = open(FILE_TEST_TAG,'w')
+	movie_dic = dict([(i.split(';')[0],i.split(';')[1]) for i in open(FILE_WATCHLIST_DATA).read().split('\n')])
+	for imdb_code,scores in score_movies.iteritems():
 		scores.sort()
 		if len(scores) > 3:
 			del scores[0]
 			del scores[-1]
 		
 		#tag_file.write('%s;%1.2f\n' % (tag,sum(scores)/float(len(scores))))
-		tag_file.write('%s;%1.2f' % (tag,scores[len(scores)/2]))
-		for t in best_tags[tag]:
+		if imdb_code not in movie_dic:
+			print '%s is in tag/test, but not in watchlist.data' % imdb_code
+			continue
+		tag_file.write('%s;%1.2f' % (movie_dic[imdb_code],scores[len(scores)/2]))
+		for t in best_tags[imdb_code]:
 			tag_file.write(';%s' % t)
 		tag_file.write('\n')
 		
@@ -196,7 +202,7 @@ def runTags():
 	testTags()
 	#print '________TAGS PROCESSED________'
 
-
+runTags()
 
 
 
